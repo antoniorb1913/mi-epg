@@ -1,8 +1,9 @@
 # Descargas de fuentes EPG (se regeneran solas)
 .cache/
 
-# Salidas generadas
-output/mi-epg.xml.gz
+# Los XML sin comprimir NO se versionan: pesan 11 MB cada uno y el reproductor
+# usa el .gz. Se generan localmente cada vez que ejecutas el script.
+output/*.xml
 
 # Basura del sistema
 __pycache__/
