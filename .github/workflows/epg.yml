@@ -24,19 +24,36 @@ jobs:
         with:
           python-version: '3.12'
 
+      # build_epg.py solo usa la biblioteca estandar: no hace falta instalar nada
+
       - name: Generar el XMLTV
         run: python scripts/build_epg.py --dias 7
 
-      - name: Comprimir el resultado
+      - name: Generar el formato compatible con TiviMate
+        run: python scripts/formato_tivimate.py --salida output/mi-epg-compatible.xml
+
+      - name: Clasificar canales sin guia
+        run: python scripts/clasificar_faltantes.py || true
+
+      - name: Comprobar el resultado
         run: |
-          gzip -9 -k -f output/mi-epg.xml
           ls -lh output/
+          python - <<'PY'
+          from xml.etree import ElementTree as ET
+          for f in ("output/mi-epg.xml", "output/mi-epg-compatible.xml"):
+              raiz = ET.parse(f).getroot()
+              canales = len(raiz.findall("channel"))
+              programas = len(raiz.findall("programme"))
+              print(f"{f}: {canales} canales, {programas} programas")
+              if canales == 0 or programas == 0:
+                  raise SystemExit(f"ERROR: {f} esta vacio")
+          PY
 
       - name: Publicar cambios
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/mi-epg.xml output/mi-epg.xml.gz output/mapeo.csv
+          git add output/
           if git diff --staged --quiet; then
             echo "Sin cambios, no se hace commit"
           else
