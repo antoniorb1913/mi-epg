@@ -527,11 +527,17 @@ def main() -> int:
         print(f"\n  Limpieza: {antes} canales -> {despues} "
               f"(quitados {antes - despues} duplicados o sin programas)")
 
+    # Version comprimida: los reproductores la descargan mucho mas rapido
+    salida_gz = salida + ".gz"
+    with open(salida, "rb") as origen, gzip.open(salida_gz, "wb", compresslevel=9) as destino:
+        destino.write(origen.read())
+
     tam = os.path.getsize(salida) / (1024 * 1024)
+    tam_gz = os.path.getsize(salida_gz) / 1024
     print(f"\n  Generado: {salida}")
     print(f"  Canales en el XML : {despues}")
     print(f"  Programas         : {n_progs}")
-    print(f"  Tamano            : {tam:.2f} MB")
+    print(f"  Tamano            : {tam:.2f} MB  ({tam_gz:.0f} KB comprimido)")
     return 0
 
 

@@ -1289,10 +1289,6 @@
   <programme start="20261021105500 +0000" stop="20261022100000 +0000" channel="A3CINE.es">
     <title>Infocomerciales</title>
   </programme>
-  <programme start="20261017140800 +0200" stop="20261017143300 +0200" channel="AMC.Break.es">
-    <title>Guerra de clientes</title>
-    <desc>Un empleado se desahoga tras lidiar con un cliente maleducado. Un jugador de fútbol americano se enfrenta con la policía en una tienda y la situación se descontrola. La frustración de una clienta llega al límite cuando le niegan el reembolso por un supuesto zumo caducado. Un toro se escapa en un rodeo, lo que provoca el pánico entre los espectadores. Un repartidor se ve envuelto en un drama sentimental tras entregar por error una pizza en la casa del exnovio de una mujer. El propietario de una joyería ahuyenta con una espada a unos ladrones que habían irrumpido en el establecimiento.</desc>
-  </programme>
   <programme start="20261017143300 +0200" stop="20261017145600 +0200" channel="AMC.Break.es">
     <title>Guerra de clientes</title>
     <desc>Un cliente de un restaurante de comida rápida se enfrenta a tres motoristas por su comportamiento al aparcar. Una discusión entre los pasajeros de un tren abarrotado acaba en un altercado físico. Una mujer se lamenta tras el fracaso de una entrevista de trabajo. En un cine, el comportamiento supuestamente perturbador de dos mujeres se agrava cuando llega la policía. En una cafetería, estalla una fuerte discusión entre un cliente y un empleado por el largo tiempo de espera.</desc>
@@ -2734,9 +2730,6 @@
     <title>Hudson y Rex</title>
     <desc>Charlie Hudson es un policía que siempre ha querido hacer este trabajo. Cuando sabe que el perro pastor alemán Rex tiene que ser sacrificado tras la muerte del humano con el que trabajaba, decide quedárselo como compañero.Serie de televisión canadiense de policía procesal, basada en la archiconocida 'Rex, un policía diferente'.Está protagonizada por John Reardon, un actor que ha participado en otras ficciones televisivas, como 'Arctic Air' o 'Continnuum'. Le acompaña el perro Diesel vom Burgimwald, quien, curiosamente, es el decimoquinto descendiente delpastor alemán que protagonizó la serie original austríaca. El animal recibió entrenamiento de movilidad antes de ser elegido como protagonista, pues no tenía experiencia ante las cámaras, pues era un perro bombero. Como anécdota, Diesel vom Burgimwald fue tratado como toda una estrella en el rodaje, pues tenía su propio tráiler y su propio peluquero.Al igual que su precedente, la ficción cosechó una buena audiencia en Canadá, siendo vista por más de dos millones de personas. Eso provocó que renovara para una segunda temporada.</desc>
   </programme>
-  <programme start="20261017134000 +0200" stop="20261017143500 +0200" channel="Andalucía.Televisión.es">
-    <title>Andalucía por el mundo</title>
-  </programme>
   <programme start="20261017143500 +0200" stop="20261017150500 +0200" channel="Andalucía.Televisión.es">
     <title>El legado andalusí</title>
   </programme>
@@ -3431,10 +3424,6 @@
   <programme start="20261020214500 +0200" stop="20261020230000 +0200" channel="Antena.3.es">
     <title>El hormiguero</title>
     <desc>Pablo Motos capitanea un equipo de desenfadados personajes dispuestos a diseccionar cada día la actualidad en tono jocoso. El programa incluye experimentos científicos, actuaciones musicales y entrevistas con los más destacados personajes del mundo del espectáculo.</desc>
-  </programme>
-  <programme start="20261017143000 +0200" stop="20261017144500 +0200" channel="Aragón.Televisión.es">
-    <title>Aragón deportes 1</title>
-    <desc>Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.</desc>
   </programme>
   <programme start="20261017144500 +0200" stop="20261017150000 +0200" channel="Aragón.Televisión.es">
     <title>El tiempo 1</title>
@@ -4254,14 +4243,6 @@
   <programme start="20261020180000 +0200" stop="20261020220000 +0200" channel="BOM.Cine.es">
     <title>Bom Cine</title>
     <desc>Bom Cine.</desc>
-  </programme>
-  <programme start="20261017143000 +0200" stop="20261017143400 +0200" channel="BabyTV.es">
-    <title>Ji-Rafa</title>
-    <desc>Conheça a Raffa - um tipo de girafa sensível que está sempre disposta a ajudar o próximo. É por isso que os amigos da Raffa a encontram sempre quando necessitam da sua ajuda - quando perdem algo, quando estão tristes, quando necessitam de aprender a dançar, ou até mesmo quando não conseguem adormecer. Os seus bons amigos sabem que podem contar com o apoio da Raffa para resolver os seus problemas com imenso entusiasmo e humor.</desc>
-  </programme>
-  <programme start="20261017143400 +0200" stop="20261017143900 +0200" channel="BabyTV.es">
-    <title>Walter y Dude</title>
-    <desc>Walter y Dude ,Oliver Descubre,Canciones &amp; rimas,Bienvenidos a la isla,Henry tiene hambre,Que día tan maravilloso,Gee-Raffa.</desc>
   </programme>
   <programme start="20261017143900 +0200" stop="20261017145700 +0200" channel="BabyTV.es">
     <title>Choopies</title>
@@ -7051,14 +7032,6 @@
     <title>Ley y Orden: Crimen organizado</title>
     <desc>Stabler actúa por su cuenta para capturar a Emery y descubrir la verdad tras una venganza que lo toca personalmente.</desc>
   </programme>
-  <programme start="20261017142000 +0200" stop="20261017143500 +0200" channel="Canal.Extremadura.TV.es">
-    <title>Extremadura deportes 1</title>
-    <desc>Los aficionados al deporte están de enhorabuena. Canal Extremadura emite dos espacios deportivos diarios con protagonistas, competiciones, aficiones y objetivos los siete días de la semana: de lunes a viernes de la mano de José Mª Maldonado y Leticia Antúnez, y los fines de semana con Óscar Marín. Sábados y domingo ampliamos nuestro tiempo habitual para mostrar lo mejor de todo lo que ocurra en el deporte regional.</desc>
-  </programme>
-  <programme start="20261017143500 +0200" stop="20261017145000 +0200" channel="Canal.Extremadura.TV.es">
-    <title>El tiempo</title>
-    <desc>Espacio informativo de Canal Extremadura en el que cada mediodía se recogen las principales previsiones meteorológicas para los próximos días y se comentan las temperaturas registradas en diferentes puntos de la región.</desc>
-  </programme>
   <programme start="20261017145000 +0200" stop="20261017152500 +0200" channel="Canal.Extremadura.TV.es">
     <title>Territorio Extremadura</title>
     <desc>Programa diario que nos invita a conocer la realidad del mundo rural en Extremadura. Un recorrido por nuestra geografia contando el día a día de nuestros municipios, grandes y pequeños, y de todas las comarcas.</desc>
@@ -7470,11 +7443,6 @@
   <programme start="20261020223000 +0200" stop="20261020233000 +0200" channel="Canal.Extremadura.TV.es">
     <title>Extremeñas</title>
     <desc>'Extremeñas' es un reflejo del importante papel de la mujer en Extremadura. Pese a las desigualdades que existen hoy en día, demuestran que el camino hacia la igualdad real es todavía muy largo. Pero en ese camino transitan cada vez más mujeres de la tierra dispuestas a desafiar los obstáculos y a romper las barreras. Mujeres empresarias o trabajadoras, amas de casa o voluntarias sociales, del ámbito de la cultura o de la ciencia. Da igual su edad, ocupación o procedencia. Todas tienen en común que tienen una gran historia que contar, la suya.</desc>
-  </programme>
-  <programme start="20261017120000 +0000" stop="20261017125000 +0000" channel="Canal.Sur.2.es">
-    <title>Patas arriba</title>
-    <desc>Presentado por Mar Vega, el programa pone el foco en los animales de compañía y en las personas que dedican su tiempo a cuidarlos.</desc>
-    <category>Magazines</category>
   </programme>
   <programme start="20261017125000 +0000" stop="20261017140000 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía a dedo</title>
@@ -7992,10 +7960,6 @@
   <programme start="20261020215000 +0200" stop="20261020224500 +0200" channel="Canal.Sur.Andalucía.es">
     <title>Atrápame si puedes</title>
     <desc>Programa concurso cultural sobre Andalucía que presenta Manolo Sarria en el que los concursante pueden ganar un suculento bote.</desc>
-  </programme>
-  <programme start="20261017140000 +0200" stop="20261017144500 +0200" channel="Castilla-La.Mancha.Media.es">
-    <title>Castilla-La Mancha fin de semana 1</title>
-    <desc>Edición de fin de semana de los informativos de Castilla-La Mancha Televisión. Esther Coca acerca la actualidad más relevante de la jornada, prestando un especial interés a las noticias de la comunidad.</desc>
   </programme>
   <programme start="20261017144500 +0200" stop="20261017145500 +0200" channel="Castilla-La.Mancha.Media.es">
     <title>La Cancha</title>
@@ -9626,10 +9590,6 @@
   <programme start="20261020230200 +0200" stop="20261020233300 +0200" channel="Cazavisión.es">
     <title>Nos vamos de montería</title>
     <desc>Imágenes en esclusiva de las monterías más recientes y espectaculares, y los lances más vibrantes.</desc>
-  </programme>
-  <programme start="20261017142500 +0200" stop="20261017144600 +0200" channel="Clan.TVE.es">
-    <title>Los Green en la gran ciudad</title>
-    <desc>Cricket debe luchar contra un animal salvaje para demostrar que es merecedor del apellido Green. Cricket convence a Bill para que convierta su furgoneta en un food truck.</desc>
   </programme>
   <programme start="20261017144600 +0200" stop="20261017150600 +0200" channel="Clan.TVE.es">
     <title>Los Green en la gran ciudad</title>
@@ -12801,10 +12761,6 @@
     <title>Trending</title>
     <desc>Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.</desc>
   </programme>
-  <programme start="20261017142200 +0200" stop="20261017144600 +0200" channel="DKISS.es">
-    <title>¡Sí, quiero ese vestido!</title>
-    <desc>Omarosa Manigault de The Apprentice está decidida a encontrar un vestido colorido y dramático para su gran día.</desc>
-  </programme>
   <programme start="20261017144600 +0200" stop="20261017150700 +0200" channel="DKISS.es">
     <title>¡Sí, quiero ese vestido!</title>
     <desc>La novia Valerie quiere un vestido para su lujosa boda en Ibiza. Randy rescata a la novia Magaly, que necesita un vestido para su boda bajo el agua.</desc>
@@ -13635,10 +13591,6 @@
     <title>El misterio de la Acrópolis</title>
     <desc>Equipos internacionales de arqueólogos investigan el legado de una de las figuras más famosas de la historia: Alejandro Magno. Nuevos descubrimientos revelan las maravillas arquitectónicas de Pella, en Grecia, y Éfeso, en Turquía; y en Egipto, los arqueólogos también desentierran un esqueleto con terribles lesiones. ¿Podría esto apuntar al lado oscuro de esta edad de oro?</desc>
   </programme>
-  <programme start="20261017140200 +0200" stop="20261017143300 +0200" channel="Decasa.es">
-    <title>Minipisos asombrosos</title>
-    <desc>Hoy visitamos un minipiso ubicado en una casa señorial que todavía conserva las antiguas cocheras de carruajes. En él descubriremos cómo transformar la pared de un salón en despacho, estantería y ropero. También conoceremos un minipiso ubicado en un viejo local comercial, concretamente una antigua agencia de viajes. ¿Cómo se consigue integrar un escaparate en una vivienda de 40 metros?</desc>
-  </programme>
   <programme start="20261017143300 +0200" stop="20261017153500 +0200" channel="Decasa.es">
     <title>Hoteles increíbles. La vida más allá del vestíbulo</title>
     <desc>Nusfjord Arctic Resort es un pueblo pesquero de bacalao de 200 años de historia situado en las islas Lofoten de Noruega. Conociendo a sus propietarios, Monica y Rob descubren la dificultad de dirigir un complejo turístico de alto nivel en un entorno tan extremo. Un día normal de trabajo en el Círculo Polar Ártico abarca recorrer caminos nevados con el servicio de limpieza, enfrentarse a enormes olas en los barcos de pesca y perseguir la aurora boreal.</desc>
@@ -14167,10 +14119,6 @@
     <title>La casa más top</title>
     <desc>Tres casas de dos niveles han sido renovadas con esmero, con un toque personal y un diseño cuidado. Gracias a objetos de segunda mano, detalles creativos y mucha pasión, cada familia cree haber encontrado el equilibrio perfecto entre estilo y esencia. ¿Se dejarán seducir a los jueces por su encanto nostálgico o habrán optado por estos propietarios por una estrategia demasiado conservadora?</desc>
   </programme>
-  <programme start="20261017141500 +0200" stop="20261017143800 +0200" channel="Discovery.Channel.es">
-    <title>Así se hace</title>
-    <desc>Serie documental que descubre como se elaboran o se fabrican los productos que usamos en nuestra vida cotidiana: los discos compactos, los cereales, los aviones, las patatas fritas, entre otros productos habituales.</desc>
-  </programme>
   <programme start="20261017143800 +0200" stop="20261017150100 +0200" channel="Discovery.Channel.es">
     <title>Así se hace</title>
     <desc>Serie documental que descubre como se elaboran o se fabrican los productos que usamos en nuestra vida cotidiana: los discos compactos, los cereales, los aviones, las patatas fritas, entre otros productos habituales.</desc>
@@ -14654,10 +14602,6 @@
   <programme start="20261020230000 +0200" stop="20261020234800 +0200" channel="Discovery.Channel.es">
     <title>Maestros de la restauración</title>
     <desc>Drew Pritchard y Viki Knott viajan por el país y visitan a increíbles coleccionistas que tienen tesoros inusuales, raros e históricos.</desc>
-  </programme>
-  <programme start="20261017140500 +0200" stop="20261017145000 +0200" channel="Disney.Channel.es">
-    <title>La Princesa Sofía: Escuela de Magia</title>
-    <desc>Durante un picnic familiar, Amber quiere demostrar que es tan capaz como Sofía. Cuando Layla conoce a los hermanos de Sofía, Amber y James, hace todo lo posible por causarles una buena impresión.</desc>
   </programme>
   <programme start="20261017145000 +0200" stop="20261017151500 +0200" channel="Disney.Channel.es">
     <title>Prodigiosa: Las aventuras de Ladybug</title>
@@ -15539,10 +15483,6 @@
     <title>Los Green en la gran ciudad (dobles)</title>
     <desc>Cuando el amor platónico de Cricket regresa, Remy aprovecha la oportunidad para ayudar a Cricket a conocerla./La familia quiere ir a una feria callejera, pero Bill quiere quedarse en casa para ahorrar dinero.</desc>
   </programme>
-  <programme start="20261017134500 +0200" stop="20261017145000 +0200" channel="Divinity.es">
-    <title>Tu casa a juicio _ Vancouver</title>
-    <desc>La interiorista Jillian Harris y el agente inmobiliario Todd Talbot visitan la casa de diferentes parejas de Vancouver para descubrir si su hogar es adecuado para vivir. Tras renovarlo, las parejas decidirán si quedarse en su residencia o bien mudarse a otra nueva.</desc>
-  </programme>
   <programme start="20261017145000 +0200" stop="20261017155500 +0200" channel="Divinity.es">
     <title>Tu casa a juicio _ Vancouver</title>
     <desc>La interiorista Jillian Harris y el agente inmobiliario Todd Talbot visitan la casa de diferentes parejas de Vancouver para descubrir si su hogar es adecuado para vivir. Tras renovarlo, las parejas decidirán si quedarse en su residencia o bien mudarse a otra nueva.</desc>
@@ -15873,9 +15813,6 @@
   <programme start="20261020225000 +0200" stop="20261020235000 +0200" channel="Divinity.es">
     <title>Elsbeth</title>
     <desc>Elsbeth Tascioni es una abogada excéntrica que utiliza su ingenio y su singular punto de vista para ayudar a la policía de Nueva York en la lucha contra el crimen.</desc>
-  </programme>
-  <programme start="20261017142000 +0200" stop="20261017144500 +0200" channel="DreamWorks.es">
-    <title>Dragones: Hacia nuevos confines</title>
   </programme>
   <programme start="20261017144500 +0200" stop="20261017151000 +0200" channel="DreamWorks.es">
     <title>Dragones: Hacia nuevos confines</title>
@@ -16617,14 +16554,6 @@
   </programme>
   <programme start="20261020233000 +0200" stop="20261020235500 +0200" channel="DreamWorks.es">
     <title>Dragones: Hacia nuevos confines</title>
-  </programme>
-  <programme start="20261017140000 +0200" stop="20261017143500 +0200" channel="ETB1.es">
-    <title>Gaur egun</title>
-    <desc>Albistegia.</desc>
-  </programme>
-  <programme start="20261017143500 +0200" stop="20261017145000 +0200" channel="ETB1.es">
-    <title>Kirolak</title>
-    <desc>Kirol informazioa.</desc>
   </programme>
   <programme start="20261017145000 +0200" stop="20261017150500 +0200" channel="ETB1.es">
     <title>Eguraldia</title>
@@ -17714,10 +17643,6 @@
     <title>Tiempos modernos</title>
     <desc>Un espacio en el que les contamos la historia tal y como fue, con sus luces y con sus sombras, al margen de los relatos oficialistas. Damos las claves del pasado que definen nuestro presente y que marcarán nuestro futuro.</desc>
   </programme>
-  <programme start="20261017134000 +0200" stop="20261017144500 +0200" channel="Energy.es">
-    <title>Hawai 5.0</title>
-    <desc>Quinta temporada de la serie en la que unos agentes de élite, liderados por Steve McGarrett, investigan los crímenes que suceden en Honolulu. En esta nueva tanda de episodios, Danny intenta salvar la vida de su hermano y para ello busca desesperadamente los millones de dólares que piden los secuestradores.La ficción recupera el espíritu de su antecesora en el que está basada, aunque se ha permitido algunos cambios: más acción, más efectos especiales y la introducción de personajes femeninos. De este modo, esta nueva versión está protagonizada por el australiano Alex O'Loughlin ('Moonlight'), Scott Caan ('El séquito'), Daniel Dae Kim, quien ya conocía la isla gracias a 'Perdidos', y Grace Park ('Battlestar Galactica').Cabe destacar que, en esta nueva etapa, el personaje de Jerry Ortega, interpretado por Jorge García (el carismático Hugo Reyes de 'Perdidos'), se suma de manera permanente al reparto.</desc>
-  </programme>
   <programme start="20261017144500 +0200" stop="20261017154500 +0200" channel="Energy.es">
     <title>Hawai 5.0</title>
     <desc>Cuarta temporada de la serie en la que unos agentes de élite, liderados por Steve McGarrett, investigan los crímenes que suceden en Honolulu. En esta nueva tanda de episodios, Steve trata de obtener respuestas del misterio que rodea a su madre a través de Wo Fat, quien por fin ha sido encarcelado. Pero la irrupción de un grupo terrorista llamado Movimiento Nacional de Liberación trastocará los planes del sargento comandante McGarrett.La serie recupera el espíritu de su antecesora en el que está basada, aunque se ha permitido algunos cambios: más acción, más efectos especiales y la introducción de personajes femeninos. De este modo, esta nueva versión está protagonizada por el australiano Alex O'Loughlin ('Moonlight'), Scott Caan ('El séquito'), Daniel Dae Kim, quien ya conocía la isla gracias a 'Perdidos', y Grace Park ('Battlestar Galactica').Cabe destacar que los más fieles seguidores de 'Perdidos' podrán ver a más miembros de la serie en la ficción hawaiana. Al personaje habitual que interpreta Terry O'Quinn (John Locke), hay que sumar la aparición de Henry Ian Cusick (Desmond Hume) y Jorge García (Hugo Reyes).</desc>
@@ -18701,10 +18626,6 @@
     <title>Mundial de ciclismo en carretera</title>
     <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
   </programme>
-  <programme start="20261017123500 +0200" stop="20261017145000 +0200" channel="FDF.Telecinco.es">
-    <title>La que se avecina</title>
-    <desc>Octava temporada de la serie que se centra en la vida de los peculiares y variopintos habitantes y empleados del complejo residencial Mirador de Montepinar.Nueva tanda de episodios de la exitosa secuela de 'Aquí no hay quien viva', producida por José Luis Moreno. Entre las novedades de la temporada destaca la incorporación de Petra Martínez ('La soledad') quien da vida a la nueva vecina de Mirador de Montepinar, una señora mayor que hará más difícil si cabe la convivencia en el edificio. La recién llegada se convertirá en una amenaza para la cúpula presidencial y sacará de quicio a los demás propietarios con sus reprobables y oscuras acciones. Antonia San Juan se cae del elenco de actores principales tras fichar por otra comedia del grupo de canales de Mediaset, aunque no se descarta que el personaje de Estela Reynols aparezca de manera puntual.En su octavo año en antena, la serie no ha tocado demasiado la estructura que le ha dado tantos buenos resultados, basada en humor negro, situaciones surrealistas y variopintos personajes.</desc>
-  </programme>
   <programme start="20261017145000 +0200" stop="20261017170200 +0200" channel="FDF.Telecinco.es">
     <title>La que se avecina</title>
     <desc>Octava temporada de la serie que se centra en la vida de los peculiares y variopintos habitantes y empleados del complejo residencial Mirador de Montepinar.Nueva tanda de episodios de la exitosa secuela de 'Aquí no hay quien viva', producida por José Luis Moreno. Entre las novedades de la temporada destaca la incorporación de Petra Martínez ('La soledad') quien da vida a la nueva vecina de Mirador de Montepinar, una señora mayor que hará más difícil si cabe la convivencia en el edificio. La recién llegada se convertirá en una amenaza para la cúpula presidencial y sacará de quicio a los demás propietarios con sus reprobables y oscuras acciones. Antonia San Juan se cae del elenco de actores principales tras fichar por otra comedia del grupo de canales de Mediaset, aunque no se descarta que el personaje de Estela Reynols aparezca de manera puntual.En su octavo año en antena, la serie no ha tocado demasiado la estructura que le ha dado tantos buenos resultados, basada en humor negro, situaciones surrealistas y variopintos personajes.</desc>
@@ -19366,10 +19287,6 @@
     <title>Choclo project</title>
     <desc>Este documental intenta ayudar a niños con pocos recursos en Perú. Ellos mismos decoran nuestra tabla de surf y con ella, recorremos algunas de las mejores y poco conocidas playas de ese país. La surfista profesional Georgia Fish se une a este viaje y también comparte su conocimiento en nutrición con las madres de los niños.</desc>
   </programme>
-  <programme start="20261017135800 +0200" stop="20261017143200 +0200" channel="Iberalia.Caza.es">
-    <title>Zorzales Y Los Rescoldos De Una Buena Temporada</title>
-    <desc>Esta temporada de zorzales ha sido inolvidable, con una gran cantidad de pájaros tomando nuestro país. Como colofón, acompañamos a Sergio, Fran y Ricardo en una última jornada tras esta pequeña y esquiva migratoria, disfrutando de lances espectaculares.</desc>
-  </programme>
   <programme start="20261017143200 +0200" stop="20261017150400 +0200" channel="Iberalia.Caza.es">
     <title>Pulsar Master Aguardos</title>
     <desc>En este documental asistimos a una jornada de aguardo de jabalíes, donde pondremos a prueba los visores nocturnos de Pard, en una cacería donde la precisión y la tecnología marcarán la diferencia.</desc>
@@ -19929,10 +19846,6 @@
   <programme start="20261020223500 +0200" stop="20261020230700 +0200" channel="Iberalia.Caza.es">
     <title>Tras La Cabra Montés En La Sierra De Alcaraz</title>
     <desc>La Sierra de Alcaraz es uno de esos lugares que dejan huella. Nos adentramos en sus impresionantes paisajes para recechar tres cabras montesas, haciendo de esta jornada una experiencia realmente única y especial.</desc>
-  </programme>
-  <programme start="20261017140400 +0200" stop="20261017143600 +0200" channel="Iberalia.Pesca.es">
-    <title>El Mediterraneo A Punta De Caña</title>
-    <desc>Recorremos diferentes enclaves del Mediterráneo en busca de las mejores especies, con una gran variedad de modalidades y técnicas. En cada uno de estos lugares, intentamos tentarlas con cebo vivo, señuelos y todo tipo de estrategias, disfrutando de una pesca sin igual.</desc>
   </programme>
   <programme start="20261017143600 +0200" stop="20261017150900 +0200" channel="Iberalia.Pesca.es">
     <title>Siluros en el Ebro</title>
@@ -21466,10 +21379,6 @@
     <title>La revuelta</title>
     <desc>David Broncano y su equipo reciben a todo tipo de personalidades en este irreverente programa en el que el público es protagonista.</desc>
   </programme>
-  <programme start="20261017141500 +0200" stop="20261017144500 +0200" channel="La.2.es">
-    <title>Pipper en ruta</title>
-    <desc>Pipper, el perro 'influencer', viaja a la Ribeira Sacra junto a Pablo con un reto: navegar por el Miño o el Sil.</desc>
-  </programme>
   <programme start="20261017144500 +0200" stop="20261017153000 +0200" channel="La.2.es">
     <title>Saber y ganar fin de semana</title>
     <desc>Edición de fin de semana del concurso más longevo de Televisión Española. En su edición de sábados y domingos, el espacio adopta una mecánica diferente de la edición diaria: un mayor número de concursantes, diferentes retos y pruebas por equipos marcan la diferencia.</desc>
@@ -21885,11 +21794,6 @@
   <programme start="20261020220000 +0200" stop="20261020223000 +0200" channel="La.2.es">
     <title>Cifras y letras</title>
   </programme>
-  <programme start="20261017130700 +0200" stop="20261017143900 +0200" channel="M+.Acción.es">
-    <title>No confíes en nadie</title>
-    <desc>Christine sufre las secuelas de un terrible accidente: sólo tiene recuerdos durante un día. Cada mañana tiene que aprender a recordar su vida junto a su marido, y a recuperar todos los momentos que su memoria elimina mientras duerme. Un día Christine se da cuenta de que algo en la imagen que va formando su vida no encaja en el rompecabezas.</desc>
-    <category>Cine</category>
-  </programme>
   <programme start="20261017143900 +0200" stop="20261017153700 +0200" channel="M+.Acción.es">
     <title>Tom Cruise, de oficio estrella</title>
     <desc>Tom Cruise es una metáfora viviente, el más puro ejemplo del hombre americano hecho a sí mismo: un chico pobre y disléxico que pasó por más de quince escuelas en catorce años y ha logrado convertirse en el actor más importante de su generación.</desc>
@@ -22143,11 +22047,6 @@
   <programme start="20261021035200 +0200" stop="20261021055300 +0200" channel="M+.Acción.es">
     <title>Frank Miller's Sin City - Ciudad del pecado</title>
     <desc>Bienvenidos a la Ciudad del pecado, llena de policías corruptos, atractivas damas y vigilantes desesperados. Unos están buscando venganza, otros, redención, y los hay que buscan ambas cosas.</desc>
-    <category>Cine</category>
-  </programme>
-  <programme start="20261017131500 +0200" stop="20261017144500 +0200" channel="M+.Cine.Español.es">
-    <title>El mejor verano de mi vida</title>
-    <desc>Para Nico, su padre Curro es el mejor: el más trabajador, el más listo y el que siempre cumple sus promesas. En realidad, Curro es un lamentable comercial de robots de cocina que acumula deudas por su mala cabeza y que le ha prometido a su hijo algo que no puede cumplir.</desc>
     <category>Cine</category>
   </programme>
   <programme start="20261017144500 +0200" stop="20261017164000 +0200" channel="M+.Cine.Español.es">
@@ -22693,11 +22592,6 @@
   <programme start="20261021030600 +0200" stop="20261021042500 +0200" channel="M+.Clásicos.es">
     <title>Más allá de la duda</title>
     <desc>Un escritor intenta demostrar las deficiencias de la ley y la policía colocando falsas pruebas contra sí mismo en un caso de asesinato. Éste es el último largometraje americano de Fritz Lang, que pone fin a una larga serie de brillantes películas.</desc>
-    <category>Cine</category>
-  </programme>
-  <programme start="20261017130400 +0200" stop="20261017143800 +0200" channel="M+.Comedia.es">
-    <title>Lluvia de albóndigas 2</title>
-    <desc>La genialidad del inventor Flint Lockwood es finalmente reconocida y comienza a trabajar para su ídolo, Chester V, en The Live Corp Company, donde los mejores y más brillantes inventores del mundo crean nuevas tecnologías para el bienestar de la humanidad.</desc>
     <category>Cine</category>
   </programme>
   <programme start="20261017143800 +0200" stop="20261017150500 +0200" channel="M+.Comedia.es">
@@ -24178,11 +24072,6 @@
     <desc>En plena era digital, a menudo damos por sentado nuestro patrimonio audiovisual, pero gran parte de la historia del cine se ha perdido. ¿Cómo es posible seguir viendo películas filmadas hace más de un siglo?</desc>
     <category>Documentales</category>
   </programme>
-  <programme start="20261017131200 +0200" stop="20261017144500 +0200" channel="M+.Estrenos.es">
-    <title>El casoplón</title>
-    <desc>Pablo Chiapella (series "Aquí no hay quien viva" y "La que se avecina") y Raquel Guerrero (serie "Machos alfa") protagonizan esta alocada comedia sobre una familia de barrio que 'ocupa' la casa en la que trabaja el padre durante el verano.</desc>
-    <category>Cine</category>
-  </programme>
   <programme start="20261017144500 +0200" stop="20261017160900 +0200" channel="M+.Estrenos.es">
     <title>El cielo de los animales</title>
     <desc>Raul Arévalo, Manolo Solo y Jesús Carroza, entre otros, forman parte del reparto coral de este drama, entre lo real y lo surrealista, con el que Santi Amodeo ("¿Quién mató a Bambi?") adapta el libro de relatos homónimo del escritor estadounidense David James Poissant, una obra que explora lo que se siente ante la pérdida.</desc>
@@ -25482,10 +25371,6 @@
   <programme start="20261020180000 +0200" stop="20261020220000 +0200" channel="M+.LALIGA.TV.3.es">
     <title>M+ LALIGA TV 3</title>
     <desc>M+ LALIGA TV 3.</desc>
-  </programme>
-  <programme start="20261017124100 +0200" stop="20261017144000 +0200" channel="M+.LALIGA.TV.es">
-    <title>LaLiga EA Sports</title>
-    <desc>El Levnate necesita la victoria para alejarse de un desecenso que está con su mismos puntos. El Sevilla, tiene a dos puntos la cuarta plaza.</desc>
   </programme>
   <programme start="20261017144000 +0200" stop="20261017155500 +0200" channel="M+.LALIGA.TV.es">
     <title>El fútbol según Raúl</title>
@@ -27290,10 +27175,6 @@
     <title>M+ Vamos 3</title>
     <desc>Vamos 3 tiene el objetivo de impulsar el deporte femenino y de hacer más accesibles las historias de nuestras deportistas.</desc>
   </programme>
-  <programme start="20261017140600 +0200" stop="20261017144700 +0200" channel="MTV.España.es">
-    <title>Help! I'm in a Secret Relationship!</title>
-    <desc>Carey y Nate eran amigos de toda la vida y hace tres años empezaron a salir. Pero un mes después de empezar a salir, Nate dejó de llevar a Carey con su familia. Carey planea declararse, pero no hasta que sepan por qué están escondidos.</desc>
-  </programme>
   <programme start="20261017144700 +0200" stop="20261017153100 +0200" channel="MTV.España.es">
     <title>Catfish: Mentiras en la Red</title>
     <desc>Jasmine ha estado enviandose mensajes de texto con Mike durante dos años y cree que podría ser el padrastro perfecto para su hijo. Aunque viven con solo 15 minutos de diferencia, Jasmine y Mike todavía tienen que encontrarse en persona.</desc>
@@ -27842,10 +27723,6 @@
     <title>Vergüenza ajena</title>
     <desc>Vergüenza Ajena vuelve en su trigésimo segunda temporada, con Rob Dyrdek y el copresentador Sterling Brim, e invitados especiales.</desc>
   </programme>
-  <programme start="20261017140600 +0200" stop="20261017143200 +0200" channel="Mega.es">
-    <title>¿Quién da más?</title>
-    <desc>La serie de subastas de trasteros más exitosa de la tele. ¡No hay nada que se les resista a nuestros cazadores de fortunas!</desc>
-  </programme>
   <programme start="20261017143200 +0200" stop="20261017145800 +0200" channel="Mega.es">
     <title>¿Quién da más?</title>
     <desc>La serie de subastas de trasteros más exitosa de la tele. ¡No hay nada que se les resista a nuestros cazadores de fortunas!</desc>
@@ -28242,10 +28119,6 @@
   </programme>
   <programme start="20261020225100 +0200" stop="20261020234500 +0200" channel="Mega.es">
     <title>Forjado a fuego</title>
-  </programme>
-  <programme start="20261017130000 +0200" stop="20261017144600 +0200" channel="Mezzo.Live.Español.es">
-    <title>Shahin Novrasli</title>
-    <desc>Shahin Novrasli (piano) París Fondation Louis Vuitton 23 de mayo de 2024.</desc>
   </programme>
   <programme start="20261017144600 +0200" stop="20261017170000 +0200" channel="Mezzo.Live.Español.es">
     <title>Joey Alexander Trio - Fondation Louis Vuitton</title>
@@ -29926,10 +29799,6 @@
   <programme start="20261020214100 +0200" stop="20261020220500 +0200" channel="Neox.es">
     <title>Big Bang</title>
   </programme>
-  <programme start="20261017141300 +0200" stop="20261017144400 +0200" channel="Nick.Junior.es">
-    <title>Tim Rex en el espacio</title>
-    <desc>Tim, Tommy, Tia y papá se quedan atrapados en un asteroide. // Tim, Kai y Tommy intentan recuperar su pelota de la habitación de mamá. // El nuevo globo de Tia se atasca en un árbol y Tim intenta bajarlo.</desc>
-  </programme>
   <programme start="20261017144400 +0200" stop="20261017151500 +0200" channel="Nick.Junior.es">
     <title>Tim Rex en el espacio</title>
     <desc>Tim intenta estar en dos fiestas a la vez.</desc>
@@ -30978,10 +30847,6 @@
     <title>Barbapapa _ ¡Una gran familia!</title>
     <desc>Mientras la familia hace cerámica, Barbabravo y Barbabrillo intentan conseguir el récord mundial al suflé de queso más grande del mundo. // Los barbapapás deciden ir al parque. Mientras sus hermanos y hermanas juegan, barbalib no puede evitar controlarlo todo.</desc>
   </programme>
-  <programme start="20261017142100 +0200" stop="20261017145000 +0200" channel="Nickelodeon.es">
-    <title>Una casa de locos</title>
-    <desc>Lori empieza a trabajar de camarera en el restaurante de su padre, pero la atención al cliente es más dura de lo que ella esperaba . Tras envalentonarse por las burlas de una compañera hacia Charles, Lana decide adiestrarlo para que compita en un concurso canino de la ciudad.</desc>
-  </programme>
   <programme start="20261017145000 +0200" stop="20261017152000 +0200" channel="Nickelodeon.es">
     <title>Una casa de locos</title>
     <desc>Cuando Walt fracasa al buscar una novia, Charles, Cliff y Geo intentan buscarle una media naranja a su amigo // Lincoln y Clyde suplican a sus padres que les dejen ir a un campamento para cadetes espaciales, pero este resulta no ser tan divertido como esperaban.</desc>
@@ -31741,10 +31606,6 @@
   <programme start="20261020231500 +0200" stop="20261020234500 +0200" channel="Nickelodeon.es">
     <title>Una casa de locos</title>
     <desc>Lincoln compra una piscina para su casa, y la cosa se va de madre cuando todas sus hermanas quieren usarla. Cuando Lincoln se da cuenta de que ninguna de sus hermanas comparte sus gustos, intenta convertir a Lily en su mini-yo.</desc>
-  </programme>
-  <programme start="20261017104000 +0200" stop="20261017144000 +0200" channel="Nova.es">
-    <title>Amor bravío</title>
-    <desc>Camila es hija de Don Daniel, un hombre adinerado. Tras la muerte de Luis, el amor de Camila, se ve obligada a casarse con el ambicioso Alonso, quien oculta un oscuro pasado. Cuando su tío muere le deja la herencia a Daniel, un chico desconocido que cambiará su vida. Telenovela mexicana producida por Carlos Moreno Laguillo para Televisa adaptación de 'De pura sangre', serie emitida en 1985. 'Amor bravío' está protagonizada por Silvia Navarro ('Mañana es para siempre') y Cristian de la Fuente ('Corazón salvaje'), la primera ganadora del galardón como mejor actriz en los Premios TV Adicto Golden 2012. La serie duró 166 episodios y contó con el cantante de rancheras Vicente Fernández para componer el tema principal de la ficción, 'Cuando manda el corazón'.</desc>
   </programme>
   <programme start="20261017144000 +0200" stop="20261017153000 +0200" channel="Nova.es">
     <title>Amor bravío</title>
@@ -34332,10 +34193,6 @@
   <programme start="20261020210500 +0200" stop="20261020232500 +0200" channel="Primera.Federación.es">
     <title>Primera Federación Versus E-Learning</title>
     <desc>Jornada 8 de Primera Federación 2026/2027 entre Racing Club Ferrol y Unionistas de Salamanca CF.</desc>
-  </programme>
-  <programme start="20261017124500 +0200" stop="20261017144000 +0200" channel="Real.Madrid.TV.es">
-    <title>La Cantera</title>
-    <desc>Emisión de un partido de las categorías inferiores del Real Madrid. Para el club, la formación de sus jugadores es muy importante. Los jóvenes valores aprenden desde muy pequeños los fundamentos tácticos de un buen jugador y el espíritu vencedor del Madrid.</desc>
   </programme>
   <programme start="20261017144000 +0200" stop="20261017153000 +0200" channel="Real.Madrid.TV.es">
     <title>Ciudad Real Madrid</title>
@@ -38406,10 +38263,6 @@
   <programme start="20261020224500 +0200" stop="20261020234000 +0200" channel="Telemadrid.es">
     <title>La huella del crimen</title>
     <desc>Tras 23 días desaparecida en Traspinedo (Valladolid) , el cuerpo de Esther López, una mujer de 35 años, es hallado abandonado en una cuneta. El principal sospechoso es Óscar, el último amigo que la vio con vida. Nuestros expertos analizan en 'La Huella del Crimen' la técnica de staging. Además, en el plató contamos con el testimonio de su prima Sara, que después de 5 años solo espera que se haga justicia y se aclare qué es lo que ocurrió aquella noche en la que desapareció Esther.</desc>
-  </programme>
-  <programme start="20261017142000 +0200" stop="20261017144300 +0200" channel="Warner.TV.es">
-    <title>Big Bang</title>
-    <desc>La paternidad de Howard y Bernadette, el reencuentro de Wolowitz con su padre y la relación a distancia de Sheldon y Amy marcarán el inicio de la temporada. Además, Leonard y Penny deberán afrontar disputas domésticas surgidas de un matrimonio cada vez más en crisis.La undécima temporada de la incombustible comedia arranca con la resolución de la sorprendente proposición de Sheldon. Una ficción que sigue contando con el mismo elenco que las anteriores y sin cambios estructurales grandes, para seguir cosechando el mismo éxito rotundo que al principio y mantener unas cifras de audiencia más que notables.Ideada por Chuck Lorre, responsable de 'Dos hombres y medio' y 'Las chicas Gilmore', y encabezada en el reparto por Jim Parsons, ganador de cuatro premios Emmy y un Globo de Oro al mejor actor de comedia, 'Big Bang' mantiene su peculiar universo.</desc>
   </programme>
   <programme start="20261017144300 +0200" stop="20261017150800 +0200" channel="Warner.TV.es">
     <title>Big Bang</title>
