@@ -1,4 +1,4 @@
-﻿# mi-epg
+# mi-epg
 
 Generador **propio** de guía de programación (EPG) en formato **XMLTV**.
 
@@ -10,20 +10,67 @@ públicas y el formato estándar XMLTV.
 
 ---
 
+## URL de la guía (lista para usar)
+
+```
+https://raw.githubusercontent.com/antoniorb1913/mi-epg/main/output/mi-epg-compatible.xml.gz
+```
+
+Se regenera **sola cada 12 horas** con GitHub Actions (03:00 y 15:00, hora
+española). No hace falta tener ningún PC encendido.
+
+Pégala en el reproductor: TiviMate → Ajustes → Guía de EPG → Añadir fuente → URL.
+
+- Formato compatible TiviMate: `output/mi-epg-compatible.xml.gz`
+- Formato XMLTV estándar: `output/mi-epg.xml.gz`
+
+---
+
 ## Resultado actual
 
 | Concepto | Valor |
 |---|---|
-| Canales propios | 253 |
-| Emparejados con guía | **219 / 253 (86,6 %)** |
-| Canales en el XML | **115** (HD/SD/4K agrupados) |
-| Programas | **9.787** |
-| Días de guía | 7 |
-| Tamaño | 4,17 MB |
+| Canales en la lista | 286 |
+| Emparejados con guía | **164** |
+| Canales en el XML | **149** (HD/SD/4K agrupados) |
+| Programas | **21.710** |
+| Días de guía | 9 |
+| Canales con logo | 148 de 149 |
+| Canales vacíos | 0 |
 
-Los 34 canales sin guía son canales propios del proveedor (DAZN Eventos,
-Disney+ 1, TV Nacional, 24/7 temáticos…) que **no existen como canal lineal**
-y por tanto no tienen programación pública en ninguna fuente.
+Los 122 canales sin guía están clasificados en
+[`output/faltantes-clasificados.txt`](output/faltantes-clasificados.txt):
+
+- **89 inventados** por el proveedor (Cine+ por actor, SERIES+, DAZN Eventos…)
+- **17 servicios VOD** convertidos en canal (HBO Max, Netflix, Prime Video…)
+- **16 reales sin EPG público** (locales, o cerrados como Disney Junior)
+
+Ninguno es recuperable: no existen como canal lineal con programación.
+
+---
+
+## Corregir canales mal etiquetados
+
+El proveedor tiene canales con el nombre cambiado. Para arreglarlos, añade una
+línea a [`config/correcciones.csv`](config/correcciones.csv):
+
+```
+nombre_en_tu_lista ; id_del_canal_real
+```
+
+Ejemplos ya aplicados:
+
+```
+DARK      ; STAR Channel HD
+M+ Series ; TCM HD
+```
+
+Para saber el id real de un canal, usa `scripts/identificar_canal.py`: buscas
+lo que estás viendo y te dice qué canal de la EPG lo emite.
+
+```bash
+python scripts/identificar_canal.py harry potter
+```
 
 ---
 
