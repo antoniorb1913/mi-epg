@@ -1,7 +1,13 @@
-# Canales del proveedor (nombre tal cual aparece en la app)
-# Formato: grupo | nombre
-# Los sufijos HD / SD / 4K / FULL HD se agrupan automaticamente como el mismo canal
+# LISTA COMPLETA DE CANALES — extraida de las capturas de la app
+# Formato: grupo | nombre tal cual aparece en la app
+#
+# Los sufijos HD / SD / 4K / FULL HD / FHD se agrupan como el mismo canal.
+# Algunos canales aparecen en varios grupos (COSMO, FDF, ENERGY...): se
+# deduplican automaticamente por nombre.
 
+# ============================================================
+# INFANTIL (1-15)
+# ============================================================
 INFANTIL | DISNEY CH HD
 INFANTIL | DISNEY JR
 INFANTIL | DISCOVERY KIDS
@@ -18,11 +24,17 @@ INFANTIL | DreamWorks
 INFANTIL | 24/7 Masha y el Oso
 INFANTIL | 24/7 El Bombero Sam
 
+# ============================================================
+# MUSICA (1-4)
+# ============================================================
 MUSICA | MTV ESPANA
 MUSICA | MEZZO LIVE HD
 MUSICA | Classica
 MUSICA | 101 PLAY
 
+# ============================================================
+# GENERAL (1-49)
+# ============================================================
 GENERAL | LA 1 HD
 GENERAL | LA 2 HD
 GENERAL | ANTENA 3 HD
@@ -72,15 +84,15 @@ GENERAL | TV NACIONAL 3
 GENERAL | TV NACIONAL 4
 GENERAL | TV NACIONAL 5
 GENERAL | TV NACIONAL 6
-GENERAL | TELE MADRID
-GENERAL | Real Madrid TV HD
-GENERAL | CASTILLA LA MANCHA
 
-DEPORTES | M+ LaLigaTV HD
-DEPORTES | M+ LaLigaTV HD+
-DEPORTES | M+ LaLigaTV HD 235
+# ============================================================
+# DEPORTES (1-99)
+# ============================================================
+DEPORTES | M+ LaLigaTVHD
+DEPORTES | M+ LaLigaTVHD+
+DEPORTES | M+ LaLigaTVHD 235
 DEPORTES | M+ LaLigaTV
-DEPORTES | M+ LaLigaTV SD
+DEPORTES | M+ LaLigaTVSD
 DEPORTES | M+ LaLigaTV FULL HD
 DEPORTES | M+ LaLigaTV 4K
 DEPORTES | M+ LaLigaTV 2 HD
@@ -110,13 +122,26 @@ DEPORTES | M+ LCAMPEONES SD
 DEPORTES | M+ LCAMPEONES HD
 DEPORTES | M+ LCAMPEONES HD+
 DEPORTES | M+ LCAMPEONES 4K
+DEPORTES | M+ LCAMPEONES FULL HD
 DEPORTES | M+ LCAMPEONES 2 HD
+DEPORTES | M+ LCAMPEONES 2 FULL HD
 DEPORTES | M+ LCAMPEONES 3 HD
+DEPORTES | M+ LCAMPEONES 3 FULL HD
 DEPORTES | M+ LCAMPEONES 4
 DEPORTES | M+ LCAMPEONES 5
+DEPORTES | M+LCAMPEON6
+DEPORTES | M+LCAMPEON7
+DEPORTES | M+LCAMPEON8
+DEPORTES | M+LCAMPEON9
+DEPORTES | M+LCAMPEON10
+DEPORTES | M+LCAMPEON11
+DEPORTES | M+LCAMPEON12
+DEPORTES | M+LCAMPEON13
 DEPORTES | Movistar Plus+ HD
 DEPORTES | Movistar Plus+ FULL HD
 DEPORTES | LALIGA TV HYPERMOTION
+DEPORTES | LALIGA TV HYPERMOTION 2
+DEPORTES | LALIGA TV HYPERMOTION 3
 DEPORTES | LALIGA INSIDE (PLUS)
 DEPORTES | PRIMERA FEDERACION
 DEPORTES | M+Baloncesto
@@ -127,6 +152,7 @@ DEPORTES | DAZNBaloncesto3
 DEPORTES | EUROSPORT 1 HD
 DEPORTES | EUROSPORT2HD
 DEPORTES | EUROSPORT 2
+DEPORTES | BBC TOP GEAR
 DEPORTES | M+ VAMOS HD
 DEPORTES | M+ VAMOS 2 HD
 DEPORTES | M+ VAMOS 3 HD
@@ -148,6 +174,9 @@ DEPORTES | DAZN EVENTOS 9
 DEPORTES | DAZN EVENTOS 10
 DEPORTES | UFC HD
 DEPORTES | GOL PLAY
+DEPORTES | TELE MADRID
+DEPORTES | Real Madrid TV HD
+DEPORTES | CASTILLA LA MANCHA
 DEPORTES | TELEDEPORTE HD
 DEPORTES | M+ GOLF HD
 DEPORTES | M+ GOLF 2 HD
@@ -156,11 +185,15 @@ DEPORTES | TOP BARÇA HD
 DEPORTES | ESPORT3 CAT HD
 DEPORTES | RED BULL TV
 
+# ============================================================
+# CINE (1-93)
+# ============================================================
 CINE | A3CINE HD
 CINE | DARK
 CINE | M+ CERO
 CINE | M+ Estrenos HD
 CINE | M+ Indie HD
+CINE | M+ Mission impossible
 CINE | M+ Ficcion Premium
 CINE | M+ ACCION HD
 CINE | M+ ACCION 2 HD
@@ -170,31 +203,84 @@ CINE | M+ Ficcion 2 HD
 CINE | M+ COMEDIA HD
 CINE | M+ DRAMA HD
 CINE | M+ DRAMA 2 HD
-CINE | M+ Cine Espanol
+CINE | M+ Cine Español
 CINE | M+ CLASICOS HD
 CINE | M+ TERROR
 CINE | HOLLYWOOD
 CINE | TCM
+CINE | Marvel Studios 1
+CINE | Marvel Studios 2
+CINE | Prime Video 1
+CINE | Prime Video 2
+CINE | SkyShowtime 1
+CINE | SkyShowtime 2
+CINE | Procaja Tv1
+CINE | Procaja Tv2
+CINE | Procaja Tv3
+CINE | M+ Netflix 1
+CINE | M+ Netflix 2
 CINE | CINE+ 1 HD
 CINE | CINE+ 2 HD
 CINE | Canal Alquiler HD 1
+CINE | Rakuten TV Top 1 HD
+CINE | Rakuten TV Top 2 HD
+CINE | Rakuten TV Family HD
+CINE | Trailer 2020
+CINE | Apple TV+ 1
+CINE | Apple TV+ 2
+CINE | ### SUP MOVIES ###
+CINE | A3Cine
+CINE | Canal Hollywood
 CINE | Cine+ ACCIÓN
+CINE | Cine+ Al Pacino
+CINE | Cine+ Antonio Banderas
+CINE | Cine+ Arnold Schwarzenegger
+CINE | Cine+ Brad Pitt
+CINE | Cine+ Bruce Willis
+CINE | Cine+ Christian Bale
 CINE | Cine+ COMEDIA
+CINE | Cine+ Denzel Washington
+CINE | Cine+ Dolph Lundgren
 CINE | Cine+ DRAMA
 CINE | Cine+ GUERRA
+CINE | Cine+ Jackie Chan
+CINE | Cine+ Jason Statham
+CINE | Cine+ John Travolta
+CINE | Cine+ Johnny Depp
+CINE | Cine+ Keanu Reeves
+CINE | Cine+ Kurt Russell
+CINE | Cine+ Leonardo DiCaprio
+CINE | Cine+ Matt Damon
+CINE | Cine+ Mel Gibson
+CINE | Cine+ Nicolas Cage
+CINE | Cine+ Richard Gere
+CINE | Cine+ Robert De Niro
+CINE | Cine+ Robert Downey Jr.
+CINE | Cine+ Russell Crowe
 CINE | Cine+ SAGA
+CINE | Cine+ Steven Seagal
 CINE | Cine+ SUSPENSE
+CINE | Cine+ Sylvester Stallone
 CINE | Cine+ TERROR
+CINE | Cine+ Tom Cruise
+CINE | Cine+ Tom Hanks
+CINE | Cine+ Tom Hardy
+CINE | Cine+ Vin Diesel
+CINE | Cine+ Wesley Snipes
+CINE | Cine+ Will Smith
 CINE | M+ Acción
-CINE | M+ Cine Español
 CINE | M+ Cine HD
-CINE | M+ CLASICOS HD
 CINE | M+ Clásicos
 CINE | M+ Comedia
 CINE | M+ Drama
 CINE | M+ Estrenos
+CINE | M+ Iberian Screen
 CINE | M+ Indie
+CINE | M+ Navidad
 
+# ============================================================
+# SERIES (1-42)
+# ============================================================
 SERIES | M+ Originales HD
 SERIES | M+ SERIES HD
 SERIES | STAR Channel
@@ -214,6 +300,9 @@ SERIES | AXN MOVIES
 SERIES | BBC DRAMA
 SERIES | CALLE 13
 SERIES | COSMO
+SERIES | El Rincón del Profesor
+SERIES | ENERGY
+SERIES | FDF
 SERIES | La Casa de las Series
 SERIES | M+ Originales
 SERIES | M+ Series
@@ -224,8 +313,8 @@ SERIES | SERIES+ COMEDIA
 SERIES | SERIES+ CRIMEN
 SERIES | SERIES+ DOCUMENTAL
 SERIES | SERIES+ DRAMA
-SERIES | SERIES+ EXITOS 1
-SERIES | SERIES+ EXITOS 2
+SERIES | SERIES+ ÉXITOS 1
+SERIES | SERIES+ ÉXITOS 2
 SERIES | SERIES+ FAMILIA
 SERIES | SERIES+ GUERRA
 SERIES | SERIES+ INFANTIL
@@ -235,6 +324,33 @@ SERIES | SERIES+ WESTERN ES
 SERIES | STAR
 SERIES | Warner TV
 
+# ============================================================
+# HBO / MOVISTAR CINE (1-8)
+# ============================================================
+HBO | HBO Max 1
+HBO | HBO Max 2
+HBO | HBO Max 3
+HBO | HBO Max 4
+HBO | HBO Max 5
+HBO | MOVISTAR CINE 1 HD
+HBO | MOVISTAR CINE 2 HD
+HBO | MOVISTAR CINE 3 HD
+
+# ============================================================
+# OTROS (1-12)
+# ============================================================
+OTROS | El Toro TV HD
+OTROS | ONETORO HD
+OTROS | ONETORO HD +
+OTROS | COMEDYCENTRAL
+OTROS | BE MAD HD
+OTROS | CANAL COCINA
+OTROS | BBC FOOD
+OTROS | SUNDANCE TV
+
+# ============================================================
+# DOCUMENTALES (1-13)
+# ============================================================
 DOCUMENTALES | M+Documentales HD
 DOCUMENTALES | CANAL ODISEA
 DOCUMENTALES | NAT GEO
@@ -248,17 +364,3 @@ DOCUMENTALES | IBERALIA TV
 DOCUMENTALES | IBERALIA 100/100 CAZA 4K
 DOCUMENTALES | IBERALIA PESCA 4K
 DOCUMENTALES | BBC HISTORY
-DOCUMENTALES | BBC TOP GEAR
-DOCUMENTALES | BBC EARTH
-DOCUMENTALES | BBC FOOD
-
-OTROS | El Toro TV HD
-OTROS | ONETORO HD
-OTROS | COMEDYCENTRAL
-OTROS | BE MAD HD
-OTROS | FDF
-OTROS | CANAL COCINA
-OTROS | DIVINITY
-OTROS | ENERGY
-OTROS | SUNDANCE TV
-OTROS | El Rincón del Profesor

@@ -1,135 +1,126 @@
 nombre_proveedor;grupo;clave;epg_id;epg_nombre;via
-DISNEY CH HD;INFANTIL;disneych;Disney.Channel.es;Disney Channel;alias
-DISNEY JR;INFANTIL;disneyjr;Nick.Junior.es;Nick Junior;alias
-DISCOVERY KIDS;INFANTIL;discoverykids;Discovery.Channel.es;Discovery Channel;alias
+DISNEY CH HD;INFANTIL;disneych;Disney Channel;Disney Channel;alias
+DISNEY JR;INFANTIL;disneyjr;;;sin-guia
+DISCOVERY KIDS;INFANTIL;discoverykids;;;sin-guia
 Disney + 1;INFANTIL;disney1;;;sin-guia
 Disney Junior Movies 1;INFANTIL;disneyjuniormovies1;;;sin-guia
 Disney Junior Movies 2;INFANTIL;disneyjuniormovies2;;;sin-guia
-CLAN TVE;INFANTIL;clantve;Clan.TVE.es;Clan TVE;alias
-BOING;INFANTIL;boing;Boing.es;Boing;alias
-NICKELODEON;INFANTIL;nickelodeon;Nickelodeon.es;Nickelodeon;alias
-NICK JR;INFANTIL;nickjr;Nick.Junior.es;Nick Junior;alias
-ENFAMILIA;INFANTIL;enfamilia;Nickelodeon.es;Nickelodeon;alias
-BABY TV;INFANTIL;babytv;BabyTV.es;BabyTV;alias
-DreamWorks;INFANTIL;dreamworks;DreamWorks.es;DreamWorks;alias
+CLAN TVE;INFANTIL;clantve;Clan;Clan;alias
+BOING;INFANTIL;boing;Boing;Boing;alias
+NICKELODEON;INFANTIL;nickelodeon;Nickelodeon HD;Nickelodeon;alias
+NICK JR;INFANTIL;nickjr;Nick JR;Nick JR;alias
+ENFAMILIA;INFANTIL;enfamilia;En Familia (Rakuten TV);En Familia (Rakuten TV);alias
+BABY TV;INFANTIL;babytv;Baby TV;Baby TV;alias
+DreamWorks;INFANTIL;dreamworks;Dreamworks HD;Dreamworks;alias
 24/7 Masha y el Oso;INFANTIL;247mashayeloso;;;sin-guia
 24/7 El Bombero Sam;INFANTIL;247elbomberosam;;;sin-guia
-MTV ESPANA;MUSICA;mtv;MTV.España.es;MTV España;alias
-MEZZO LIVE HD;MUSICA;mezzolive;Mezzo.Live.Español.es;Mezzo Live Español;alias
-Classica;MUSICA;classica;Stingray.Classica.es;Stingray Classica;alias
+MTV ESPANA;MUSICA;mtv;MTV España;MTV España;alias
+MEZZO LIVE HD;MUSICA;mezzolive;Mezzo Live HD;Mezzo Live;alias
+Classica;MUSICA;classica;Stingray Classica;Stingray Classica;alias
 101 PLAY;MUSICA;101play;;;sin-guia
-LA 1 HD;GENERAL;la1;La.1.es;La 1;alias
-LA 2 HD;GENERAL;la2;La.2.es;La 2;alias
-ANTENA 3 HD;GENERAL;antena3;Antena.3.es;Antena 3;alias
-CUATRO HD;GENERAL;cuatro;Cuatro.es;Cuatro;alias
-TELECINCO HD;GENERAL;telecinco;Telecinco.es;Telecinco;alias
-LA SEXTA HD;GENERAL;lasexta;laSexta.es;laSexta;alias
-TV3 HD;GENERAL;tv3;TV3.es;TV3;alias
-TV3 Cat HD;GENERAL;tv3cat;TV3CAT.es;TV3CAT;alias
-EXTREMADURA;GENERAL;extremadura;Canal.Extremadura.TV.es;Canal Extremadura TV;alias
-NOVA;GENERAL;nova;Nova.es;Nova;alias
-NEOX;GENERAL;neox;Neox.es;Neox;alias
-ARAGON TV INT;GENERAL;aragontv;Aragón.Televisión.es;Aragón Televisión;alias
-CANAL SUR HD;GENERAL;canalsur;Canal.Sur.Andalucía.es;Canal Sur Andalucía;alias
+LA 1 HD;GENERAL;la1;La 1 HD;La 1;alias
+LA 2 HD;GENERAL;la2;La 2;La 2;alias
+ANTENA 3 HD;GENERAL;antena3;Antena 3 HD;Antena 3;alias
+CUATRO HD;GENERAL;cuatro;Cuatro HD;Cuatro;alias
+TELECINCO HD;GENERAL;telecinco;Telecinco HD;Telecinco;alias
+LA SEXTA HD;GENERAL;lasexta;La Sexta HD;La Sexta;alias
+TV3 HD;GENERAL;tv3;TV3;TV3;alias
+TV3 Cat HD;GENERAL;tv3cat;TV3CAT Catalunya;TV3CAT Catalunya;alias
+EXTREMADURA;GENERAL;extremadura;Canal Extremadura;Canal Extremadura;alias
+NOVA;GENERAL;nova;Nova;Nova;alias
+NEOX;GENERAL;neox;Neox;Neox;alias
+ARAGON TV INT;GENERAL;aragontv;Aragón TV;Aragón TV;alias
+CANAL SUR HD;GENERAL;canalsur;Canal Sur HD;Canal Sur;alias
 CANAL SUR 2 HD;GENERAL;canalsur2;Canal.Sur.2.es;Canal Sur 2;alias
 7TV MALAGA HD;GENERAL;7tvmalaga;7TV.Andalucía.es;7TV Andalucía;alias
-AndaluciaTV;GENERAL;andaluciatv;Andalucía.Televisión.es;Andalucía Televisión;alias
-BOM;GENERAL;bom;BOM.Cine.es;BOM Cine;alias
+AndaluciaTV;GENERAL;andaluciatv;Andalucía TV;Andalucía TV;alias
+BOM;GENERAL;bom;BOM Cine;BOM Cine;alias
 C. TORREVISION HD;GENERAL;ctorrevision;;;sin-guia
 PTV MALAGA;GENERAL;ptvmalaga;;;sin-guia
-TRECE;GENERAL;trece;TRECE.es;TRECE;alias
-mega;GENERAL;mega;Mega.es;Mega;alias
-DMAX;GENERAL;dmax;DMAX.es;DMAX;alias
+TRECE;GENERAL;trece;TRECE;TRECE;alias
+mega;GENERAL;mega;Mega;Mega;alias
+DMAX;GENERAL;dmax;DMAX;DMAX;alias
 CANAL MALAGA HD;GENERAL;canalmalaga;;;sin-guia
-atreseries HD;GENERAL;atreseries;Atreseries.es;Atreseries;alias
-DKISS;GENERAL;dkiss;DKISS.es;DKISS;alias
-TEN;GENERAL;ten;TEN.es;TEN;alias
-BeMad tv HD;GENERAL;bemadtv;Be.Mad.es;Be Mad;alias
+atreseries HD;GENERAL;atreseries;Atreseries;Atreseries;alias
+DKISS;GENERAL;dkiss;DKISS;DKISS;alias
+TEN;GENERAL;ten;Ten;Ten;alias
+BeMad tv HD;GENERAL;bemadtv;Be Mad;Be Mad;alias
 PARAMOUNT NETWORK;GENERAL;paramountnetwork;Paramount.Network.es;Paramount Network;alias
-SOMOS;GENERAL;somos;Somos.es;Somos;alias
+SOMOS;GENERAL;somos;Somos;Somos;alias
 101TV HD;GENERAL;101tv;;;sin-guia
 MUNDO;GENERAL;mundo;;;sin-guia
 CANAL CANARIAS;GENERAL;canalcanarias;;;sin-guia
 NTN24;GENERAL;ntn24;;;sin-guia
-ONDA CADIZ;GENERAL;ondacadiz;OndaCádiz.es;OndaCádiz;normalizado
+ONDA CADIZ;GENERAL;ondacadiz;Onda Cádiz TV;Onda Cádiz TV;alias
 INTERECONOMIA;GENERAL;intereconomia;;;sin-guia
-SOLIDARIA TV;GENERAL;solidariatv;Solidaria.TV.España.es;Solidaria TV España;normalizado
-ETB SAT CANAL VASCO;GENERAL;etbsatcanalvasco;ETB1.es;ETB1;alias
-ETB1;GENERAL;etb1;ETB1.es;ETB1;alias
-ETB2;GENERAL;etb2;ETB2.es;ETB2;alias
-TVG HD;GENERAL;tvg;TVG.es;TVG;alias
-TVG 2;GENERAL;tvg2;tvG2.es;tvG2;alias
+SOLIDARIA TV;GENERAL;solidariatv;Solidaria TV España;Solidaria TV España;alias
+ETB SAT CANAL VASCO;GENERAL;etbsatcanalvasco;;;sin-guia
+ETB1;GENERAL;etb1;etb1;etb1;alias
+ETB2;GENERAL;etb2;etb2;etb2;alias
+TVG HD;GENERAL;tvg;TVG;TVG;alias
+TVG 2;GENERAL;tvg2;TVG2;TVG2;alias
 LANCELOT TV;GENERAL;lancelottv;;;sin-guia
 RTV VIDA;GENERAL;rtvvida;;;sin-guia
-XTRM;GENERAL;xtrm;XTRM.es;XTRM;alias
+XTRM;GENERAL;xtrm;XTRM;XTRM;alias
 TV NACIONAL 1;GENERAL;tvnacional1;;;sin-guia
 TV NACIONAL 3;GENERAL;tvnacional3;;;sin-guia
 TV NACIONAL 4;GENERAL;tvnacional4;;;sin-guia
 TV NACIONAL 5;GENERAL;tvnacional5;;;sin-guia
 TV NACIONAL 6;GENERAL;tvnacional6;;;sin-guia
-TELE MADRID;GENERAL;telemadrid;Telemadrid.es;Telemadrid;alias
-Real Madrid TV HD;GENERAL;realmadridtv;Real.Madrid.TV.es;Real Madrid TV;alias
-CASTILLA LA MANCHA;GENERAL;castillalamancha;Castilla-La.Mancha.Media.es;Castilla-La Mancha Media;alias
-M+ LaLigaTV HD;DEPORTES;mlaligatv;M+.LALIGA.TV.es;M+ LALIGA TV;alias
-M+ LaLigaTV HD+;DEPORTES;mlaligatv;M+.LALIGA.TV.es;M+ LALIGA TV;alias
-M+ LaLigaTV HD 235;DEPORTES;mlaligatv235;M+.LALIGA.TV.2.es;M+ LALIGA TV 2;similitud-0.91
-M+ LaLigaTV;DEPORTES;mlaligatv;M+.LALIGA.TV.es;M+ LALIGA TV;alias
-M+ LaLigaTV SD;DEPORTES;mlaligatv;M+.LALIGA.TV.es;M+ LALIGA TV;alias
-M+ LaLigaTV FULL HD;DEPORTES;mlaligatv;M+.LALIGA.TV.es;M+ LALIGA TV;alias
-M+ LaLigaTV 4K;DEPORTES;mlaligatv;M+.LALIGA.TV.es;M+ LALIGA TV;alias
-M+ LaLigaTV 2 HD;DEPORTES;mlaligatv2;M+.LALIGA.TV.2.es;M+ LALIGA TV 2;alias
-M+ LaLigaTV 2 FULL HD;DEPORTES;mlaligatv2;M+.LALIGA.TV.2.es;M+ LALIGA TV 2;alias
-M+ LaLigaTV 3 HD;DEPORTES;mlaligatv3;M+.LALIGA.TV.3.es;M+ LALIGA TV 3;alias
-DAZN LALIGA HD;DEPORTES;daznlaliga;DAZN.LaLiga.es;DAZN LaLiga;alias
-DAZN LALIGA HD+;DEPORTES;daznlaliga;DAZN.LaLiga.es;DAZN LaLiga;alias
+M+ LaLigaTVHD;DEPORTES;mlaligatvhd;M+.LALIGA.TV.UHD.es;M+ LALIGA TV UHD;similitud-0.90
+M+ LaLigaTVHD 235;DEPORTES;mlaligatvhd235;;;sin-guia
+M+ LaLigaTV;DEPORTES;mlaligatv;M+ LaLiga HD;M+ LaLiga;alias
+M+ LaLigaTVSD;DEPORTES;mlaligatvsd;M+.LALIGA.TV.UHD.es;M+ LALIGA TV UHD;similitud-0.90
+M+ LaLigaTV 2 HD;DEPORTES;mlaligatv2;M+ LaLiga 2 HD;M+ LaLiga 2;alias
+M+ LaLigaTV 3 HD;DEPORTES;mlaligatv3;M+ LaLiga 3 HD;M+ LaLiga 3;alias
+DAZN LALIGA HD;DEPORTES;daznlaliga;DAZN LaLiga HD;DAZN LaLiga;alias
 DAZN LALIGA HD 235;DEPORTES;daznlaliga235;DAZN.LALIGA.2.es;DAZN LALIGA 2;similitud-0.92
-DAZN LALIGA;DEPORTES;daznlaliga;DAZN.LaLiga.es;DAZN LaLiga;alias
-DAZN LALIGA SD;DEPORTES;daznlaliga;DAZN.LaLiga.es;DAZN LaLiga;alias
-DAZN LALIGA FULL HD;DEPORTES;daznlaliga;DAZN.LaLiga.es;DAZN LaLiga;alias
-DAZN LALIGA 4K;DEPORTES;daznlaliga;DAZN.LaLiga.es;DAZN LaLiga;alias
-DAZN LALIGA 2 HD;DEPORTES;daznlaliga2;DAZN.LaLiga.2.es;DAZN LaLiga 2;alias
-DAZN LALIGA 2 FULL HD;DEPORTES;daznlaliga2;DAZN.LaLiga.2.es;DAZN LaLiga 2;alias
-DAZN MOTO GP FULL HD;DEPORTES;daznmotogp;DAZN.F1.es;DAZN F1;alias
-DAZN MOTO GP HD;DEPORTES;daznmotogp;DAZN.F1.es;DAZN F1;alias
-DAZN MOTO GP SD;DEPORTES;daznmotogp;DAZN.F1.es;DAZN F1;alias
-DAZN RALLY TV;DEPORTES;daznrallytv;DAZN.1.es;DAZN 1;alias
-DAZN F1 HD;DEPORTES;daznf1;DAZN.F1.es;DAZN F1;alias
-DAZN 1 HD;DEPORTES;dazn1;DAZN.1.es;DAZN 1;alias
-DAZN 2 HD;DEPORTES;dazn2;DAZN.2.es;DAZN 2;alias
-DAZN 3 HD;DEPORTES;dazn3;DAZN.3.es;DAZN 3;alias
-DAZN 4 HD;DEPORTES;dazn4;DAZN.4.es;DAZN 4;alias
-UEFA Champions League;DEPORTES;uefachampionsleague;M+.Liga.de.Campeones.es;M+ Liga de Campeones;alias
-M+ LCAMPEONES +;DEPORTES;mlcampeones;M+.Liga.de.Campeones.es;M+ Liga de Campeones;alias
-M+ LCAMPEONES SD;DEPORTES;mlcampeones;M+.Liga.de.Campeones.es;M+ Liga de Campeones;alias
-M+ LCAMPEONES HD;DEPORTES;mlcampeones;M+.Liga.de.Campeones.es;M+ Liga de Campeones;alias
-M+ LCAMPEONES HD+;DEPORTES;mlcampeones;M+.Liga.de.Campeones.es;M+ Liga de Campeones;alias
-M+ LCAMPEONES 4K;DEPORTES;mlcampeones;M+.Liga.de.Campeones.es;M+ Liga de Campeones;alias
-M+ LCAMPEONES 2 HD;DEPORTES;mlcampeones2;M+.Liga.de.Campeones.2.es;M+ Liga de Campeones 2;alias
-M+ LCAMPEONES 3 HD;DEPORTES;mlcampeones3;M+.Liga.de.Campeones..3.es;M+ Liga de Campeones  3;alias
-M+ LCAMPEONES 4;DEPORTES;mlcampeones4;M+.Liga.de.Campeones..4.es;M+ Liga de Campeones  4;alias
-M+ LCAMPEONES 5;DEPORTES;mlcampeones5;M+.Liga.de.Campeones.5.es;M+ Liga de Campeones 5;alias
-Movistar Plus+ HD;DEPORTES;movistar;Movistar.Plus+.es;Movistar Plus+;alias
-Movistar Plus+ FULL HD;DEPORTES;movistar;Movistar.Plus+.es;Movistar Plus+;alias
+DAZN LALIGA 2 HD;DEPORTES;daznlaliga2;DAZN LaLiga 2 HD;DAZN LaLiga 2;alias
+DAZN MOTO GP FULL HD;DEPORTES;daznmotogp;DAZN MotoGP;DAZN MotoGP;alias
+DAZN RALLY TV;DEPORTES;daznrallytv;;;sin-guia
+DAZN F1 HD;DEPORTES;daznf1;DAZN F1 HD;DAZN F1;alias
+DAZN 1 HD;DEPORTES;dazn1;DAZN 1 HD;DAZN 1;alias
+DAZN 2 HD;DEPORTES;dazn2;DAZN 2 HD;DAZN 2;alias
+DAZN 3 HD;DEPORTES;dazn3;DAZN 3 HD;DAZN 3;alias
+DAZN 4 HD;DEPORTES;dazn4;DAZN 4 HD;DAZN 4;alias
+UEFA Champions League;DEPORTES;uefachampionsleague;M+ Liga de Campeones HD;M+ Liga de Campeones;alias
+M+ LCAMPEONES +;DEPORTES;mlcampeones;M+ Liga de Campeones HD;M+ Liga de Campeones;alias
+M+ LCAMPEONES 2 HD;DEPORTES;mlcampeones2;M+ Liga de Campeones 2 HD;M+ Liga de Campeones 2;alias
+M+ LCAMPEONES 3 HD;DEPORTES;mlcampeones3;M+ Liga de Campeones 3 HD;M+ Liga de Campeones 3;alias
+M+ LCAMPEONES 4;DEPORTES;mlcampeones4;M+ Liga de Campeones 4;M+ Liga de Campeones 4;alias
+M+ LCAMPEONES 5;DEPORTES;mlcampeones5;M+ Liga de Campeones 5;M+ Liga de Campeones 5;alias
+M+LCAMPEON6;DEPORTES;mlcampeon6;M+ Liga de Campeones 6;M+ Liga de Campeones 6;alias
+M+LCAMPEON7;DEPORTES;mlcampeon7;M+ Liga de Campeones 7;M+ Liga de Campeones 7;alias
+M+LCAMPEON8;DEPORTES;mlcampeon8;M+ Liga de Campeones 8;M+ Liga de Campeones 8;alias
+M+LCAMPEON9;DEPORTES;mlcampeon9;M+ Liga de Campeones 9;M+ Liga de Campeones 9;alias
+M+LCAMPEON10;DEPORTES;mlcampeon10;M+ Liga de Campeones 10;M+ Liga de Campeones 10;alias
+M+LCAMPEON11;DEPORTES;mlcampeon11;M+ Liga de Campeones 11;M+ Liga de Campeones 11;alias
+M+LCAMPEON12;DEPORTES;mlcampeon12;M+ Liga de Campeones 12;M+ Liga de Campeones 12;alias
+M+LCAMPEON13;DEPORTES;mlcampeon13;M+ Liga de Campeones 13;M+ Liga de Campeones 13;alias
+Movistar Plus+ HD;DEPORTES;movistar;Movistar Plus HD;Movistar Plus;alias
 LALIGA TV HYPERMOTION;DEPORTES;laligatvhypermotion;LALIGA.TV.HYPERMOTION.es;LALIGA TV HYPERMOTION;normalizado
+LALIGA TV HYPERMOTION 2;DEPORTES;laligatvhypermotion2;LALIGA.TV.HYPERMOTION.2.es;LALIGA TV HYPERMOTION 2;normalizado
+LALIGA TV HYPERMOTION 3;DEPORTES;laligatvhypermotion3;LALIGA.TV.HYPERMOTION.3.es;LALIGA TV HYPERMOTION 3;normalizado
 LALIGA INSIDE (PLUS);DEPORTES;laligainside;LALIGA.Inside.es;LALIGA Inside;normalizado
 PRIMERA FEDERACION;DEPORTES;primerafederacion;Primera.Federación.es;Primera Federación;normalizado
-M+Baloncesto;DEPORTES;mbaloncesto;M+.Deportes.es;M+ Deportes;alias
-M+Baloncesto2;DEPORTES;mbaloncesto2;M+.Deportes.2.es;M+ Deportes 2;alias
-DAZNBaloncesto;DEPORTES;daznbaloncesto;DAZN.1.es;DAZN 1;alias
-DAZNBaloncesto2;DEPORTES;daznbaloncesto2;DAZN.2.es;DAZN 2;alias
-DAZNBaloncesto3;DEPORTES;daznbaloncesto3;DAZN.3.es;DAZN 3;alias
-EUROSPORT 1 HD;DEPORTES;eurosport1;Eurosport.1.es;Eurosport 1;alias
+M+Baloncesto;DEPORTES;mbaloncesto;M+ Baloncesto;M+ Baloncesto;alias
+M+Baloncesto2;DEPORTES;mbaloncesto2;M+ Baloncesto 2;M+ Baloncesto 2;alias
+DAZNBaloncesto;DEPORTES;daznbaloncesto;DAZN Baloncesto;DAZN Baloncesto;alias
+DAZNBaloncesto2;DEPORTES;daznbaloncesto2;DAZN Baloncesto 2;DAZN Baloncesto 2;alias
+DAZNBaloncesto3;DEPORTES;daznbaloncesto3;DAZN Baloncesto 3;DAZN Baloncesto 3;alias
+EUROSPORT 1 HD;DEPORTES;eurosport1;Eurosport 1 HD;Eurosport 1;alias
 EUROSPORT2HD;DEPORTES;eurosport2hd;Eurosport.2.es;Eurosport 2;similitud-0.91
-EUROSPORT 2;DEPORTES;eurosport2;Eurosport.2.es;Eurosport 2;alias
-M+ VAMOS HD;DEPORTES;mvamos;#Vamos.es;#Vamos;alias
-M+ VAMOS 2 HD;DEPORTES;mvamos2;M+.Vamos.2.es;M+ Vamos 2;alias
-M+ VAMOS 3 HD;DEPORTES;mvamos3;M+.Vamos.3.es;M+ Vamos 3;alias
+EUROSPORT 2;DEPORTES;eurosport2;Eurosport 2;Eurosport 2;alias
+BBC TOP GEAR;DEPORTES;bbctopgear;BBC Top Gear;BBC Top Gear;alias
+M+ VAMOS HD;DEPORTES;mvamos;M+ Vamos HD;M+ Vamos;alias
+M+ VAMOS 2 HD;DEPORTES;mvamos2;M+ Vamos 2;M+ Vamos 2;alias
+M+ VAMOS 3 HD;DEPORTES;mvamos3;M+ Vamos 3;M+ Vamos 3;alias
 M+ DEPORTESHD;DEPORTES;mdeporteshd;M+.Deportes.es;M+ Deportes;similitud-0.90
 M+ DEPORTES2HD;DEPORTES;mdeportes2hd;M+.Deportes.2.es;M+ Deportes 2;similitud-0.91
-M+ DEPORTES3;DEPORTES;mdeportes3;M+.Deportes.3.es;M+ Deportes 3;alias
-M+ DEPORTES4;DEPORTES;mdeportes4;M+.Deportes.4.es;M+ Deportes 4;alias
-M+ DEPORTES5;DEPORTES;mdeportes5;M+.Deportes.5.es;M+ Deportes 5;alias
-M+ DEPORTES6;DEPORTES;mdeportes6;M+.Deportes.6.es;M+ Deportes 6;alias
+M+ DEPORTES3;DEPORTES;mdeportes3;M+ Deportes 3;M+ Deportes 3;alias
+M+ DEPORTES4;DEPORTES;mdeportes4;M+ Deportes 4;M+ Deportes 4;alias
+M+ DEPORTES5;DEPORTES;mdeportes5;M+ Deportes 5;M+ Deportes 5;alias
+M+ DEPORTES6;DEPORTES;mdeportes6;M+ Deportes 6;M+ Deportes 6;alias
 DAZN EVENTOS 1;DEPORTES;dazneventos1;;;sin-guia
 DAZN EVENTOS 2;DEPORTES;dazneventos2;;;sin-guia
 DAZN EVENTOS 3;DEPORTES;dazneventos3;;;sin-guia
@@ -140,115 +131,160 @@ DAZN EVENTOS 7;DEPORTES;dazneventos7;;;sin-guia
 DAZN EVENTOS 8;DEPORTES;dazneventos8;;;sin-guia
 DAZN EVENTOS 9;DEPORTES;dazneventos9;;;sin-guia
 DAZN EVENTOS 10;DEPORTES;dazneventos10;;;sin-guia
-UFC HD;DEPORTES;ufc;DAZN.1.es;DAZN 1;alias
-GOL PLAY;DEPORTES;golplay;M+.Deportes.es;M+ Deportes;alias
-TELEDEPORTE HD;DEPORTES;teledeporte;Teledeporte.es;Teledeporte;alias
-M+ GOLF HD;DEPORTES;mgolf;M+.Golf.es;M+ Golf;alias
-M+ GOLF 2 HD;DEPORTES;mgolf2;M+.Golf.2.es;M+ Golf 2;alias
-MULTIDEPORTE;DEPORTES;multideporte;M+.Deportes.es;M+ Deportes;alias
-TOP BARÇA HD;DEPORTES;topbarca;DAZN.1.es;DAZN 1;alias
-ESPORT3 CAT HD;DEPORTES;esport3cat;Esport.3.es;Esport 3;alias
-RED BULL TV;DEPORTES;redbulltv;DAZN.1.es;DAZN 1;alias
+UFC HD;DEPORTES;ufc;;;sin-guia
+GOL PLAY;DEPORTES;golplay;GOL.PLAY.es;GOL PLAY;normalizado
+TELE MADRID;DEPORTES;telemadrid;Telemadrid;Telemadrid;alias
+Real Madrid TV HD;DEPORTES;realmadridtv;Real Madrid TV;Real Madrid TV;alias
+CASTILLA LA MANCHA;DEPORTES;castillalamancha;CMM TV;CMM TV;alias
+TELEDEPORTE HD;DEPORTES;teledeporte;Teledeporte;Teledeporte;alias
+M+ GOLF HD;DEPORTES;mgolf;M+ Golf HD;M+ Golf;alias
+M+ GOLF 2 HD;DEPORTES;mgolf2;M+ Golf 2 HD;M+ Golf 2;alias
+MULTIDEPORTE;DEPORTES;multideporte;;;sin-guia
+TOP BARÇA HD;DEPORTES;topbarca;Top Barça;Top Barça;alias
+ESPORT3 CAT HD;DEPORTES;esport3cat;Esport3 Catalunya;Esport3 Catalunya;alias
+RED BULL TV;DEPORTES;redbulltv;Red Bull TV;Red Bull TV;alias
 A3CINE HD;CINE;a3cine;A3CINE.es;A3CINE;alias
-DARK;CINE;dark;M+.Drama.es;M+ Drama;alias
-M+ CERO;CINE;mcero;M+.Hits.es;M+ Hits;alias
-M+ Estrenos HD;CINE;mestrenos;M+.Estrenos.es;M+ Estrenos;alias
-M+ Indie HD;CINE;mindie;M+.Indie.es;M+ Indie;alias
-M+ Ficcion Premium;CINE;mficcionpremium;M+.Estrenos.es;M+ Estrenos;alias
-M+ ACCION HD;CINE;maccion;M+.Acción.es;M+ Acción;alias
-M+ ACCION 2 HD;CINE;maccion2;M+.Acción.es;M+ Acción;alias
-M+ Cinesur 1;CINE;mcinesur1;M+.Estrenos.es;M+ Estrenos;alias
-M+ Ficcion 1 HD;CINE;mficcion1;M+.Estrenos.es;M+ Estrenos;alias
-M+ Ficcion 2 HD;CINE;mficcion2;M+.Hits.es;M+ Hits;alias
-M+ COMEDIA HD;CINE;mcomedia;M+.Comedia.es;M+ Comedia;alias
-M+ DRAMA HD;CINE;mdrama;M+.Drama.es;M+ Drama;alias
-M+ DRAMA 2 HD;CINE;mdrama2;M+.Drama.es;M+ Drama;alias
-M+ Cine Espanol;CINE;mcineespanol;M+.Cine.Español.es;M+ Cine Español;alias
-M+ CLASICOS HD;CINE;mclasicos;M+.Clásicos.es;M+ Clásicos;alias
-M+ TERROR;CINE;mterror;M+.Drama.es;M+ Drama;alias
-HOLLYWOOD;CINE;hollywood;M+.Estrenos.es;M+ Estrenos;alias
-TCM;CINE;tcm;M+.Clásicos.es;M+ Clásicos;alias
-CINE+ 1 HD;CINE;cine1;M+.Estrenos.es;M+ Estrenos;alias
-CINE+ 2 HD;CINE;cine2;M+.Hits.es;M+ Hits;alias
-Canal Alquiler HD 1;CINE;canalalquiler1;M+.Estrenos.es;M+ Estrenos;alias
-Cine+ ACCIÓN;CINE;cineaccion;M+.Acción.es;M+ Acción;alias
-Cine+ COMEDIA;CINE;cinecomedia;M+.Comedia.es;M+ Comedia;alias
-Cine+ DRAMA;CINE;cinedrama;M+.Drama.es;M+ Drama;alias
-Cine+ GUERRA;CINE;cineguerra;M+.Acción.es;M+ Acción;alias
-Cine+ SAGA;CINE;cinesaga;M+.Clásicos.es;M+ Clásicos;alias
-Cine+ SUSPENSE;CINE;cinesuspense;M+.Drama.es;M+ Drama;alias
-Cine+ TERROR;CINE;cineterror;M+.Drama.es;M+ Drama;alias
-M+ Acción;CINE;maccion;M+.Acción.es;M+ Acción;alias
-M+ Cine Español;CINE;mcineespanol;M+.Cine.Español.es;M+ Cine Español;alias
-M+ Cine HD;CINE;mcine;M+.Estrenos.es;M+ Estrenos;alias
-M+ CLASICOS HD;CINE;mclasicos;M+.Clásicos.es;M+ Clásicos;alias
-M+ Clásicos;CINE;mclasicos;M+.Clásicos.es;M+ Clásicos;alias
-M+ Comedia;CINE;mcomedia;M+.Comedia.es;M+ Comedia;alias
-M+ Drama;CINE;mdrama;M+.Drama.es;M+ Drama;alias
-M+ Estrenos;CINE;mestrenos;M+.Estrenos.es;M+ Estrenos;alias
-M+ Indie;CINE;mindie;M+.Indie.es;M+ Indie;alias
-M+ Originales HD;SERIES;moriginales;M+.Originales.es;M+ Originales;alias
-M+ SERIES HD;SERIES;mseries;M+.Originales.es;M+ Originales;alias
-STAR Channel;SERIES;starchannel;STAR Channel HD;STAR Channel;normalizado
-AMC HD;SERIES;amc;AMC.es;AMC;alias
-AMC BREAK;SERIES;amcbreak;AMC.Break.es;AMC Break;alias
-AMC CRIME;SERIES;amccrime;AMC.Break.es;AMC Break;alias
-AMC WESTERN;SERIES;amcwestern;AMC.Break.es;AMC Break;alias
-AXN HD;SERIES;axn;AXN.es;AXN;alias
-AXN MOVIES HD;SERIES;axnmovies;AXN.Movies.es;AXN Movies;alias
-SYFY;SERIES;syfy;AXN.es;AXN;alias
-CALLE 13 HD;SERIES;calle13;Calle.13.es;Calle 13;alias
-WARNERTV;SERIES;warnertv;Warner.TV.es;Warner TV;alias
-A3SERIES;SERIES;a3series;Atreseries.es;Atreseries;alias
-AMC;SERIES;amc;AMC.es;AMC;alias
-AXN;SERIES;axn;AXN.es;AXN;alias
-AXN MOVIES;SERIES;axnmovies;AXN.Movies.es;AXN Movies;alias
-BBC DRAMA;SERIES;bbcdrama;AXN.es;AXN;alias
-CALLE 13;SERIES;calle13;Calle.13.es;Calle 13;alias
-COSMO;SERIES;cosmo;COSMO.es;COSMO;normalizado
-La Casa de las Series;SERIES;lacasadelasseries;M+.Originales.es;M+ Originales;alias
-M+ Originales;SERIES;moriginales;M+.Originales.es;M+ Originales;alias
-M+ Series;SERIES;mseries;M+.Originales.es;M+ Originales;alias
-SERIES+ ACCION;SERIES;seriesaccion;M+.Acción.es;M+ Acción;alias
-SERIES+ ANIMACION;SERIES;seriesanimacion;M+.Originales.es;M+ Originales;alias
-SERIES+ CIENCIA-FICCION;SERIES;seriescienciaficcion;M+.Originales.es;M+ Originales;alias
-SERIES+ COMEDIA;SERIES;seriescomedia;M+.Comedia.es;M+ Comedia;alias
-SERIES+ CRIMEN;SERIES;seriescrimen;M+.Drama.es;M+ Drama;alias
-SERIES+ DOCUMENTAL;SERIES;seriesdocumental;M+.Documentales.es;M+ Documentales;alias
-SERIES+ DRAMA;SERIES;seriesdrama;M+.Drama.es;M+ Drama;alias
-SERIES+ EXITOS 1;SERIES;seriesexitos1;M+.Hits.es;M+ Hits;alias
-SERIES+ EXITOS 2;SERIES;seriesexitos2;M+.Hits.es;M+ Hits;alias
-SERIES+ FAMILIA;SERIES;seriesfamilia;M+.Comedia.es;M+ Comedia;alias
-SERIES+ GUERRA;SERIES;seriesguerra;M+.Acción.es;M+ Acción;alias
-SERIES+ INFANTIL;SERIES;seriesinfantil;Nick.Junior.es;Nick Junior;alias
-SERIES+ LEYENDAS 1;SERIES;seriesleyendas1;M+.Clásicos.es;M+ Clásicos;alias
-SERIES+ LEYENDAS 2;SERIES;seriesleyendas2;M+.Clásicos.es;M+ Clásicos;alias
-SERIES+ WESTERN ES;SERIES;serieswestern;M+.Clásicos.es;M+ Clásicos;alias
+DARK;CINE;dark;DARK;DARK;alias
+M+ CERO;CINE;mcero;M+ Cero;M+ Cero;alias
+M+ Estrenos HD;CINE;mestrenos;M+ Estrenos HD;M+ Estrenos;alias
+M+ Indie HD;CINE;mindie;M+ Indie HD;M+ Indie;alias
+M+ Mission impossible;CINE;mmissionimpossible;;;sin-guia
+M+ Ficcion Premium;CINE;mficcionpremium;;;sin-guia
+M+ ACCION HD;CINE;maccion;M+ Acción HD;M+ Acción;alias
+M+ ACCION 2 HD;CINE;maccion2;M+.Acción.es;M+ Acción;similitud-0.93
+M+ Cinesur 1;CINE;mcinesur1;;;sin-guia
+M+ Ficcion 1 HD;CINE;mficcion1;;;sin-guia
+M+ Ficcion 2 HD;CINE;mficcion2;;;sin-guia
+M+ COMEDIA HD;CINE;mcomedia;M+ Comedia HD;M+ Comedia;alias
+M+ DRAMA HD;CINE;mdrama;M+ Drama HD;M+ Drama;alias
+M+ DRAMA 2 HD;CINE;mdrama2;M+.Drama.es;M+ Drama;similitud-0.92
+M+ Cine Español;CINE;mcineespanol;M+ Cine Español;M+ Cine Español;alias
+M+ CLASICOS HD;CINE;mclasicos;M+ Clásicos HD;M+ Clásicos;alias
+M+ TERROR;CINE;mterror;M+ Terror;M+ Terror;alias
+HOLLYWOOD;CINE;hollywood;Canal Hollywood HD;Canal Hollywood;alias
+TCM;CINE;tcm;TCM HD;TCM;alias
+Marvel Studios 1;CINE;marvelstudios1;;;sin-guia
+Marvel Studios 2;CINE;marvelstudios2;;;sin-guia
+Prime Video 1;CINE;primevideo1;;;sin-guia
+Prime Video 2;CINE;primevideo2;;;sin-guia
+SkyShowtime 1;CINE;skyshowtime1;SkyShowtime.1.es;SkyShowtime 1;normalizado
+SkyShowtime 2;CINE;skyshowtime2;SkyShowtime.es;SkyShowtime;similitud-0.96
+Procaja Tv1;CINE;procajatv1;;;sin-guia
+Procaja Tv2;CINE;procajatv2;;;sin-guia
+Procaja Tv3;CINE;procajatv3;;;sin-guia
+M+ Netflix 1;CINE;mnetflix1;;;sin-guia
+M+ Netflix 2;CINE;mnetflix2;;;sin-guia
+CINE+ 1 HD;CINE;cine1;;;sin-guia
+CINE+ 2 HD;CINE;cine2;;;sin-guia
+Canal Alquiler HD 1;CINE;canalalquiler1;;;sin-guia
+Rakuten TV Top 1 HD;CINE;rakutentvtop1;;;sin-guia
+Rakuten TV Top 2 HD;CINE;rakutentvtop2;;;sin-guia
+Rakuten TV Family HD;CINE;rakutentvfamily;;;sin-guia
+Trailer 2020;CINE;trailer2020;;;sin-guia
+Apple TV+ 1;CINE;appletv1;;;sin-guia
+Apple TV+ 2;CINE;appletv2;;;sin-guia
+### SUP MOVIES ###;CINE;supmovies;;;sin-guia
+Canal Hollywood;CINE;canalhollywood;Canal Hollywood HD;Canal Hollywood;alias
+Cine+ ACCIÓN;CINE;cineaccion;M+ Acción HD;M+ Acción;alias
+Cine+ Al Pacino;CINE;cinealpacino;;;sin-guia
+Cine+ Antonio Banderas;CINE;cineantoniobanderas;;;sin-guia
+Cine+ Arnold Schwarzenegger;CINE;cinearnoldschwarzenegger;;;sin-guia
+Cine+ Brad Pitt;CINE;cinebradpitt;;;sin-guia
+Cine+ Bruce Willis;CINE;cinebrucewillis;;;sin-guia
+Cine+ Christian Bale;CINE;cinechristianbale;;;sin-guia
+Cine+ COMEDIA;CINE;cinecomedia;M+ Comedia HD;M+ Comedia;alias
+Cine+ Denzel Washington;CINE;cinedenzelwashington;;;sin-guia
+Cine+ Dolph Lundgren;CINE;cinedolphlundgren;;;sin-guia
+Cine+ DRAMA;CINE;cinedrama;M+ Drama HD;M+ Drama;alias
+Cine+ GUERRA;CINE;cineguerra;;;sin-guia
+Cine+ Jackie Chan;CINE;cinejackiechan;;;sin-guia
+Cine+ Jason Statham;CINE;cinejasonstatham;;;sin-guia
+Cine+ John Travolta;CINE;cinejohntravolta;;;sin-guia
+Cine+ Johnny Depp;CINE;cinejohnnydepp;;;sin-guia
+Cine+ Keanu Reeves;CINE;cinekeanureeves;;;sin-guia
+Cine+ Kurt Russell;CINE;cinekurtrussell;;;sin-guia
+Cine+ Leonardo DiCaprio;CINE;cineleonardodicaprio;;;sin-guia
+Cine+ Matt Damon;CINE;cinemattdamon;;;sin-guia
+Cine+ Mel Gibson;CINE;cinemelgibson;;;sin-guia
+Cine+ Nicolas Cage;CINE;cinenicolascage;;;sin-guia
+Cine+ Richard Gere;CINE;cinerichardgere;;;sin-guia
+Cine+ Robert De Niro;CINE;cinerobertdeniro;;;sin-guia
+Cine+ Robert Downey Jr.;CINE;cinerobertdowneyjr;;;sin-guia
+Cine+ Russell Crowe;CINE;cinerussellcrowe;;;sin-guia
+Cine+ SAGA;CINE;cinesaga;;;sin-guia
+Cine+ Steven Seagal;CINE;cinestevenseagal;;;sin-guia
+Cine+ SUSPENSE;CINE;cinesuspense;M+ Drama HD;M+ Drama;alias
+Cine+ Sylvester Stallone;CINE;cinesylvesterstallone;;;sin-guia
+Cine+ TERROR;CINE;cineterror;M+ Terror;M+ Terror;alias
+Cine+ Tom Cruise;CINE;cinetomcruise;;;sin-guia
+Cine+ Tom Hanks;CINE;cinetomhanks;;;sin-guia
+Cine+ Tom Hardy;CINE;cinetomhardy;;;sin-guia
+Cine+ Vin Diesel;CINE;cinevindiesel;;;sin-guia
+Cine+ Wesley Snipes;CINE;cinewesleysnipes;;;sin-guia
+Cine+ Will Smith;CINE;cinewillsmith;;;sin-guia
+M+ Cine HD;CINE;mcine;;;sin-guia
+M+ Iberian Screen;CINE;miberianscreen;;;sin-guia
+M+ Navidad;CINE;mnavidad;;;sin-guia
+M+ Originales HD;SERIES;moriginales;M+ Originales HD;M+ Originales;alias
+M+ SERIES HD;SERIES;mseries;M+ Originales HD;M+ Originales;alias
+STAR Channel;SERIES;starchannel;STAR Channel HD;STAR Channel;alias
+AMC HD;SERIES;amc;AMC HD;AMC;alias
+AMC BREAK;SERIES;amcbreak;AMC Break;AMC Break;alias
+AMC CRIME;SERIES;amccrime;AMC Crime;AMC Crime;alias
+AMC WESTERN;SERIES;amcwestern;AMC Western;AMC Western;alias
+AXN HD;SERIES;axn;AXN HD;AXN;alias
+AXN MOVIES HD;SERIES;axnmovies;AXN Movies HD;AXN Movies;alias
+SYFY;SERIES;syfy;SciFi HD;SciFi;alias
+CALLE 13 HD;SERIES;calle13;Calle 13 HD;Calle 13;alias
+WARNERTV;SERIES;warnertv;Warner TV HD;Warner TV;alias
+A3SERIES;SERIES;a3series;Atreseries;Atreseries;alias
+BBC DRAMA;SERIES;bbcdrama;BBC Series;BBC Series;alias
+COSMO;SERIES;cosmo;Cosmo HD;Cosmo;alias
+El Rincón del Profesor;SERIES;elrincondelprofesor;;;sin-guia
+ENERGY;SERIES;energy;Energy;Energy;alias
+FDF;SERIES;fdf;Factoría de Ficción;Factoría de Ficción;alias
+La Casa de las Series;SERIES;lacasadelasseries;;;sin-guia
+SERIES+ ACCION;SERIES;seriesaccion;;;sin-guia
+SERIES+ ANIMACION;SERIES;seriesanimacion;;;sin-guia
+SERIES+ CIENCIA-FICCION;SERIES;seriescienciaficcion;;;sin-guia
+SERIES+ COMEDIA;SERIES;seriescomedia;;;sin-guia
+SERIES+ CRIMEN;SERIES;seriescrimen;;;sin-guia
+SERIES+ DOCUMENTAL;SERIES;seriesdocumental;;;sin-guia
+SERIES+ DRAMA;SERIES;seriesdrama;;;sin-guia
+SERIES+ ÉXITOS 1;SERIES;seriesexitos1;;;sin-guia
+SERIES+ ÉXITOS 2;SERIES;seriesexitos2;;;sin-guia
+SERIES+ FAMILIA;SERIES;seriesfamilia;;;sin-guia
+SERIES+ GUERRA;SERIES;seriesguerra;;;sin-guia
+SERIES+ INFANTIL;SERIES;seriesinfantil;;;sin-guia
+SERIES+ LEYENDAS 1;SERIES;seriesleyendas1;;;sin-guia
+SERIES+ LEYENDAS 2;SERIES;seriesleyendas2;;;sin-guia
+SERIES+ WESTERN ES;SERIES;serieswestern;;;sin-guia
 STAR;SERIES;star;;;sin-guia
-Warner TV;SERIES;warnertv;Warner.TV.es;Warner TV;alias
-M+Documentales HD;DOCUMENTALES;mdocumentales;M+.Documentales.es;M+ Documentales;normalizado
-CANAL ODISEA;DOCUMENTALES;canalodisea;Odisea.es;Odisea;alias
-NAT GEO;DOCUMENTALES;natgeo;National.Geographic.es;National Geographic;alias
-NAT GEO WILD;DOCUMENTALES;natgeowild;National.Geographic.Wild.HD.es;National Geographic Wild HD;alias
-DISCOVERY;DOCUMENTALES;discovery;Discovery.Channel.es;Discovery Channel;alias
-HISTORIA;DOCUMENTALES;historia;Historia.y.Vida.es;Historia y Vida;alias
-CANAL DECASA;DOCUMENTALES;canaldecasa;Decasa.es;Decasa;alias
-CAZAVISION;DOCUMENTALES;cazavision;Cazavisión.es;Cazavisión;alias
-CAZAyPESCA HD;DOCUMENTALES;cazaypesca;Caza.y.Pesca.es;Caza y Pesca;alias
-IBERALIA TV;DOCUMENTALES;iberaliatv;Iberalia.es;Iberalia;alias
-IBERALIA 100/100 CAZA 4K;DOCUMENTALES;iberalia100100caza;Iberalia.Caza.es;Iberalia Caza;alias
-IBERALIA PESCA 4K;DOCUMENTALES;iberaliapesca;Iberalia.Pesca.es;Iberalia Pesca;alias
-BBC HISTORY;DOCUMENTALES;bbchistory;Historia.y.Vida.es;Historia y Vida;alias
-BBC TOP GEAR;DOCUMENTALES;bbctopgear;National.Geographic.es;National Geographic;alias
-BBC EARTH;DOCUMENTALES;bbcearth;National.Geographic.es;National Geographic;alias
-BBC FOOD;DOCUMENTALES;bbcfood;Decasa.es;Decasa;alias
-El Toro TV HD;OTROS;eltorotv;El.Toro.TV.es;El Toro TV;alias
-ONETORO HD;OTROS;onetoro;OneToro.TV.es;OneToro TV;alias
-COMEDYCENTRAL;OTROS;comedycentral;Comedy.Central.HD.es;Comedy Central HD;alias
-BE MAD HD;OTROS;bemad;Be.Mad.es;Be Mad;alias
-FDF;OTROS;fdf;FDF.Telecinco.es;FDF Telecinco;alias
-CANAL COCINA;OTROS;canalcocina;Decasa.es;Decasa;alias
-DIVINITY;OTROS;divinity;Divinity.es;Divinity;alias
-ENERGY;OTROS;energy;Energy.es;Energy;alias
+HBO Max 1;HBO;hbomax1;;;sin-guia
+HBO Max 2;HBO;hbomax2;;;sin-guia
+HBO Max 3;HBO;hbomax3;;;sin-guia
+HBO Max 4;HBO;hbomax4;;;sin-guia
+HBO Max 5;HBO;hbomax5;;;sin-guia
+MOVISTAR CINE 1 HD;HBO;movistarcine1;;;sin-guia
+MOVISTAR CINE 2 HD;HBO;movistarcine2;;;sin-guia
+MOVISTAR CINE 3 HD;HBO;movistarcine3;;;sin-guia
+El Toro TV HD;OTROS;eltorotv;El Toro TV;El Toro TV;alias
+ONETORO HD;OTROS;onetoro;Onetoro;Onetoro;alias
+COMEDYCENTRAL;OTROS;comedycentral;Comedy Central HD;Comedy Central;alias
+BE MAD HD;OTROS;bemad;Be Mad;Be Mad;alias
+CANAL COCINA;OTROS;canalcocina;Canal Cocina;Canal Cocina;alias
+BBC FOOD;OTROS;bbcfood;BBC Food;BBC Food;alias
 SUNDANCE TV;OTROS;sundancetv;Sundance.TV.es;Sundance TV;normalizado
-El Rincón del Profesor;OTROS;elrincondelprofesor;;;sin-guia
+M+Documentales HD;DOCUMENTALES;mdocumentales;M+ Documentales HD;M+ Documentales;alias
+CANAL ODISEA;DOCUMENTALES;canalodisea;Odisea;Odisea;alias
+NAT GEO;DOCUMENTALES;natgeo;National Geographic HD;National Geographic;alias
+NAT GEO WILD;DOCUMENTALES;natgeowild;Nat Geo Wild HD;Nat Geo Wild;alias
+DISCOVERY;DOCUMENTALES;discovery;Discovery;Discovery;alias
+HISTORIA;DOCUMENTALES;historia;Historia;Historia;alias
+CANAL DECASA;DOCUMENTALES;canaldecasa;Decasa.es;Decasa;alias
+CAZAVISION;DOCUMENTALES;cazavision;Cazavisión;Cazavisión;alias
+CAZAyPESCA HD;DOCUMENTALES;cazaypesca;Caza y Pesca HD;Caza y Pesca;alias
+IBERALIA TV;DOCUMENTALES;iberaliatv;Iberalia TV;Iberalia TV;alias
+IBERALIA 100/100 CAZA 4K;DOCUMENTALES;iberalia100100caza;Iberalia caza;Iberalia caza;alias
+IBERALIA PESCA 4K;DOCUMENTALES;iberaliapesca;Iberalia pesca;Iberalia pesca;alias
+BBC HISTORY;DOCUMENTALES;bbchistory;BBC History;BBC History;alias

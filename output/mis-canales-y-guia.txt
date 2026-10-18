@@ -1,153 +1,213 @@
 CANALES CON GUIA EN TU EPG
-==========================================================
+==================================================================
 
-Total de canales unicos en la guia: 115
+#    CANAL EN LA GUIA            PROGR  VARIANTES DE TU LISTA
+----------------------------------------------------------------------------------------
+1    DISNEY CH HD                  469  DISNEY CH HD
+2    CLAN TVE                      613  CLAN TVE
+3    BOING                         578  BOING
+4    NICKELODEON                   385  NICKELODEON
+5    NICK JR                       531  NICK JR
+6    ENFAMILIA                     118  ENFAMILIA
+7    BABY TV                       574  BABY TV
+8    DreamWorks                    398  DreamWorks
+9    MTV ESPANA                    290  MTV ESPANA
+10   MEZZO LIVE HD                  86  MEZZO LIVE HD
+11   Classica                      186  Classica
+12   LA 1 HD                       133  LA 1 HD
+13   LA 2 HD                       222  LA 2 HD
+14   ANTENA 3 HD                   164  ANTENA 3 HD
+15   CUATRO HD                     131  CUATRO HD
+16   TELECINCO HD                  154  TELECINCO HD
+17   LA SEXTA HD                   146  LA SEXTA HD
+18   TV3 HD                        140  TV3 HD
+19   TV3 Cat HD                    166  TV3 Cat HD
+20   EXTREMADURA                   213  EXTREMADURA
+21   NOVA                          133  NOVA
+22   NEOX                          223  NEOX
+23   ARAGON TV INT                 180  ARAGON TV INT
+24   CANAL SUR HD                  101  CANAL SUR HD
+25   CANAL SUR 2 HD                 57  CANAL SUR 2 HD
+26   7TV MALAGA HD                  60  7TV MALAGA HD
+27   AndaluciaTV                   204  AndaluciaTV
+28   BOM                            65  BOM
+29   TRECE                         109  TRECE
+30   mega                          171  mega
+31   DMAX                          136  DMAX
+32   atreseries HD                 143  A3SERIES, atreseries HD
+33   DKISS                         209  DKISS
+34   TEN                           184  TEN
+35   BeMad tv HD                    25  BE MAD HD, BeMad tv HD
+36   SOMOS                         127  SOMOS
+37   ONDA CADIZ                    175  ONDA CADIZ
+38   SOLIDARIA TV                  201  SOLIDARIA TV
+39   ETB1                          218  ETB1
+40   ETB2                          210  ETB2
+41   TVG HD                        179  TVG HD
+42   TVG 2                         309  TVG 2
+43   XTRM                          147  XTRM
+44   M+ LaLigaTVHD                  19  M+ LaLigaTVHD, M+ LaLigaTVSD
+45   M+ LaLigaTV                   245  M+ LaLigaTV
+46   M+ LaLigaTV 2 HD               18  M+ LaLigaTV 2 HD
+47   M+ LaLigaTV 3 HD               13  M+ LaLigaTV 3 HD
+48   DAZN LALIGA HD                130  DAZN LALIGA HD
+49   DAZN LALIGA 235 HD             25  DAZN LALIGA HD 235
+50   DAZN LALIGA 2 HD               44  DAZN LALIGA 2 HD
+51   DAZN MOTO GP FULL HD           53  DAZN MOTO GP FULL HD
+52   DAZN F1 HD                    112  DAZN F1 HD
+53   DAZN 1 HD                      97  DAZN 1 HD
+54   DAZN 2 HD                      55  DAZN 2 HD
+55   DAZN 3 HD                      45  DAZN 3 HD
+56   DAZN 4 HD                      44  DAZN 4 HD
+57   UEFA Champions League         121  M+ LCAMPEONES +, UEFA Champions League
+58   M+ LCAMPEONES 2 HD             38  M+ LCAMPEONES 2 HD
+59   M+ LCAMPEONES 3 HD             29  M+ LCAMPEONES 3 HD
+60   M+ LCAMPEONES 4                25  M+ LCAMPEONES 4
+61   M+ LCAMPEONES 5                25  M+ LCAMPEONES 5
+62   M+LCAMPEON6                    25  M+LCAMPEON6
+63   M+LCAMPEON7                    25  M+LCAMPEON7
+64   M+LCAMPEON8                    25  M+LCAMPEON8
+65   M+LCAMPEON9                    23  M+LCAMPEON9
+66   M+LCAMPEON10                   19  M+LCAMPEON10
+67   M+LCAMPEON11                   19  M+LCAMPEON11
+68   M+LCAMPEON12                   19  M+LCAMPEON12
+69   M+LCAMPEON13                   19  M+LCAMPEON13
+70   Movistar Plus+ HD             163  Movistar Plus+ HD
+71   LALIGA TV HYPERMOTION          35  LALIGA TV HYPERMOTION
+72   LALIGA TV HYPERMOTION 2        24  LALIGA TV HYPERMOTION 2
+73   LALIGA TV HYPERMOTION 3        22  LALIGA TV HYPERMOTION 3
+74   PRIMERA FEDERACION             38  PRIMERA FEDERACION
+75   M+Baloncesto                   32  M+Baloncesto
+76   M+Baloncesto2                  31  M+Baloncesto2
+77   DAZNBaloncesto                 44  DAZNBaloncesto
+78   DAZNBaloncesto2                43  DAZNBaloncesto2
+79   DAZNBaloncesto3                43  DAZNBaloncesto3
+80   EUROSPORT 1 HD                 49  EUROSPORT 1 HD
+81   EUROSPORT2HD                   45  EUROSPORT2HD
+82   EUROSPORT 2                    49  EUROSPORT 2
+83   BBC TOP GEAR                  176  BBC TOP GEAR
+84   M+ VAMOS HD                   124  M+ VAMOS HD
+85   M+ VAMOS 2 HD                  54  M+ VAMOS 2 HD
+86   M+ VAMOS 3 HD                  52  M+ VAMOS 3 HD
+87   M+ DEPORTESHD                  66  M+ DEPORTESHD
+88   M+ DEPORTES2HD                 19  M+ DEPORTES2HD
+89   M+ DEPORTES3                   20  M+ DEPORTES3
+90   M+ DEPORTES4                   16  M+ DEPORTES4
+91   M+ DEPORTES5                   13  M+ DEPORTES5
+92   M+ DEPORTES6                   13  M+ DEPORTES6
+93   GOL PLAY                       72  GOL PLAY
+94   TELE MADRID                   159  TELE MADRID
+95   Real Madrid TV HD              52  Real Madrid TV HD
+96   CASTILLA LA MANCHA            174  CASTILLA LA MANCHA
+97   TELEDEPORTE HD                 95  TELEDEPORTE HD
+98   M+ GOLF HD                    103  M+ GOLF HD
+99   M+ GOLF 2 HD                   26  M+ GOLF 2 HD
+100  TOP BARÇA HD                  183  TOP BARÇA HD
+101  ESPORT3 CAT HD                199  ESPORT3 CAT HD
+102  RED BULL TV                   144  RED BULL TV
+103  A3CINE HD                      52  A3CINE HD
+104  DARK                          123  DARK
+105  M+ CERO                       195  M+ CERO
+106  M+ Estrenos HD                106  M+ Estrenos HD
+107  M+ Indie HD                   105  M+ Indie HD
+108  M+ ACCION HD                   96  Cine+ ACCIÓN, M+ ACCION HD
+109  M+ ACCION 2 HD                 51  M+ ACCION 2 HD
+110  M+ COMEDIA HD                 121  Cine+ COMEDIA, M+ COMEDIA HD
+111  M+ DRAMA HD                    91  Cine+ DRAMA, Cine+ SUSPENSE, M+ DRAMA HD
+112  M+ DRAMA 2 HD                  46  M+ DRAMA 2 HD
+113  M+ Cine Español               108  M+ Cine Español
+114  M+ CLASICOS HD                104  M+ CLASICOS HD
+115  M+ TERROR                     109  Cine+ TERROR, M+ TERROR
+116  HOLLYWOOD                     107  Canal Hollywood, HOLLYWOOD
+117  TCM                            87  TCM
+118  SkyShowtime 1                  98  SkyShowtime 1
+119  SkyShowtime 2                 110  SkyShowtime 2
+120  M+ Originales HD              234  M+ Originales HD, M+ SERIES HD
+121  STAR Channel                  179  STAR Channel
+122  AMC HD                        113  AMC HD
+123  AMC BREAK                     368  AMC BREAK
+124  AMC CRIME                     214  AMC CRIME
+125  AMC WESTERN                    96  AMC WESTERN
+126  AXN HD                        149  AXN HD
+127  AXN MOVIES HD                  93  AXN MOVIES HD
+128  SYFY                          179  SYFY
+129  CALLE 13 HD                   171  CALLE 13 HD
+130  WARNERTV                      200  WARNERTV
+131  BBC DRAMA                     139  BBC DRAMA
+132  COSMO                         119  COSMO
+133  ENERGY                        198  ENERGY
+134  FDF                           126  FDF
+135  El Toro TV HD                 130  El Toro TV HD
+136  ONETORO HD                    541  ONETORO HD
+137  COMEDYCENTRAL                 256  COMEDYCENTRAL
+138  CANAL COCINA                  310  CANAL COCINA
+139  BBC FOOD                      175  BBC FOOD
+140  SUNDANCE TV                    60  SUNDANCE TV
+141  M+Documentales HD             171  M+Documentales HD
+142  CANAL ODISEA                  229  CANAL ODISEA
+143  NAT GEO                       200  NAT GEO
+144  NAT GEO WILD                  213  NAT GEO WILD
+145  DISCOVERY                     250  DISCOVERY
+146  HISTORIA                      244  HISTORIA
+147  CANAL DECASA                  132  CANAL DECASA
+148  CAZAVISION                    332  CAZAVISION
+149  CAZAyPESCA HD                 331  CAZAyPESCA HD
+150  IBERALIA TV                   300  IBERALIA TV
+151  IBERALIA 100/100 CAZA 4K      289  IBERALIA 100/100 CAZA 4K
+152  IBERALIA PESCA 4K             313  IBERALIA PESCA 4K
+153  BBC HISTORY                   151  BBC HISTORY
 
-#    CANAL EN LA GUIA           PROGRAMAS  VARIANTES
-------------------------------------------------------------------------------
-1    DISNEY CH HD                     220  DISNEY CH HD
-2    DISNEY JR                        262  DISNEY JR, NICK JR, SERIES+ INFANTIL
-3    DISCOVERY KIDS                   120  DISCOVERY KIDS, DISCOVERY
-4    CLAN TVE                         283  CLAN TVE
-5    BOING                            247  BOING
-6    NICKELODEON                      190  NICKELODEON, ENFAMILIA
-7    BABY TV                          283  BABY TV
-8    DreamWorks                       194  DreamWorks
-9    MTV ESPANA                       137  MTV ESPANA
-10   MEZZO LIVE HD                     41  MEZZO LIVE HD
-11   Classica                          89  Classica
-12   LA 1 HD                           65  LA 1 HD
-13   LA 2 HD                          112  LA 2 HD
-14   ANTENA 3 HD                       86  ANTENA 3 HD
-15   CUATRO HD                         68  CUATRO HD
-16   TELECINCO HD                      79  TELECINCO HD
-17   LA SEXTA HD                       71  LA SEXTA HD
-18   TV3 HD                            73  TV3 HD
-19   TV3 Cat HD                        73  TV3 Cat HD
-20   EXTREMADURA                      109  EXTREMADURA
-21   NOVA                              70  NOVA
-22   NEOX                              95  NEOX
-23   ARAGON TV INT                     82  ARAGON TV INT
-24   CANAL SUR HD                      61  CANAL SUR HD
-25   CANAL SUR 2 HD                    57  CANAL SUR 2 HD
-26   7TV MALAGA HD                     60  7TV MALAGA HD
-27   AndaluciaTV                       99  AndaluciaTV
-28   BOM                               49  BOM
-29   TRECE                             57  TRECE
-30   mega                             103  mega
-31   DMAX                             104  DMAX
-32   atreseries HD                     81  atreseries HD, A3SERIES
-33   DKISS                            104  DKISS
-34   TEN                               92  TEN
-35   BeMad tv HD                       34  BeMad tv HD, BE MAD HD
-36   SOMOS                             66  SOMOS
-37   ONDA CADIZ                        84  ONDA CADIZ
-38   SOLIDARIA TV                     116  SOLIDARIA TV
-39   ETB SAT CANAL VASCO              103  ETB SAT CANAL VASCO, ETB1
-40   ETB2                             102  ETB2
-41   TVG HD                            99  TVG HD
-42   TVG 2                            157  TVG 2
-43   XTRM                              73  XTRM
-44   TELE MADRID                       88  TELE MADRID
-45   Real Madrid TV HD                 41  Real Madrid TV HD
-46   CASTILLA LA MANCHA                81  CASTILLA LA MANCHA
-47   M+ LaLigaTV 4K                   102  M+ LaLigaTV HD, M+ LaLigaTV HD+, M+ LaLigaTV, M+ LaLigaTV SD, M+ LaLigaTV FULL HD, M+ LaLigaTV 4K
-48   M+ LaLigaTV 235 FULL HD           23  M+ LaLigaTV HD 235, M+ LaLigaTV 2 HD, M+ LaLigaTV 2 FULL HD
-49   M+ LaLigaTV 3 HD                  23  M+ LaLigaTV 3 HD
-50   DAZN LALIGA 4K                    79  DAZN LALIGA HD, DAZN LALIGA HD+, DAZN LALIGA, DAZN LALIGA SD, DAZN LALIGA FULL HD, DAZN LALIGA 4K
-51   DAZN LALIGA 235 HD                25  DAZN LALIGA HD 235
-52   DAZN LALIGA 2 FULL HD             27  DAZN LALIGA 2 HD, DAZN LALIGA 2 FULL HD
-53   DAZN MOTO GP FULL HD              57  DAZN MOTO GP FULL HD, DAZN MOTO GP HD, DAZN MOTO GP SD, DAZN F1 HD
-54   DAZN RALLY TV HD                  55  DAZN RALLY TV, DAZN 1 HD, DAZNBaloncesto, UFC HD, TOP BARÇA HD, RED BULL TV
-55   DAZN 2 HD                         31  DAZN 2 HD, DAZNBaloncesto2
-56   DAZN 3 HD                         28  DAZN 3 HD, DAZNBaloncesto3
-57   DAZN 4 HD                         27  DAZN 4 HD
-58   UEFA Champions League 4K          61  UEFA Champions League, M+ LCAMPEONES +, M+ LCAMPEONES SD, M+ LCAMPEONES HD, M+ LCAMPEONES HD+, M+ LCAMPEONES 4K
-59   M+ LCAMPEONES 2 HD                14  M+ LCAMPEONES 2 HD
-60   M+ LCAMPEONES 3 HD                11  M+ LCAMPEONES 3 HD
-61   M+ LCAMPEONES 4                    9  M+ LCAMPEONES 4
-62   M+ LCAMPEONES 5                    9  M+ LCAMPEONES 5
-63   Movistar Plus+ FULL HD            83  Movistar Plus+ HD, Movistar Plus+ FULL HD
-64   LALIGA TV HYPERMOTION             35  LALIGA TV HYPERMOTION
-65   PRIMERA FEDERACION                38  PRIMERA FEDERACION
-66   M+Baloncesto                      66  M+Baloncesto, M+ DEPORTESHD, GOL PLAY, MULTIDEPORTE
-67   M+Baloncesto2                     19  M+Baloncesto2, M+ DEPORTES2HD
-68   EUROSPORT 1 HD                    46  EUROSPORT 1 HD
-69   EUROSPORT2HD                      46  EUROSPORT2HD, EUROSPORT 2
-70   M+ VAMOS HD                       57  M+ VAMOS HD
-71   M+ VAMOS 2 HD                     42  M+ VAMOS 2 HD
-72   M+ VAMOS 3 HD                     36  M+ VAMOS 3 HD
-73   M+ DEPORTES3                      12  M+ DEPORTES3
-74   M+ DEPORTES4                       7  M+ DEPORTES4
-75   M+ DEPORTES5                       7  M+ DEPORTES5
-76   M+ DEPORTES6                       7  M+ DEPORTES6
-77   TELEDEPORTE HD                    88  TELEDEPORTE HD
-78   M+ GOLF HD                        52  M+ GOLF HD
-79   M+ GOLF 2 HD                      12  M+ GOLF 2 HD
-80   ESPORT3 CAT HD                    80  ESPORT3 CAT HD
-81   A3CINE HD                         52  A3CINE HD
-82   DARK HD                           46  DARK, M+ DRAMA HD, M+ DRAMA 2 HD, M+ TERROR, Cine+ DRAMA, Cine+ SUSPENSE, Cine+ TERROR, M+ Drama, SERIES+ CRIMEN, SERIES+ DRAMA
-83   M+ CERO HD                        51  M+ CERO, M+ Ficcion 2 HD, CINE+ 2 HD, SERIES+ EXITOS 1, SERIES+ EXITOS 2
-84   M+ Estrenos HD                    56  M+ Estrenos HD, M+ Ficcion Premium, M+ Cinesur 1, M+ Ficcion 1 HD, HOLLYWOOD, CINE+ 1 HD, Canal Alquiler HD 1, M+ Cine HD, M+ Estrenos
-85   M+ Indie HD                       54  M+ Indie HD, M+ Indie
-86   M+ ACCION HD                      51  M+ ACCION HD, M+ ACCION 2 HD, Cine+ ACCIÓN, Cine+ GUERRA, M+ Acción, SERIES+ ACCION, SERIES+ GUERRA
-87   M+ COMEDIA HD                     60  M+ COMEDIA HD, Cine+ COMEDIA, M+ Comedia, SERIES+ COMEDIA, SERIES+ FAMILIA
-88   M+ Cine Espanol                   55  M+ Cine Espanol, M+ Cine Español
-89   M+ CLASICOS HD                    53  M+ CLASICOS HD, TCM, Cine+ SAGA, M+ CLASICOS HD, M+ Clásicos, SERIES+ LEYENDAS 1, SERIES+ LEYENDAS 2, SERIES+ WESTERN ES
-90   M+ Originales HD                 123  M+ Originales HD, M+ SERIES HD, La Casa de las Series, M+ Originales, M+ Series, SERIES+ ANIMACION, SERIES+ CIENCIA-FICCION
-91   AMC HD                            53  AMC HD, AMC
-92   AMC BREAK                        187  AMC BREAK, AMC CRIME, AMC WESTERN
-93   AXN HD                            72  AXN HD, SYFY, AXN, BBC DRAMA
-94   AXN MOVIES HD                     49  AXN MOVIES HD, AXN MOVIES
-95   CALLE 13 HD                       84  CALLE 13 HD, CALLE 13
-96   WARNERTV                          94  WARNERTV, Warner TV
-97   COSMO                             63  COSMO
-98   SERIES+ DOCUMENTAL HD             83  SERIES+ DOCUMENTAL, M+Documentales HD
-99   CANAL ODISEA                     114  CANAL ODISEA
-100  NAT GEO                           97  NAT GEO, BBC TOP GEAR, BBC EARTH
-101  NAT GEO WILD                     110  NAT GEO WILD
-102  HISTORIA                         109  HISTORIA, BBC HISTORY
-103  CANAL DECASA                     132  CANAL DECASA, BBC FOOD, CANAL COCINA
-104  CAZAVISION                       166  CAZAVISION
-105  CAZAyPESCA HD                    161  CAZAyPESCA HD
-106  IBERALIA TV                      130  IBERALIA TV
-107  IBERALIA 100/100 CAZA 4K         139  IBERALIA 100/100 CAZA 4K
-108  IBERALIA PESCA 4K                151  IBERALIA PESCA 4K
-109  El Toro TV HD                     69  El Toro TV HD
-110  ONETORO HD                       343  ONETORO HD
-111  COMEDYCENTRAL                    117  COMEDYCENTRAL
-112  FDF                               64  FDF
-113  DIVINITY                          92  DIVINITY
-114  ENERGY                            94  ENERGY
-115  SUNDANCE TV                       60  SUNDANCE TV
+==================================================================
+CANALES SIN GUIA (no existen como canal lineal en fuentes publicas)
+==================================================================
 
-==========================================================
-CANALES DE TU LISTA SIN GUIA
-(no existen como canal lineal en ninguna fuente publica)
-==========================================================
-
-  - Disney + 1
-  - Disney Junior Movies 1
-  - Disney Junior Movies 2
-  - 24/7 Masha y el Oso
-  - 24/7 El Bombero Sam
+  - ### SUP MOVIES ###
   - 101 PLAY
-  - C. TORREVISION HD
-  - PTV MALAGA
-  - CANAL MALAGA HD
   - 101TV HD
-  - MUNDO
+  - 24/7 El Bombero Sam
+  - 24/7 Masha y el Oso
+  - Apple TV+ 1
+  - Apple TV+ 2
+  - C. TORREVISION HD
   - CANAL CANARIAS
-  - NTN24
-  - INTERECONOMIA
-  - LANCELOT TV
-  - RTV VIDA
-  - TV NACIONAL 1
-  - TV NACIONAL 3
-  - TV NACIONAL 4
-  - TV NACIONAL 5
-  - TV NACIONAL 6
+  - CANAL MALAGA HD
+  - CINE+ 1 HD
+  - CINE+ 2 HD
+  - Canal Alquiler HD 1
+  - Cine+ Al Pacino
+  - Cine+ Antonio Banderas
+  - Cine+ Arnold Schwarzenegger
+  - Cine+ Brad Pitt
+  - Cine+ Bruce Willis
+  - Cine+ Christian Bale
+  - Cine+ Denzel Washington
+  - Cine+ Dolph Lundgren
+  - Cine+ GUERRA
+  - Cine+ Jackie Chan
+  - Cine+ Jason Statham
+  - Cine+ John Travolta
+  - Cine+ Johnny Depp
+  - Cine+ Keanu Reeves
+  - Cine+ Kurt Russell
+  - Cine+ Leonardo DiCaprio
+  - Cine+ Matt Damon
+  - Cine+ Mel Gibson
+  - Cine+ Nicolas Cage
+  - Cine+ Richard Gere
+  - Cine+ Robert De Niro
+  - Cine+ Robert Downey Jr.
+  - Cine+ Russell Crowe
+  - Cine+ SAGA
+  - Cine+ Steven Seagal
+  - Cine+ Sylvester Stallone
+  - Cine+ Tom Cruise
+  - Cine+ Tom Hanks
+  - Cine+ Tom Hardy
+  - Cine+ Vin Diesel
+  - Cine+ Wesley Snipes
+  - Cine+ Will Smith
   - DAZN EVENTOS 1
+  - DAZN EVENTOS 10
   - DAZN EVENTOS 2
   - DAZN EVENTOS 3
   - DAZN EVENTOS 4
@@ -156,7 +216,73 @@ CANALES DE TU LISTA SIN GUIA
   - DAZN EVENTOS 7
   - DAZN EVENTOS 8
   - DAZN EVENTOS 9
-  - DAZN EVENTOS 10
-  - STAR Channel
-  - STAR
+  - DAZN RALLY TV
+  - DISCOVERY KIDS
+  - DISNEY JR
+  - Disney + 1
+  - Disney Junior Movies 1
+  - Disney Junior Movies 2
+  - ETB SAT CANAL VASCO
   - El Rincón del Profesor
+  - HBO Max 1
+  - HBO Max 2
+  - HBO Max 3
+  - HBO Max 4
+  - HBO Max 5
+  - INTERECONOMIA
+  - LANCELOT TV
+  - La Casa de las Series
+  - M+ Cine HD
+  - M+ Cinesur 1
+  - M+ Ficcion 1 HD
+  - M+ Ficcion 2 HD
+  - M+ Ficcion Premium
+  - M+ Iberian Screen
+  - M+ LaLigaTVHD 235
+  - M+ Mission impossible
+  - M+ Navidad
+  - M+ Netflix 1
+  - M+ Netflix 2
+  - MOVISTAR CINE 1 HD
+  - MOVISTAR CINE 2 HD
+  - MOVISTAR CINE 3 HD
+  - MULTIDEPORTE
+  - MUNDO
+  - Marvel Studios 1
+  - Marvel Studios 2
+  - NTN24
+  - PTV MALAGA
+  - Prime Video 1
+  - Prime Video 2
+  - Procaja Tv1
+  - Procaja Tv2
+  - Procaja Tv3
+  - RTV VIDA
+  - Rakuten TV Family HD
+  - Rakuten TV Top 1 HD
+  - Rakuten TV Top 2 HD
+  - SERIES+ ACCION
+  - SERIES+ ANIMACION
+  - SERIES+ CIENCIA-FICCION
+  - SERIES+ COMEDIA
+  - SERIES+ CRIMEN
+  - SERIES+ DOCUMENTAL
+  - SERIES+ DRAMA
+  - SERIES+ FAMILIA
+  - SERIES+ GUERRA
+  - SERIES+ INFANTIL
+  - SERIES+ LEYENDAS 1
+  - SERIES+ LEYENDAS 2
+  - SERIES+ WESTERN ES
+  - SERIES+ ÉXITOS 1
+  - SERIES+ ÉXITOS 2
+  - STAR
+  - TV NACIONAL 1
+  - TV NACIONAL 3
+  - TV NACIONAL 4
+  - TV NACIONAL 5
+  - TV NACIONAL 6
+  - Trailer 2020
+  - UFC HD
+
+Total: 166 con guia / 123 sin guia

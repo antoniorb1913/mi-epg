@@ -102,9 +102,15 @@ def nombre_limpio(nombre: str) -> str:
 
 
 def leer_canales_propios() -> list[dict]:
-    """Lee config/canales.txt -> [{grupo, nombre}]."""
+    """
+    Lee config/canales.txt -> [{grupo, nombre}].
+
+    Deduplica por clave normalizada: un mismo canal puede aparecer en varios
+    grupos (COSMO en SERIES y en OTROS, FDF, ENERGY...). Se queda el primero.
+    """
     ruta = os.path.join(CONFIG, "canales.txt")
     canales = []
+    vistos = {}
     with open(ruta, encoding="utf-8") as fh:
         for linea in fh:
             linea = linea.strip()
@@ -114,7 +120,18 @@ def leer_canales_propios() -> list[dict]:
                 grupo, nombre = linea.split("|", 1)
             else:
                 grupo, nombre = "OTROS", linea
-            canales.append({"grupo": grupo.strip(), "nombre": nombre.strip()})
+            grupo, nombre = grupo.strip(), nombre.strip()
+            if not nombre:
+                continue
+            k = clave(nombre)
+            if k in vistos:
+                # Ya existe: solo anotamos el grupo alternativo
+                if grupo != vistos[k]["grupo"]:
+                    vistos[k]["otros_grupos"].append(grupo)
+                continue
+            registro = {"grupo": grupo, "nombre": nombre, "otros_grupos": []}
+            vistos[k] = registro
+            canales.append(registro)
     return canales
 
 
