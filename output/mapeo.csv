@@ -67,14 +67,12 @@ TV NACIONAL 3;GENERAL;tvnacional3;;;sin-guia
 TV NACIONAL 4;GENERAL;tvnacional4;;;sin-guia
 TV NACIONAL 5;GENERAL;tvnacional5;;;sin-guia
 TV NACIONAL 6;GENERAL;tvnacional6;;;sin-guia
-M+ LaLigaTVHD;DEPORTES;mlaligatvhd;M+.LALIGA.TV.UHD.es;M+ LALIGA TV UHD;similitud-0.90
-M+ LaLigaTVHD 235;DEPORTES;mlaligatvhd235;;;sin-guia
-M+ LaLigaTV;DEPORTES;mlaligatv;M+ LaLiga HD;M+ LaLiga;alias
-M+ LaLigaTVSD;DEPORTES;mlaligatvsd;M+.LALIGA.TV.UHD.es;M+ LALIGA TV UHD;similitud-0.90
+M+ LaLigaTVHD;DEPORTES;mlaligatv;M+ LaLiga HD;M+ LaLiga;alias
+M+ LaLigaTVHD 235;DEPORTES;mlaligatv235;M+ LaLiga HD;M+ LaLiga;alias
 M+ LaLigaTV 2 HD;DEPORTES;mlaligatv2;M+ LaLiga 2 HD;M+ LaLiga 2;alias
 M+ LaLigaTV 3 HD;DEPORTES;mlaligatv3;M+ LaLiga 3 HD;M+ LaLiga 3;alias
 DAZN LALIGA HD;DEPORTES;daznlaliga;DAZN LaLiga HD;DAZN LaLiga;alias
-DAZN LALIGA HD 235;DEPORTES;daznlaliga235;DAZN.LALIGA.2.es;DAZN LALIGA 2;similitud-0.92
+DAZN LALIGA HD 235;DEPORTES;daznlaliga235;DAZN LaLiga HD;DAZN LaLiga;alias
 DAZN LALIGA 2 HD;DEPORTES;daznlaliga2;DAZN LaLiga 2 HD;DAZN LaLiga 2;alias
 DAZN MOTO GP FULL HD;DEPORTES;daznmotogp;DAZN MotoGP;DAZN MotoGP;alias
 DAZN RALLY TV;DEPORTES;daznrallytv;;;sin-guia
@@ -109,14 +107,13 @@ DAZNBaloncesto;DEPORTES;daznbaloncesto;DAZN Baloncesto;DAZN Baloncesto;alias
 DAZNBaloncesto2;DEPORTES;daznbaloncesto2;DAZN Baloncesto 2;DAZN Baloncesto 2;alias
 DAZNBaloncesto3;DEPORTES;daznbaloncesto3;DAZN Baloncesto 3;DAZN Baloncesto 3;alias
 EUROSPORT 1 HD;DEPORTES;eurosport1;Eurosport 1 HD;Eurosport 1;alias
-EUROSPORT2HD;DEPORTES;eurosport2hd;Eurosport.2.es;Eurosport 2;similitud-0.91
-EUROSPORT 2;DEPORTES;eurosport2;Eurosport 2;Eurosport 2;alias
+EUROSPORT2HD;DEPORTES;eurosport2;Eurosport 2;Eurosport 2;alias
 BBC TOP GEAR;DEPORTES;bbctopgear;BBC Top Gear;BBC Top Gear;alias
 M+ VAMOS HD;DEPORTES;mvamos;M+ Vamos HD;M+ Vamos;alias
 M+ VAMOS 2 HD;DEPORTES;mvamos2;M+ Vamos 2;M+ Vamos 2;alias
 M+ VAMOS 3 HD;DEPORTES;mvamos3;M+ Vamos 3;M+ Vamos 3;alias
-M+ DEPORTESHD;DEPORTES;mdeporteshd;M+.Deportes.es;M+ Deportes;similitud-0.90
-M+ DEPORTES2HD;DEPORTES;mdeportes2hd;M+.Deportes.2.es;M+ Deportes 2;similitud-0.91
+M+ DEPORTESHD;DEPORTES;mdeportes;M+ Deportes HD;M+ Deportes;alias
+M+ DEPORTES2HD;DEPORTES;mdeportes2;M+ Deportes 2 HD;M+ Deportes 2;alias
 M+ DEPORTES3;DEPORTES;mdeportes3;M+ Deportes 3;M+ Deportes 3;alias
 M+ DEPORTES4;DEPORTES;mdeportes4;M+ Deportes 4;M+ Deportes 4;alias
 M+ DEPORTES5;DEPORTES;mdeportes5;M+ Deportes 5;M+ Deportes 5;alias

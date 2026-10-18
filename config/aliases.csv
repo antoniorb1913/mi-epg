@@ -225,3 +225,6 @@ sundance;Sundance TV
 # "235" es una etiqueta de flujo del proveedor, no otro canal
 # ============================================================
 mlaligatv235;M+ LaLiga HD
+
+# "235" es etiqueta de flujo del proveedor: es el mismo canal, no LaLiga 2
+daznlaliga235;DAZN LaLiga HD

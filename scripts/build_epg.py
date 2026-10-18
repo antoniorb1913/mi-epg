@@ -45,6 +45,16 @@ _EXTRA = re.compile(
     re.IGNORECASE,
 )
 
+# Marcadores de calidad PEGADOS al nombre, sin separador:
+#   "M+ LaLigaTVHD"  -> "LaLigaTV"
+#   "M+ DEPORTES2HD" -> "DEPORTES2"
+#   "EUROSPORT2HD"   -> "EUROSPORT2"
+# Se aplica despues de _RUIDO, porque _RUIDO solo detecta palabras sueltas.
+_RUIDO_PEGADO = re.compile(
+    r"(?<=[a-z0-9])(?:full[-\s]?hd|fhd|uhd|4k|8k|hd|sd)(?=$|[^a-z0-9])",
+    re.IGNORECASE,
+)
+
 
 def sin_acentos(texto: str) -> str:
     """Quita diacriticos: 'Aragón' -> 'Aragon'."""
@@ -59,7 +69,9 @@ def clave(texto: str) -> str:
     'ANTENA 3 HD'          -> 'antena3'
     'Antena.3.es'          -> 'antena3'
     'M+ LaLigaTV HD'       -> 'mlaligatv'
+    'M+ LaLigaTVHD'        -> 'mlaligatv'   (HD pegado, sin espacio)
     'M+.LALIGA.TV.es'      -> 'mlaligatv'
+    'EUROSPORT2HD'         -> 'eurosport2'
     'Cine+ TERROR'         -> 'cineterror'
     'LA SEXTA HD'          -> 'lasexta'
     """
@@ -69,7 +81,8 @@ def clave(texto: str) -> str:
     # El simbolo '+' y la palabra 'plus' son ruido: M+ / M Plus / Mplus
     t = t.replace("+", " ").replace("plus", " ")
     t = re.sub(r"\.(es|com|tv|net|org|pt|fr|de|uk|it)$", "", t)  # sufijo pais
-    t = _RUIDO.sub(" ", t)
+    t = _RUIDO.sub(" ", t)          # calidad como palabra suelta: "... HD"
+    t = _RUIDO_PEGADO.sub(" ", t)   # calidad pegada al nombre: "...TVHD"
     t = _EXTRA.sub(" ", t)
     t = re.sub(r"[^a-z0-9]+", "", t)  # fuera todo lo que no sea alfanumerico
     return t

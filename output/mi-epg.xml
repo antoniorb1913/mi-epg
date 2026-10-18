@@ -174,13 +174,9 @@
     <display-name>XTRM</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
   </channel>
-  <channel id="M+.LALIGA.TV.UHD.es">
-    <display-name>M+ LaLigaTVHD</display-name>
-    <display-name>M+ LaLigaTVSD</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mliguh.png" />
-  </channel>
   <channel id="M+ LaLiga HD">
-    <display-name>M+ LaLigaTV</display-name>
+    <display-name>M+ LaLigaTVHD</display-name>
+    <display-name>M+ LaLigaTVHD 235</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" />
   </channel>
   <channel id="M+ LaLiga 2 HD">
@@ -193,12 +189,8 @@
   </channel>
   <channel id="DAZN LaLiga HD">
     <display-name>DAZN LALIGA HD</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
-  </channel>
-  <channel id="DAZN.LALIGA.2.es">
-    <display-name>DAZN LALIGA 235 HD</display-name>
     <display-name>DAZN LALIGA HD 235</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/daznl2.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
   </channel>
   <channel id="DAZN LaLiga 2 HD">
     <display-name>DAZN LALIGA 2 HD</display-name>
@@ -325,12 +317,8 @@
     <display-name>EUROSPORT 1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
   </channel>
-  <channel id="Eurosport.2.es">
-    <display-name>EUROSPORT2HD</display-name>
-    <icon src="https://cdn.sincroguia.tv/storage/channels/491-square.jpg" />
-  </channel>
   <channel id="Eurosport 2">
-    <display-name>EUROSPORT 2</display-name>
+    <display-name>EUROSPORT2HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
   </channel>
   <channel id="BBC Top Gear">
@@ -349,13 +337,13 @@
     <display-name>M+ VAMOS 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" />
   </channel>
-  <channel id="M+.Deportes.es">
+  <channel id="M+ Deportes HD">
     <display-name>M+ DEPORTESHD</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cpdep.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" />
   </channel>
-  <channel id="M+.Deportes.2.es">
+  <channel id="M+ Deportes 2 HD">
     <display-name>M+ DEPORTES2HD</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/arthur.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" />
   </channel>
   <channel id="M+ Deportes 3">
     <display-name>M+ DEPORTES3</display-name>
@@ -620,10 +608,6 @@
     <display-name>BBC HISTORY</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20History.png" />
   </channel>
-  <programme start="20261017150000 +0200" stop="20261017153000 +0200" channel="7TV.Andalucía.es">
-    <title>Cádiz suena bien</title>
-    <desc>Programa semanal de temática musical centrada en la actualidad del sector en Cádiz. El espacio comprende todo tipo de estilos musicales, dedicando cada uno de ellos a un género concreto.</desc>
-  </programme>
   <programme start="20261017153000 +0200" stop="20261017160000 +0200" channel="7TV.Andalucía.es">
     <title>Sevilla obra maestra</title>
     <desc>Programa documental dirigido y presentado por Ana Enterría que muestra el patrimonio cultural de Sevilla, acercándose a los rincones secretos de la ciudad, sus templos, sus monumentos, pinturas, música.</desc>
@@ -1290,93 +1274,6 @@
     <desc>Crónica del nacimiento en 1978 de Louise Joy Brown, la primera ''niña probeta'' del mundo, y los diez años de dificultosos esfuerzos que lo hicieron posible.</desc>
     <category>Drama</category>
   </programme>
-  <programme start="20261017140000 +0200" stop="20261017154500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261017154500 +0200" stop="20261017160000 +0200" channel="DAZN.LALIGA.2.es">
-    <title>Premier Corner by Guiness 0,0</title>
-    <desc>Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.</desc>
-    <category>Entretenimiento</category>
-  </programme>
-  <programme start="20261017160000 +0200" stop="20261017161500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN Previa</title>
-    <desc>Toda la información previa a los partidos que va a emitir DAZN. Las noticias, las estadísticas, el análisis y los datos necesarios para disfrutar más de los encuentros.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017161500 +0200" stop="20261017181500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>LALIGA EA SPORTS: Villarreal CF - Elche CF</title>
-    <desc>Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017181500 +0200" stop="20261017184500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN Post</title>
-    <desc>Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos ofrecidos por DAZN con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017184500 +0200" stop="20261017224500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261017224500 +0200" stop="20261018024500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018024500 +0200" stop="20261018064500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018064500 +0200" stop="20261018104500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018104500 +0200" stop="20261018144500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018144500 +0200" stop="20261018184500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018184500 +0200" stop="20261018224500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261018224500 +0200" stop="20261019024500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261019024500 +0200" stop="20261019064500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261019064500 +0200" stop="20261019104500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261019104500 +0200" stop="20261019144500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261019144500 +0200" stop="20261019184500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261019184500 +0200" stop="20261019224500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261019224500 +0200" stop="20261020024500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261020024500 +0200" stop="20261020064500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261020064500 +0200" stop="20261020104500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261020104500 +0200" stop="20261020144500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261020144500 +0200" stop="20261020184500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261020184500 +0200" stop="20261020224500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261020224500 +0200" stop="20261021024500 +0200" channel="DAZN.LALIGA.2.es">
-    <title>DAZN LaLiga 2</title>
-  </programme>
-  <programme start="20261017143300 +0200" stop="20261017153500 +0200" channel="Decasa.es">
-    <title>Hoteles increíbles. La vida más allá del vestíbulo</title>
-    <desc>Nusfjord Arctic Resort es un pueblo pesquero de bacalao de 200 años de historia situado en las islas Lofoten de Noruega. Conociendo a sus propietarios, Monica y Rob descubren la dificultad de dirigir un complejo turístico de alto nivel en un entorno tan extremo. Un día normal de trabajo en el Círculo Polar Ártico abarca recorrer caminos nevados con el servicio de limpieza, enfrentarse a enormes olas en los barcos de pesca y perseguir la aurora boreal.</desc>
-  </programme>
   <programme start="20261017153500 +0200" stop="20261017163200 +0200" channel="Decasa.es">
     <title>Escapadas con Gregg Wallace</title>
     <desc>Una de las mejores ciudades de Europa para una escapada de fin de semana está en Reino Unido. Durante tres días, Gregg Wallace explora la capital escocesa, Edimburgo, sumergiéndose en una de las escenas gastronómicas más singulares del país, descubriendo la increíble historia de la ciudad y conectando con sus raíces escocesas. Recorre la Royal Mile hasta llegar a uno de los castillos más emblemáticos del mundo, se adentra en calles subterráneas centenarias y aprende sobre la tradición de la gaita. Además, cocina un festín de urogallo y cigalas junto al chef Tom Kitchin, y termina el fin de semana con un chapuzón matutino en el mar del Norte junto a los locales.</desc>
@@ -1900,190 +1797,6 @@
   <programme start="20261020223000 +0200" stop="20261020230000 +0200" channel="Decasa.es">
     <title>La casa más top</title>
     <desc>Tres casas de dos niveles han sido renovadas con esmero, con un toque personal y un diseño cuidado. Gracias a objetos de segunda mano, detalles creativos y mucha pasión, cada familia cree haber encontrado el equilibrio perfecto entre estilo y esencia. ¿Se dejarán seducir a los jueces por su encanto nostálgico o habrán optado por estos propietarios por una estrategia demasiado conservadora?</desc>
-  </programme>
-  <programme start="20261017151500 +0200" stop="20261017175500 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Shenzhen de snooker</title>
-    <desc>El Abierto de Shenzhen de snooker es la sexta cita de ranking de la temporada del WST. Reemplaza al Grand Prix de Xi'an y se celebra del 28 de septiembre al 4 de octubre en el Bao'an Sports Centre de Shenzhen, China, con un premio acumulado de 850.000 libras.</desc>
-  </programme>
-  <programme start="20261017175500 +0200" stop="20261017220000 +0200" channel="Eurosport.2.es">
-    <title>ASOBAL</title>
-    <desc>La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.</desc>
-  </programme>
-  <programme start="20261017220000 +0200" stop="20261017230000 +0200" channel="Eurosport.2.es">
-    <title>El club de la UFC</title>
-    <desc>Un repaso a toda la actualidad del Ultimate Fighting Championship. El auge de las artes marciales mixtas viene de la mano del UFC, un campeonato que aglutina a la mayoría de las estrellas de este deporte.</desc>
-  </programme>
-  <programme start="20261017230000 +0200" stop="20261018000000 +0200" channel="Eurosport.2.es">
-    <title>Eneco Tour M</title>
-    <desc>El Eneco Tour (antes Tour de Holanda) es la gran ronda por etapas de los Países Bajos. Del 13 al 18 de octubre, se corre a la vez que la femenina, compartiendo salidas y llegadas. Con un prólogo y 5 etapas, varía la distancia para los hombres.</desc>
-  </programme>
-  <programme start="20261018000000 +0200" stop="20261018013000 +0200" channel="Eurosport.2.es">
-    <title>6 Horas de Fuji - Mundial de Resistencia de la FIA</title>
-    <desc>Las 6 Horas de Fuji 2026 son la 7ª cita del Mundial de Resistencia de la FIA (WEC). Se celebran del 11 al 13 de septiembre en el icónico Fuji Speedway (Japón), un trazado famoso por su recta de 1.5 km y las espectaculares vistas al Monte Fuji.</desc>
-  </programme>
-  <programme start="20261018013000 +0200" stop="20261018030000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Gran Bretaña de snooker</title>
-    <desc>El Centaur de Cheltenham acoge uno de los grandes eventos de la temporada de snooker. El Abierto de Gran Bretaña reúne a la flor y nata de este deporte. El inglés Mark Williams intentará mantener su título de campeón.</desc>
-  </programme>
-  <programme start="20261018030000 +0200" stop="20261018040000 +0200" channel="Eurosport.2.es">
-    <title>Eneco Tour F</title>
-    <desc>El Eneco Tour Femenino (antes Simac Ladies Tour) es una prestigiosa carrera ciclista por etapas en los Países Bajos. Del 13 al 18 de octubre, hace historia al celebrarse en paralelo y compartir sedes con la prueba masculina. Consta de un prólogo y 5 etapas.</desc>
-  </programme>
-  <programme start="20261018040000 +0200" stop="20261018050000 +0200" channel="Eurosport.2.es">
-    <title>Eneco Tour M</title>
-    <desc>El Eneco Tour (antes Tour de Holanda) es la gran ronda por etapas de los Países Bajos. Del 13 al 18 de octubre, se corre a la vez que la femenina, compartiendo salidas y llegadas. Con un prólogo y 5 etapas, varía la distancia para los hombres.</desc>
-  </programme>
-  <programme start="20261018050000 +0200" stop="20261018070000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Gran Bretaña de snooker</title>
-    <desc>El Centaur de Cheltenham acoge uno de los grandes eventos de la temporada de snooker. El Abierto de Gran Bretaña reúne a la flor y nata de este deporte. El inglés Mark Williams intentará mantener su título de campeón.</desc>
-  </programme>
-  <programme start="20261018070000 +0200" stop="20261018072500 +0200" channel="Eurosport.2.es">
-    <title>Eneco Tour M</title>
-    <desc>El Eneco Tour (antes Tour de Holanda) es la gran ronda por etapas de los Países Bajos. Del 13 al 18 de octubre, se corre a la vez que la femenina, compartiendo salidas y llegadas. Con un prólogo y 5 etapas, varía la distancia para los hombres.</desc>
-  </programme>
-  <programme start="20261018072500 +0200" stop="20261018113000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en pista</title>
-    <desc>El Mundial de ciclismo en pista llega a su 123.ª edición. Del 14 al 18 de octubre, el Velódromo de Chongming en Shanghái, acoge el evento. Reúne a los mejores especialistas del planeta para disputar un total de 22 títulos mundiales (11 masculinos y 11 femeninos).</desc>
-  </programme>
-  <programme start="20261018113000 +0200" stop="20261018183000 +0200" channel="Eurosport.2.es">
-    <title>6 Horas de Barcelona - Mundial de Resistencia de la FIA</title>
-    <desc>Las 6 Horas de Barcelona debutan del 16 al 18 de octubre en el Circuit de Barcelona-Catalunya como penúltima cita del Mundial de Resistencia FIA WEC. Esta prueba resulta clave para definir los títulos de las categorías Hypercar y LMGT3.</desc>
-  </programme>
-  <programme start="20261018183000 +0200" stop="20261018190000 +0200" channel="Eurosport.2.es">
-    <title>Eneco Tour M</title>
-    <desc>El Eneco Tour (antes Tour de Holanda) es la gran ronda por etapas de los Países Bajos. Del 13 al 18 de octubre, se corre a la vez que la femenina, compartiendo salidas y llegadas. Con un prólogo y 5 etapas, varía la distancia para los hombres.</desc>
-  </programme>
-  <programme start="20261018190000 +0200" stop="20261018200000 +0200" channel="Eurosport.2.es">
-    <title>Maratón de Ámsterdam</title>
-    <desc>El TCS Amsterdam Marathon se celebra el 18 de octubre en la capital de los Países Bajos. Con salida y meta en el histórico Estadio Olímpico, destaca por su circuito extremadamente llano y rápido, ideal para buscar récords personales.</desc>
-  </programme>
-  <programme start="20261018200000 +0200" stop="20261018220000 +0200" channel="Eurosport.2.es">
-    <title>Copa del mundo de escalada - Salt Lake City</title>
-    <desc>La Copa del Mundo de Escalada hace parada en Salt Lake City del 16 al 18 de octubre. Los mejores escaladores internacionales de la modalidad de bloque (búlder) compiten en un espectacular muro instalado en el estadio de béisbol Smith's Ballpark de Utah.</desc>
-  </programme>
-  <programme start="20261018220000 +0200" stop="20261018230000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en pista</title>
-    <desc>El Mundial de ciclismo en pista llega a su 123.ª edición. Del 14 al 18 de octubre, el Velódromo de Chongming en Shanghái, acoge el evento. Reúne a los mejores especialistas del planeta para disputar un total de 22 títulos mundiales (11 masculinos y 11 femeninos).</desc>
-  </programme>
-  <programme start="20261018230000 +0200" stop="20261019000000 +0200" channel="Eurosport.2.es">
-    <title>Maratón de Ámsterdam</title>
-    <desc>El TCS Amsterdam Marathon se celebra el 18 de octubre en la capital de los Países Bajos. Con salida y meta en el histórico Estadio Olímpico, destaca por su circuito extremadamente llano y rápido, ideal para buscar récords personales.</desc>
-  </programme>
-  <programme start="20261019000000 +0200" stop="20261019013000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261019013000 +0200" stop="20261019023000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261019023000 +0200" stop="20261019040000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261019040000 +0200" stop="20261019050000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261019050000 +0200" stop="20261019070000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261019070000 +0200" stop="20261019083000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261019083000 +0200" stop="20261019103000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261019103000 +0200" stop="20261019120000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261019120000 +0200" stop="20261019140000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261019140000 +0200" stop="20261019153000 +0200" channel="Eurosport.2.es">
-    <title>Maratón de Ámsterdam</title>
-    <desc>El TCS Amsterdam Marathon se celebra el 18 de octubre en la capital de los Países Bajos. Con salida y meta en el histórico Estadio Olímpico, destaca por su circuito extremadamente llano y rápido, ideal para buscar récords personales.</desc>
-  </programme>
-  <programme start="20261019153000 +0200" stop="20261019173000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261019173000 +0200" stop="20261019200000 +0200" channel="Eurosport.2.es">
-    <title>6 Horas de Barcelona - Mundial de Resistencia de la FIA</title>
-    <desc>Las 6 Horas de Barcelona debutan del 16 al 18 de octubre en el Circuit de Barcelona-Catalunya como penúltima cita del Mundial de Resistencia FIA WEC. Esta prueba resulta clave para definir los títulos de las categorías Hypercar y LMGT3.</desc>
-  </programme>
-  <programme start="20261019200000 +0200" stop="20261019220000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261019220000 +0200" stop="20261020000000 +0200" channel="Eurosport.2.es">
-    <title>6 Horas de Barcelona - Mundial de Resistencia de la FIA</title>
-    <desc>Las 6 Horas de Barcelona debutan del 16 al 18 de octubre en el Circuit de Barcelona-Catalunya como penúltima cita del Mundial de Resistencia FIA WEC. Esta prueba resulta clave para definir los títulos de las categorías Hypercar y LMGT3.</desc>
-  </programme>
-  <programme start="20261020000000 +0200" stop="20261020013000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261020013000 +0200" stop="20261020023000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261020023000 +0200" stop="20261020040000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261020040000 +0200" stop="20261020050000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261020050000 +0200" stop="20261020070000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261020070000 +0200" stop="20261020083000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261020083000 +0200" stop="20261020103000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261020103000 +0200" stop="20261020120000 +0200" channel="Eurosport.2.es">
-    <title>Abierto de Irlanda del Norte de snooker</title>
-    <desc>El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
-  </programme>
-  <programme start="20261020120000 +0200" stop="20261020140000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261020140000 +0200" stop="20261020153000 +0200" channel="Eurosport.2.es">
-    <title>Longines Global Champions Tour - Roma</title>
-    <desc>Roma se transforma en uno de los picaderos ecuestres más desafiantes y espectaculares del planeta. Reúne a la élite mundial de jinetes y caballos en pruebas de máxima exigencia individual y por equipos.</desc>
-  </programme>
-  <programme start="20261020153000 +0200" stop="20261020173000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261020173000 +0200" stop="20261020183000 +0200" channel="Eurosport.2.es">
-    <title>Maratón de Ámsterdam</title>
-    <desc>El TCS Amsterdam Marathon se celebra el 18 de octubre en la capital de los Países Bajos. Con salida y meta en el histórico Estadio Olímpico, destaca por su circuito extremadamente llano y rápido, ideal para buscar récords personales.</desc>
-  </programme>
-  <programme start="20261020183000 +0200" stop="20261020200000 +0200" channel="Eurosport.2.es">
-    <title>Longines Global Champions Tour - Roma</title>
-    <desc>Roma se transforma en uno de los picaderos ecuestres más desafiantes y espectaculares del planeta. Reúne a la élite mundial de jinetes y caballos en pruebas de máxima exigencia individual y por equipos.</desc>
-  </programme>
-  <programme start="20261020200000 +0200" stop="20261020220000 +0200" channel="Eurosport.2.es">
-    <title>Mundial de ciclismo en carretera</title>
-    <desc>Montreal se viste de arcoíris con el Mundial de Ciclismo en carretera. Del 20 al 27 de septiembre, cerca de mil ciclistas pelean por 13 títulos en contrarreloj, ruta y relevos mixtos. El exigente circuito del Mont-Royal pone a prueba a pelotones júnior, sub-23 y élite.</desc>
-  </programme>
-  <programme start="20261017133500 +0200" stop="20261017154500 +0200" channel="GOL.PLAY.es">
-    <title>Superliga china</title>
-    <desc>Yunnan Yukun - Chongqing Tongliang Long.</desc>
   </programme>
   <programme start="20261017154500 +0200" stop="20261017160000 +0200" channel="GOL.PLAY.es">
     <title>Resúmenes LaLiga EA Sports</title>
@@ -2654,11 +2367,6 @@
   <programme start="20261021233000 +0200" stop="20261022033000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA TV HYPERMOTION</title>
   </programme>
-  <programme start="20261017143900 +0200" stop="20261017153700 +0200" channel="M+.Acción.es">
-    <title>Tom Cruise, de oficio estrella</title>
-    <desc>Tom Cruise es una metáfora viviente, el más puro ejemplo del hombre americano hecho a sí mismo: un chico pobre y disléxico que pasó por más de quince escuelas en catorce años y ha logrado convertirse en el actor más importante de su generación.</desc>
-    <category>Documentales</category>
-  </programme>
   <programme start="20261017153700 +0200" stop="20261017175600 +0200" channel="M+.Acción.es">
     <title>Kingsman: El círculo de oro</title>
     <desc>Eggsy -convertido en el nuevo Galahad del ultrasecreto servicio de inteligencia británico independiente conocida como Kingsman- es atacado a la salida de la no menos ultrasecreta sede de la organización por Charlie Hesketh, un antiguo aspirante a Kingsman que finalmente fue rechazado. El hecho de no matar a Eggsy, a pesar de que el entrenamiento de Charlie se lo hubiera permitido, hace pensar a Merlín y al resto de los Kingsman que el ataque tenía otras intenciones.</desc>
@@ -2909,417 +2617,6 @@
     <desc>Bienvenidos a la Ciudad del pecado, llena de policías corruptos, atractivas damas y vigilantes desesperados. Unos están buscando venganza, otros, redención, y los hay que buscan ambas cosas.</desc>
     <category>Cine</category>
   </programme>
-  <programme start="20261017151000 +0200" stop="20261017171900 +0200" channel="M+.Deportes.2.es">
-    <title>Torneo de Shanghai: Zverev - Davidovich</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017171900 +0200" stop="20261017181300 +0200" channel="M+.Deportes.2.es">
-    <title>Lo mejor de Indycar</title>
-    <desc>Breve resumen de la 110 edición de las 500 millas de Indianápolis, séptima cita de la temporada del IndyCar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017181300 +0200" stop="20261017184000 +0200" channel="M+.Deportes.2.es">
-    <title>World of free sports</title>
-    <desc>El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017184000 +0200" stop="20261017202900 +0200" channel="M+.Deportes.2.es">
-    <title>MLB: Cleveland Guardians - Tampa Bay Rays</title>
-    <desc>Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante de la temporada, las World Series, que enfrenta a los campeones de cada Liga al mejor de siete partidos.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017202900 +0200" stop="20261017205500 +0200" channel="M+.Deportes.2.es">
-    <title>Vela Panorama</title>
-    <desc>Las mejores competiciones vinculadas a la vela y el mar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017205500 +0200" stop="20261017231500 +0200" channel="M+.Deportes.2.es">
-    <title>Investec Champions Cup: Munster - Racing 92</title>
-    <desc>Munster y Racing 92 abren su concurso en la Investec Champions Cup 26-27 con un duelo vibrante en Cork.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017231500 +0200" stop="20261018060000 +0200" channel="M+.Deportes.2.es">
-    <title>M+  Deportes 2</title>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018060000 +0200" stop="20261018080000 +0200" channel="M+.Deportes.2.es">
-    <title>M+  Deportes 2</title>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018080000 +0200" stop="20261018103000 +0200" channel="M+.Deportes.2.es">
-    <title>M+  Deportes 2</title>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018103000 +0200" stop="20261018133000 +0200" channel="M+.Deportes.2.es">
-    <title>Torneo de Shanghai: Davidovich - Jodar</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018133000 +0200" stop="20261018150000 +0200" channel="M+.Deportes.2.es">
-    <title>M+  Deportes 2</title>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018150000 +0200" stop="20261018170000 +0200" channel="M+.Deportes.2.es">
-    <title>Premier Padel. Milán: Final Femenina</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018170000 +0200" stop="20261018200000 +0200" channel="M+.Deportes.2.es">
-    <title>Premier Padel. Milán: Final Masculina</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018200000 +0200" stop="20261019030000 +0200" channel="M+.Deportes.2.es">
-    <title>M+  Deportes 2</title>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019030000 +0200" stop="20261019080000 +0200" channel="M+.Deportes.2.es">
-    <title>M+  Deportes 2</title>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019080000 +0200" stop="20261019200000 +0200" channel="M+.Deportes.2.es">
-    <title>M+ Deportes 2</title>
-  </programme>
-  <programme start="20261019200000 +0200" stop="20261020000000 +0200" channel="M+.Deportes.2.es">
-    <title>M+ Deportes 2</title>
-  </programme>
-  <programme start="20261020000000 +0200" stop="20261020120000 +0200" channel="M+.Deportes.2.es">
-    <title>M+ Deportes 2</title>
-  </programme>
-  <programme start="20261020120000 +0200" stop="20261021000000 +0200" channel="M+.Deportes.2.es">
-    <title>M+ Deportes 2</title>
-  </programme>
-  <programme start="20261017140000 +0200" stop="20261017153700 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Triay/Brea - Sánchez/Ustero</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017153700 +0200" stop="20261017171800 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Tapia/Coello - Stupaczuk/Sanz</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017171800 +0200" stop="20261017173300 +0200" channel="M+.Deportes.es">
-    <title>Lo mejor de Indycar</title>
-    <desc>Breve resumen de la 110 edición de las 500 millas de Indianápolis, séptima cita de la temporada del IndyCar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017173300 +0200" stop="20261017180000 +0200" channel="M+.Deportes.es">
-    <title>Planeta Tenis</title>
-    <desc>Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017180000 +0200" stop="20261017200600 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Fernández/Calvo - Josemaría/González</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017200600 +0200" stop="20261017220000 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Augsburger/Lebron - Galán/Chingotto</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017220000 +0200" stop="20261018000900 +0200" channel="M+.Deportes.es">
-    <title>Torneo de Shanghai: Zverev - Davidovich</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018000900 +0200" stop="20261018020000 +0200" channel="M+.Deportes.es">
-    <title>Torneo de Shanghai: Jódar - Medvedev</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018020000 +0200" stop="20261018023000 +0200" channel="M+.Deportes.es">
-    <title>Planeta Tenis</title>
-    <desc>Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018023000 +0200" stop="20261018042300 +0200" channel="M+.Deportes.es">
-    <title>Investec Champions Cup: Munster - Racing 92</title>
-    <desc>Munster y Racing 92 abren su concurso en la Investec Champions Cup 26-27 con un duelo vibrante en Cork.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018042300 +0200" stop="20261018060400 +0200" channel="M+.Deportes.es">
-    <title>Liga Iberdrola de Rugby: Rialta Crat. Coruña - Cajasol Sevilla Cocos</title>
-    <desc>Duelo de la segunda jornada de la Liga Iberdrola de rugby femenino que mide en tierras gallegas a Rialta CRAT Coruña y Cajasol Sevilla Cocos. Los dos empataron a puntos la pasada temporada y fue el equipo coruñés quien acabó cuarto para disputar las semifinales por el título.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018060400 +0200" stop="20261018063500 +0200" channel="M+.Deportes.es">
-    <title>Eurofighters</title>
-    <desc>Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018063500 +0200" stop="20261018065400 +0200" channel="M+.Deportes.es">
-    <title>VKS</title>
-    <desc>Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018065400 +0200" stop="20261018080000 +0200" channel="M+.Deportes.es">
-    <title>Cto. del Mundo de Motociclismo Femenino: Jeréz. Carrera 1</title>
-    <desc>Primera carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de los 6 circuitos que componen el calendario.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018080000 +0200" stop="20261018082500 +0200" channel="M+.Deportes.es">
-    <title>Vela Panorama</title>
-    <desc>Las mejores competiciones vinculadas a la vela y el mar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018082500 +0200" stop="20261018103000 +0200" channel="M+.Deportes.es">
-    <title>Euroliga de baloncesto: Real Madrid - ASVEL</title>
-    <desc>El Real Madrid (2-3) recibe en el Movistar Arena al ASVEL (2-3) de Tony Parker. Los Blancos vienen de ganar en Milán y buscan su 3ª victoria consecutiva. El equipo galo cayó en casa contra Estrella Roja en el último segundo. Tras perder los 3 primeros partidos los de Pedro Martínez han reconducido el rumbo gracias al gran juego de sus tres bases, Campazzo, Feliz y Maledon. Por ASVEL, hay que prestar mucha atención a Mills, Besson y Both Gach.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018103000 +0200" stop="20261018110000 +0200" channel="M+.Deportes.es">
-    <title>Eurofighters</title>
-    <desc>Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018110000 +0200" stop="20261018143000 +0200" channel="M+.Deportes.es">
-    <title>Las Carreras</title>
-    <desc>Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos. Las temporadas de primavera, otoño y las carreras nocturnas.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018143000 +0200" stop="20261018152500 +0200" channel="M+.Deportes.es">
-    <title>Lo mejor de Indycar</title>
-    <desc>Repaso de la temporada 2026 en el IndyCar en la que el español Álex Palou logró defender con éxito el título y conseguía su quinta corona, cuarta consecutiva.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018152500 +0200" stop="20261018155000 +0200" channel="M+.Deportes.es">
-    <title>Vuelta Cicloturista a Ibiza</title>
-    <desc>Vuelta Cicloturista a Ibiza.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018155000 +0200" stop="20261018161000 +0200" channel="M+.Deportes.es">
-    <title>VKS</title>
-    <desc>Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018161000 +0200" stop="20261018182500 +0200" channel="M+.Deportes.es">
-    <title>Investec Champions Cup: Stade Toulousain - Exeter Chiefs</title>
-    <desc>Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018182500 +0200" stop="20261018191500 +0200" channel="M+.Deportes.es">
-    <title>Cto. del Mundo de Motociclismo Femenino: Jeréz. Carrera 2</title>
-    <desc>Segunda carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de los 6 circuitos que componen el calendario.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018191500 +0200" stop="20261018194500 +0200" channel="M+.Deportes.es">
-    <title>ATP Tour This Week</title>
-    <desc>ATP Tour This Week.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018194500 +0200" stop="20261018214500 +0200" channel="M+.Deportes.es">
-    <title>Rugby Test Matches Internationals: Australia - Nueva Zelanda</title>
-    <desc>Con su victoria en Eden Park, Nueva Zelanda retiene la Bledisloe Cup por 24º año consecutivo, pero ahora Australia quiere revancha en Sydney.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018214500 +0200" stop="20261019001500 +0200" channel="M+.Deportes.es">
-    <title>Torneo de Shanghai: Davidovich - Jodar</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019001500 +0200" stop="20261019003000 +0200" channel="M+.Deportes.es">
-    <title>Evasión TV</title>
-    <desc>Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todoslos deportes outdoor.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019003000 +0200" stop="20261019023000 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Final Femenina</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019023000 +0200" stop="20261019043000 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Final Masculina</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019043000 +0200" stop="20261019050000 +0200" channel="M+.Deportes.es">
-    <title>Vela Panorama</title>
-    <desc>Las mejores competiciones vinculadas a la vela y el mar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019050000 +0200" stop="20261019053000 +0200" channel="M+.Deportes.es">
-    <title>Planeta Tenis</title>
-    <desc>Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019053000 +0200" stop="20261019073000 +0200" channel="M+.Deportes.es">
-    <title>Investec Champions Cup: Stade Toulousain - Exeter Chiefs</title>
-    <desc>Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019073000 +0200" stop="20261019080000 +0200" channel="M+.Deportes.es">
-    <title>Vuelta Cicloturista a Ibiza</title>
-    <desc>Vuelta Cicloturista a Ibiza.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019080000 +0200" stop="20261019084500 +0200" channel="M+.Deportes.es">
-    <title>Cto. del Mundo de Motociclismo Femenino: Jeréz. Carrera 1</title>
-    <desc>Primera carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de los 6 circuitos que componen el calendario.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019084500 +0200" stop="20261019094500 +0200" channel="M+.Deportes.es">
-    <title>Cto. del Mundo de Motociclismo Femenino: Jeréz. Carrera 2</title>
-    <desc>Segunda carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de los 6 circuitos que componen el calendario.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019094500 +0200" stop="20261019114500 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Final Masculina</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019114500 +0200" stop="20261019134500 +0200" channel="M+.Deportes.es">
-    <title>Premier Padel. Milán: Final Femenina</title>
-    <desc>Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019134500 +0200" stop="20261019141500 +0200" channel="M+.Deportes.es">
-    <title>Eurofighters</title>
-    <desc>Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019141500 +0200" stop="20261019164500 +0200" channel="M+.Deportes.es">
-    <title>Torneo de Shanghai: Davidovich - Jodar</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019164500 +0200" stop="20261019170000 +0200" channel="M+.Deportes.es">
-    <title>Evasión TV</title>
-    <desc>Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todoslos deportes outdoor.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019170000 +0200" stop="20261019191500 +0200" channel="M+.Deportes.es">
-    <title>MLB: Cleveland Guardians - Tampa Bay Rays</title>
-    <desc>Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante de la temporada, las World Series, que enfrenta a los campeones de cada Liga al mejor de siete partidos.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019191500 +0200" stop="20261019210000 +0200" channel="M+.Deportes.es">
-    <title>NHL: Minnesota Wild - Columbus Blue Jackets</title>
-    <desc>La NHL (National Hockey League), regresa con su calendario oficial de 82 partidos, que disputan sus 32 equipos, empezando en octubre, finalizando en abril la temporada regular, disputándose los playoffs entre abril y mayo, para culminar con la final  -Stanley Cup-,  en junio.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019210000 +0200" stop="20261019213000 +0200" channel="M+.Deportes.es">
-    <title>Vela Panorama</title>
-    <desc>Las mejores competiciones vinculadas a la vela y el mar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019213000 +0200" stop="20261019220000 +0200" channel="M+.Deportes.es">
-    <title>World of free sports</title>
-    <desc>El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019220000 +0200" stop="20261019235000 +0200" channel="M+.Deportes.es">
-    <title>Investec Champions Cup: Stade Toulousain - Exeter Chiefs</title>
-    <desc>Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019235000 +0200" stop="20261020002000 +0200" channel="M+.Deportes.es">
-    <title>Eurofighters</title>
-    <desc>Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020002000 +0200" stop="20261020020500 +0200" channel="M+.Deportes.es">
-    <title>Liga Iberdrola de Rugby: Rialta Crat. Coruña - Cajasol Sevilla Cocos</title>
-    <desc>Duelo de la segunda jornada de la Liga Iberdrola de rugby femenino que mide en tierras gallegas a Rialta CRAT Coruña y Cajasol Sevilla Cocos. Los dos empataron a puntos la pasada temporada y fue el equipo coruñés quien acabó cuarto para disputar las semifinales por el título.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020020500 +0200" stop="20261020030500 +0200" channel="M+.Deportes.es">
-    <title>Lo mejor de Indycar</title>
-    <desc>Repaso de la temporada 2026 en el IndyCar en la que el español Álex Palou logró defender con éxito el título y conseguía su quinta corona, cuarta consecutiva.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020030500 +0200" stop="20261020050500 +0200" channel="M+.Deportes.es">
-    <title>Rugby Test Matches Internationals: Australia - Nueva Zelanda</title>
-    <desc>Con su victoria en Eden Park, Nueva Zelanda retiene la Bledisloe Cup por 24º año consecutivo, pero ahora Australia quiere revancha en Sydney.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020050500 +0200" stop="20261020070000 +0200" channel="M+.Deportes.es">
-    <title>Euroliga de baloncesto: FC Barcelona - Olympiacos</title>
-    <desc>Tras vencer al Maccabi sobre la bocina gracias al triple de Robinson, el Barça recibe al vigente campeón de Europa. El Olympiacos logró la proeza de remontar 28 puntos de desventaja en Valencia.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020070000 +0200" stop="20261020073000 +0200" channel="M+.Deportes.es">
-    <title>Planeta Tenis</title>
-    <desc>Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020073000 +0200" stop="20261020080000 +0200" channel="M+.Deportes.es">
-    <title>Vela Panorama</title>
-    <desc>Las mejores competiciones vinculadas a la vela y el mar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020080000 +0200" stop="20261020081500 +0200" channel="M+.Deportes.es">
-    <title>Lo mejor de la Diamond League</title>
-    <desc>Repasamos los momentos más destacados y las mejores imágenes de las 14 citas de la temporada de Diamond League: desde Doha hasta Bruselas.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020081500 +0200" stop="20261020100000 +0200" channel="M+.Deportes.es">
-    <title>NHL: Minnesota Wild - Columbus Blue Jackets</title>
-    <desc>La NHL (National Hockey League), regresa con su calendario oficial de 82 partidos, que disputan sus 32 equipos, empezando en octubre, finalizando en abril la temporada regular, disputándose los playoffs entre abril y mayo, para culminar con la final  -Stanley Cup-,  en junio.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020100000 +0200" stop="20261020115500 +0200" channel="M+.Deportes.es">
-    <title>Euroliga de baloncesto: FC Barcelona - Olympiacos</title>
-    <desc>Tras vencer al Maccabi sobre la bocina gracias al triple de Robinson, el Barça recibe al vigente campeón de Europa. El Olympiacos logró la proeza de remontar 28 puntos de desventaja en Valencia.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020115500 +0200" stop="20261020122500 +0200" channel="M+.Deportes.es">
-    <title>Vela Panorama</title>
-    <desc>Las mejores competiciones vinculadas a la vela y el mar.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020122500 +0200" stop="20261020142500 +0200" channel="M+.Deportes.es">
-    <title>Investec Champions Cup: Stade Toulousain - Exeter Chiefs</title>
-    <desc>Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020142500 +0200" stop="20261020153000 +0200" channel="M+.Deportes.es">
-    <title>Vamos al Frontón: Laso / Peña II</title>
-    <desc>El Cuatro y Medio en marcha. Laso y Peña II se miden en el primer partido de la Liga de Cuartos de Final en el Frontón Bizkaia de Bilbao. Dos pelotaris agresivos, físicos y que saben del valor de empezar ganando. ¿Quién sumará el primer punto?</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020153000 +0200" stop="20261020174500 +0200" channel="M+.Deportes.es">
-    <title>MLB: Cleveland Guardians - Tampa Bay Rays</title>
-    <desc>Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante de la temporada, las World Series, que enfrenta a los campeones de cada Liga al mejor de siete partidos.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020174500 +0200" stop="20261020200000 +0200" channel="M+.Deportes.es">
-    <title>Torneo de Shanghai: Davidovich - Jodar</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020200000 +0200" stop="20261020220000 +0200" channel="M+.Deportes.es">
-    <title>Rugby Test Matches Internationals: Australia - Nueva Zelanda</title>
-    <desc>Con su victoria en Eden Park, Nueva Zelanda retiene la Bledisloe Cup por 24º año consecutivo, pero ahora Australia quiere revancha en Sydney.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020220000 +0200" stop="20261020230000 +0200" channel="M+.Deportes.es">
-    <title>Highlights ATP</title>
-    <desc>Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020230000 +0200" stop="20261020233000 +0200" channel="M+.Deportes.es">
-    <title>World of free sports</title>
-    <desc>El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261020233000 +0200" stop="20261021000000 +0200" channel="M+.Deportes.es">
-    <title>Planeta Tenis</title>
-    <desc>Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261021000000 +0200" stop="20261021052500 +0200" channel="M+.Deportes.es">
-    <title>Professional Fighters League: Velada completa Chicago</title>
-    <desc>Las World Series of Fighting son una promotora de artes marciales mixtas auspiciada por la NBC. La velada 35 se celebra en el Turning Stone Resort Casino de Verona, en Nueva York. Destacan los combates entre Ivanov y Jordan; Palmer vs Harrison; o Magomedov vs Frelow.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261021052500 +0200" stop="20261021054500 +0200" channel="M+.Deportes.es">
-    <title>Vuelta Cicloturista a Ibiza</title>
-    <desc>Vuelta Cicloturista a Ibiza.</desc>
-    <category>Deportes</category>
-  </programme>
   <programme start="20261017150800 +0200" stop="20261017173300 +0200" channel="M+.Drama.es">
     <title>El reino de los cielos</title>
     <desc>Corre el año 1186. Godofredo de Ibelin, caballero comprometido con el mantenimiento de la paz en Tierra Santa, emprende la búsqueda de su hijo ilegítimo Balian, joven herrero francés, al que encuentra roto de dolor por la muerte de su mujer y su hijo.</desc>
@@ -3547,93 +2844,6 @@
     <title>Cine, registro vivo de nuestra memoria</title>
     <desc>En plena era digital, a menudo damos por sentado nuestro patrimonio audiovisual, pero gran parte de la historia del cine se ha perdido. ¿Cómo es posible seguir viendo películas filmadas hace más de un siglo?</desc>
     <category>Documentales</category>
-  </programme>
-  <programme start="20261017150000 +0200" stop="20261017203000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
-    <desc>M+ LALIGA HDR.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017203000 +0200" stop="20261017205400 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>La Casa del Fútbol Previa</title>
-    <desc>Previa Liga Española. 1ª División.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017205400 +0200" stop="20261017230000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>LALIGA EA SPORTS: Valencia CF - Athletic Club</title>
-    <desc>El Valencia busca su segunda victoria del curso en el estreno de Javier Aguirre en Mestalla como técnico del conjunto ché. El Athlétic llega con una racha de cuatro partidos invicto.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261017230000 +0200" stop="20261018001000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>DeportePlus</title>
-    <desc>El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018001000 +0200" stop="20261018080000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
-    <desc>M+ LALIGA HDR.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018080000 +0200" stop="20261018133000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
-    <desc>M+ LALIGA HDR.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018133000 +0200" stop="20261018135400 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>La Casa del Fútbol Previa</title>
-    <desc>Previa Liga Española. 1ª División.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018135400 +0200" stop="20261018160000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>LALIGA EA SPORTS: CA Osasuna - R. Racing Club</title>
-    <desc>Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018160000 +0200" stop="20261018180000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>La Casa del Fútbol Post</title>
-    <desc>Postpartido Liga.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018180000 +0200" stop="20261018182400 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>La Casa del Fútbol Previa</title>
-    <desc>Previa Liga Española. 1ª División.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018182400 +0200" stop="20261018203000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>LALIGA EA SPORTS: Málaga CF - Real Sociedad</title>
-    <desc>El Málaga, colista, busca su primera victoria de la temporada.Enfrente una Real Sociedad qeu viene de jugar en Europa, y lleva dos victorias consecutivas en Liga.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018203000 +0200" stop="20261018205400 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>La Casa del Fútbol Previa</title>
-    <desc>Previa Liga Española. 1ª División.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018205400 +0200" stop="20261018230000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>LALIGA EA SPORTS: Real Madrid - Sevilla FC</title>
-    <desc>Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261018230000 +0200" stop="20261019001000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>DeportePlus con Juanma Castaño</title>
-    <desc>Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño. Las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019001000 +0200" stop="20261019080000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
-    <desc>M+ LALIGA HDR.</desc>
-    <category>Deportes</category>
-  </programme>
-  <programme start="20261019080000 +0200" stop="20261019200000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
-  </programme>
-  <programme start="20261019200000 +0200" stop="20261020000000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
-  </programme>
-  <programme start="20261020000000 +0200" stop="20261020120000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
-  </programme>
-  <programme start="20261020120000 +0200" stop="20261021000000 +0200" channel="M+.LALIGA.TV.UHD.es">
-    <title>M+ LALIGA HDR</title>
   </programme>
   <programme start="20261017152000 +0200" stop="20261017163000 +0200" channel="Primera.Federación.es">
     <title>Resúmenes Primera Federación</title>
@@ -4272,10 +3482,6 @@
     <title>Lazos mortales - Temporada 2</title>
     <desc>Hallan el cadáver de una estudiante en Silesia; Anka descubre que la víctima era una de sus alumnas.</desc>
     <category>Series</category>
-  </programme>
-  <programme start="20261017134200 +0200" stop="20261017154200 +0200" channel="SkyShowtime.es">
-    <title>Donde reside el amor</title>
-    <desc>Finn, una estudiante graduada en Berkeley, va a pasar el verano con su abuela y su tía abuela. Finn quiere aprovechar sus vacaciones para llevar a cabo dos cosas: escribir su tesis sobre el trabajo manual de las mujeres en las culturas tribales y decidir si acepta la proposición de matrimonio de su novio Sam. En las reuniones de bordadoras de 'quilts', una forma tradicional de colcha americana hecha con trozos de telas de diferentes colores y texturas, Finn conoce a un grupo de mujeres que le aportan sus experiencias sobre la vida. Este primer largometraje de producción americana de la realizadora australiana Jocelyn Moorhouse ('La prueba', 'Heredarás la tierra') es la adaptación de la novela de la escritora americana Whitney Otto, publicada en Estados Unidos en 1991 y editada en España con el título de 'Coser y cantar'. Se trata de una cinta romántica protagonizada por una Winona Ryder en pleno apogeo de su fama tras su paso por 'Reality Bites'. Está acompañada por un impresionante reparto de actrices (Anne Bancroft, Ellen Burstyn, Jean Simmons, Samantha Mathis, Claire Danes...), que se convierten en la principal baza de la cinta.</desc>
   </programme>
   <programme start="20261017154200 +0200" stop="20261017160100 +0200" channel="SkyShowtime.es">
     <title>Cocinar con vino</title>
@@ -120800,6 +120006,812 @@
     <title>M+ Liga de Campeones 3</title>
     <desc>· Programa por determinar...</desc>
   </programme>
+  <programme start="20261018060400 +0200" stop="20261018063500 +0200" channel="M+ Deportes HD">
+    <title>Eurofighters T26/27 E4</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
+· País: España
+· Presenta: Sara Giménez.</desc>
+  </programme>
+  <programme start="20261018063500 +0200" stop="20261018065400 +0200" channel="M+ Deportes HD">
+    <title>VKS T2026 E266</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
+  </programme>
+  <programme start="20261018065400 +0200" stop="20261018080000 +0200" channel="M+ Deportes HD">
+    <title>Cto. del Mundo de Motociclismo Femenino T2026 · Jeréz (Circuito Ángel Nieto). Carrera 1</title>
+    <desc>Deportes,Motor | 2026
+· Primera carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de los 6 circuitos.</desc>
+  </programme>
+  <programme start="20261018080000 +0200" stop="20261018082500 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Motonáutica Mazarrón Mundial De Fly Sky</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+  </programme>
+  <programme start="20261018082500 +0200" stop="20261018103000 +0200" channel="M+ Deportes HD">
+    <title>Euroliga de baloncesto T26/27 · Jornada 6: Real Madrid - ASVEL</title>
+    <desc>Deportes,Baloncesto | 2026 | TP
+· El Real Madrid (2-3) recibe en el Movistar Arena al ASVEL (2-3) de Tony Parker. Los Blancos vienen de ganar en Milán y buscan su 3ª victoria consecutiva. El equipo galo cayó en casa contra Estrella Roja en el último segundo.
+· País: España</desc>
+  </programme>
+  <programme start="20261018103000 +0200" stop="20261018110000 +0200" channel="M+ Deportes HD">
+    <title>Eurofighters T26/27 E4</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
+· País: España
+· Presenta: Sara Giménez.</desc>
+  </programme>
+  <programme start="20261018110000 +0200" stop="20261018143000 +0200" channel="M+ Deportes HD">
+    <title>Las Carreras T2026 · Hipódromo de La Zarzuela 18/10/2026</title>
+    <desc>Deportes,Hípica | 2026 | TP
+· Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos.</desc>
+  </programme>
+  <programme start="20261018143000 +0200" stop="20261018152500 +0200" channel="M+ Deportes HD">
+    <title>Lo mejor de Indycar T2026 · Resumen Temporada</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Repaso de la temporada 2026 en el IndyCar en la que el español Álex Palou logró defender con éxito el título y conseguía su quinta corona, cuarta consecutiva. La competición se prolongó a lo largo de 7 meses y tuvo un total de 18 carreras en trazados.
+· País: España</desc>
+  </programme>
+  <programme start="20261018152500 +0200" stop="20261018155000 +0200" channel="M+ Deportes HD">
+    <title>Vuelta Cicloturista a Ibiza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+· Vuelta Cicloturista a Ibiza.</desc>
+  </programme>
+  <programme start="20261018155000 +0200" stop="20261018161000 +0200" channel="M+ Deportes HD">
+    <title>VKS T2026 E266</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
+  </programme>
+  <programme start="20261018161000 +0200" stop="20261018182500 +0200" channel="M+ Deportes HD">
+    <title>DIRECTO Jornada 1: Stade Toulousain - Exeter Chiefs T26/27 · Investec Champions Cup</title>
+    <desc>Deportes,Rugby | 2026 | TP | *8.0/10
+· Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.
+· País: Francia</desc>
+  </programme>
+  <programme start="20261018182500 +0200" stop="20261018191500 +0200" channel="M+ Deportes HD">
+    <title>Cto. del Mundo de Motociclismo Femenino T2026 · Jeréz (Circuito Ángel Nieto). Carrera 2</title>
+    <desc>Deportes,Motor | 2026
+· Segunda carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+  </programme>
+  <programme start="20261018191500 +0200" stop="20261018194500 +0200" channel="M+ Deportes HD">
+    <title>ATP Tour This Week T2026 E40</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· ATP Tour This Week.</desc>
+  </programme>
+  <programme start="20261018194500 +0200" stop="20261018214500 +0200" channel="M+ Deportes HD">
+    <title>Rugby Test Matches Internationals T2026 · Jornada 9: Australia - Nueva Zelanda</title>
+    <desc>Deportes,Rugby | TP
+· Con su victoria en Eden Park, Nueva Zelanda retiene la Bledisloe Cup por 24º año consecutivo, pero ahora Australia quiere revancha en Sydney.
+· País: &lt;span&gt;Selección de Australia&lt;/span&gt;</desc>
+  </programme>
+  <programme start="20261018214500 +0200" stop="20261019001500 +0200" channel="M+ Deportes HD">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+  </programme>
+  <programme start="20261019001500 +0200" stop="20261019003000 +0200" channel="M+ Deportes HD">
+    <title>Evasión TV T2026 · Triatlón de Formentera</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
+· País: España</desc>
+  </programme>
+  <programme start="20261019003000 +0200" stop="20261019023000 +0200" channel="M+ Deportes HD">
+    <title>Final Femenina: Sánchez/Ustero - Josemaría/González T2026 · Premier Padel. Milán</title>
+    <desc>Deportes,Pádel | 2026 | TP | *6.2/10
+· Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+  </programme>
+  <programme start="20261019023000 +0200" stop="20261019043000 +0200" channel="M+ Deportes HD">
+    <title>Final: Tapia/Coello - Augsburger/Lebron T2026 · Premier Padel. Milán</title>
+    <desc>Deportes,Pádel | 2026 | TP | *5.8/10
+· Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+  </programme>
+  <programme start="20261019043000 +0200" stop="20261019050000 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Marítimo Mahon Mundial Snipe</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+  </programme>
+  <programme start="20261019050000 +0200" stop="20261019053000 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E23</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261019053000 +0200" stop="20261019073000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 1: Stade Toulousain - Exeter Chiefs T26/27 · Investec Champions Cup</title>
+    <desc>Deportes,Rugby | 2026 | TP | *8.0/10
+· Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.
+· País: Francia</desc>
+  </programme>
+  <programme start="20261019073000 +0200" stop="20261019080000 +0200" channel="M+ Deportes HD">
+    <title>Vuelta Cicloturista a Ibiza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+· Vuelta Cicloturista a Ibiza.</desc>
+  </programme>
+  <programme start="20261019080000 +0200" stop="20261019084500 +0200" channel="M+ Deportes HD">
+    <title>Cto. del Mundo de Motociclismo Femenino T2026 · Jeréz (Circuito Ángel Nieto). Carrera 1</title>
+    <desc>Deportes,Motor | 2026
+· Primera carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de los 6 circuitos.</desc>
+  </programme>
+  <programme start="20261019084500 +0200" stop="20261019094500 +0200" channel="M+ Deportes HD">
+    <title>Cto. del Mundo de Motociclismo Femenino T2026 · Jeréz (Circuito Ángel Nieto). Carrera 2</title>
+    <desc>Deportes,Motor | 2026
+· Segunda carrera de la cita española del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+  </programme>
+  <programme start="20261019094500 +0200" stop="20261019114500 +0200" channel="M+ Deportes HD">
+    <title>Final: Tapia/Coello - Augsburger/Lebron T2026 · Premier Padel. Milán</title>
+    <desc>Deportes,Pádel | 2026 | TP | *5.8/10
+· Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+  </programme>
+  <programme start="20261019114500 +0200" stop="20261019134500 +0200" channel="M+ Deportes HD">
+    <title>Final Femenina: Sánchez/Ustero - Josemaría/González T2026 · Premier Padel. Milán</title>
+    <desc>Deportes,Pádel | 2026 | TP | *6.2/10
+· Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+  </programme>
+  <programme start="20261019134500 +0200" stop="20261019141500 +0200" channel="M+ Deportes HD">
+    <title>Eurofighters T26/27 E4</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
+· País: España
+· Presenta: Sara Giménez.</desc>
+  </programme>
+  <programme start="20261019141500 +0200" stop="20261019164500 +0200" channel="M+ Deportes HD">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+  </programme>
+  <programme start="20261019164500 +0200" stop="20261019170000 +0200" channel="M+ Deportes HD">
+    <title>Evasión TV T2026 · Triatlón de Formentera</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
+· País: España</desc>
+  </programme>
+  <programme start="20261019170000 +0200" stop="20261019191500 +0200" channel="M+ Deportes HD">
+    <title>MLB T2026 · Championship Series: Cleveland Guardians - Tampa Bay Rays (Partido 5)</title>
+    <desc>Deportes,Béisbol | 2026 | TP | *10.0/10
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261019191500 +0200" stop="20261019210000 +0200" channel="M+ Deportes HD">
+    <title>NHL T26/27 · Temporada Regular: Minnesota Wild - Columbus Blue Jackets</title>
+    <desc>Deportes,Hockey hielo | 2026 | TP | *5.4/10
+· La NHL (National Hockey League), regresa con su calendario oficial de 82 partidos, que disputan sus 32 equipos, empezando en octubre, finalizando en abril la temporada.</desc>
+  </programme>
+  <programme start="20261019210000 +0200" stop="20261019213000 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Motonáutica Mazarrón Mundial De Fly Sky</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+  </programme>
+  <programme start="20261019213000 +0200" stop="20261019220000 +0200" channel="M+ Deportes HD">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+  </programme>
+  <programme start="20261019220000 +0200" stop="20261019235000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 1: Stade Toulousain - Exeter Chiefs T26/27 · Investec Champions Cup</title>
+    <desc>Deportes,Rugby | 2026 | TP | *8.0/10
+· Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.
+· País: Francia</desc>
+  </programme>
+  <programme start="20261019235000 +0200" stop="20261020002000 +0200" channel="M+ Deportes HD">
+    <title>Eurofighters T26/27 E4</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
+· País: España
+· Presenta: Sara Giménez.</desc>
+  </programme>
+  <programme start="20261020002000 +0200" stop="20261020020500 +0200" channel="M+ Deportes HD">
+    <title>Liga Iberdrola de Rugby T26/27 · Jornada 2: Rialta Crat. Coruña - Cajasol Sevilla Cocos</title>
+    <desc>Deportes,Rugby | 2026 | TP
+· Duelo de la segunda jornada de la Liga Iberdrola de rugby femenino que mide en tierras gallegas a Rialta CRAT Coruña y Cajasol Sevilla Cocos. Los dos empataron a puntos la pasada temporada.Las coruñesas acabaron cuartas y disputaron las semifinales.</desc>
+  </programme>
+  <programme start="20261020020500 +0200" stop="20261020030500 +0200" channel="M+ Deportes HD">
+    <title>Lo mejor de Indycar T2026 · Resumen Temporada</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Repaso de la temporada 2026 en el IndyCar en la que el español Álex Palou logró defender con éxito el título y conseguía su quinta corona, cuarta consecutiva. La competición se prolongó a lo largo de 7 meses y tuvo un total de 18 carreras en trazados.
+· País: España</desc>
+  </programme>
+  <programme start="20261020030500 +0200" stop="20261020050500 +0200" channel="M+ Deportes HD">
+    <title>Rugby Test Matches Internationals T2026 · Jornada 9: Australia - Nueva Zelanda</title>
+    <desc>Deportes,Rugby | TP
+· Con su victoria en Eden Park, Nueva Zelanda retiene la Bledisloe Cup por 24º año consecutivo, pero ahora Australia quiere revancha en Sydney.
+· País: &lt;span&gt;Selección de Australia&lt;/span&gt;</desc>
+  </programme>
+  <programme start="20261020050500 +0200" stop="20261020070000 +0200" channel="M+ Deportes HD">
+    <title>Euroliga de baloncesto T26/27 · Jornada 6: FC Barcelona - Olympiacos</title>
+    <desc>Deportes,Baloncesto | 2026 | TP
+· Tras vencer al Maccabi sobre la bocina gracias al triple de Robinson, el Barça recibe al vigente campeón de Europa. El Olympiacos logró la proeza de remontar 28 puntos de desventaja en Valencia.
+· País: España</desc>
+  </programme>
+  <programme start="20261020070000 +0200" stop="20261020073000 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E23</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261020073000 +0200" stop="20261020080000 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Copa Del Rey de barcos de época</title>
+    <desc>Deportes,Programa deportes | TP | *6.2/10
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+  </programme>
+  <programme start="20261020080000 +0200" stop="20261020081500 +0200" channel="M+ Deportes HD">
+    <title>Lo mejor de la Diamond League T2026 · Zurich</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Repasamos los momentos más destacados y las mejores imágenes de las 14 citas de la temporada de Diamond League: desde Doha hasta Bruselas.
+· País: España</desc>
+  </programme>
+  <programme start="20261020081500 +0200" stop="20261020100000 +0200" channel="M+ Deportes HD">
+    <title>NHL T26/27 · Temporada Regular: Minnesota Wild - Columbus Blue Jackets</title>
+    <desc>Deportes,Hockey hielo | 2026 | TP | *5.4/10
+· La NHL (National Hockey League), regresa con su calendario oficial de 82 partidos, que disputan sus 32 equipos, empezando en octubre, finalizando en abril la temporada.</desc>
+  </programme>
+  <programme start="20261020100000 +0200" stop="20261020115500 +0200" channel="M+ Deportes HD">
+    <title>Euroliga de baloncesto T26/27 · Jornada 6: FC Barcelona - Olympiacos</title>
+    <desc>Deportes,Baloncesto | 2026 | TP
+· Tras vencer al Maccabi sobre la bocina gracias al triple de Robinson, el Barça recibe al vigente campeón de Europa. El Olympiacos logró la proeza de remontar 28 puntos de desventaja en Valencia.
+· País: España</desc>
+  </programme>
+  <programme start="20261020115500 +0200" stop="20261020122500 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Motonáutica Mazarrón Mundial De Fly Sky</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+  </programme>
+  <programme start="20261020122500 +0200" stop="20261020142500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 1: Stade Toulousain - Exeter Chiefs T26/27 · Investec Champions Cup</title>
+    <desc>Deportes,Rugby | 2026 | TP | *8.0/10
+· Stade Toulousain, el rey continental con 6 Copas de Europa en sus vitrinas, debuta en la Investec Champions Cup 26-27 con un atractivo choque en casa frente a Exeter Chiefs.
+· País: Francia</desc>
+  </programme>
+  <programme start="20261020142500 +0200" stop="20261020153000 +0200" channel="M+ Deportes HD">
+    <title>Vamos al Frontón T2026 · Laso / Peña II (Bilbo)</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El Cuatro y Medio en marcha. Laso y Peña II se miden en el primer partido de la Liga de Cuartos de Final en el Frontón Bizkaia de Bilbao. Dos pelotaris agresivos, físicos y que saben del valor de empezar ganando. ¿Quién sumará el primer punto?</desc>
+  </programme>
+  <programme start="20261020153000 +0200" stop="20261020174500 +0200" channel="M+ Deportes HD">
+    <title>MLB T2026 · Championship Series: Cleveland Guardians - Tampa Bay Rays (Partido 6)</title>
+    <desc>Deportes,Béisbol | 2026 | TP
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261020174500 +0200" stop="20261020200000 +0200" channel="M+ Deportes HD">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+  </programme>
+  <programme start="20261020200000 +0200" stop="20261020220000 +0200" channel="M+ Deportes HD">
+    <title>Rugby Test Matches Internationals T2026 · Jornada 9: Australia - Nueva Zelanda</title>
+    <desc>Deportes,Rugby | TP
+· Con su victoria en Eden Park, Nueva Zelanda retiene la Bledisloe Cup por 24º año consecutivo, pero ahora Australia quiere revancha en Sydney.
+· País: &lt;span&gt;Selección de Australia&lt;/span&gt;</desc>
+  </programme>
+  <programme start="20261020220000 +0200" stop="20261020230000 +0200" channel="M+ Deportes HD">
+    <title>Highlights ATP T2026 · Shanghai</title>
+    <desc>Deportes,Programa deportes | 2026 | *7.0/10
+· Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP.</desc>
+  </programme>
+  <programme start="20261020230000 +0200" stop="20261020233000 +0200" channel="M+ Deportes HD">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+  </programme>
+  <programme start="20261020233000 +0200" stop="20261021000000 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261021000000 +0200" stop="20261021052500 +0200" channel="M+ Deportes HD">
+    <title>Professional Fighters League T2026 · Chicago II: Velada completa Chicago</title>
+    <desc>Deportes,Artes marciales | 2026 | +18
+· Las World Series of Fighting son una promotora de artes marciales mixtas.
+· País: Estados Unidos</desc>
+  </programme>
+  <programme start="20261021052500 +0200" stop="20261021054500 +0200" channel="M+ Deportes HD">
+    <title>Vuelta Cicloturista a Ibiza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+· Vuelta Cicloturista a Ibiza.</desc>
+  </programme>
+  <programme start="20261021054500 +0200" stop="20261021080000 +0200" channel="M+ Deportes HD">
+    <title>MLB T2026 · Championship Series: Cleveland Guardians - Tampa Bay Rays (Partido 6)</title>
+    <desc>Deportes,Béisbol | 2026 | TP
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261021080000 +0200" stop="20261021083000 +0200" channel="M+ Deportes HD">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+  </programme>
+  <programme start="20261021083000 +0200" stop="20261021090000 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261021090000 +0200" stop="20261021114000 +0200" channel="M+ Deportes HD">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+  </programme>
+  <programme start="20261021114000 +0200" stop="20261021120000 +0200" channel="M+ Deportes HD">
+    <title>VKS T2026 E266</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
+  </programme>
+  <programme start="20261021120000 +0200" stop="20261021135500 +0200" channel="M+ Deportes HD">
+    <title>EuroCup T26/27 · Jornada 4: Kids&amp;Us Manresa - Roma</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261021135500 +0200" stop="20261021141500 +0200" channel="M+ Deportes HD">
+    <title>Vuelta Cicloturista a Ibiza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+· Vuelta Cicloturista a Ibiza.</desc>
+  </programme>
+  <programme start="20261021141500 +0200" stop="20261021151500 +0200" channel="M+ Deportes HD">
+    <title>Highlights ATP T2026 · Shanghai</title>
+    <desc>Deportes,Programa deportes | 2026 | *7.0/10
+· Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP.</desc>
+  </programme>
+  <programme start="20261021151500 +0200" stop="20261021171000 +0200" channel="M+ Deportes HD">
+    <title>Euroliga de baloncesto T26/27 · Jornada 6: Valencia Basket - Maccabi Tel Aviv</title>
+    <desc>Deportes,Baloncesto | 2026 | TP
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261021171000 +0200" stop="20261021172500 +0200" channel="M+ Deportes HD">
+    <title>Evasión TV T2026 · Ultra Trail Serra del Montsant</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
+· País: España</desc>
+  </programme>
+  <programme start="20261021172500 +0200" stop="20261021175500 +0200" channel="M+ Deportes HD">
+    <title>ATP Tour This Week T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *3.0/10
+· ATP Tour This Week.</desc>
+  </programme>
+  <programme start="20261021175500 +0200" stop="20261021195500 +0200" channel="M+ Deportes HD">
+    <title>NHL T26/27 · Temporada Regular: Washington Capitals - Los Angeles Kings</title>
+    <desc>Deportes,Hockey hielo | 2026 | TP
+· La NHL (National Hockey League), regresa con su calendario oficial de 82 partidos, que disputan sus 32 equipos, empezando en octubre, finalizando en abril la temporada.</desc>
+  </programme>
+  <programme start="20261021195500 +0200" stop="20261021221000 +0200" channel="M+ Deportes HD">
+    <title>MLB T2026 · Championship Series: Cleveland Guardians - Tampa Bay Rays (Partido 7)</title>
+    <desc>Deportes,Béisbol | 2026 | TP
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261021221000 +0200" stop="20261021223000 +0200" channel="M+ Deportes HD">
+    <title>En estado puro T2026 E30</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Únete a nosotros en un emocionante viaje a través de los deportes de acción y el turismo de aventura. En nuestro programa, los amantes de los deportes extremos y la naturaleza explorarán nuevos destinos de la mano de los mejores expertos.</desc>
+  </programme>
+  <programme start="20261021223000 +0200" stop="20261021230000 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Marítimo Mahon Mundial Snipe</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+  </programme>
+  <programme start="20261021230000 +0200" stop="20261022005500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 2: Athinaikos - Basket Zaragoza T26/27 · Euroliga femenina</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *8.0/10
+· Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.
+· País: España y Grecia</desc>
+  </programme>
+  <programme start="20261022005500 +0200" stop="20261022012500 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261022012500 +0200" stop="20261022032000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 4: Skyliners - La Laguna Tenerife T26/27 · EuroCup</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *9.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261022032000 +0200" stop="20261022051500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 4: Tortona - Burgos T26/27 · EuroCup</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261022051500 +0200" stop="20261022071000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 2: Valencia Basket - Flammes Carolo Basket T26/27 · Euroliga femenina</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.</desc>
+  </programme>
+  <programme start="20261022071000 +0200" stop="20261022073000 +0200" channel="M+ Deportes HD">
+    <title>VKS T2026 E266</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
+  </programme>
+  <programme start="20261022073000 +0200" stop="20261022080000 +0200" channel="M+ Deportes HD">
+    <title>ATP Tour This Week T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *3.0/10
+· ATP Tour This Week.</desc>
+  </programme>
+  <programme start="20261022080000 +0200" stop="20261022083000 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Motonáutica Mazarrón Mundial De Fly Sky</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+  </programme>
+  <programme start="20261022083000 +0200" stop="20261022102500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 4: Tortona - Burgos T26/27 · EuroCup</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261022102500 +0200" stop="20261022105500 +0200" channel="M+ Deportes HD">
+    <title>ATP Tour This Week T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *3.0/10
+· ATP Tour This Week.</desc>
+  </programme>
+  <programme start="20261022105500 +0200" stop="20261022125000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 4: Skyliners - La Laguna Tenerife T26/27 · EuroCup</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *9.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261022125000 +0200" stop="20261022132000 +0200" channel="M+ Deportes HD">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+  </programme>
+  <programme start="20261022132000 +0200" stop="20261022151000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 2: Athinaikos - Basket Zaragoza T26/27 · Euroliga femenina</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *8.0/10
+· Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.
+· País: España y Grecia</desc>
+  </programme>
+  <programme start="20261022151000 +0200" stop="20261022154000 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261022154000 +0200" stop="20261022173500 +0200" channel="M+ Deportes HD">
+    <title>NHL T26/27 · Temporada Regular: Washington Capitals - Los Angeles Kings</title>
+    <desc>Deportes,Hockey hielo | 2026 | TP
+· La NHL (National Hockey League), regresa con su calendario oficial de 82 partidos, que disputan sus 32 equipos, empezando en octubre, finalizando en abril la temporada.</desc>
+  </programme>
+  <programme start="20261022173500 +0200" stop="20261022180500 +0200" channel="M+ Deportes HD">
+    <title>Racing on the Edge T2026 E5</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
+· La SailGP es una competición náutica que enfrenta por países a los tripulantes de catamaranes F50. Este espacio muestra toda la información del certamen, con reportajes, entrevistas e imágenes espectaculares.</desc>
+  </programme>
+  <programme start="20261022180500 +0200" stop="20261022200000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 2: Valencia Basket - Flammes Carolo Basket T26/27 · Euroliga femenina</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.</desc>
+  </programme>
+  <programme start="20261022200000 +0200" stop="20261022220000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 4: Tortona - Burgos T26/27 · EuroCup</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261022220000 +0200" stop="20261022230000 +0200" channel="M+ Deportes HD">
+    <title>Highlights ATP T2026 · Shanghai</title>
+    <desc>Deportes,Programa deportes | 2026 | *7.0/10
+· Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP.</desc>
+  </programme>
+  <programme start="20261022230000 +0200" stop="20261023005500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Maccabi Tel Aviv - Real Madrid T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *8.0/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261023005500 +0200" stop="20261023025000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Panathinaikos - Baskonia T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261023025000 +0200" stop="20261023044500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Milan - FC Barcelona T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261023044500 +0200" stop="20261023050500 +0200" channel="M+ Deportes HD">
+    <title>VKS T2026 E266</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
+  </programme>
+  <programme start="20261023050500 +0200" stop="20261023070000 +0200" channel="M+ Deportes HD">
+    <title>EuroCup T26/27 · Jornada 4: Kids&amp;Us Manresa - Roma</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261023070000 +0200" stop="20261023080000 +0200" channel="M+ Deportes HD">
+    <title>Lo mejor de Indycar T2026 · Resumen Temporada</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Repaso de la temporada 2026 en el IndyCar en la que el español Álex Palou logró defender con éxito el título y conseguía su quinta corona, cuarta consecutiva. La competición se prolongó a lo largo de 7 meses y tuvo un total de 18 carreras en trazados.
+· País: España</desc>
+  </programme>
+  <programme start="20261023080000 +0200" stop="20261023083000 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261023083000 +0200" stop="20261023084000 +0200" channel="M+ Deportes HD">
+    <title>Evasión TV T2026 · Ultra Trail Serra del Montsant</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
+· País: España</desc>
+  </programme>
+  <programme start="20261023084000 +0200" stop="20261023105500 +0200" channel="M+ Deportes HD">
+    <title>MLB T2026 · Championship Series: Cleveland Guardians - Tampa Bay Rays (Partido 7)</title>
+    <desc>Deportes,Béisbol | 2026 | TP
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261023105500 +0200" stop="20261023111500 +0200" channel="M+ Deportes HD">
+    <title>En estado puro T2026 E30</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Únete a nosotros en un emocionante viaje a través de los deportes de acción y el turismo de aventura. En nuestro programa, los amantes de los deportes extremos y la naturaleza explorarán nuevos destinos de la mano de los mejores expertos.</desc>
+  </programme>
+  <programme start="20261023111500 +0200" stop="20261023131000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Efes - Besiktas T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261023131000 +0200" stop="20261023134000 +0200" channel="M+ Deportes HD">
+    <title>ATP Tour This Week T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *3.0/10
+· ATP Tour This Week.</desc>
+  </programme>
+  <programme start="20261023134000 +0200" stop="20261023153500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Partizan - Estrella Roja T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261023153500 +0200" stop="20261023160500 +0200" channel="M+ Deportes HD">
+    <title>World of free sports T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+  </programme>
+  <programme start="20261023160500 +0200" stop="20261023180000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 4: Tortona - Burgos T26/27 · EuroCup</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
+· País: España</desc>
+  </programme>
+  <programme start="20261023180000 +0200" stop="20261023190000 +0200" channel="M+ Deportes HD">
+    <title>Highlights ATP T2026 · Shanghai</title>
+    <desc>Deportes,Programa deportes | 2026 | *7.0/10
+· Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP.</desc>
+  </programme>
+  <programme start="20261023190000 +0200" stop="20261023205500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Panathinaikos - Baskonia T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261023205500 +0200" stop="20261023212000 +0200" channel="M+ Deportes HD">
+    <title>VKS T2026 E266</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Las mejores imágenes de los eventos deportivos nacionales e internacionales, entrevistas y seguimientos a los atletas del momento. Actualidad, dinamismo, fuerza y sobre todo, deportividad.</desc>
+  </programme>
+  <programme start="20261023212000 +0200" stop="20261023231500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Maccabi Tel Aviv - Real Madrid T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *8.0/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261023231500 +0200" stop="20261024011000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Milan - FC Barcelona T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261024011000 +0200" stop="20261024013000 +0200" channel="M+ Deportes HD">
+    <title>Lo mejor de la Diamond League T2026 · Bruselas II</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Repasamos los momentos más destacados y las mejores imágenes de las 14 citas de la temporada de Diamond League: desde Doha hasta Bruselas.
+· País: España</desc>
+  </programme>
+  <programme start="20261024013000 +0200" stop="20261024053000 +0200" channel="M+ Deportes HD">
+    <title>DIRECTO World Series 1 T2026 · MLB</title>
+    <desc>Deportes,Béisbol | 2026 | TP | *6.0/10
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261024053000 +0200" stop="20261024060000 +0200" channel="M+ Deportes HD">
+    <title>T26/27 E5 · Eurofighters</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
+· País: España
+· Presenta: Sara Giménez.</desc>
+  </programme>
+  <programme start="20261024060000 +0200" stop="20261024070000 +0200" channel="M+ Deportes HD">
+    <title>Lo mejor de Indycar T2026 · Resumen Temporada</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Repaso de la temporada 2026 en el IndyCar en la que el español Álex Palou logró defender con éxito el título y conseguía su quinta corona, cuarta consecutiva. La competición se prolongó a lo largo de 7 meses y tuvo un total de 18 carreras en trazados.
+· País: España</desc>
+  </programme>
+  <programme start="20261024070000 +0200" stop="20261024080000 +0200" channel="M+ Deportes HD">
+    <title>Highlights ATP T2026 · Shanghai</title>
+    <desc>Deportes,Programa deportes | 2026 | *7.0/10
+· Repaso de los mejores puntos, todas las imágenes y los grandes momentos de los torneos de ATP.</desc>
+  </programme>
+  <programme start="20261024080000 +0200" stop="20261024095500 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: Olympiacos - Fenerbahce T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261024095500 +0200" stop="20261024115000 +0200" channel="M+ Deportes HD">
+    <title>Jornada 7: París - Valencia Basket T26/27 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+· País: España</desc>
+  </programme>
+  <programme start="20261024115000 +0200" stop="20261024155000 +0200" channel="M+ Deportes HD">
+    <title>World Series 1 T2026 · MLB</title>
+    <desc>Deportes,Béisbol | 2026 | TP | *6.0/10
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261024155000 +0200" stop="20261024160500 +0200" channel="M+ Deportes HD">
+    <title>Evasión TV T2026 · Ultra Trail Serra del Montsant</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
+· País: España</desc>
+  </programme>
+  <programme start="20261024160500 +0200" stop="20261024180500 +0200" channel="M+ Deportes HD">
+    <title>Semifinales: Semifinal 1 T2026 · Torneo de Bruselas</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
+  </programme>
+  <programme start="20261024180500 +0200" stop="20261024200500 +0200" channel="M+ Deportes HD">
+    <title>Semifinales: Semifinal 2 T2026 · Torneo de Bruselas</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
+  </programme>
+  <programme start="20261024200500 +0200" stop="20261024203500 +0200" channel="M+ Deportes HD">
+    <title>ATP Tour This Week T2026 E41</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *3.0/10
+· ATP Tour This Week.</desc>
+  </programme>
+  <programme start="20261024203500 +0200" stop="20261024213000 +0200" channel="M+ Deportes HD">
+    <title>Informe Plus+. Nayanesh. Las cicatrices de un león</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
+· Nayanesh Ayman es mucho más que una leyenda del Muay Thai. El español de origen congoleño ha convertido su carrera en una lucha personal contra la violencia machista.
+· País: España</desc>
+  </programme>
+  <programme start="20261024213000 +0200" stop="20261024233000 +0200" channel="M+ Deportes HD">
+    <title>Semifinal 1 T2026 · Torneo de Lyon</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
+  </programme>
+  <programme start="20261024233000 +0200" stop="20261025013000 +0200" channel="M+ Deportes HD">
+    <title>Semifinal 2 T2026 · Torneo de Lyon</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
+  </programme>
+  <programme start="20261025013000 +0200" stop="20261025020000 +0200" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E24</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+  </programme>
+  <programme start="20261025020000 +0200" stop="20261025050000 +0100" channel="M+ Deportes HD">
+    <title>DIRECTO World Series 2 T2026 · MLB</title>
+    <desc>Deportes,Béisbol | 2026 | TP | *6.6/10
+· Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
+  </programme>
+  <programme start="20261018080000 +0200" stop="20261018103000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | TP | *6.0/10
+· M+ Deportes 2 -.</desc>
+  </programme>
+  <programme start="20261018103000 +0200" stop="20261018133000 +0200" channel="M+ Deportes 2 HD">
+    <title>Torneo de Shanghai T2026 · Final: Davidovich - Jodar</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+  </programme>
+  <programme start="20261018133000 +0200" stop="20261018150000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | TP | *6.0/10
+· M+ Deportes 2 -.</desc>
+  </programme>
+  <programme start="20261018150000 +0200" stop="20261018170000 +0200" channel="M+ Deportes 2 HD">
+    <title>DIRECTO Final Femenina: Sánchez/Ustero - Josemaría/González T2026 · Premier Padel. Milán</title>
+    <desc>Deportes,Pádel | 2026 | TP | *6.2/10
+· Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+  </programme>
+  <programme start="20261018170000 +0200" stop="20261018200000 +0200" channel="M+ Deportes 2 HD">
+    <title>DIRECTO Final: Tapia/Coello - Augsburger/Lebron T2026 · Premier Padel. Milán</title>
+    <desc>Deportes,Pádel | 2026 | TP | *5.8/10
+· Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+  </programme>
+  <programme start="20261018200000 +0200" stop="20261019030000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | TP | *6.0/10
+· M+ Deportes 2 -.</desc>
+  </programme>
+  <programme start="20261019030000 +0200" stop="20261019080000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | TP | *6.0/10
+· M+ Deportes 2 -.</desc>
+  </programme>
+  <programme start="20261019080000 +0200" stop="20261019200000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261019200000 +0200" stop="20261020000000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261020000000 +0200" stop="20261020120000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261020120000 +0200" stop="20261021000000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261021000000 +0200" stop="20261021120000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261021120000 +0200" stop="20261022000000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261022000000 +0200" stop="20261022120000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261022120000 +0200" stop="20261023000000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261023000000 +0200" stop="20261023120000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261023120000 +0200" stop="20261024000000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261024000000 +0200" stop="20261024080000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261024080000 +0200" stop="20261024140500 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | TP | *6.0/10
+· M+ Deportes 2 -.</desc>
+  </programme>
+  <programme start="20261024140500 +0200" stop="20261024160000 +0200" channel="M+ Deportes 2 HD">
+    <title>DIRECTO Semifinal 1 T2026 · Torneo de Lyon</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
+  </programme>
+  <programme start="20261024160000 +0200" stop="20261024183000 +0200" channel="M+ Deportes 2 HD">
+    <title>DIRECTO Semifinal 2 T2026 · Torneo de Lyon</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
+  </programme>
+  <programme start="20261024183000 +0200" stop="20261025013000 +0200" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | TP | *6.0/10
+· M+ Deportes 2 -.</desc>
+  </programme>
   <programme start="20261018080000 +0200" stop="20261018115000 +0200" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
     <desc>Deportes,Otros deportes | 2026 | TP | *5.8/10
@@ -157300,6 +157312,11 @@
   <programme start="20261025134900 +0100" stop="20261025143400 +0100" channel="Onetoro">
     <title>El pilar. Mayorales</title>
     <desc>+16</desc>
+  </programme>
+  <programme start="20261025143400 +0100" stop="20261025161800 +0100" channel="Onetoro">
+    <title>El Relicario</title>
+    <desc>Toros | +16
+· Mientras ve por televisión una corrida de toros en la que participa su hijo Luis, el matador Rafael Lucena muere de un infarto al descubrir en la plaza a Virginia, una mujer muy parecida a Soledad, el gran amor de su padre, que murió por su culpa tras una cogida en la Plaza de Las Ventas. Tanto Luis como su hermano Alejandro conocen a la cantante Virginia y se enamoran de ella. Pero cuando Luis sufre una grave cogida, empieza a sospechar que quizá Virginia atraiga la mala suerte.</desc>
   </programme>
   <programme start="20261018000000 +0200" stop="20261018003000 +0200" channel="Solidaria TV España">
     <title>Concierto Clásico</title>
