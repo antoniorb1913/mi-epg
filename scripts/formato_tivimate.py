@@ -122,14 +122,28 @@ def convertir(entrada: str, salida: str) -> tuple[int, int]:
         raiz.append(prog)
         escritos += 1
 
-    # Cabecera SIN DOCTYPE.
+    # Cabecera SIN DOCTYPE y con comillas dobles.
     #
-    # Ojo: <!DOCTYPE tv SYSTEM "xmltv.dtd"> hace que algunos parsers intenten
-    # descargar "xmltv.dtd" desde la misma URL, que no existe, y descarten el
-    # archivo entero. Los XMLTV que funcionan en TiviMate (por ejemplo los de
-    # EPG_dobleM) no llevan DOCTYPE, asi que tampoco lo ponemos.
+    # 1) <!DOCTYPE tv SYSTEM "xmltv.dtd"> hace que algunos parsers intenten
+    #    descargar "xmltv.dtd" desde la misma URL, que no existe, y descarten
+    #    el archivo entero. Los XMLTV que funcionan en TiviMate (por ejemplo
+    #    los de EPG_dobleM) no llevan DOCTYPE, asi que tampoco lo ponemos.
+    # 2) ElementTree escribe la declaracion con comillas simples:
+    #       <?xml version='1.0' encoding='UTF-8'?>
+    #    y el XMLTV de referencia usa comillas dobles. Es XML valido en ambos
+    #    casos, pero igualamos el formato del que sabemos que funciona.
     ET.indent(arbol, space="  ")
     arbol.write(salida, encoding="UTF-8", xml_declaration=True)
+
+    with open(salida, "rb") as fh:
+        contenido = fh.read().decode("utf-8")
+    contenido = contenido.replace(
+        "<?xml version='1.0' encoding='UTF-8'?>",
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        1,
+    )
+    with open(salida, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(contenido)
 
     # Version comprimida
     with open(salida, "rb") as fh, gzip.open(salida + ".gz", "wb", compresslevel=9) as gz:
