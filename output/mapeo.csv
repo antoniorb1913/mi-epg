@@ -189,7 +189,7 @@ M+ Estrenos;CINE;mestrenos;M+.Estrenos.es;M+ Estrenos;alias
 M+ Indie;CINE;mindie;M+.Indie.es;M+ Indie;alias
 M+ Originales HD;SERIES;moriginales;M+.Originales.es;M+ Originales;alias
 M+ SERIES HD;SERIES;mseries;M+.Originales.es;M+ Originales;alias
-STAR Channel;SERIES;starchannel;;;sin-guia
+STAR Channel;SERIES;starchannel;STAR Channel HD;STAR Channel;normalizado
 AMC HD;SERIES;amc;AMC.es;AMC;alias
 AMC BREAK;SERIES;amcbreak;AMC.Break.es;AMC Break;alias
 AMC CRIME;SERIES;amccrime;AMC.Break.es;AMC Break;alias

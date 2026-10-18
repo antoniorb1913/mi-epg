@@ -447,6 +447,10 @@
     <display-name>SERIES+ CIENCIA-FICCION</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/morig.png" />
   </channel>
+  <channel id="STAR Channel HD">
+    <display-name>STAR Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" />
+  </channel>
   <channel id="AMC.es">
     <display-name>AMC HD</display-name>
     <display-name>AMC</display-name>
@@ -6559,10 +6563,6 @@
   <programme start="20261020220000 +0200" stop="20261020235100 +0200" channel="COSMO.es">
     <title>Falsa seducción</title>
     <desc>Michael y Karen Carr forman una joven pareja de clase acomodada. Un día, llaman a la policía para denunciar un intento de robo en su lujosa residencia. El agente que les ayuda es Pete Davis, un hombre aparentemente afable que se introduce poco a poco en la vida de la feliz pareja.</desc>
-  </programme>
-  <programme start="20261017141900 +0200" stop="20261017151300 +0200" channel="Calle.13.es">
-    <title>Lucifer</title>
-    <desc>Un periodista busca venganza al enterarse de que Lucifer se ha acostado con su exmujer. Las cosas se ponen turbias cuando se descubre que Linda es la expareja del reportero. La reputación y seguridad de Lucifer corren peligro.</desc>
   </programme>
   <programme start="20261017151300 +0200" stop="20261017155800 +0200" channel="Calle.13.es">
     <title>Ley y Orden: Crimen organizado</title>
@@ -23203,11 +23203,6 @@
     <desc>Vuelta Cicloturista a Ibiza.</desc>
     <category>Deportes</category>
   </programme>
-  <programme start="20261017141800 +0200" stop="20261017151300 +0200" channel="M+.Documentales.es">
-    <title>Lola: La Faraona</title>
-    <desc>Esta serie de no ficción sobre la vida y la carrera de Lola Flores se construye a partir del testimonio que nos han dejado sus hijas, su hermana, sus amigos, sus investigadores y muchos de los artistas actuales de diversa índole que se han visto influenciados por su arte como Rosalía, Miguel Poveda, C. Tangana o Ara Malikian (entre otros muchos). Estas 44 entrevistas exclusivas se ilustran con un ingente material audiovisual y sonoro (Lola Flores rodó 42 películas y grabó 30 discos, sin mencionar todo el archivo televisivo y el papel que se conserva sobre ella), cuya localización, selección y tramitación de derechos ha supuesto uno de los grandes retos de la producción de esta serie. El resultado es el más rico y singular relato sobre esta artista que no dejó indiferente a nadie.</desc>
-    <category>Documentales</category>
-  </programme>
   <programme start="20261017151300 +0200" stop="20261017163500 +0200" channel="M+.Documentales.es">
     <title>El otro Chiquito</title>
     <desc>En 1995, España tenía un ídolo indiscutible: Chiquito de la Calzada. Su lenguaje invadía las calles, los platós y hasta los discursos oficiales. La sociedad española se rendía ante el humorista que revolucionó a una generación. Pero una noche, el programa más visto de la televisión privada decide dar un golpe maestro: presentar a Lucas Grijander, un personaje inquietantemente parecido a Chiquito. Tan parecido que pronto empieza a ocupar su lugar. Para Gregorio Sánchez, el hombre detrás del mito, aquello era una pesadilla. Tras años de lucha para alcanzar la fama, veía cómo le arrebataban su identidad ante millones de espectadores. Así comienza uno de los litigios más insólitos de la historia española: Chiquito contra Lucas Grijander, en una batalla judicial por algo que ya parecía pertenecer a todos. Una guerra por la propiedad de un fenómeno cultural… y por la supervivencia de un hombre.</desc>
@@ -34672,10 +34667,6 @@
     <title>Sueltos por Israel</title>
     <desc>Programas dinámicos sobre Israel con historia, cultura y fe, narrados con humor y pasión por Yosef Bacari. Descubre Tierra Santa de forma única y entretenida.</desc>
   </programme>
-  <programme start="20261017133300 +0200" stop="20261017151200 +0200" channel="Somos.es">
-    <title>Maribel y la extraña familia</title>
-    <desc>Tímido, inocente pero con un gran corazón, Marcelino, propietario de una fábrica de chocolates en un pueblo, se ha enamorado de Maribel, una chica alegre y divertida, a quien conoció mientras tomaba una copa en un bar. Seguro de su amor, quiere presentar a Maribel a su madre y su tía pero ni ellas ni Marcelino saben que Maribel trabajaba en una barra americana cuando se conocieron. Aunque tampoco Maribel sabe que Marcelino es viudo y su mujer murió ahogada en extrañas circunstancias... ¿Triunfará el amor ante tanto secreto?</desc>
-  </programme>
   <programme start="20261017151200 +0200" stop="20261017164500 +0200" channel="Somos.es">
     <title>El calzonazos</title>
     <desc>Juan es un padre de familia sin poder de decisión, hasta que se entera de que su hija se va a casar con el hijo de un conocido estafador. Entonces decide coger las riendas y finge una enfermedad mental para impedir la boda.</desc>
@@ -39508,5 +39499,1642 @@
   </programme>
   <programme start="20261020223300 +0200" stop="20261020231900 +0200" channel="tvG2.es">
     <title>Documentais</title>
+  </programme>
+  <programme start="20261018062000 +0200" stop="20261018070000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E14 · La muñeca en el Derby</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· Brennan y Booth investigan la muerte de una patinadora que ha aparecido descuartizada. Para encontrar respuestas, Ángela se infiltra en el entorno de la chica. Mientras, Cam trata de descubrir el porqué de las visitas de Booth al hospital.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261018070000 +0200" stop="20261018074000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E15 · El disparo en la oscuridad</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.4/10
+· Brennan recibe un disparo mientras trabaja de noche en el laboratorio e ingresa en el hospital en estado crítico. Todas las evidencias apuntan a que el atacante puede estar ligado con el Jeffersonian.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261018074000 +0200" stop="20261018082000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E3 · deshecho</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· El doctor Jason Bull dirige una compañía que analiza al detalle el sistema judicial.
+· País: Estados Unidos
+· Dirección: John B. Aronson.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Morgan McGhee, Fulvio Cecere, Jaime Lee Kirchner.
+· Guion: Allison Intrieri, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Eric Stoltz, Atelier Paul Attanasio, CBS Television Network.</desc>
+  </programme>
+  <programme start="20261018082000 +0200" stop="20261018091500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E4 · El peso de la corona</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull enfrenta incertidumbre en la corte cuando un juicio depende de un solo jurado en una demanda colectiva contra una compañía de vapeo que vende dispositivos que funcionan mal.
+· País: Estados Unidos
+· Dirección: Dan Lerner.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Pearl Rhein, Geneva Carr, Julie Dretzin, Jaime Lee Kirchner.
+· Guion: Steven Paul Martinez.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, CBS Studios, Jason Koiter, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261018091500 +0200" stop="20261018101000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E5 · El rey</title>
+    <desc>Series,Drama | 2021 | +12 | *6.0/10
+· El equipo le pide a Bull que se haga a un lado, cuando temen que sus problemas recientes puedan afectar negativamente su defensa de un magnate de los negocios acusado de ser mentalmente inadecuado para dirigir su empresa.
+· País: Estados Unidos
+· Dirección: Jackeline Tejada.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Conan McCarty, Jaime Lee Kirchner, Gillian Glasco.
+· Guion: Blair Singer, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Kathryn Price, Eric Stoltz, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261018101000 +0200" stop="20261018104000 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T9 E5 · La familia Cartridge</title>
+    <desc>Series,Animación | 1997 | +12 | *6.2/10
+· Tras una fuerte revuelta durante la celebración de un partido de la Asociación Continental de Fútbol, Homer llega a la conclusión de que necesita comprar un arma para proteger a su familia.
+· País: Estados Unidos</desc>
+  </programme>
+  <programme start="20261018104000 +0200" stop="20261018111000 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T9 E6 · Bart Star</title>
+    <desc>Series,Animación | 1997 | +12 | *6.2/10
+· Homer es el nuevo entrenador del equipo de fútbol, y convierte a Bart en su estrella.
+· País: Estados Unidos</desc>
+  </programme>
+  <programme start="20261018111000 +0200" stop="20261018113500 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T9 E7 · Las dos señoras Nahasapeemapetilon</title>
+    <desc>Series,Animación | 1997 | +12 | *6.2/10
+· En Springfield se celebra una audición de solteros, pero ninguno de los solterones de la localidad es muy atractivo. Cinco mujeres hacen un fondo común con sus ahorros y se declaran a Apu.
+· País: Estados Unidos</desc>
+  </programme>
+  <programme start="20261018113500 +0200" stop="20261018120500 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T9 E8 · Lisa, la escéptica</title>
+    <desc>Series,Animación | 1997 | +12 | *6.2/10
+· En una excavación arqueológica escolar promovida por Lisa, se encuentran los restos de un esqueleto con alas en el mismo lugar donde se va a construir un centro comercial.
+· País: Estados Unidos</desc>
+  </programme>
+  <programme start="20261018120500 +0200" stop="20261018130000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E9 · Amores que matan</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett investigan el asesinato del asistente del fiscal del distrito. Mientras, Alexis le cuenta un secreto a Beckett en lugar de a su padre.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261018130000 +0200" stop="20261018135000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E10 · Un hombre de familia</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.6/10
+· Castle y Beckett investigan el asesinato de un hombre que encuentran accidentalmente. Todo se complica cuando su mujer y su prometida tienen que ir a identificar el cadáver.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261018135000 +0200" stop="20261018144000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E11 · La quinta bala</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett investigan el asesinato de un marchante de arte al que han disparado en su propia galería. Inexplicablemente, la bala no aparece en la escena del crimen. Por si esto fuera poco, el único testigo sufre amnesia.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261018144000 +0200" stop="20261018153500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E12 · Una rosa para la eternidad</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett tienen que ir a una boda a investigar el asesinato de una de las damas de honor. Castle se da cuenta que la boda es de Kyra, una antigua novia. En esta ocasión los sentimientos del escritor hacia Kyra harán que pierda su objetividad.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261018153500 +0200" stop="20261018174500 +0200" channel="STAR Channel HD">
+    <title>Harry Potter y la Orden del Fénix · Harry Potter y la orden del Fénix</title>
+    <desc>Cine,Fantástico | 2007 | +12 | *7.8/10
+· Tras burlarse de su advertencia sobre el regreso de Lord Voldemort, Harry y Dumbledore se convierten en el blanco de las autoridades hechiceras.
+· País: Estados Unidos y Reino Unido
+· Dirección: David Yates.
+· Reparto: Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Michael Gambon, Robbie Coltrane, Helena Bonham Carter, Brendan Gleeson, Gary Oldman, Alan Rickman, Maggie Smith, Imelda Staunton, Emma Thompson, David Thewlis.
+· Guion: Michael Goldenberg.
+· Música: Nicholas Hooper.
+· Productora: Warner Bros. Pictures.</desc>
+  </programme>
+  <programme start="20261018174500 +0200" stop="20261018201000 +0200" channel="STAR Channel HD">
+    <title>Harry Potter y el misterio del príncipe</title>
+    <desc>Cine,Fantástico | 2009 | +12 | *7.4/10
+· Cuando Harry Potter descubre un viejo libro marcado como "propiedad del Príncipe Mestizo", empieza a saber más sobre el pasado de Lord Voldemort.
+· País: Estados Unidos y Reino Unido
+· Dirección: David Yates.
+· Reparto: Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon, Helena Bonham Carter, Alan Rickman, Robbie Coltrane, Jim Broadbent.
+· Guion: Steven Kloves.
+· Música: Nicholas Hooper.
+· Producción: David Heyman, David Barron.
+· Productora: Heyday Films, Warner Bros. Pictures.</desc>
+  </programme>
+  <programme start="20261018201000 +0200" stop="20261018223000 +0200" channel="STAR Channel HD">
+    <title>Harry Potter y las Reliquias de la Muerte: Parte 1 · Harry Potter y las reliquias de la muerte - Parte 1</title>
+    <desc>Cine,Fantástico | 2010 | +12 | *7.4/10
+· Mientras Harry, Ron y Hermione corren contra el tiempo y el mal para destruir los Horrocruxes, descubren la existencia de las Reliquias de la Muerte.
+· País: Estados Unidos y Reino Unido
+· Dirección: David Yates.
+· Reparto: Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Helena Bonham Carter, Alan Rickman, Rhys Ifans.
+· Guion: Steve Kloves.
+· Música: Alexandre Desplat.
+· Productora: Warner Bros. Pictures.</desc>
+  </programme>
+  <programme start="20261018223000 +0200" stop="20261019003500 +0200" channel="STAR Channel HD">
+    <title>Harry Potter y las Reliquias de la Muerte: Parte 2 · Harry Potter y las reliquias de la muerte - Parte 2</title>
+    <desc>Cine,Fantástico | 2011 | +12 | *7.6/10
+· Harry, Ron y Hermione buscan los Horrocruxes restantes de Voldemort en su esfuerzo por destruir al Señor Tenebroso.
+· País: Estados Unidos, España y Reino Unido
+· Dirección: David Yates.
+· Reparto: Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Helena Bonham Carter, Michael Gambon, Alan Rickman, Ciarán Hinds, Robbie Coltrane.
+· Guion: Steven Kloves.
+· Productora: Warner Bros. Pictures, Moving Picture Company, Heyday Films.</desc>
+  </programme>
+  <programme start="20261019003500 +0200" stop="20261019023000 +0200" channel="STAR Channel HD">
+    <title>Star Trek</title>
+    <desc>Cine,Ciencia ficción | 2009 | +12 | *7.2/10
+· La tripulación de la Enterprise, liderada por el Capitán Kirk, inicia un viaje para detener a Nero.
+· País: Alemania y Estados Unidos
+· Dirección: J.J. Abrams.
+· Reparto: Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana, Karl Urban, Zoe Saldaña, Simon Pegg, John Cho, Anton Yelchin, Winona Ryder, Ben Cross, Bruce Greenwood, Chris Hemsworth.
+· Guion: Alex Kurtzman, Roberto Orci.
+· Música: Michael Giacchino.
+· Producción: J.J. Abrams, Damon Lindelof.
+· Productora: Bad Robot, Spyglass Entertainment, Paramount Pictures, Mavrocine.</desc>
+  </programme>
+  <programme start="20261019023000 +0200" stop="20261019031000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E4 · Un tipo cualquiera</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Una nueva arma en el arsenal de los Salvadores supone un nuevo obstáculo en la lucha que continúa entre las fuerzas de Rick y las de los Salvadores.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261019031000 +0200" stop="20261019040000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E5 · El gran y aterrador tú</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Se produce un acercamiento a Negan y a las vidas de los Salvadores durante el conflicto a través de unos ojos familiares.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261019040000 +0200" stop="20261019045000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E6 · El rey, la viuda y Rick</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Con las cosas del lado de Rick y el grupo, se desata una discusión en Hilltop; las consecuencias de la decisión son cuestión de vida o muerte.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261019045000 +0200" stop="20261019053500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E7 · Llegó la hora</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Negan recluta la ayuda de sus lugartenientes para resolver un gran problema que afecta al Santuario. Rick y el grupo continúan promulgando su plan, que puede llevar a que las comunidades finalmente se liberen de la tiranía de Negan y los suyos.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261019053500 +0200" stop="20261019060000 +0200" channel="STAR Channel HD">
+    <title>Colegio Abbott T2 E12 · La pelea</title>
+    <desc>Series,Comedia | 2022 | +12 | *6.0/10
+· Dos estudiantes de Janine no se llevan bien y les pide consejo a sus compañeros para ver cómo puede solucionar el asunto. Melissa y Ava planean cómo derrotar al señor Johnson en el fútbol fantasy.
+· País: Estados Unidos
+· Dirección: Melissa Kosar.
+· Reparto: Quinta Brunson, Tyler James Williams, Dillion Blake Allen, Janelle James, Abraham Muhammad, Lisa Ann Walter, Tremarri Limbrick, Naqui Darby Jr, Sheryl Lee Ralph, Kayden Grace Swan, Solmiya Issaka, Madison Griggs, Orlando Jones, Jordyn McIntosh, William Stanford Davis, Chris Perfetti.
+· Guion: Jordan Temple.
+· Productora: Non Sequitur Productions, 20th Television, Quinta Brunson, Richie Edelson, Brittani Nichols.</desc>
+  </programme>
+  <programme start="20261019060000 +0200" stop="20261019062000 +0200" channel="STAR Channel HD">
+    <title>Colegio Abbott T2 E6 · Los zombis de caramelo</title>
+    <desc>Series,Comedia | 2022 | +12 | *6.0/10
+· Ya es Halloween en el colegio Abbott. Cuando un estudiante roba una bolsa con caramelos que iban a darles a los alumnos al final del día y empieza a repartirlos en horario lectivo, los profesores se organizan para buscar al culpable.
+· País: Estados Unidos
+· Dirección: Sheri Davani.
+· Reparto: Quinta Brunson, Tyler James Williams, Keyla Monterroso Mejia, Janelle James, Marvin L. Winans III, Lisa Ann Walter, Zoey McCrary, Sheryl Lee Ralph, Masen Pinnock, Nate' Jones, William Stanford Davis.
+· Guion: Kate Peterman.
+· Productora: Non Sequitur Productions, 20th Television, Josh Greene, Brittani Nichols.</desc>
+  </programme>
+  <programme start="20261019062000 +0200" stop="20261019064500 +0200" channel="STAR Channel HD">
+    <title>Colegio Abbott T2 E7 · La publicidad ofensiva</title>
+    <desc>Series,Comedia | 2022 | +12 | *5.6/10
+· El claustro se indigna cuando ve un anuncio apoyando a las escuelas concertadas.
+· País: Estados Unidos
+· Dirección: Matt Sohn.
+· Reparto: Quinta Brunson, Tyler James Williams, Victoria Hoffman, Janelle James, Maximilian Dulin, Lisa Ann Walter, Xavier Hunsberger, Sheryl Lee Ralph, Levi Mynatt, Serenity Reign Brown, Erika T Johnson, Masen Pinnock, Charlene Westbrook.
+· Guion: Justin Tan.
+· Productora: Non Sequitur Productions, 20th Television, Josh Greene, Brittani Nichols, Richie Edelson.</desc>
+  </programme>
+  <programme start="20261019064500 +0200" stop="20261019074500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E9 · Honor</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Rick enfrenta nuevas dificultades después de una batalla. Mientras, la lucha continúa en otras comunidades a medida que los miembros más influentes toman decisiones difíciles.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261019074500 +0200" stop="20261019083000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E10 · Los perdidos y los saqueadores</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Los diferentes grupos unen fuerzas y se reúnen en Hilltop. Mientras, Aaron y Enid buscan aliados. Simon toma el asunto en sus propias manos.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261019083000 +0200" stop="20261019091500 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T1 E3 · Secretos enterrados</title>
+    <desc>Series,Drama | 2010 | +12 | *5.8/10
+· Un amigo de la detective Samantha Baker muere asesinado. Megan y el equipo investigan el suceso exhaustivamente con la intención de encontrar al culpable. Para ello, Megan debe pedir ayuda a su madre, la jueza Joan Hunt.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261019091500 +0200" stop="20261019101000 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T1 E8 · Hogar roto</title>
+    <desc>Series,Drama | 2010 | +12 | *6.0/10
+· Megan investiga la extraña muerte de Nikki Parkson, una famosa filántropa que padecía una enfermedad terminal. La desolada madre y el hermano de la joven se sorprenden cuando la patóloga forense decide aplazar la celebración del entierro.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261019101000 +0200" stop="20261019110500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E15 · El disparo en la oscuridad</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.4/10
+· Brennan recibe un disparo mientras trabaja de noche en el laboratorio e ingresa en el hospital en estado crítico. Todas las evidencias apuntan a que el atacante puede estar ligado con el Jeffersonian.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261019110500 +0200" stop="20261019115500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E16 · El amigo necesitado</title>
+    <desc>Series,Thriller | 2013 | +12 | *4.8/10
+· El equipo del Jeffersonian analiza los restos de un adolescente de 15 años.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261019115500 +0200" stop="20261019125000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E7 · Hombre de confianza</title>
+    <desc>Series,Drama | 2021 | +12 | *6.4/10
+· Un consultor de juicios utiliza su conocimiento de la naturaleza humana, tres doctorados y un personal de primer nivel para inclinar la balanza de la justicia a favor de su cliente. Inspirado en la carrera inicial del Dr. Phil McGraw.
+· País: Estados Unidos
+· Dirección: Geary McLeod.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Sharon Washington, Jaime Lee Kirchner, Kiku Collins.
+· Guion: Jenny Raftery, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Television Network, Kathryn Price.</desc>
+  </programme>
+  <programme start="20261019125000 +0200" stop="20261019134000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E8 · Atrapados en la nieve</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull necesita un milagro navideño cuando acepta defender al joven asistente de una agencia de deportes encargado de proporcionar drogas letales a un cliente estrella.
+· País: Estados Unidos
+· Dirección: Alan Rickman, Dennis Smith.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Ollie Robinson, Chris Jackson.
+· Guion: Zyanya Salazar, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Nichole Millard, CBS Television Network, Jason Koiter.</desc>
+  </programme>
+  <programme start="20261019134000 +0200" stop="20261019143000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E9 · Falso positivo</title>
+    <desc>Series,Drama | 2021 | +12 | *6.4/10
+· Bull ayuda a una madre afligida a demandar a los desarrolladores de un programa de ordenador que identificó erróneamente a su hijo como un criminal, lo que provocó que la policía le disparara fatalmente. Además, Bull y Marissa chocan cuando ella consider.
+· País: Estados Unidos
+· Dirección: Eric Stoltz.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Yara Martinez, Geneva Carr, Jaime Lee Kirchner, Anna Khaja.
+· Guion: Leland Jay Anderson, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Kathryn Price, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261019143000 +0200" stop="20261019152500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E13 · Puñalada trapera</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett investigan el asesinato de un mafioso irlandés. Durante la investigación descubren lo que puede ser una operación de tráfico de drogas así como la posible implicación del muerto en el asesinato de la madre de Beckett.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261019152500 +0200" stop="20261019162000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E14 · El tercer hombre</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett investigan el asesinato de un hombre cuyo cadáver ha aparecido en casa de una familia recién llegada de vacaciones. Mientras, Castle es elegido como uno de los 10 solteros de oro de Nueva York.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261019162000 +0200" stop="20261019174500 +0200" channel="STAR Channel HD">
+    <title>Yo, el Halcón</title>
+    <desc>Cine,Acción | 1987 | +12 | *6.4/10
+· Un camionero arrepentido de sus errores, está dispuesto a todo para recuperar el cariño del hijo al que abandonó hace doce años.
+· País: Estados Unidos
+· Dirección: Menahem Golan.
+· Reparto: Jack Wright, Charles M Wilborn, Kelly Sahnger, David Van Gorder, Flo Lawrence, Dean Abston.
+· Guion: Sylvester Stallone, Gary Conway, Stirling Silliphant, David Engelbach.
+· Música: Giorgio Moroder, Eddie Money.
+· Producción: Menahem Golan, Yoram Globus.
+· Productora: Tony Munafo, Warner Bros. Pictures, Golan-Globus Productions, Warner Bros, Yoram Globus, James D Brubaker.</desc>
+  </programme>
+  <programme start="20261019174500 +0200" stop="20261019183500 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E10 · Dinero fértil</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.0/10
+· Sherlock y Joan investigan el asesinato de un bioingeniero.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261019183500 +0200" stop="20261019193000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E11 · El cliente ilustre</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· Watson comienza su nuevo trabajo como investigadora para una compañía de seguros.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261019193000 +0200" stop="20261019202000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E12 · La que se fue</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.0/10
+· Se revela el origen de la relación de Sherlock y Kitty.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261019202000 +0200" stop="20261019210500 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E4 · Monte Shasta</title>
+    <desc>Series,Acción | 2023 | +12 | *6.0/10
+· Colter corre contrarreloj para encontrar al hijo adolescente desaparecido de Erika, íntima amiga de Reenie.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261019210500 +0200" stop="20261019220000 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E5 · St. Louis</title>
+    <desc>Series,Acción | 2023 | +12 | *5.8/10
+· Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261019220000 +0200" stop="20261019225500 +0200" channel="STAR Channel HD">
+    <title>9-1-1 T9 E13 · Niño de mamá</title>
+    <desc>Series,Acción | 2025 | +16 | *6.2/10
+· Tras los Juegos Nacionales de Bomberos, cancelan el vuelo de vuelta a Los Ángeles de Eddie y Buck. Como quieren llegar a tiempo al cumpleaños de Hen, deciden cruzar el país en coche, pero el viaje se tuerce cuando Buck desaparece.
+· País: Estados Unidos
+· Dirección: Jonathan Lawrence.
+· Reparto: Natasha Galano, Chris Bauer, Angela Bassett, Kacy Owens, Oliver Stark, Tony Sancho, Aisha Hinds, Kenneth Choi, Joss Glennie-Smith, Jennifer Love Hewitt, Bryan Michael Nunez, Jeff Kober, Ryan Guzman.
+· Productora: 20th Century Fox Television, Ryan Murphy Television, Bradley Buecker, Ryan Murphy, John J. Gray.</desc>
+  </programme>
+  <programme start="20261019225500 +0200" stop="20261019235000 +0200" channel="STAR Channel HD">
+    <title>9-1-1 T9 E14 · Hazlo tú mismo</title>
+    <desc>Series,Acción | 2025 | +16 | *6.0/10
+· Buck intenta superar solo el trauma de su secuestro, mientras May busca sus primeras prácticas de derecho sin la ayuda de su madre.
+· País: Estados Unidos
+· Dirección: Shiri Appleby.
+· Reparto: Tasha Smith, Angela Bassett, Matthew Bridges, Oliver Stark, Gian Shaw, Aisha Hinds, Helen Day, Kenneth Choi, Seth Cassell, Jennifer Love Hewitt, Ryan McCann, Ryan Guzman, Ashwin Gore, Chiquita Fuller.
+· Guion: Molly Savard, Trey Callaway.
+· Productora: 20th Century Fox Television, Ryan Murphy Television, Ryan Murphy, Ryan Murphy Productions, Brad Falchuk Teley-Vision, 20th Television.</desc>
+  </programme>
+  <programme start="20261019235000 +0200" stop="20261020004000 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E4 · Monte Shasta</title>
+    <desc>Series,Acción | 2023 | +12 | *6.0/10
+· Colter corre contrarreloj para encontrar al hijo adolescente desaparecido de Erika, íntima amiga de Reenie.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261020004000 +0200" stop="20261020012500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E8 · Atrapados en la nieve</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull necesita un milagro navideño cuando acepta defender al joven asistente de una agencia de deportes encargado de proporcionar drogas letales a un cliente estrella.
+· País: Estados Unidos
+· Dirección: Alan Rickman, Dennis Smith.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Ollie Robinson, Chris Jackson.
+· Guion: Zyanya Salazar, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Nichole Millard, CBS Television Network, Jason Koiter.</desc>
+  </programme>
+  <programme start="20261020012500 +0200" stop="20261020020500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E9 · Falso positivo</title>
+    <desc>Series,Drama | 2021 | +12 | *6.4/10
+· Bull ayuda a una madre afligida a demandar a los desarrolladores de un programa de ordenador que identificó erróneamente a su hijo como un criminal, lo que provocó que la policía le disparara fatalmente. Además, Bull y Marissa chocan cuando ella consider.
+· País: Estados Unidos
+· Dirección: Eric Stoltz.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Yara Martinez, Geneva Carr, Jaime Lee Kirchner, Anna Khaja.
+· Guion: Leland Jay Anderson, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Kathryn Price, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261020020500 +0200" stop="20261020025000 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T1 E8 · Hogar roto</title>
+    <desc>Series,Drama | 2010 | +12 | *6.0/10
+· Megan investiga la extraña muerte de Nikki Parkson, una famosa filántropa que padecía una enfermedad terminal. La desolada madre y el hermano de la joven se sorprenden cuando la patóloga forense decide aplazar la celebración del entierro.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261020025000 +0200" stop="20261020033000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E16 · El amigo necesitado</title>
+    <desc>Series,Thriller | 2013 | +12 | *4.8/10
+· El equipo del Jeffersonian analiza los restos de un adolescente de 15 años.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261020033000 +0200" stop="20261020042500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E9 · Honor</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Rick enfrenta nuevas dificultades después de una batalla. Mientras, la lucha continúa en otras comunidades a medida que los miembros más influentes toman decisiones difíciles.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261020042500 +0200" stop="20261020051000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E10 · Los perdidos y los saqueadores</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Los diferentes grupos unen fuerzas y se reúnen en Hilltop. Mientras, Aaron y Enid buscan aliados. Simon toma el asunto en sus propias manos.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261020051000 +0200" stop="20261020060000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E7 · Llegó la hora</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Negan recluta la ayuda de sus lugartenientes para resolver un gran problema que afecta al Santuario. Rick y el grupo continúan promulgando su plan, que puede llevar a que las comunidades finalmente se liberen de la tiranía de Negan y los suyos.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261020060000 +0200" stop="20261020062000 +0200" channel="STAR Channel HD">
+    <title>Colegio Abbott T2 E12 · La pelea</title>
+    <desc>Series,Comedia | 2022 | +12 | *6.0/10
+· Dos estudiantes de Janine no se llevan bien y les pide consejo a sus compañeros para ver cómo puede solucionar el asunto. Melissa y Ava planean cómo derrotar al señor Johnson en el fútbol fantasy.
+· País: Estados Unidos
+· Dirección: Melissa Kosar.
+· Reparto: Quinta Brunson, Tyler James Williams, Dillion Blake Allen, Janelle James, Abraham Muhammad, Lisa Ann Walter, Tremarri Limbrick, Naqui Darby Jr, Sheryl Lee Ralph, Kayden Grace Swan, Solmiya Issaka, Madison Griggs, Orlando Jones, Jordyn McIntosh, William Stanford Davis, Chris Perfetti.
+· Guion: Jordan Temple.
+· Productora: Non Sequitur Productions, 20th Television, Quinta Brunson, Richie Edelson, Brittani Nichols.</desc>
+  </programme>
+  <programme start="20261020062000 +0200" stop="20261020064000 +0200" channel="STAR Channel HD">
+    <title>Colegio Abbott T2 E7 · La publicidad ofensiva</title>
+    <desc>Series,Comedia | 2022 | +12 | *5.6/10
+· El claustro se indigna cuando ve un anuncio apoyando a las escuelas concertadas.
+· País: Estados Unidos
+· Dirección: Matt Sohn.
+· Reparto: Quinta Brunson, Tyler James Williams, Victoria Hoffman, Janelle James, Maximilian Dulin, Lisa Ann Walter, Xavier Hunsberger, Sheryl Lee Ralph, Levi Mynatt, Serenity Reign Brown, Erika T Johnson, Masen Pinnock, Charlene Westbrook.
+· Guion: Justin Tan.
+· Productora: Non Sequitur Productions, 20th Television, Josh Greene, Brittani Nichols, Richie Edelson.</desc>
+  </programme>
+  <programme start="20261020064000 +0200" stop="20261020072500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E11 · Vivos o muertos</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Daryl se encuentra con mala compañía mientras su grupo se dirige a Hilltop. La fe de Gabriel es puesta a prueba.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261020072500 +0200" stop="20261020081500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E12 · La clave</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· El liderazgo de Hilltop se enfrenta a un difícil dilema tras la llegada de visitantes inesperados. Rick se encuentra cara a cara con un adversario.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261020081500 +0200" stop="20261020090000 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T1 E8 · Hogar roto</title>
+    <desc>Series,Drama | 2010 | +12 | *6.0/10
+· Megan investiga la extraña muerte de Nikki Parkson, una famosa filántropa que padecía una enfermedad terminal. La desolada madre y el hermano de la joven se sorprenden cuando la patóloga forense decide aplazar la celebración del entierro.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261020090000 +0200" stop="20261020095500 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T2 E1 · Ama a tu vecino</title>
+    <desc>Series,Drama | 2011 | +12 | *5.8/10
+· Cuando un coche pierde el control y el conductor muere, Megan descubre que no todo va bien en una bonita urbanización.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks, Nathalie Kelley.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261020095500 +0200" stop="20261020104500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E16 · El amigo necesitado</title>
+    <desc>Series,Thriller | 2013 | +12 | *4.8/10
+· El equipo del Jeffersonian analiza los restos de un adolescente de 15 años.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261020104500 +0200" stop="20261020114000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E17 · El hecho en la ficción</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· Un nuevo interno extremadamente educado, el doctor Oliver Wells, empieza en el Jeffersonian. Su facilidad para aprender, su personalidad entusiasta resulta un desafío para Brennan.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261020114000 +0200" stop="20261020123500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E9 · Falso positivo</title>
+    <desc>Series,Drama | 2021 | +12 | *6.4/10
+· Bull ayuda a una madre afligida a demandar a los desarrolladores de un programa de ordenador que identificó erróneamente a su hijo como un criminal, lo que provocó que la policía le disparara fatalmente. Además, Bull y Marissa chocan cuando ella consider.
+· País: Estados Unidos
+· Dirección: Eric Stoltz.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Yara Martinez, Geneva Carr, Jaime Lee Kirchner, Anna Khaja.
+· Guion: Leland Jay Anderson, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Kathryn Price, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261020123500 +0200" stop="20261020133000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E10 · Frontotemporal</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull y Chunk tienen como objetivo demostrar que su cliente, una mujer condenada por asesinato, cometió el crimen debido a la falta de control de su comportamiento causada por un tumor cerebral.
+· País: Estados Unidos
+· Dirección: Carlos Bernard.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Sasha Eden, Jaime Lee Kirchner, Elladia Jones.
+· Guion: Andrew Karlsruher, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, CBS Television Network, Atelier Paul Attanasio, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261020133000 +0200" stop="20261020142000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E11 · Asuntos de familia</title>
+    <desc>Series,Drama | 2021 | +12 | *6.0/10
+· Bull se enfrenta a Marissa y su nuevo jefe en los tribunales tras su salida de la empresa.
+· País: Estados Unidos
+· Dirección: Leslie Libman.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Ashley D Kelley, Jaime Lee Kirchner, Teddy Coluca.
+· Guion: Steven Paul Martinez, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Television Network.</desc>
+  </programme>
+  <programme start="20261020142000 +0200" stop="20261020151000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E15 · El régimen suicida</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.6/10
+· Castle y Beckett investigan el asesinato de una estrella del baseball que apareció muerta tras un viaje a Cuba. En el camino se encontrarán con toda una leyenda del baseball americano, Joe Torre, ex capitán de los Yankees.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261020151000 +0200" stop="20261020160500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E16 · El ama siempre azota dos veces</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.6/10
+· Una mujer medio desnuda aparece en un parque colgando y cubierta en salsa de caramelo. Castle y Beckett se tendrán que adentrar en el misterioso mundo de la dominación sexual para lograr atrapar al asesino.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261020160500 +0200" stop="20261020175500 +0200" channel="STAR Channel HD">
+    <title>Star Trek: Más allá</title>
+    <desc>Cine,Acción | 2016 | +12 | *7.4/10
+· La tripulación del USS Enterprise se encuentra con un nuevo enemigo que amenaza todo lo que creen.
+· País: China, Estados Unidos y Hong Kong
+· Dirección: Justin Lin.
+· Reparto: Chris Pine, Zachary Quinto, Zoe Saldaña, Karl Urban, Simon Pegg, John Cho, Anton Yelchin, Idris Elba, Sofia Boutella.
+· Guion: Simon Pegg, Doug Jung.
+· Música: Michael Giacchino.
+· Producción: J.J. Abrams, Justin Lin, Roberto Orci, Lindsey Weber.
+· Productora: Paramount Pictures, Skydance Productions, Bad Robot, Sneaky Shark, Perfect Storm Entertainment, Alibaba Pictures Group, Skydance Media.</desc>
+  </programme>
+  <programme start="20261020175500 +0200" stop="20261020184000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E13 · Cicuta</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· La relación de Watson con Andrew progresa cuando él le pide que conozca a su padre.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261020184000 +0200" stop="20261020193500 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E14 · La hembra de la especie</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· Watson se encuentra con Elana March, la jefa del crimen que llevó ante la justicia.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261020193500 +0200" stop="20261020202000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E15 · Cuando sale tu número</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· Holmes y Watson intentan encontrar al asesino en serie que deja dinero en efectivo sobre las víctimas.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261020202000 +0200" stop="20261020211000 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E6 · Lexington</title>
+    <desc>Series,Acción | 2023 | +12 | *6.2/10
+· Colter se asocia a regañadientes con su némesis, la también buscadora de recompensas Billie Matalon, para localizar a un caballo de carreras desaparecido.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261020211000 +0200" stop="20261020220000 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E7 · Chicago</title>
+    <desc>Series,Acción | 2023 | +12 | *6.0/10
+· Colter, Bobby y Reenie corren contrarreloj para localizar a una luchadora de MMA de gran talento que desapareció mientras intentaba resolver los problemas de su familia con los visados.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261020220000 +0200" stop="20261020225000 +0200" channel="STAR Channel HD">
+    <title>CIA T1 E9 · Dinero manchado de sangre</title>
+    <desc>Series,Policíaca | 2026 | +12 | *6.0/10
+· Una mujer con información sobre un peligroso líder terrorista pone en contacto a Colin y Bill con una empresa familiar dedicada a operaciones terroristas. Ahora, deben encontrar y reclutar a un nuevo informante para desmantelar toda la organización.
+· País: Estados Unidos
+· Dirección: Jon Cassar.
+· Reparto: Tom Ellis, Nick Gehlfuss, Natalee Linez, Necar Zadegan, Jonathan Randell Silver.
+· Música: Atli Örvarsson.
+· Productora: Universal Television, Wolf Entertainment, CBS Studios.</desc>
+  </programme>
+  <programme start="20261020225000 +0200" stop="20261020234500 +0200" channel="STAR Channel HD">
+    <title>CIA T1 E10 · Tierra rara</title>
+    <desc>Series,Policíaca | 2026 | +12 | *6.0/10
+· Cuando un diplomático extranjero es asesinado tras entrar clandestinamente en Estados Unidos, Colin y Bill descubren que un mineral raro con potencial para perturbar las relaciones internacionales podría ser la razón por la que fue atacado.
+· País: Estados Unidos
+· Dirección: Jon Cassar.
+· Reparto: Tom Ellis, Nick Gehlfuss, Natalee Linez, Necar Zadegan, Jonathan Randell Silver.
+· Música: Atli Örvarsson.
+· Productora: Universal Television, Wolf Entertainment, CBS Studios.</desc>
+  </programme>
+  <programme start="20261020234500 +0200" stop="20261021004000 +0200" channel="STAR Channel HD">
+    <title>High Potential T2 E2 · Jaque mate</title>
+    <desc>Series,Aventuras | 2025 | +12 | *6.0/10
+· El equipo de Delitos Graves busca respuestas desesperadamente en medio de una oleada de crímenes sin resolver, y Morgan sospecha que el responsable es el Game Maker. Mientras tanto, Daphne y Oz se proponen encontrar a Roman.
+· País: Estados Unidos
+· Dirección: James Roday.
+· Reparto: Brandan Davis, Jonathon Buckley, Brenton Allen, Lili Alice, Courtney Hawkins, Jack Vaught, Elena Varela, Raphael Sikic, Matthew Lamb, Renelle Nicole, Christian Machi, Kaitlin Olson, Daniel Sunjata.
+· Guion: Marc Halsey, Todd Harthan.
+· Productora: 20th Television, Sarah Esberg, Todd Harthan, Victor Hsu.</desc>
+  </programme>
+  <programme start="20261021004000 +0200" stop="20261021012500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E10 · Frontotemporal</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull y Chunk tienen como objetivo demostrar que su cliente, una mujer condenada por asesinato, cometió el crimen debido a la falta de control de su comportamiento causada por un tumor cerebral.
+· País: Estados Unidos
+· Dirección: Carlos Bernard.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Sasha Eden, Jaime Lee Kirchner, Elladia Jones.
+· Guion: Andrew Karlsruher, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, CBS Television Network, Atelier Paul Attanasio, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261021012500 +0200" stop="20261021020500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E11 · Asuntos de familia</title>
+    <desc>Series,Drama | 2021 | +12 | *6.0/10
+· Bull se enfrenta a Marissa y su nuevo jefe en los tribunales tras su salida de la empresa.
+· País: Estados Unidos
+· Dirección: Leslie Libman.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Ashley D Kelley, Jaime Lee Kirchner, Teddy Coluca.
+· Guion: Steven Paul Martinez, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Television Network.</desc>
+  </programme>
+  <programme start="20261021020500 +0200" stop="20261021024500 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T2 E1 · Ama a tu vecino</title>
+    <desc>Series,Drama | 2011 | +12 | *5.8/10
+· Cuando un coche pierde el control y el conductor muere, Megan descubre que no todo va bien en una bonita urbanización.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks, Nathalie Kelley.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261021024500 +0200" stop="20261021032500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E17 · El hecho en la ficción</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· Un nuevo interno extremadamente educado, el doctor Oliver Wells, empieza en el Jeffersonian. Su facilidad para aprender, su personalidad entusiasta resulta un desafío para Brennan.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261021032500 +0200" stop="20261021041000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E11 · Vivos o muertos</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Daryl se encuentra con mala compañía mientras su grupo se dirige a Hilltop. La fe de Gabriel es puesta a prueba.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261021041000 +0200" stop="20261021045500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E12 · La clave</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· El liderazgo de Hilltop se enfrenta a un difícil dilema tras la llegada de visitantes inesperados. Rick se encuentra cara a cara con un adversario.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261021045500 +0200" stop="20261021053500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E10 · Los perdidos y los saqueadores</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Los diferentes grupos unen fuerzas y se reúnen en Hilltop. Mientras, Aaron y Enid buscan aliados. Simon toma el asunto en sus propias manos.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261021053500 +0200" stop="20261021060000 +0200" channel="STAR Channel HD">
+    <title>Colegio Abbott T2 E7 · La publicidad ofensiva</title>
+    <desc>Series,Comedia | 2022 | +12 | *5.6/10
+· El claustro se indigna cuando ve un anuncio apoyando a las escuelas concertadas.
+· País: Estados Unidos
+· Dirección: Matt Sohn.
+· Reparto: Quinta Brunson, Tyler James Williams, Victoria Hoffman, Janelle James, Maximilian Dulin, Lisa Ann Walter, Xavier Hunsberger, Sheryl Lee Ralph, Levi Mynatt, Serenity Reign Brown, Erika T Johnson, Masen Pinnock, Charlene Westbrook.
+· Guion: Justin Tan.
+· Productora: Non Sequitur Productions, 20th Television, Josh Greene, Brittani Nichols, Richie Edelson.</desc>
+  </programme>
+  <programme start="20261021060000 +0200" stop="20261021064000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E13 · No nos hagas extraviarnos</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Surgen problemas cuando llegan visitantes inesperados a Hilltop y la comunidad debe entrar en acción; tienen lugar descubrimientos desgarradores.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261021064000 +0200" stop="20261021073500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E14 · Todavía tiene que significar algo</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Un prisionero de Heaps hace un descubrimiento; Carol busca a alguien en el bosque; Rick y Morgan se encuentran con una compañía extraña.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261021073500 +0200" stop="20261021082000 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T2 E1 · Ama a tu vecino</title>
+    <desc>Series,Drama | 2011 | +12 | *5.8/10
+· Cuando un coche pierde el control y el conductor muere, Megan descubre que no todo va bien en una bonita urbanización.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks, Nathalie Kelley.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261021082000 +0200" stop="20261021090000 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T2 E2 · Partida de caza</title>
+    <desc>Series,Drama | 2011 | +12 | *5.8/10
+· Cuando la joven esposa de un magnate muere por un disparo en una partida de caza de ciervos, los sospechosos abundan.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks, Nathalie Kelley.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261021090000 +0200" stop="20261021100000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E17 · El hecho en la ficción</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· Un nuevo interno extremadamente educado, el doctor Oliver Wells, empieza en el Jeffersonian. Su facilidad para aprender, su personalidad entusiasta resulta un desafío para Brennan.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261021100000 +0200" stop="20261021110000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E18 · El superviviente en el jabón</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· El equipo del Jeffersonian investiga la muerte de Symchay Conteh, un joven inmigrante de Sierra Leone cuyos restos fueron encontrados dentro de un barril de una planta de residuos.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261021110000 +0200" stop="20261021120000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E11 · Asuntos de familia</title>
+    <desc>Series,Drama | 2021 | +12 | *6.0/10
+· Bull se enfrenta a Marissa y su nuevo jefe en los tribunales tras su salida de la empresa.
+· País: Estados Unidos
+· Dirección: Leslie Libman.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Ashley D Kelley, Jaime Lee Kirchner, Teddy Coluca.
+· Guion: Steven Paul Martinez, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Television Network.</desc>
+  </programme>
+  <programme start="20261021120000 +0200" stop="20261021124500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E12 · Calibán</title>
+    <desc>Series,Drama | 2021 | +12 | *6.4/10
+· El hermano distanciado desde hace años de Bull, Jacob, llega inesperadamente a Nueva York.
+· País: Estados Unidos
+· Dirección: Michael Smith.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Chris Jackson, Annabelle Attanasio.
+· Guion: Tom Szentgyorgyi, Chandus Jackson, Phil McGraw, Paul Attanasio.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Television Network.</desc>
+  </programme>
+  <programme start="20261021124500 +0200" stop="20261021140000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E13 · Derechos inalienables</title>
+    <desc>Series,Drama | 2021 | +12 | *6.0/10
+· Bull ayuda a su amigo, el coronel psiquiatra del ejército Victor Taggert, a montar una defensa para un sargento acusado de matar a un compañero.
+· País: Estados Unidos
+· Dirección: Martha Mitchell.
+· Reparto: Michael Weatherly, Freddy Rodríguez, K.K Moggie, Geneva Carr, Jude Michael Rodricks, Jaime Lee Kirchner.
+· Guion: Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, Atelier Paul Attanasio.</desc>
+  </programme>
+  <programme start="20261021140000 +0200" stop="20261021144500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E17 · Tic-tac, tic-tac..</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett se unen a un Investigador Federal para encontrar a un astuto y escurridizo asesino en serie.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261021144500 +0200" stop="20261021153000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E18 · Bum!</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· El asesino en serie que quiere matar a Kate Beckett, está cada vez más cerca de cumplir su objetivo. Para evitarlo, la policía y el FBI deben perfeccionar su trabajo para detener al psicópata, que está dispuesto a matar quien sea para llegar a Beckett.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261021153000 +0200" stop="20261021173000 +0200" channel="STAR Channel HD">
+    <title>Star Trek</title>
+    <desc>Cine,Ciencia ficción | 2009 | +12 | *7.2/10
+· La tripulación de la Enterprise, liderada por el Capitán Kirk, inicia un viaje para detener a Nero.
+· País: Alemania y Estados Unidos
+· Dirección: J.J. Abrams.
+· Reparto: Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana, Karl Urban, Zoe Saldaña, Simon Pegg, John Cho, Anton Yelchin, Winona Ryder, Ben Cross, Bruce Greenwood, Chris Hemsworth.
+· Guion: Alex Kurtzman, Roberto Orci.
+· Música: Michael Giacchino.
+· Producción: J.J. Abrams, Damon Lindelof.
+· Productora: Bad Robot, Spyglass Entertainment, Paramount Pictures, Mavrocine.</desc>
+  </programme>
+  <programme start="20261021173000 +0200" stop="20261021182000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E16 · Hasta donde sé</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.4/10
+· Holmes se investiga a sí mismo al estar implicado en un asesinato durante su adicción.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261021182000 +0200" stop="20261021191000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E17 · El hombre criogenizado</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.4/10
+· Holmes y Watson investigan un asesinato que a primera vista parece un accidente de coche.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261021191000 +0200" stop="20261021200000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E18 · Vistas desde el Olimpo</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· Un conductor de una empresa de viajes compartidos es atropellado intencionadamente por un taxi de la ciudad.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261021200000 +0200" stop="20261021210000 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E8 · Camden</title>
+    <desc>Series,Acción | 2023 | +12 | *6.0/10
+· Colter sigue la pista de un estibador desaparecido dos semanas antes de su boda tras un enfrentamiento con su pasado.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261021210000 +0200" stop="20261021220000 +0200" channel="STAR Channel HD">
+    <title>Cooper &amp; Fry T1 E4 · Perro negro (parte 2)</title>
+    <desc>Series,Policíaca | 2025 | +16 | *6.4/10
+· Cooper y Fry investigan la desaparición de una adolescente. Las sospechas recaen sobre su adinerada familia y varios empleados resentidos, mientras una inquietante leyenda local añade un nuevo y misterioso elemento al caso.
+· País: Reino Unido
+· Dirección: Ryan Tohill, Jesse Quinones.
+· Reparto: Robert James-Collier, Mandip Gill, Lorcan Cranitch, Rob James-Collier, Niamh McCann, Barry O'Connor, Charlotte Bradley, Andrew Bennett, Mark Huberman, Clara Simpson, Stephen Lord, Natalie Britton, Patrick Martins, Paul Tylak, Conor Mullen, Chris Mchallem, Diarmuid Noyes, Siobhán O'Kelly.
+· Guion: Ben Court, Caroline Ip.
+· Productora: Simon Doyle, Ian Hunt Duffy, Rachel Gesua, Clapperboard Studios.</desc>
+  </programme>
+  <programme start="20261021220000 +0200" stop="20261021230000 +0200" channel="STAR Channel HD">
+    <title>Cooper &amp; Fry T1 E5 · Ciego hasta los huesos (parte 1)</title>
+    <desc>Series,Policíaca | 2025 | +16 | *6.0/10
+· El cadáver de una persona brutalmente golpeada aparece en una cantera abandonada. La investigación de Cooper y Fry los conduce hasta un antiguo caso de desaparición y un misterioso grupo local con intereses más que cuestionables.
+· País: Reino Unido
+· Reparto: Robert James-Collier, Mandip Gill, Lorcan Cranitch, Niamh McCann, Charlotte Bradley, Andrew Bennett, Mark Huberman, Stephen Lord, Patrick Martins, Paul Tylak, Conor Mullen, Chris Mchallem, Diarmuid Noyes, Siobhán O'Kelly.
+· Guion: Ben Court, Caroline Ip.
+· Productora: Clapperboard Studios.</desc>
+  </programme>
+  <programme start="20261021230000 +0200" stop="20261022000000 +0200" channel="STAR Channel HD">
+    <title>Will Trent Agente especial T4 E5 · Es un placer, Malcom</title>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· Angie y Ormewood siguen la pista a unos ladrones con máscaras de animales tras una serie de atracos multimillonarios. Mientras, Will y Faith investigan el asesinato de un magnate de una agencia de contactos de lujo.
+· País: Estados Unidos
+· Dirección: Eduardo Sánchez.
+· Reparto: Ramón Rodríguez, Erika Christensen, Iantha Richardson, Marguerite Moreau, Jake McLaughlin, Sonja Sohn, Chase Gutzmore, Kurt Yue, Isaiah Stratton, Cody Pressley, Elizabeth Pan, DeVaughn Nixon.
+· Guion: Antoine Perry, Aja Hoggatt, Inda Craig-Galván.
+· Productora: 3 Arts Entertainment, Selfish Mermaid, 20th Television, Ramón Rodríguez, David Gero, Karin Slaughter.</desc>
+  </programme>
+  <programme start="20261022000000 +0200" stop="20261022013500 +0200" channel="STAR Channel HD">
+    <title>Cooper &amp; Fry T1 E5 · Ciego hasta los huesos (parte 1)</title>
+    <desc>Series,Policíaca | 2025 | +16 | *6.0/10
+· El cadáver de una persona brutalmente golpeada aparece en una cantera abandonada. La investigación de Cooper y Fry los conduce hasta un antiguo caso de desaparición y un misterioso grupo local con intereses más que cuestionables.
+· País: Reino Unido
+· Reparto: Robert James-Collier, Mandip Gill, Lorcan Cranitch, Niamh McCann, Charlotte Bradley, Andrew Bennett, Mark Huberman, Stephen Lord, Patrick Martins, Paul Tylak, Conor Mullen, Chris Mchallem, Diarmuid Noyes, Siobhán O'Kelly.
+· Guion: Ben Court, Caroline Ip.
+· Productora: Clapperboard Studios.</desc>
+  </programme>
+  <programme start="20261022013500 +0200" stop="20261022022000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E12 · Calibán</title>
+    <desc>Series,Drama | 2021 | +12 | *6.4/10
+· El hermano distanciado desde hace años de Bull, Jacob, llega inesperadamente a Nueva York.
+· País: Estados Unidos
+· Dirección: Michael Smith.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Chris Jackson, Annabelle Attanasio.
+· Guion: Tom Szentgyorgyi, Chandus Jackson, Phil McGraw, Paul Attanasio.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Television Network.</desc>
+  </programme>
+  <programme start="20261022022000 +0200" stop="20261022025000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E13 · Derechos inalienables</title>
+    <desc>Series,Drama | 2021 | +12 | *6.0/10
+· Bull ayuda a su amigo, el coronel psiquiatra del ejército Victor Taggert, a montar una defensa para un sargento acusado de matar a un compañero.
+· País: Estados Unidos
+· Dirección: Martha Mitchell.
+· Reparto: Michael Weatherly, Freddy Rodríguez, K.K Moggie, Geneva Carr, Jude Michael Rodricks, Jaime Lee Kirchner.
+· Guion: Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, Atelier Paul Attanasio.</desc>
+  </programme>
+  <programme start="20261022025000 +0200" stop="20261022033500 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T2 E2 · Partida de caza</title>
+    <desc>Series,Drama | 2011 | +12 | *5.8/10
+· Cuando la joven esposa de un magnate muere por un disparo en una partida de caza de ciervos, los sospechosos abundan.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks, Nathalie Kelley.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261022033500 +0200" stop="20261022043500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E18 · El superviviente en el jabón</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· El equipo del Jeffersonian investiga la muerte de Symchay Conteh, un joven inmigrante de Sierra Leone cuyos restos fueron encontrados dentro de un barril de una planta de residuos.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261022043500 +0200" stop="20261022051500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E13 · No nos hagas extraviarnos</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Surgen problemas cuando llegan visitantes inesperados a Hilltop y la comunidad debe entrar en acción; tienen lugar descubrimientos desgarradores.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261022051500 +0200" stop="20261022060000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E14 · Todavía tiene que significar algo</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Un prisionero de Heaps hace un descubrimiento; Carol busca a alguien en el bosque; Rick y Morgan se encuentran con una compañía extraña.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261022060000 +0200" stop="20261022064000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E15 · Valía</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Con la amenaza de los salvadores acechando aún, Aaron continúa buscando aliados; Daryl y Rosita toman medidas y se enfrentan a un viejo amigo.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261022064000 +0200" stop="20261022073500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E16 · Ira</title>
+    <desc>Series,Terror | 2017 | +16 | *7.0/10
+· Las comunidades unen sus fuerzas en la última batalla contra los Salvadores a medida que se desarrolla una guerra total.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Lennie James, Jeffrey Dean Morgan, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261022073500 +0200" stop="20261022082000 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T2 E2 · Partida de caza</title>
+    <desc>Series,Drama | 2011 | +12 | *5.8/10
+· Cuando la joven esposa de un magnate muere por un disparo en una partida de caza de ciervos, los sospechosos abundan.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks, Nathalie Kelley.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261022082000 +0200" stop="20261022090000 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T1 E12 · Desaparecido</title>
+    <desc>Series,Drama | 2010 | +12 | *6.4/10
+· Megan investiga la muerte de una joven y descubre que a su cargo tiene un niño que ha sido secuestrado.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261022090000 +0200" stop="20261022100000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E18 · El superviviente en el jabón</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· El equipo del Jeffersonian investiga la muerte de Symchay Conteh, un joven inmigrante de Sierra Leone cuyos restos fueron encontrados dentro de un barril de una planta de residuos.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261022100000 +0200" stop="20261022110000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E19 · La muerte en la supervivencia</title>
+    <desc>Series,Thriller | 2013 | +12 | *4.6/10
+· El equipo del Jeffersonian investiga la muerte de una antigua sargento de la marina estadounidense, cuyos restos han sido encontrados calcinados.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261022110000 +0200" stop="20261022120000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E13 · Derechos inalienables</title>
+    <desc>Series,Drama | 2021 | +12 | *6.0/10
+· Bull ayuda a su amigo, el coronel psiquiatra del ejército Victor Taggert, a montar una defensa para un sargento acusado de matar a un compañero.
+· País: Estados Unidos
+· Dirección: Martha Mitchell.
+· Reparto: Michael Weatherly, Freddy Rodríguez, K.K Moggie, Geneva Carr, Jude Michael Rodricks, Jaime Lee Kirchner.
+· Guion: Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, Atelier Paul Attanasio.</desc>
+  </programme>
+  <programme start="20261022120000 +0200" stop="20261022124500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E14 · Un lugar seguro</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull ayuda a un cliente agorafóbico a presentar una demanda por homicidio contra el presunto asesino de su querida tía, pero la incapacidad del cliente para testificar en persona amenaza el juicio.
+· País: Estados Unidos
+· Dirección: Melissa Kalbfus.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Rob Campbell, Geneva Carr, Rolonda Watts, Jaime Lee Kirchner.
+· Guion: Mat Raney.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, Atelier Paul Attanasio.</desc>
+  </programme>
+  <programme start="20261022124500 +0200" stop="20261022140000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E15 · Con estas manos</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull adopta un papel frustrantemente pasivo durante una demanda por negligencia médica.
+· País: Estados Unidos
+· Dirección: Geneva Carr.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Chris Jackson, Annabelle Attanasio.
+· Guion: Tom Szentgyorgyi, Blair Singer, Paul Attanasio, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Studios.</desc>
+  </programme>
+  <programme start="20261022140000 +0200" stop="20261022144500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E19 · Envuelta en la muerte</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett tienen que investigar la extraña muerte de un conservador de un museo, que fue aplastado por una pesada gárgola. Deberán descubrir si fue asesinato o víctima de la maldición de la momia.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261022144500 +0200" stop="20261022153000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E20 · Horario mortal</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.6/10
+· Después de la aparición de Castle en famoso programa de televisión, el presentador del magacín muere unas horas más tarde. Castle está convencido de que ha sido un asesinato ya que el presentador le dijo en privado que alguien lo quería muerto.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261022153000 +0200" stop="20261022173000 +0200" channel="STAR Channel HD">
+    <title>Star Trek: En la oscuridad</title>
+    <desc>Cine,Fantástico | 2013 | +12 | *7.4/10
+· Cuando Khan declara la guerra a la Federación, la tripulación inicia una persecución por la galaxia.
+· País: Estados Unidos
+· Dirección: J.J. Abrams.
+· Reparto: Chris Pine, Zachary Quinto, Zoe Saldaña, Karl Urban, Simon Pegg, John Cho, Benedict Cumberbatch, Anton Yelchin, Bruce Greenwood, Alice Eve, Leonard Nimoy.
+· Guion: Alex Kurtzman, Damon Lindelof, Roberto Orci.
+· Música: Michael Giacchino.
+· Productora: Paramount Pictures, Bad Robot, Skydance Productions.</desc>
+  </programme>
+  <programme start="20261022173000 +0200" stop="20261022182000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E19 · Una Watson, un Holmes</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· Holmes y Watson se encuentran en medio de una guerra civil en Internet.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261022182000 +0200" stop="20261022191000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E20 · Una puntada a tiempo</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· Holmes y Watson investigan el asesinato de un escéptico profesional.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261022191000 +0200" stop="20261022200000 +0200" channel="STAR Channel HD">
+    <title>Elementary T3 E21 · Bajo la piel</title>
+    <desc>Series,Policíaca | 2014 | +12 | *6.2/10
+· Holmes y Watson se unen para investigar la muerte de dos paramédicos de Nueva York en un secuestro.
+· País: Estados Unidos
+· Reparto: Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill.
+· Productora: CBS Television Studios, Hill of Beans Productions, Timberman-Beverly Productions.</desc>
+  </programme>
+  <programme start="20261022200000 +0200" stop="20261022210000 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E9 · Aurora</title>
+    <desc>Series,Acción | 2023 | +12 | *5.8/10
+· Un viudo ofrece una recompensa por encontrar a su única hija, desaparecida hace tres años.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261022210000 +0200" stop="20261022220000 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E10 · En libertad</title>
+    <desc>Series,Acción | 2023 | +12 | *6.2/10
+· Colter se adentra en el bosque para buscar a los hijos desaparecidos de un hombre que fueron vistos por última vez en un avión que se perdió durante una tormenta con un cliente misterioso a bordo.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261022220000 +0200" stop="20261022230000 +0200" channel="STAR Channel HD">
+    <title>High Potential T2 E3 · Once minutos</title>
+    <desc>Series,Aventuras | 2025 | +12 | *6.0/10
+· Cuando un hombre con un pasado turbulento muere en extrañas circunstancias, Morgan y la policía de Los Ángeles descubren el trágico motivo que se oculta tras su muerte.
+· País: Estados Unidos
+· Dirección: Drew Goddard, Nancy Hower.
+· Reparto: Kaitlin Olson, Daniel Sunjata, Javicia Leslie, Deniz Akdeniz, Judy Reyes, Marsuvio Sanchez, Daniel Passer, Charlit Dae, Jon Manfrellotti, Paul McCarthy-Boyington.
+· Guion: Tim Minear, Eric I Lu.
+· Productora: 20th Television, Spondoolie Productions, Goddard Textiles, Jean Nainchrik.</desc>
+  </programme>
+  <programme start="20261022230000 +0200" stop="20261023000000 +0200" channel="STAR Channel HD">
+    <title>High Potential T1 E11 · La sauna al final de las escaleras</title>
+    <desc>Series,Drama | 2024 | +12 | *5.8/10
+· Soto reabre un antiguo caso de asesinato, decidido a descubrir al verdadero asesino al más puro estilo de las novelas policíacas clásicas.
+· País: Estados Unidos
+· Dirección: Alethea Jones, Viet Nguyen, Amanda Treyz.
+· Reparto: Kaitlin Olson, Daniel Sunjata, Javicia Leslie, Deniz Akdeniz, Keith David, Judy Reyes, Jonathan Chase, Ryan Devlin, Lawrence Pressman, Noah Silver, Kayla Heywood, Garret Dillahunt.
+· Guion: Sonny Priest, Kat Sieniuc.
+· Productora: Goddard Textiles, Spondoolie Productions, ABC Signature Studios, Myung Joh Wesner, Alex Mercer.</desc>
+  </programme>
+  <programme start="20261023000000 +0200" stop="20261023013500 +0200" channel="STAR Channel HD">
+    <title>Tracker T1 E9 · Aurora</title>
+    <desc>Series,Acción | 2023 | +12 | *5.8/10
+· Un viudo ofrece una recompensa por encontrar a su única hija, desaparecida hace tres años.
+· País: Estados Unidos
+· Reparto: Justin Hartley, Robin Weigert, Abby McEnany, Eric Graise, Nicole Anthony, Lee Tergesen.
+· Productora: CBS, AfterPortsmouth Productions, Change Up Productions.</desc>
+  </programme>
+  <programme start="20261023013500 +0200" stop="20261023022000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E14 · Un lugar seguro</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull ayuda a un cliente agorafóbico a presentar una demanda por homicidio contra el presunto asesino de su querida tía, pero la incapacidad del cliente para testificar en persona amenaza el juicio.
+· País: Estados Unidos
+· Dirección: Melissa Kalbfus.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Rob Campbell, Geneva Carr, Rolonda Watts, Jaime Lee Kirchner.
+· Guion: Mat Raney.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, Atelier Paul Attanasio.</desc>
+  </programme>
+  <programme start="20261023022000 +0200" stop="20261023025000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E15 · Con estas manos</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull adopta un papel frustrantemente pasivo durante una demanda por negligencia médica.
+· País: Estados Unidos
+· Dirección: Geneva Carr.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Chris Jackson, Annabelle Attanasio.
+· Guion: Tom Szentgyorgyi, Blair Singer, Paul Attanasio, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Studios.</desc>
+  </programme>
+  <programme start="20261023025000 +0200" stop="20261023033500 +0200" channel="STAR Channel HD">
+    <title>El cuerpo del delito T1 E12 · Desaparecido</title>
+    <desc>Series,Drama | 2010 | +12 | *6.4/10
+· Megan investiga la muerte de una joven y descubre que a su cargo tiene un niño que ha sido secuestrado.
+· País: Estados Unidos
+· Reparto: Dana Delany, Jeri Ryan, Geoffrey Arend, John Carroll Lynch, Windell Middlebrooks.
+· Música: Trevor Morris.
+· Productora: ABC Studios.</desc>
+  </programme>
+  <programme start="20261023033500 +0200" stop="20261023043500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E19 · La muerte en la supervivencia</title>
+    <desc>Series,Thriller | 2013 | +12 | *4.6/10
+· El equipo del Jeffersonian investiga la muerte de una antigua sargento de la marina estadounidense, cuyos restos han sido encontrados calcinados.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261023043500 +0200" stop="20261023051500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E15 · Valía</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Con la amenaza de los salvadores acechando aún, Aaron continúa buscando aliados; Daryl y Rosita toman medidas y se enfrentan a un viejo amigo.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261023051500 +0200" stop="20261023060000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E16 · Ira</title>
+    <desc>Series,Terror | 2017 | +16 | *7.0/10
+· Las comunidades unen sus fuerzas en la última batalla contra los Salvadores a medida que se desarrolla una guerra total.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Lennie James, Jeffrey Dean Morgan, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261023060000 +0200" stop="20261023064000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T9 E1 · Un nuevo comienzo</title>
+    <desc>Series,Terror | 2018 | +16 | *6.6/10
+· Rick y su grupo realizan una peligroa incursión en Washington, DC para buscar todo aquello que necesitarán para construir la civilización que él y Carl imaginaron.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261023064000 +0200" stop="20261023073000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T9 E2 · El puente</title>
+    <desc>Series,Terror | 2018 | +16 | *6.6/10
+· Las comunidades se unen para restaurar el puente, pero alguien resulta gravemente herido.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261023073000 +0200" stop="20261023081500 +0200" channel="STAR Channel HD">
+    <title>Castle T1 E7 · El hogar está allí donde se para el corazón</title>
+    <desc>Series,Policíaca | 2008 | +12 | *6.6/10
+· Dentro de la caja fuerte de una casa de lujo aparece una mujer asesinada. Además del crimen, todas las valiosas joyas han desaparecido. Días más tarde, se repite la historia en otra mansión de la zona.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Ruben Santiago-Hudson, Jon Huertas, Seamus Dever, Tamala Jones.
+· Música: Robert Duncan.
+· Productora: Beacon Pictures, ABC Studios.</desc>
+  </programme>
+  <programme start="20261023081500 +0200" stop="20261023090000 +0200" channel="STAR Channel HD">
+    <title>Castle T1 E8 · Fantasmas</title>
+    <desc>Series,Policíaca | 2008 | +12 | *6.4/10
+· Una mujer aparece muerta, sumergida en aceite de coche dentro de una bañera de un motel. Castle y Beckett investigan el asesinato y se dan cuenta de que la víctima no es quien decía ser y que está implicada en un atentado de hace 20 años.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Ruben Santiago-Hudson, Jon Huertas, Seamus Dever, Tamala Jones.
+· Música: Robert Duncan.
+· Productora: Beacon Pictures, ABC Studios.</desc>
+  </programme>
+  <programme start="20261023090000 +0200" stop="20261023100000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E19 · La muerte en la supervivencia</title>
+    <desc>Series,Thriller | 2013 | +12 | *4.6/10
+· El equipo del Jeffersonian investiga la muerte de una antigua sargento de la marina estadounidense, cuyos restos han sido encontrados calcinados.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261023100000 +0200" stop="20261023110000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E20 · La sangre de las piedras</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· Un oficial de policía secreta aparece mutilado en una caravana llena de diamantes.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261023110000 +0200" stop="20261023120000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E15 · Con estas manos</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull adopta un papel frustrantemente pasivo durante una demanda por negligencia médica.
+· País: Estados Unidos
+· Dirección: Geneva Carr.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Chris Jackson, Annabelle Attanasio.
+· Guion: Tom Szentgyorgyi, Blair Singer, Paul Attanasio, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Atelier Paul Attanasio, CBS Studios.</desc>
+  </programme>
+  <programme start="20261023120000 +0200" stop="20261023124500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E16 · El caso Diana</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull dirige la defensa de Diana Lindsay, acusada de matar a la esposa de su amante.
+· País: Estados Unidos
+· Dirección: Carl Seaton.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Chris Jackson, Annabelle Attanasio.
+· Guion: Tom Szentgyorgyi, Kathryn Price, Nichole Millard, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, CBS Television Network.</desc>
+  </programme>
+  <programme start="20261023124500 +0200" stop="20261023140000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E17 · Desconocido</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Izzy contrata a Bull y a TAC para que defiendan a un jinete acusado de provocar un incendio contra el dueño de la cuadra que lo despidió.
+· País: Estados Unidos
+· Dirección: Lou Diamond Phillips.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Zachary Booth, Stephen Spinella, Geneva Carr, Jaime Lee Kirchner.
+· Guion: Cara Hall.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, Atelier Paul Attanasio.</desc>
+  </programme>
+  <programme start="20261023140000 +0200" stop="20261023144500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E21 · La guarida de los ladrones</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett investigan la muerte de un ladrón. Durante la investigación se darán cuenta de que Espósito podría haber tenido algún tipo de relación con el presunto asesino.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261023144500 +0200" stop="20261023153000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E22 · Una comida de muerte</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Kate y Castle investigarán la muerte de un famoso chef, que aparece congelado con nitrógeno en la cocina de su restaurante. La investigación se complica cuando descubren que la dueña del restaurante es una antigua amiga del instituto de Kate.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261023153000 +0200" stop="20261023173500 +0200" channel="STAR Channel HD">
+    <title>En tierra peligrosa 2</title>
+    <desc>Cine,Acción | 1997 | +18 | *6.4/10
+· Jack Taggart investiga un caso de residuos tóxicos que está provocando serias enfermedades a los habitantes de la zona. Las pesquisas le conducen hasta un empresario sin escrúpulos que tiene amenazado al pueblo entero.
+· País: Estados Unidos
+· Dirección: Félix Enríquez Alcalá.
+· Reparto: Robert Ridgely, Petrice Jordan, John Prosky, Gina Mari, Scott L Schwartz, Rick Johnson.
+· Guion: Jeb Stuart, Philip Morton.
+· Música: Nick Glennie-Smith.
+· Producción: Steven Seagal, Julius R. Nasso.
+· Productora: Steven Seagal, Tommy Lee Jones, Warner Bros, William S. Gilmore, Ronald G Smith, Julius R. Nasso.</desc>
+  </programme>
+  <programme start="20261023173500 +0200" stop="20261023200000 +0200" channel="STAR Channel HD">
+    <title>En tierra peligrosa</title>
+    <desc>Cine,Acción | 1994 | +18 | *6.2/10
+· Forrest Taft trabaja para la Aegis Oil Company en Alaska. El dueño de la Aegis, Michael Jennings, es un tipo corrupto y sin escrúpulos al que no le importa el daño ecológico que provoque su empresa siempre que le haga ganar dinero.
+· País: Estados Unidos
+· Dirección: Tommy Lee Jones, Steven Seagal.
+· Reparto: Jim Farnum, Arisa Wolf, Carlotta Chang, Reid Asato, Fumiyasu Daikyu, Warren Tabata.
+· Guion: Ed Horowitz, Robin U. Russin.
+· Música: Basil Poledouris.
+· Producción: Steven Seagal, Julius R. Nasso, A Kitman Ho.
+· Productora: Jeff Robinov, Doug Metzger, Peter Burrell, Robert Watts, Julius R. Nasso, A Kitman Ho.</desc>
+  </programme>
+  <programme start="20261023200000 +0200" stop="20261023210000 +0200" channel="STAR Channel HD">
+    <title>CIA T1 E10 · Tierra rara</title>
+    <desc>Series,Policíaca | 2026 | +12 | *6.0/10
+· Cuando un diplomático extranjero es asesinado tras entrar clandestinamente en Estados Unidos, Colin y Bill descubren que un mineral raro con potencial para perturbar las relaciones internacionales podría ser la razón por la que fue atacado.
+· País: Estados Unidos
+· Dirección: Jon Cassar.
+· Reparto: Tom Ellis, Nick Gehlfuss, Natalee Linez, Necar Zadegan, Jonathan Randell Silver.
+· Música: Atli Örvarsson.
+· Productora: Universal Television, Wolf Entertainment, CBS Studios.</desc>
+  </programme>
+  <programme start="20261023210000 +0200" stop="20261023220000 +0200" channel="STAR Channel HD">
+    <title>Boston Blue T1 E18 · Falta personal</title>
+    <desc>Series,Policíaca | 2025 | +12 | *10.0/10
+· Una estrella del baloncesto universitario se ve amenazada, así que Danny y Lena se apresuran a protegerla mientras resuelven un asesinato. Afloran conflictos profundamente personales y dilemas morales.
+· País: Estados Unidos
+· Dirección: Anthony Hemingway, Anton Cropper.
+· Reparto: Donnie Wahlberg, Sonequa Martin-Green, Mika Amonsen, Ernie Hudson, Gloria Reuben, Marcus Scribner.
+· Guion: Brandon Sonnier, Brandon Margolis.
+· Productora: The Brandons, CBS Studios, Jerry Bruckheimer Television.</desc>
+  </programme>
+  <programme start="20261023220000 +0200" stop="20261023230000 +0200" channel="STAR Channel HD">
+    <title>Boston Blue T1 E19 · Persiguiendo monstruos</title>
+    <desc>Series,Policíaca | 2025 | +12 | *6.2/10
+· El exdetective Danny Reagan se une al Departamento de Policía de Boston.
+· País: Estados Unidos
+· Dirección: Anthony Hemingway, Sherwin Shilati.
+· Reparto: Donnie Wahlberg, Sonequa Martin-Green, Mika Amonsen, Ernie Hudson, Gloria Reuben, Marcus Scribner, Brad Hodder, Jason Biggs.
+· Guion: Jamila Daniel, Brandon Margolis.
+· Productora: The Brandons, CBS Studios, Jerry Bruckheimer Television, Dantonio Alvarez, Jerry Bruckheimer.</desc>
+  </programme>
+  <programme start="20261023230000 +0200" stop="20261024011000 +0200" channel="STAR Channel HD">
+    <title>Yo, el Halcón</title>
+    <desc>Cine,Acción | 1987 | +12 | *6.4/10
+· Un camionero arrepentido de sus errores, está dispuesto a todo para recuperar el cariño del hijo al que abandonó hace doce años.
+· País: Estados Unidos
+· Dirección: Menahem Golan.
+· Reparto: Jack Wright, Charles M Wilborn, Kelly Sahnger, David Van Gorder, Flo Lawrence, Dean Abston.
+· Guion: Sylvester Stallone, Gary Conway, Stirling Silliphant, David Engelbach.
+· Música: Giorgio Moroder, Eddie Money.
+· Producción: Menahem Golan, Yoram Globus.
+· Productora: Tony Munafo, Warner Bros. Pictures, Golan-Globus Productions, Warner Bros, Yoram Globus, James D Brubaker.</desc>
+  </programme>
+  <programme start="20261024011000 +0200" stop="20261024022000 +0200" channel="STAR Channel HD">
+    <title>Boston Blue T1 E19 · Persiguiendo monstruos</title>
+    <desc>Series,Policíaca | 2025 | +12 | *6.2/10
+· El exdetective Danny Reagan se une al Departamento de Policía de Boston.
+· País: Estados Unidos
+· Dirección: Anthony Hemingway, Sherwin Shilati.
+· Reparto: Donnie Wahlberg, Sonequa Martin-Green, Mika Amonsen, Ernie Hudson, Gloria Reuben, Marcus Scribner, Brad Hodder, Jason Biggs.
+· Guion: Jamila Daniel, Brandon Margolis.
+· Productora: The Brandons, CBS Studios, Jerry Bruckheimer Television, Dantonio Alvarez, Jerry Bruckheimer.</desc>
+  </programme>
+  <programme start="20261024022000 +0200" stop="20261024025000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E17 · Desconocido</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Izzy contrata a Bull y a TAC para que defiendan a un jinete acusado de provocar un incendio contra el dueño de la cuadra que lo despidió.
+· País: Estados Unidos
+· Dirección: Lou Diamond Phillips.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Zachary Booth, Stephen Spinella, Geneva Carr, Jaime Lee Kirchner.
+· Guion: Cara Hall.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, CBS Studios, Atelier Paul Attanasio.</desc>
+  </programme>
+  <programme start="20261024025000 +0200" stop="20261024033500 +0200" channel="STAR Channel HD">
+    <title>Castle T1 E7 · El hogar está allí donde se para el corazón</title>
+    <desc>Series,Policíaca | 2008 | +12 | *6.6/10
+· Dentro de la caja fuerte de una casa de lujo aparece una mujer asesinada. Además del crimen, todas las valiosas joyas han desaparecido. Días más tarde, se repite la historia en otra mansión de la zona.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Ruben Santiago-Hudson, Jon Huertas, Seamus Dever, Tamala Jones.
+· Música: Robert Duncan.
+· Productora: Beacon Pictures, ABC Studios.</desc>
+  </programme>
+  <programme start="20261024033500 +0200" stop="20261024043500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E20 · La sangre de las piedras</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· Un oficial de policía secreta aparece mutilado en una caravana llena de diamantes.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261024043500 +0200" stop="20261024051500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T9 E1 · Un nuevo comienzo</title>
+    <desc>Series,Terror | 2018 | +16 | *6.6/10
+· Rick y su grupo realizan una peligroa incursión en Washington, DC para buscar todo aquello que necesitarán para construir la civilización que él y Carl imaginaron.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261024051500 +0200" stop="20261024060000 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T9 E2 · El puente</title>
+    <desc>Series,Terror | 2018 | +16 | *6.6/10
+· Las comunidades se unen para restaurar el puente, pero alguien resulta gravemente herido.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261024060000 +0200" stop="20261024070000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E16 · El amigo necesitado</title>
+    <desc>Series,Thriller | 2013 | +12 | *4.8/10
+· El equipo del Jeffersonian analiza los restos de un adolescente de 15 años.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261024070000 +0200" stop="20261024080000 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E17 · El hecho en la ficción</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· Un nuevo interno extremadamente educado, el doctor Oliver Wells, empieza en el Jeffersonian. Su facilidad para aprender, su personalidad entusiasta resulta un desafío para Brennan.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261024080000 +0200" stop="20261024085500 +0200" channel="STAR Channel HD">
+    <title>Bones T8 E18 · El superviviente en el jabón</title>
+    <desc>Series,Thriller | 2013 | +12 | *6.2/10
+· El equipo del Jeffersonian investiga la muerte de Symchay Conteh, un joven inmigrante de Sierra Leone cuyos restos fueron encontrados dentro de un barril de una planta de residuos.
+· País: Estados Unidos
+· Reparto: David Boreanaz, Emily Deschanel, John Francis Daley, T.J Thyne, Michaela Conlin, Tamara Taylor.
+· Productora: 20th Century Fox Television.</desc>
+  </programme>
+  <programme start="20261024085500 +0200" stop="20261024094000 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E8 · Atrapados en la nieve</title>
+    <desc>Series,Drama | 2021 | +12 | *6.2/10
+· Bull necesita un milagro navideño cuando acepta defender al joven asistente de una agencia de deportes encargado de proporcionar drogas letales a un cliente estrella.
+· País: Estados Unidos
+· Dirección: Alan Rickman, Dennis Smith.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Geneva Carr, Jaime Lee Kirchner, Ollie Robinson, Chris Jackson.
+· Guion: Zyanya Salazar, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Nichole Millard, CBS Television Network, Jason Koiter.</desc>
+  </programme>
+  <programme start="20261024094000 +0200" stop="20261024101500 +0200" channel="STAR Channel HD">
+    <title>Bull T6 E9 · Falso positivo</title>
+    <desc>Series,Drama | 2021 | +12 | *6.4/10
+· Bull ayuda a una madre afligida a demandar a los desarrolladores de un programa de ordenador que identificó erróneamente a su hijo como un criminal, lo que provocó que la policía le disparara fatalmente. Además, Bull y Marissa chocan cuando ella consider.
+· País: Estados Unidos
+· Dirección: Eric Stoltz.
+· Reparto: Michael Weatherly, Freddy Rodríguez, Yara Martinez, Geneva Carr, Jaime Lee Kirchner, Anna Khaja.
+· Guion: Leland Jay Anderson, Chandus Jackson.
+· Productora: Amblin Television, CBS Television Studios, Stage 29 Productions, Jason Koiter, Kathryn Price, Nichole Millard.</desc>
+  </programme>
+  <programme start="20261024101500 +0200" stop="20261024104000 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T33 E22 · El rock del pobretón</title>
+    <desc>Series,Animación | 2022 | +12 | *6.0/10
+· Después de que Bart lo humille en la iglesia, Homer por fin enseña a su hijo a admirar a su padre, hasta que la visita de un celador cantarín (Hugh Jackman) cambia todo lo que creían saber.
+· País: Estados Unidos
+· Dirección: Mike B Anderson, Jennifer Moeller.
+· Reparto: Megan Mullally, Dan Castellaneta, Miriam Margolyes, Hugh Jackman, Maggie Roswell, Conrad Vernon.
+· Guion: Tim Long.
+· Productora: Matt Selman, Broti Gupta, Felicia Nalivansky-Caplan, Brian J Kaufman, Sam Simon, 20th Television.</desc>
+  </programme>
+  <programme start="20261024104000 +0200" stop="20261024111000 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T33 E1 · La estrella del backstage</title>
+    <desc>Series,Animación | 2021 | +12 | *6.0/10
+· Un musical cobra vida en Springfield cuando Marge pone en escena la reposición de su querido espectáculo del instituto, pero sus maravillosos recuerdos se ven amenazados por el regreso de un rival del pasado.
+· País: Estados Unidos
+· Dirección: Rob Oliver, Mike B Anderson.
+· Reparto: Harry Shearer, Hank Azaria, Elisabeth Kiernan Averick, Andrew Adamson, Kevin Michael Richardson, Conrad Vernon, Maggie Roswell, Nancy Cartwright, Julie Kavner, Yeardley Smith, Dan Castellaneta.
+· Guion: Matt Groening.
+· Productora: Richard K Chung, Mike Scully, John Frink, 20th Television, Felicia Nalivansky-Caplan, Alexander Duke, Sam Simon, Matt Selman, Al Jean, James L. Brooks, Denise Sirkot, Richard Sakai, Mike Reiss, Richard Raynis, Max Pross, David Mirkin, Tom Gammill, Gracie Films, Brian J Kaufman.</desc>
+  </programme>
+  <programme start="20261024111000 +0200" stop="20261024113500 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T33 E2 · Bart está en la cárcel</title>
+    <desc>Series,Animación | 2021 | +12 | *6.0/10
+· Cuando el Abuelo es víctima de una estafa telefónica, los Simpson se embarcan en una misión de venganza para recuperar su dinero.
+· País: Estados Unidos
+· Dirección: Mike B Anderson, Steven Dean Moore.
+· Reparto: Alan Cumming, Kevin Michael Richardson, Dan Castellaneta, Joel H. Cohen, Harry Shearer, Hank Azaria.
+· Guion: Nick Dahan.
+· Productora: Felicia Nalivansky-Caplan, Mike Scully, Gracie Films, Tom Gammill, David Mirkin, Max Pross.</desc>
+  </programme>
+  <programme start="20261024113500 +0200" stop="20261024125500 +0200" channel="STAR Channel HD">
+    <title>Los Simpson T33 E3 · La casa-árbol del terror XXXII</title>
+    <desc>Series,Animación | 2021 | +12 | *6.0/10
+· "Parásitos", de Bong Joon-ho, la venganza de Bambi y mucho, mucho más, en el especial de Halloween de este año.
+· País: Estados Unidos
+· Dirección: Matthew Faughnan, Mike B Anderson.
+· Reparto: Kevin Michael Richardson, Harry Shearer, Andrew Adamson, Dan Castellaneta, Susan Egan, Hank Azaria.
+· Guion: John Frink.
+· Productora: Alexander Duke, Max Pross, Gracie Films, Tom Gammill, Brian J Kaufman, David Mirkin.</desc>
+  </programme>
+  <programme start="20261024125500 +0200" stop="20261024134000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E13 · Puñalada trapera</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett investigan el asesinato de un mafioso irlandés. Durante la investigación descubren lo que puede ser una operación de tráfico de drogas así como la posible implicación del muerto en el asesinato de la madre de Beckett.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261024134000 +0200" stop="20261024142000 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E14 · El tercer hombre</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Castle y Beckett investigan el asesinato de un hombre cuyo cadáver ha aparecido en casa de una familia recién llegada de vacaciones. Mientras, Castle es elegido como uno de los 10 solteros de oro de Nueva York.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261024142000 +0200" stop="20261024150500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E15 · El régimen suicida</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.6/10
+· Castle y Beckett investigan el asesinato de una estrella del baseball que apareció muerta tras un viaje a Cuba. En el camino se encontrarán con toda una leyenda del baseball americano, Joe Torre, ex capitán de los Yankees.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261024150500 +0200" stop="20261024154500 +0200" channel="STAR Channel HD">
+    <title>Castle T2 E16 · El ama siempre azota dos veces</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.6/10
+· Una mujer medio desnuda aparece en un parque colgando y cubierta en salsa de caramelo. Castle y Beckett se tendrán que adentrar en el misterioso mundo de la dominación sexual para lograr atrapar al asesino.
+· País: Estados Unidos
+· Reparto: Nathan Fillion, Stana Katic, Molly C Quinn, Jon Huertas, Susan Sullivan, Seamus Dever, Tamala Jones.
+· Productora: Polygram Filmed Entertainment / Beacon Pictures, ABC Studios, Andrew W. Marlowe, Beacon Pictures.</desc>
+  </programme>
+  <programme start="20261024154500 +0200" stop="20261024175000 +0200" channel="STAR Channel HD">
+    <title>Red One</title>
+    <desc>Cine,Acción | 2023 | +12
+· Tras el secuestro de Papá Noel, nombre en clave Red One, el jefe de seguridad del Polo Norte debe formar equipo con el cazarrecompensas más despreciable del mundo un una misión para salvar la Navidad.
+· País: Estados Unidos
+· Dirección: Jake Kasdan.
+· Reparto: Dwayne Johnson, Jonny Lee Miller, Cody Easterbrook, Hannah Aslesen, Greg Clarkson, Jon Rudnitsky.
+· Guion: Chris Morgan, Hiram Garcia.
+· Música: Henry Jackman.
+· Producción: Dany Garcia, Hiram Garcia, Dwayne Johnson, Jake Kasdan, Chris Morgan.
+· Productora: Dany Garcia, Hiram Garcia, Barry H. Waldman, Ainsley Davies, Amazon MGM Studios.</desc>
+  </programme>
+  <programme start="20261024175000 +0200" stop="20261024195000 +0200" channel="STAR Channel HD">
+    <title>Black Adam</title>
+    <desc>Cine,Acción | 2022 | +12 | *6.2/10
+· 2.600 años antes de Cristo, Kahndaq era un centro de poder y de conocimiento, pero cuando el rey Akh-ton y sus oscuras ambiciones lo llevaron al borde del abismo, Kahndaq necesitó de un héroe que finalmente acabó con Akh-ton... y luego desapareció.
+· País: Canadá y Estados Unidos
+· Dirección: Jaume Collet-Serra.
+· Reparto: Dwayne Johnson, Pierce Brosnan, Aldis Hodge, Noah Centineo, Sarah Shahi, Marwan Kenzari.
+· Guion: Adam Sztykiel, Rory Haines, Sohrab Noshirvani.
+· Música: Lorne Balfe.
+· Producción: Dwayne Johnson, Hiram Garcia, Dany Garcia, Beau Flynn.
+· Productora: Warner Bros, DC Entertainment, New Line Cinema, Seven Bucks Productions.</desc>
+  </programme>
+  <programme start="20261024195000 +0200" stop="20261024220500 +0200" channel="STAR Channel HD">
+    <title>Logan</title>
+    <desc>Cine,Acción | 2017 | +16 | *7.8/10
+· 2029. Hace 25 años que no nacen nuevos mutantes. Logan pasa los días bebiendo, escondido en un remoto lugar de la frontera mexicana, ganándose la vida como conductor de coches de alquiler. Sus compañeros en el exilio son Caliban y un acabado Profesor X.
+· País: Australia, Canadá y Estados Unidos
+· Dirección: James Mangold.
+· Reparto: Hugh Jackman, Patrick Stewart, Boyd Holbrook, Stephen Merchant, Dafne Keen, Richard E. Grant, Eriq La Salle, Elise Neal, Elizabeth Rodriguez.
+· Guion: James Mangold, Michael Green, Scott Frank.
+· Música: Marco Beltrami.
+· Producción: Simon Kinberg, Hutch Parker, Lauren Shuler Donner.
+· Productora: Marvel Entertainment, Twentieth Century-Fox Film Corporation, TSG Entertainment, Donners' Company, Kinberg Genre, The Donners' Company.</desc>
+  </programme>
+  <programme start="20261024220500 +0200" stop="20261025000000 +0200" channel="STAR Channel HD">
+    <title>Cuatro hermanos</title>
+    <desc>Cine,Acción | 2005 | +18 | *6.6/10
+· Después del asesinato de su madre adoptiva en un atraco, los hermanos Mercer se reúnen de nuevo para aclarar su muerte.
+· País: Estados Unidos
+· Dirección: John Singleton.
+· Reparto: Mark Wahlberg, Tyrese Gibson, Lyriq Bent, André Benjamin, Garrett Hedlund, Kathryn Haggis, David Sparrow, Terrence Howard, Sofía Vergara, Benz Antoine, Fionnula Flanagan, Robert Thomas, Josh Charles, Timothy E. Brummund, Taraji P. Henson, Brad Borbridge, Kevin Duhaney.
+· Guion: David Elliot, Paul Lovett.
+· Música: David Arnold.
+· Producción: Lorenzo di Bonaventura.
+· Productora: Paramount Pictures, Di Bonaventura Pictures, Four Brothers Films, Lorenzo di Bonaventura.</desc>
+  </programme>
+  <programme start="20261025000000 +0200" stop="20261025020500 +0200" channel="STAR Channel HD">
+    <title>En tierra peligrosa 2</title>
+    <desc>Cine,Acción | 1997 | +18 | *6.4/10
+· Jack Taggart investiga un caso de residuos tóxicos que está provocando serias enfermedades a los habitantes de la zona. Las pesquisas le conducen hasta un empresario sin escrúpulos que tiene amenazado al pueblo entero.
+· País: Estados Unidos
+· Dirección: Félix Enríquez Alcalá.
+· Reparto: Robert Ridgely, Petrice Jordan, John Prosky, Gina Mari, Scott L Schwartz, Rick Johnson.
+· Guion: Jeb Stuart, Philip Morton.
+· Música: Nick Glennie-Smith.
+· Producción: Steven Seagal, Julius R. Nasso.
+· Productora: Steven Seagal, Tommy Lee Jones, Warner Bros, William S. Gilmore, Ronald G Smith, Julius R. Nasso.</desc>
+  </programme>
+  <programme start="20261025020500 +0200" stop="20261025021500 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E10 · Los perdidos y los saqueadores</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Los diferentes grupos unen fuerzas y se reúnen en Hilltop. Mientras, Aaron y Enid buscan aliados. Simon toma el asunto en sus propias manos.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261025021500 +0200" stop="20261025022700 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E9 · Honor</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· Rick enfrenta nuevas dificultades después de una batalla. Mientras, la lucha continúa en otras comunidades a medida que los miembros más influentes toman decisiones difíciles.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261025022700 +0200" stop="20261025024700 +0200" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E11 · Vivos o muertos</title>
+    <desc>Series,Terror | 2017 | +16 | *6.6/10
+· Daryl se encuentra con mala compañía mientras su grupo se dirige a Hilltop. La fe de Gabriel es puesta a prueba.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
+  </programme>
+  <programme start="20261025024700 +0200" stop="20261025042000 +0100" channel="STAR Channel HD">
+    <title>The Walking Dead T8 E12 · La clave</title>
+    <desc>Series,Terror | 2017 | +16 | *6.8/10
+· El liderazgo de Hilltop se enfrenta a un difícil dilema tras la llegada de visitantes inesperados. Rick se encuentra cara a cara con un adversario.
+· País: Estados Unidos
+· Dirección: Robert Kirkman.
+· Reparto: Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan, Danai Gurira, Chandler Riggs, Maggie Green Lauren Cohan.
+· Productora: Circle of Confusion, Valhalla Motion Pictures.</desc>
   </programme>
 </tv>

@@ -64,9 +64,10 @@ def variantes_de_nombre(nombre: str, id_xmltv: str) -> list[str]:
     for cal in CALIDADES:
         anadir(base + cal)
 
-    # Formas con distinta capitalizacion
+    # Formas con otra capitalizacion: 'STAR Channel' -> 'Star Channel', 'Star Channel HD'...
     anadir(base.title())
-    anadir(base.title() + re.sub(r"^.*?(\s+(?:SD|HD|FHD|UHD|4K|FULL HD))$", r"\1", nombre, flags=re.I))
+    for cal in CALIDADES:
+        anadir(base.title() + cal)
 
     # El id XMLTV original, util si el reproductor empareja por el
     anadir(id_xmltv)

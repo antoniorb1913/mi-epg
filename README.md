@@ -1,4 +1,4 @@
-# mi-epg
+﻿# mi-epg
 
 Generador **propio** de guía de programación (EPG) en formato **XMLTV**.
 
@@ -219,9 +219,13 @@ Si tu proveedor usa otros ids (o ninguno), hay dos salidas:
 
 ## Fuentes de datos
 
-Actualmente:
+Actualmente hay **dos**, y se fusionan automaticamente:
 
-- `epgshare01 ES1` — 373 canales, 331 con programación real, 6-7 días.
+- epgshare01 ES1 — 373 canales, la base principal
+- EPG_dobleM guiatv — cubre canales que la anterior no tiene (Star Channel, etc.)
+
+Ventaja del diseno: si una fuente cae, la otra sigue dando guia. Para anadir
+una tercera basta con una linea mas en config/fuentes.txt.
 
 Aviso legal: la programación (título y hora) es dato fáctico. Las descripciones
 y las imágenes son contenido de cada cadena. Para uso personal es correcto; si
@@ -239,3 +243,4 @@ publicas el repo abierto, tenlo en cuenta.
 ## Licencia
 
 Código propio, libre para usar y modificar.
+
