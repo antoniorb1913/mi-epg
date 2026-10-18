@@ -1,0 +1,11 @@
+# Normaliza los finales de linea para que Windows y WSL/Linux vean lo mismo.
+# Sin esto, git en WSL marca todos los archivos como modificados.
+* text=auto eol=lf
+
+# Binarios: no tocar
+*.png binary
+*.jpg binary
+*.ico binary
+*.gz binary
+*.dll binary
+*.exe binary
