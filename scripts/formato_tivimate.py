@@ -122,20 +122,14 @@ def convertir(entrada: str, salida: str) -> tuple[int, int]:
         raiz.append(prog)
         escritos += 1
 
-    # Cabecera con DOCTYPE, igual que los XMLTV que funcionan
+    # Cabecera SIN DOCTYPE.
+    #
+    # Ojo: <!DOCTYPE tv SYSTEM "xmltv.dtd"> hace que algunos parsers intenten
+    # descargar "xmltv.dtd" desde la misma URL, que no existe, y descarten el
+    # archivo entero. Los XMLTV que funcionan en TiviMate (por ejemplo los de
+    # EPG_dobleM) no llevan DOCTYPE, asi que tampoco lo ponemos.
     ET.indent(arbol, space="  ")
     arbol.write(salida, encoding="UTF-8", xml_declaration=True)
-
-    # Anadimos el DOCTYPE a mano (ElementTree no lo soporta)
-    with open(salida, "rb") as fh:
-        contenido = fh.read().decode("utf-8")
-    contenido = contenido.replace(
-        "?>",
-        '?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">',
-        1,
-    )
-    with open(salida, "w", encoding="utf-8", newline="\n") as fh:
-        fh.write(contenido)
 
     # Version comprimida
     with open(salida, "rb") as fh, gzip.open(salida + ".gz", "wb", compresslevel=9) as gz:

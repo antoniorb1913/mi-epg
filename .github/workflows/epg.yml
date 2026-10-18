@@ -1,4 +1,4 @@
-﻿name: Generar EPG
+name: Generar EPG
 
 on:
   # Cada 12 horas (01:00 y 13:00 UTC -> 03:00 y 15:00 en Espana)
@@ -49,12 +49,20 @@ jobs:
                   raise SystemExit(f"ERROR: {f} esta vacio")
           PY
 
+      - name: Copiar a publico/ (nombres cortos y version sin comprimir)
+        run: |
+          mkdir -p publico
+          cp output/mi-epg-compatible.xml    publico/epg.xml
+          cp output/mi-epg-compatible.xml.gz publico/epg.xml.gz
+          cp output/mi-epg.xml               publico/epg-estandar.xml
+          cp output/mi-epg.xml.gz            publico/epg-estandar.xml.gz
+          ls -lh publico/
+
       - name: Publicar cambios
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Solo los .gz y los informes: los XML sin comprimir van en .gitignore
-          git add output/*.gz output/*.txt output/*.csv
+          git add output/*.gz output/*.txt output/*.csv publico/
           if git diff --staged --quiet; then
             echo "Sin cambios, no se hace commit"
           else
