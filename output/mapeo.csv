@@ -223,7 +223,7 @@ M+ Cine HD;CINE;mcine;;;sin-guia
 M+ Iberian Screen;CINE;miberianscreen;;;sin-guia
 M+ Navidad;CINE;mnavidad;;;sin-guia
 M+ Originales HD;SERIES;moriginales;M+ Originales HD;M+ Originales;alias
-M+ SERIES HD;SERIES;mseries;M+ Originales HD;M+ Originales;alias
+M+ SERIES HD;SERIES;mseries;TCM HD;TCM;correccion
 STAR Channel;SERIES;starchannel;STAR Channel HD;STAR Channel;alias
 AMC HD;SERIES;amc;AMC HD;AMC;alias
 AMC BREAK;SERIES;amcbreak;AMC Break;AMC Break;alias

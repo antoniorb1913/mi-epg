@@ -19,6 +19,14 @@
 DARK ; STAR Channel HD
 
 # ------------------------------------------------------------
+# CORREGIDO: el proveedor llama "M+ Series" a lo que es TCM
+#   (cine clasico: ¡Hatari!, Un hombre fiel, Entrevistas TCM)
+#   Nota: afecta a "M+ SERIES HD" y "M+ Series", que normalizan igual
+# ------------------------------------------------------------
+M+ Series ; TCM HD
+
+
+# ------------------------------------------------------------
 # CONFIRMADO OK: SYFY es realmente el canal SciFi
 #   (emite Embrujadas, Grimm) -> no hay que corregir nada, el alias
 #   syfy;SciFi HD de aliases.csv ya es correcto

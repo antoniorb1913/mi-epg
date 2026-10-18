@@ -464,7 +464,9 @@
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
   </channel>
   <channel id="TCM HD">
+    <display-name>TCM HD</display-name>
     <display-name>TCM</display-name>
+    <display-name>M+ SERIES HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" />
   </channel>
   <channel id="SkyShowtime.1.es">
@@ -477,7 +479,6 @@
   </channel>
   <channel id="M+ Originales HD">
     <display-name>M+ Originales HD</display-name>
-    <display-name>M+ SERIES HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
   <channel id="AMC HD">
@@ -608,10 +609,6 @@
     <display-name>BBC HISTORY</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20History.png" />
   </channel>
-  <programme start="20261017153000 +0200" stop="20261017160000 +0200" channel="7TV.Andalucía.es">
-    <title>Sevilla obra maestra</title>
-    <desc>Programa documental dirigido y presentado por Ana Enterría que muestra el patrimonio cultural de Sevilla, acercándose a los rincones secretos de la ciudad, sus templos, sus monumentos, pinturas, música.</desc>
-  </programme>
   <programme start="20261017160000 +0200" stop="20261017181500 +0200" channel="7TV.Andalucía.es">
     <title>Cine</title>
   </programme>
@@ -988,11 +985,6 @@
   </programme>
   <programme start="20261021105500 +0000" stop="20261022100000 +0000" channel="A3CINE.es">
     <title>Infocomerciales</title>
-  </programme>
-  <programme start="20261017125000 +0000" stop="20261017140000 +0000" channel="Canal.Sur.2.es">
-    <title>Andalucía a dedo</title>
-    <desc>El periodista Nacho Medina recorre Andalucía haciendo autostop sin dinero ni alojamiento, para descubrir las historias humanas que surgen de manera espontánea.</desc>
-    <category>Viajes</category>
   </programme>
   <programme start="20261017140000 +0000" stop="20261017143000 +0000" channel="Canal.Sur.2.es">
     <title>Destino Andalucía</title>
@@ -1797,10 +1789,6 @@
   <programme start="20261020223000 +0200" stop="20261020230000 +0200" channel="Decasa.es">
     <title>La casa más top</title>
     <desc>Tres casas de dos niveles han sido renovadas con esmero, con un toque personal y un diseño cuidado. Gracias a objetos de segunda mano, detalles creativos y mucha pasión, cada familia cree haber encontrado el equilibrio perfecto entre estilo y esencia. ¿Se dejarán seducir a los jueces por su encanto nostálgico o habrán optado por estos propietarios por una estrategia demasiado conservadora?</desc>
-  </programme>
-  <programme start="20261017154500 +0200" stop="20261017160000 +0200" channel="GOL.PLAY.es">
-    <title>Resúmenes LaLiga EA Sports</title>
-    <desc>Resúmenes en profundidad, de 12 minutos de duración, que recogen lo más destacado de cada partido de LaLiga EA Sports: los goles, las ocasiones, los temas de conversación, las expulsiones, las lesiones, los detalles técnicos, los grandes nombres. En definitiva, todas las incidencias e imágenes relevantes relacionadas con todos y cada uno de los partidos.</desc>
   </programme>
   <programme start="20261017160000 +0200" stop="20261017161500 +0200" channel="GOL.PLAY.es">
     <title>Resúmenes LALIGA HyperMotion</title>
