@@ -1,0 +1,50 @@
+# ============================================================
+# CORRECCIONES MANUALES — el proveedor tiene los nombres cambiados
+# ============================================================
+#
+# Formato:   nombre_en_tu_lista ; id_del_canal_real
+#
+# Este archivo manda sobre todo lo demas. Si un canal aparece con la
+# programacion equivocada en TiviMate, apuntalo aqui.
+#
+# Para saber el id correcto, mira output/revision-canales.txt o busca
+# el nombre en output/mapeo.csv.
+#
+# Si dejas el destino vacio, ese canal se queda SIN guia a proposito.
+#
+# ------------------------------------------------------------
+# CORREGIDO: el proveedor llama DARK a lo que en realidad es Star Channel
+#   (Star Channel emite Bones, Bull, Los Simpson)
+# ------------------------------------------------------------
+DARK ; STAR Channel HD
+
+# ------------------------------------------------------------
+# CONFIRMADO OK: SYFY es realmente el canal SciFi
+#   (emite Embrujadas, Grimm) -> no hay que corregir nada, el alias
+#   syfy;SciFi HD de aliases.csv ya es correcto
+# ------------------------------------------------------------
+
+# ------------------------------------------------------------
+# PENDIENTE DE CONFIRMAR
+# ------------------------------------------------------------
+# Tu canal llamado "STAR Channel" NO es Star Channel (ese es DARK).
+# Que emite de verdad? Apunta aqui el id correcto, por ejemplo:
+#
+#   STAR Channel ; DARK
+#   STAR Channel ; SciFi HD
+#
+# Y si descubres otros canales cambiados, anadelos igual:
+
+# Ejemplos de la lista de ids disponibles:
+#   La 1 HD, La 2, Antena 3 HD, Cuatro HD, Telecinco HD, La Sexta HD
+#   Clan, Boing, Disney Channel, Nick JR, Nickelodeon HD, Baby TV
+#   TCM HD, Canal Hollywood HD, DARK, SciFi HD, M+ Cero, M+ Estrenos HD
+#   M+ Acción HD, M+ Comedia HD, M+ Drama HD, M+ Clásicos HD, M+ Terror
+#   AXN HD, AXN Movies HD, AMC HD, AMC Break, AMC Crime, AMC Western
+#   Calle 13 HD, Warner TV HD, Cosmo HD, Factoría de Ficción, Energy
+#   M+ LaLiga HD, DAZN LaLiga HD, M+ Liga de Campeones HD, M+ Deportes HD
+#   M+ Vamos HD, M+ Baloncesto, DAZN 1 HD, DAZN F1 HD, M+ Golf HD
+#   Movistar Plus HD, Eurosport 1 HD, Teledeporte, Top Barça
+#   National Geographic HD, Nat Geo Wild HD, Discovery, Historia, Odisea
+#   BBC Earth, BBC Food, BBC History, BBC Top Gear, Canal Cocina
+#   Iberalia TV, Caza y Pesca HD, Cazavisión, Decasa.es

@@ -151,9 +151,9 @@ def leer_aliases() -> dict[str, str]:
     aliases = {}
     if not os.path.exists(ruta):
         return aliases
-    with open(ruta, encoding="utf-8") as fh:
+    with open(ruta, encoding="utf-8-sig") as fh:
         for linea in fh:
-            linea = linea.strip()
+            linea = linea.strip().lstrip("\ufeff")
             if not linea or linea.startswith("#"):
                 continue
             partes = re.split(r"[;,]", linea, maxsplit=1)
@@ -164,6 +164,36 @@ def leer_aliases() -> dict[str, str]:
                 continue
             aliases[clave(izq)] = der
     return aliases
+
+
+def leer_correcciones() -> dict[str, str]:
+    """
+    Lee config/correcciones.csv -> {clave: id_epg}.
+
+    Correcciones manuales del usuario, para cuando el proveedor tiene el
+    nombre del canal cambiado. Tienen PRIORIDAD sobre aliases.csv.
+
+    Formato:  nombre_en_tu_lista ; id_epg_real
+    Ejemplo:  DARK ; STAR Channel HD
+    """
+    ruta = os.path.join(CONFIG, "correcciones.csv")
+    correcciones = {}
+    if not os.path.exists(ruta):
+        return correcciones
+    with open(ruta, encoding="utf-8-sig") as fh:
+        for linea in fh:
+            linea = linea.strip().lstrip("\ufeff")
+            if not linea or linea.startswith("#"):
+                continue
+            partes = re.split(r"[;,]", linea, maxsplit=1)
+            if len(partes) != 2:
+                continue
+            izq, der = partes[0].strip(), partes[1].strip()
+            if not izq:
+                continue
+            # Un destino vacio significa "quitar la guia a este canal"
+            correcciones[clave(izq)] = der
+    return correcciones
 
 
 # ----------------------------------------------------------------------------
@@ -240,23 +270,52 @@ def indice_fuente(ruta_xml: str) -> tuple[dict, dict]:
 # ----------------------------------------------------------------------------
 
 
-def emparejar(canales: list[dict], por_id: dict, por_clave: dict, aliases: dict):
+def emparejar(canales: list[dict], por_id: dict, por_clave: dict, aliases: dict,
+              correcciones: dict | None = None):
     """
     Empareja canales propios con el EPG en cascada.
+
+    Orden de prioridad:
+      0. correcciones.csv  (el usuario manda)
+      1. aliases.csv
+      2. clave normalizada
+      3. similitud
 
     Devuelve (grupos, informe) donde grupos es
         {clave_canal: {epg_id, epg_nombre, icono, variantes:[...]}}
     """
     grupos = {}
     informe = []
+    correcciones = correcciones or {}
 
     for canal in canales:
         nombre = canal["nombre"]
         k_canal = clave(nombre)
         match, via = None, None
 
+        # 0. Correccion manual del usuario (maxima prioridad)
+        if k_canal in correcciones:
+            objetivo = correcciones[k_canal]
+            if objetivo:
+                match = por_id.get(objetivo)
+                via = "correccion" if match else "correccion-fallida"
+            else:
+                # Destino vacio = sin guia a proposito
+                via = "descartado"
+                informe.append(
+                    {
+                        "nombre": nombre,
+                        "grupo": canal["grupo"],
+                        "clave": k_canal,
+                        "epg_id": "",
+                        "epg_nombre": "",
+                        "via": "descartado",
+                    }
+                )
+                continue
+
         # 1. Alias manual explicito
-        if k_canal in aliases:
+        if not match and k_canal in aliases:
             objetivo = aliases[k_canal]
             match = por_id.get(objetivo)
             via = "alias" if match else "alias-fallido"
@@ -475,10 +534,12 @@ def main() -> int:
     canales = leer_canales_propios()
     fuentes_url = leer_fuentes()
     aliases = leer_aliases()
+    correcciones = leer_correcciones()
 
     print(f"Canales propios : {len(canales)}")
     print(f"Fuentes EPG     : {len(fuentes_url)}")
     print(f"Alias manuales  : {len(aliases)}")
+    print(f"Correcciones    : {len(correcciones)}")
     print()
 
     cache = os.path.join(ROOT, ".cache")
@@ -501,7 +562,7 @@ def main() -> int:
         print("No hay fuentes EPG validas.")
         return 1
 
-    grupos, informe = emparejar(canales, por_id, por_clave, aliases)
+    grupos, informe = emparejar(canales, por_id, por_clave, aliases, correcciones)
 
     ok = [i for i in informe if i["epg_id"]]
     ko = [i for i in informe if not i["epg_id"]]
