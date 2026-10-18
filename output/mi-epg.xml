@@ -2,11 +2,9 @@
 <tv generator-info-name="mi-epg" generator-info-url="">
   <channel id="Disney.Channel.es">
     <display-name>DISNEY CH HD</display-name>
-    <display-name>DISNEY CH HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/292-square.jpg" />
   </channel>
   <channel id="Nick.Junior.es">
-    <display-name>DISNEY JR</display-name>
     <display-name>DISNEY JR</display-name>
     <display-name>NICK JR</display-name>
     <display-name>SERIES+ INFANTIL</display-name>
@@ -14,223 +12,179 @@
   </channel>
   <channel id="Discovery.Channel.es">
     <display-name>DISCOVERY KIDS</display-name>
-    <display-name>DISCOVERY KIDS</display-name>
     <display-name>DISCOVERY</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/146-square.jpg" />
   </channel>
   <channel id="Clan.TVE.es">
     <display-name>CLAN TVE</display-name>
-    <display-name>CLAN TVE</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/505-square.jpg" />
   </channel>
   <channel id="Boing.es">
     <display-name>BOING</display-name>
-    <display-name>BOING</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/665-square.jpg" />
   </channel>
   <channel id="Nickelodeon.es">
-    <display-name>NICKELODEON</display-name>
     <display-name>NICKELODEON</display-name>
     <display-name>ENFAMILIA</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/200-square.jpg" />
   </channel>
   <channel id="BabyTV.es">
     <display-name>BABY TV</display-name>
-    <display-name>BABY TV</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/573-square.jpg" />
   </channel>
   <channel id="DreamWorks.es">
-    <display-name>DreamWorks</display-name>
     <display-name>DreamWorks</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1159-square.jpg" />
   </channel>
   <channel id="MTV.España.es">
     <display-name>MTV ESPANA</display-name>
-    <display-name>MTV ESPANA</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/159-square.jpg" />
   </channel>
   <channel id="Mezzo.Live.Español.es">
-    <display-name>MEZZO LIVE HD</display-name>
     <display-name>MEZZO LIVE HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1123-square.jpg" />
   </channel>
   <channel id="Stingray.Classica.es">
     <display-name>Classica</display-name>
-    <display-name>Classica</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1074-square.jpg" />
   </channel>
   <channel id="La.1.es">
-    <display-name>LA 1 HD</display-name>
     <display-name>LA 1 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/3-square.jpg" />
   </channel>
   <channel id="La.2.es">
     <display-name>LA 2 HD</display-name>
-    <display-name>LA 2 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/4-square.jpg" />
   </channel>
   <channel id="Antena.3.es">
-    <display-name>ANTENA 3 HD</display-name>
     <display-name>ANTENA 3 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/2-square.jpg" />
   </channel>
   <channel id="Cuatro.es">
     <display-name>CUATRO HD</display-name>
-    <display-name>CUATRO HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/496-square.jpg" />
   </channel>
   <channel id="Telecinco.es">
-    <display-name>TELECINCO HD</display-name>
     <display-name>TELECINCO HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1-square.jpg" />
   </channel>
   <channel id="laSexta.es">
     <display-name>LA SEXTA HD</display-name>
-    <display-name>LA SEXTA HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/510-square.jpg" />
   </channel>
   <channel id="TV3.es">
-    <display-name>TV3 HD</display-name>
     <display-name>TV3 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/43-square.jpg" />
   </channel>
   <channel id="TV3CAT.es">
     <display-name>TV3 Cat HD</display-name>
-    <display-name>TV3 Cat HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/47-square.jpg" />
   </channel>
   <channel id="Canal.Extremadura.TV.es">
-    <display-name>EXTREMADURA</display-name>
     <display-name>EXTREMADURA</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/logo-canal-extremadura-tv-582-square.jpg" />
   </channel>
   <channel id="Nova.es">
     <display-name>NOVA</display-name>
-    <display-name>NOVA</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/509-square.jpg" />
   </channel>
   <channel id="Neox.es">
-    <display-name>NEOX</display-name>
     <display-name>NEOX</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/508-square.jpg" />
   </channel>
   <channel id="Aragón.Televisión.es">
     <display-name>ARAGON TV INT</display-name>
-    <display-name>ARAGON TV INT</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/522-square.jpg" />
   </channel>
   <channel id="Canal.Sur.Andalucía.es">
-    <display-name>CANAL SUR HD</display-name>
     <display-name>CANAL SUR HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/32-square.jpg" />
   </channel>
   <channel id="Canal.Sur.2.es">
     <display-name>CANAL SUR 2 HD</display-name>
-    <display-name>CANAL SUR 2 HD</display-name>
     <icon src="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/9f/10000031.png" />
   </channel>
   <channel id="7TV.Andalucía.es">
-    <display-name>7TV MALAGA HD</display-name>
     <display-name>7TV MALAGA HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1125-square.jpg" />
   </channel>
   <channel id="Andalucía.Televisión.es">
     <display-name>AndaluciaTV</display-name>
-    <display-name>AndaluciaTV</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/831-square.jpg" />
   </channel>
   <channel id="BOM.Cine.es">
-    <display-name>BOM</display-name>
     <display-name>BOM</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1003-square.jpg" />
   </channel>
   <channel id="TRECE.es">
     <display-name>TRECE</display-name>
-    <display-name>TRECE</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/689-square.jpg" />
   </channel>
   <channel id="Mega.es">
-    <display-name>mega</display-name>
     <display-name>mega</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/841-square.jpg" />
   </channel>
   <channel id="DMAX.es">
     <display-name>DMAX</display-name>
-    <display-name>DMAX</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/475-square.jpg" />
   </channel>
   <channel id="Atreseries.es">
-    <display-name>atreseries HD</display-name>
     <display-name>atreseries HD</display-name>
     <display-name>A3SERIES</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/883-square.jpg" />
   </channel>
   <channel id="DKISS.es">
     <display-name>DKISS</display-name>
-    <display-name>DKISS</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/892-square.jpg" />
   </channel>
   <channel id="TEN.es">
     <display-name>TEN</display-name>
-    <display-name>TEN</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/889-square.jpg" />
   </channel>
   <channel id="Be.Mad.es">
-    <display-name>BeMad tv HD</display-name>
     <display-name>BeMad tv HD</display-name>
     <display-name>BE MAD HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/890-square.jpg" />
   </channel>
   <channel id="Somos.es">
     <display-name>SOMOS</display-name>
-    <display-name>SOMOS</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/501-square.jpg" />
   </channel>
   <channel id="OndaCádiz.es">
-    <display-name>ONDA CADIZ</display-name>
     <display-name>ONDA CADIZ</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/983-square.jpg" />
   </channel>
   <channel id="Solidaria.TV.España.es">
     <display-name>SOLIDARIA TV</display-name>
-    <display-name>SOLIDARIA TV</display-name>
     <icon src="https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg" />
   </channel>
   <channel id="ETB1.es">
-    <display-name>ETB SAT CANAL VASCO</display-name>
     <display-name>ETB SAT CANAL VASCO</display-name>
     <display-name>ETB1</display-name>
   </channel>
   <channel id="ETB2.es">
     <display-name>ETB2</display-name>
-    <display-name>ETB2</display-name>
   </channel>
   <channel id="TVG.es">
     <display-name>TVG HD</display-name>
-    <display-name>TVG HD</display-name>
   </channel>
   <channel id="tvG2.es">
-    <display-name>TVG 2</display-name>
     <display-name>TVG 2</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/779-square.jpg" />
   </channel>
   <channel id="XTRM.es">
     <display-name>XTRM</display-name>
-    <display-name>XTRM</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/68-square.jpg" />
   </channel>
   <channel id="Telemadrid.es">
-    <display-name>TELE MADRID</display-name>
     <display-name>TELE MADRID</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/38-square.jpg" />
   </channel>
   <channel id="Real.Madrid.TV.es">
     <display-name>Real Madrid TV HD</display-name>
-    <display-name>Real Madrid TV HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/158-square.jpg" />
   </channel>
   <channel id="Castilla-La.Mancha.Media.es">
-    <display-name>CASTILLA LA MANCHA</display-name>
     <display-name>CASTILLA LA MANCHA</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/296-square.jpg" />
   </channel>
@@ -241,7 +195,6 @@
     <display-name>M+ LaLigaTV</display-name>
     <display-name>M+ LaLigaTV SD</display-name>
     <display-name>M+ LaLigaTV FULL HD</display-name>
-    <display-name>M+ LaLigaTV 4K</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1082-square.jpg" />
   </channel>
   <channel id="M+.LALIGA.TV.2.es">
@@ -253,7 +206,6 @@
   </channel>
   <channel id="M+.LALIGA.TV.3.es">
     <display-name>M+ LaLigaTV 3 HD</display-name>
-    <display-name>M+ LaLigaTV 3 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1086-square.jpg" />
   </channel>
   <channel id="DAZN.LaLiga.es">
@@ -263,7 +215,6 @@
     <display-name>DAZN LALIGA</display-name>
     <display-name>DAZN LALIGA SD</display-name>
     <display-name>DAZN LALIGA FULL HD</display-name>
-    <display-name>DAZN LALIGA 4K</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1274-square.jpg" />
   </channel>
   <channel id="DAZN.LALIGA.2.es">
@@ -274,11 +225,9 @@
   <channel id="DAZN.LaLiga.2.es">
     <display-name>DAZN LALIGA 2 FULL HD</display-name>
     <display-name>DAZN LALIGA 2 HD</display-name>
-    <display-name>DAZN LALIGA 2 FULL HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1273-square.jpg" />
   </channel>
   <channel id="DAZN.F1.es">
-    <display-name>DAZN MOTO GP FULL HD</display-name>
     <display-name>DAZN MOTO GP FULL HD</display-name>
     <display-name>DAZN MOTO GP HD</display-name>
     <display-name>DAZN MOTO GP SD</display-name>
@@ -297,18 +246,15 @@
   </channel>
   <channel id="DAZN.2.es">
     <display-name>DAZN 2 HD</display-name>
-    <display-name>DAZN 2 HD</display-name>
     <display-name>DAZNBaloncesto2</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1162-square.jpg" />
   </channel>
   <channel id="DAZN.3.es">
     <display-name>DAZN 3 HD</display-name>
-    <display-name>DAZN 3 HD</display-name>
     <display-name>DAZNBaloncesto3</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1168-square.jpg" />
   </channel>
   <channel id="DAZN.4.es">
-    <display-name>DAZN 4 HD</display-name>
     <display-name>DAZN 4 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1169-square.jpg" />
   </channel>
@@ -323,42 +269,34 @@
   </channel>
   <channel id="M+.Liga.de.Campeones.2.es">
     <display-name>M+ LCAMPEONES 2 HD</display-name>
-    <display-name>M+ LCAMPEONES 2 HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap1.png" />
   </channel>
   <channel id="M+.Liga.de.Campeones..3.es">
-    <display-name>M+ LCAMPEONES 3 HD</display-name>
     <display-name>M+ LCAMPEONES 3 HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap2.png" />
   </channel>
   <channel id="M+.Liga.de.Campeones..4.es">
     <display-name>M+ LCAMPEONES 4</display-name>
-    <display-name>M+ LCAMPEONES 4</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap3.png" />
   </channel>
   <channel id="M+.Liga.de.Campeones.5.es">
-    <display-name>M+ LCAMPEONES 5</display-name>
     <display-name>M+ LCAMPEONES 5</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/chap4.png" />
   </channel>
   <channel id="Movistar.Plus+.es">
     <display-name>Movistar Plus+ FULL HD</display-name>
     <display-name>Movistar Plus+ HD</display-name>
-    <display-name>Movistar Plus+ FULL HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/9371-square.jpg" />
   </channel>
   <channel id="LALIGA.TV.HYPERMOTION.es">
-    <display-name>LALIGA TV HYPERMOTION</display-name>
     <display-name>LALIGA TV HYPERMOTION</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs.png" />
   </channel>
   <channel id="Primera.Federación.es">
     <display-name>PRIMERA FEDERACION</display-name>
-    <display-name>PRIMERA FEDERACION</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/9491-square.jpg" />
   </channel>
   <channel id="M+.Deportes.es">
-    <display-name>M+Baloncesto</display-name>
     <display-name>M+Baloncesto</display-name>
     <display-name>M+ DEPORTESHD</display-name>
     <display-name>GOL PLAY</display-name>
@@ -367,78 +305,63 @@
   </channel>
   <channel id="M+.Deportes.2.es">
     <display-name>M+Baloncesto2</display-name>
-    <display-name>M+Baloncesto2</display-name>
     <display-name>M+ DEPORTES2HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/arthur.png" />
   </channel>
   <channel id="Eurosport.1.es">
     <display-name>EUROSPORT 1 HD</display-name>
-    <display-name>EUROSPORT 1 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/154-square.jpg" />
   </channel>
   <channel id="Eurosport.2.es">
-    <display-name>EUROSPORT2HD</display-name>
     <display-name>EUROSPORT2HD</display-name>
     <display-name>EUROSPORT 2</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/491-square.jpg" />
   </channel>
   <channel id="#Vamos.es">
     <display-name>M+ VAMOS HD</display-name>
-    <display-name>M+ VAMOS HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1039-square.jpg" />
   </channel>
   <channel id="M+.Vamos.2.es">
-    <display-name>M+ VAMOS 2 HD</display-name>
     <display-name>M+ VAMOS 2 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/9387-square.jpg" />
   </channel>
   <channel id="M+.Vamos.3.es">
     <display-name>M+ VAMOS 3 HD</display-name>
-    <display-name>M+ VAMOS 3 HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1263-square.jpg" />
   </channel>
   <channel id="M+.Deportes.3.es">
-    <display-name>M+ DEPORTES3</display-name>
     <display-name>M+ DEPORTES3</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop2.png" />
   </channel>
   <channel id="M+.Deportes.4.es">
     <display-name>M+ DEPORTES4</display-name>
-    <display-name>M+ DEPORTES4</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop3.png" />
   </channel>
   <channel id="M+.Deportes.5.es">
-    <display-name>M+ DEPORTES5</display-name>
     <display-name>M+ DEPORTES5</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/usop11.png" />
   </channel>
   <channel id="M+.Deportes.6.es">
     <display-name>M+ DEPORTES6</display-name>
-    <display-name>M+ DEPORTES6</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/multi8.png" />
   </channel>
   <channel id="Teledeporte.es">
-    <display-name>TELEDEPORTE HD</display-name>
     <display-name>TELEDEPORTE HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/9-square.jpg" />
   </channel>
   <channel id="M+.Golf.es">
     <display-name>M+ GOLF HD</display-name>
-    <display-name>M+ GOLF HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/golf%2B.png" />
   </channel>
   <channel id="M+.Golf.2.es">
-    <display-name>M+ GOLF 2 HD</display-name>
     <display-name>M+ GOLF 2 HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/golf2.png" />
   </channel>
   <channel id="Esport.3.es">
     <display-name>ESPORT3 CAT HD</display-name>
-    <display-name>ESPORT3 CAT HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/672-square.jpg" />
   </channel>
   <channel id="A3CINE.es">
-    <display-name>A3CINE HD</display-name>
     <display-name>A3CINE HD</display-name>
   </channel>
   <channel id="M+.Drama.es">
@@ -466,7 +389,6 @@
   </channel>
   <channel id="M+.Estrenos.es">
     <display-name>M+ Estrenos HD</display-name>
-    <display-name>M+ Estrenos HD</display-name>
     <display-name>M+ Ficcion Premium</display-name>
     <display-name>M+ Cinesur 1</display-name>
     <display-name>M+ Ficcion 1 HD</display-name>
@@ -479,12 +401,10 @@
   </channel>
   <channel id="M+.Indie.es">
     <display-name>M+ Indie HD</display-name>
-    <display-name>M+ Indie HD</display-name>
     <display-name>M+ Indie</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mindi.png" />
   </channel>
   <channel id="M+.Acción.es">
-    <display-name>M+ ACCION HD</display-name>
     <display-name>M+ ACCION HD</display-name>
     <display-name>M+ ACCION 2 HD</display-name>
     <display-name>Cine+ ACCIÓN</display-name>
@@ -496,7 +416,6 @@
   </channel>
   <channel id="M+.Comedia.es">
     <display-name>M+ COMEDIA HD</display-name>
-    <display-name>M+ COMEDIA HD</display-name>
     <display-name>Cine+ COMEDIA</display-name>
     <display-name>M+ Comedia</display-name>
     <display-name>SERIES+ COMEDIA</display-name>
@@ -505,16 +424,13 @@
   </channel>
   <channel id="M+.Cine.Español.es">
     <display-name>M+ Cine Espanol</display-name>
-    <display-name>M+ Cine Espanol</display-name>
     <display-name>M+ Cine Español</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/dcesp.png" />
   </channel>
   <channel id="M+.Clásicos.es">
     <display-name>M+ CLASICOS HD</display-name>
-    <display-name>M+ CLASICOS HD</display-name>
     <display-name>TCM</display-name>
     <display-name>Cine+ SAGA</display-name>
-    <display-name>M+ CLASICOS HD</display-name>
     <display-name>M+ Clásicos</display-name>
     <display-name>SERIES+ LEYENDAS 1</display-name>
     <display-name>SERIES+ LEYENDAS 2</display-name>
@@ -522,7 +438,6 @@
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mclas.png" />
   </channel>
   <channel id="M+.Originales.es">
-    <display-name>M+ Originales HD</display-name>
     <display-name>M+ Originales HD</display-name>
     <display-name>M+ SERIES HD</display-name>
     <display-name>La Casa de las Series</display-name>
@@ -534,19 +449,16 @@
   </channel>
   <channel id="AMC.es">
     <display-name>AMC HD</display-name>
-    <display-name>AMC HD</display-name>
     <display-name>AMC</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/481-square.jpg" />
   </channel>
   <channel id="AMC.Break.es">
-    <display-name>AMC BREAK</display-name>
     <display-name>AMC BREAK</display-name>
     <display-name>AMC CRIME</display-name>
     <display-name>AMC WESTERN</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/492-square.jpg" />
   </channel>
   <channel id="AXN.es">
-    <display-name>AXN HD</display-name>
     <display-name>AXN HD</display-name>
     <display-name>SYFY</display-name>
     <display-name>AXN</display-name>
@@ -555,24 +467,20 @@
   </channel>
   <channel id="AXN.Movies.es">
     <display-name>AXN MOVIES HD</display-name>
-    <display-name>AXN MOVIES HD</display-name>
     <display-name>AXN MOVIES</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/512-square.jpg" />
   </channel>
   <channel id="Calle.13.es">
-    <display-name>CALLE 13 HD</display-name>
     <display-name>CALLE 13 HD</display-name>
     <display-name>CALLE 13</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/64-square.jpg" />
   </channel>
   <channel id="Warner.TV.es">
     <display-name>WARNERTV</display-name>
-    <display-name>WARNERTV</display-name>
     <display-name>Warner TV</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/577-square.jpg" />
   </channel>
   <channel id="COSMO.es">
-    <display-name>COSMO</display-name>
     <display-name>COSMO</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/186-square.jpg" />
   </channel>
@@ -584,11 +492,9 @@
   </channel>
   <channel id="Odisea.es">
     <display-name>CANAL ODISEA</display-name>
-    <display-name>CANAL ODISEA</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/135-square.jpg" />
   </channel>
   <channel id="National.Geographic.es">
-    <display-name>NAT GEO</display-name>
     <display-name>NAT GEO</display-name>
     <display-name>BBC TOP GEAR</display-name>
     <display-name>BBC EARTH</display-name>
@@ -596,17 +502,14 @@
   </channel>
   <channel id="National.Geographic.Wild.HD.es">
     <display-name>NAT GEO WILD</display-name>
-    <display-name>NAT GEO WILD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/681-square.jpg" />
   </channel>
   <channel id="Historia.y.Vida.es">
-    <display-name>HISTORIA</display-name>
     <display-name>HISTORIA</display-name>
     <display-name>BBC HISTORY</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3.png" />
   </channel>
   <channel id="Decasa.es">
-    <display-name>CANAL DECASA</display-name>
     <display-name>CANAL DECASA</display-name>
     <display-name>BBC FOOD</display-name>
     <display-name>CANAL COCINA</display-name>
@@ -614,61 +517,49 @@
   </channel>
   <channel id="Cazavisión.es">
     <display-name>CAZAVISION</display-name>
-    <display-name>CAZAVISION</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/656-square.jpg" />
   </channel>
   <channel id="Caza.y.Pesca.es">
-    <display-name>CAZAyPESCA HD</display-name>
     <display-name>CAZAyPESCA HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/386-square.jpg" />
   </channel>
   <channel id="Iberalia.es">
     <display-name>IBERALIA TV</display-name>
-    <display-name>IBERALIA TV</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/654-square.jpg" />
   </channel>
   <channel id="Iberalia.Caza.es">
-    <display-name>IBERALIA 100/100 CAZA 4K</display-name>
     <display-name>IBERALIA 100/100 CAZA 4K</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1140-square.jpg" />
   </channel>
   <channel id="Iberalia.Pesca.es">
     <display-name>IBERALIA PESCA 4K</display-name>
-    <display-name>IBERALIA PESCA 4K</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/1141-square.jpg" />
   </channel>
   <channel id="El.Toro.TV.es">
-    <display-name>El Toro TV HD</display-name>
     <display-name>El Toro TV HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/516-square.jpg" />
   </channel>
   <channel id="OneToro.TV.es">
     <display-name>ONETORO HD</display-name>
-    <display-name>ONETORO HD</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/9397-square.jpg" />
   </channel>
   <channel id="Comedy.Central.HD.es">
-    <display-name>COMEDYCENTRAL</display-name>
     <display-name>COMEDYCENTRAL</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/493-square.jpg" />
   </channel>
   <channel id="FDF.Telecinco.es">
     <display-name>FDF</display-name>
-    <display-name>FDF</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/506-square.jpg" />
   </channel>
   <channel id="Divinity.es">
-    <display-name>DIVINITY</display-name>
     <display-name>DIVINITY</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/697-square.jpg" />
   </channel>
   <channel id="Energy.es">
     <display-name>ENERGY</display-name>
-    <display-name>ENERGY</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/709-square.jpg" />
   </channel>
   <channel id="Sundance.TV.es">
-    <display-name>SUNDANCE TV</display-name>
     <display-name>SUNDANCE TV</display-name>
     <icon src="https://cdn.sincroguia.tv/storage/channels/699-square.jpg" />
   </channel>
@@ -899,10 +790,6 @@
   <programme start="20261020223000 +0200" stop="20261020230000 +0200" channel="#Vamos.es">
     <title>Bakalá</title>
     <desc>Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc>
-  </programme>
-  <programme start="20261017143000 +0200" stop="20261017150000 +0200" channel="7TV.Andalucía.es">
-    <title>Descubriendo Cádiz</title>
-    <desc>Espacio televisivo presentado por la influencer gastronómica Angélica Jódar, que recorre los lugares más apetecibles de la provincia de Cádiz de la mano de Tugasa.</desc>
   </programme>
   <programme start="20261017150000 +0200" stop="20261017153000 +0200" channel="7TV.Andalucía.es">
     <title>Cádiz suena bien</title>
@@ -1288,10 +1175,6 @@
   </programme>
   <programme start="20261021105500 +0000" stop="20261022100000 +0000" channel="A3CINE.es">
     <title>Infocomerciales</title>
-  </programme>
-  <programme start="20261017143300 +0200" stop="20261017145600 +0200" channel="AMC.Break.es">
-    <title>Guerra de clientes</title>
-    <desc>Un cliente de un restaurante de comida rápida se enfrenta a tres motoristas por su comportamiento al aparcar. Una discusión entre los pasajeros de un tren abarrotado acaba en un altercado físico. Una mujer se lamenta tras el fracaso de una entrevista de trabajo. En un cine, el comportamiento supuestamente perturbador de dos mujeres se agrava cuando llega la policía. En una cafetería, estalla una fuerte discusión entre un cliente y un empleado por el largo tiempo de espera.</desc>
   </programme>
   <programme start="20261017145600 +0200" stop="20261017151900 +0200" channel="AMC.Break.es">
     <title>Guerra de clientes</title>
@@ -2730,9 +2613,6 @@
     <title>Hudson y Rex</title>
     <desc>Charlie Hudson es un policía que siempre ha querido hacer este trabajo. Cuando sabe que el perro pastor alemán Rex tiene que ser sacrificado tras la muerte del humano con el que trabajaba, decide quedárselo como compañero.Serie de televisión canadiense de policía procesal, basada en la archiconocida 'Rex, un policía diferente'.Está protagonizada por John Reardon, un actor que ha participado en otras ficciones televisivas, como 'Arctic Air' o 'Continnuum'. Le acompaña el perro Diesel vom Burgimwald, quien, curiosamente, es el decimoquinto descendiente delpastor alemán que protagonizó la serie original austríaca. El animal recibió entrenamiento de movilidad antes de ser elegido como protagonista, pues no tenía experiencia ante las cámaras, pues era un perro bombero. Como anécdota, Diesel vom Burgimwald fue tratado como toda una estrella en el rodaje, pues tenía su propio tráiler y su propio peluquero.Al igual que su precedente, la ficción cosechó una buena audiencia en Canadá, siendo vista por más de dos millones de personas. Eso provocó que renovara para una segunda temporada.</desc>
   </programme>
-  <programme start="20261017143500 +0200" stop="20261017150500 +0200" channel="Andalucía.Televisión.es">
-    <title>El legado andalusí</title>
-  </programme>
   <programme start="20261017150500 +0200" stop="20261017160000 +0200" channel="Andalucía.Televisión.es">
     <title>Todo caballo</title>
   </programme>
@@ -3086,10 +2966,6 @@
     <title>Canal Sur Noticias 2</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Marta Paneque. Incluye Deportes y El Tiempo.</desc>
   </programme>
-  <programme start="20261017135500 +0200" stop="20261017150000 +0200" channel="Antena.3.es">
-    <title>La ruleta de la suerte</title>
-    <desc>Concurso presentado por Jorge Fernández. Cada día participan tres concursantes que se enfrentan a un panel en blanco en el que los jugadores deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones. Según la opción elegida, los concursantes pueden comprar una vocal o intentar resolver directamente el puzzle.</desc>
-  </programme>
   <programme start="20261017150000 +0200" stop="20261017154500 +0200" channel="Antena.3.es">
     <title>Antena 3 Noticias 1 Fin de semana</title>
     <desc>Edición del mediodía del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana.</desc>
@@ -3424,10 +3300,6 @@
   <programme start="20261020214500 +0200" stop="20261020230000 +0200" channel="Antena.3.es">
     <title>El hormiguero</title>
     <desc>Pablo Motos capitanea un equipo de desenfadados personajes dispuestos a diseccionar cada día la actualidad en tono jocoso. El programa incluye experimentos científicos, actuaciones musicales y entrevistas con los más destacados personajes del mundo del espectáculo.</desc>
-  </programme>
-  <programme start="20261017144500 +0200" stop="20261017150000 +0200" channel="Aragón.Televisión.es">
-    <title>El tiempo 1</title>
-    <desc>Victoria Palma se encarga de elaborar y presentar la información del tiempo en Televisión Canaria, con un espacio diferenciado en cada bloque informativo.</desc>
   </programme>
   <programme start="20261017150000 +0200" stop="20261017153500 +0200" channel="Aragón.Televisión.es">
     <title>Tempero</title>
@@ -4044,10 +3916,6 @@
   <programme start="20261020220000 +0200" stop="20261020231000 +0200" channel="Atreseries.es">
     <title>Crimen en el paraíso</title>
   </programme>
-  <programme start="20261017125500 +0200" stop="20261017150200 +0200" channel="BOM.Cine.es">
-    <title>Dragón, la vida de Bruce Lee</title>
-    <desc>Bruce Lee es la estrella más legendaria de las películas de artes marciales. Descubierto por un productor de Hollywood, debió superar muchos obstáculos, sobre todo raciales, pero pronto empezó una carrera llena de éxitos que se vio truncada por su muerte prematura y envuelta de leyenda. La película se inspira en la biografía que escribió la esposa de Lee, y aunque algunos detalles no coinciden con la realidad, el director Rob Cohen ('Dragonheart: corazón de dragón') consigue captar la esencia de lo que fue la mítica figura de Bruce Lee, eso sí, permitiéndose algunas licencias artísticas. Después de que el propio hijo de Bruce Lee, Brandon Lee, rechazara dar vida a su padre, el papel le fue ofrecido a Jason Scott Lee, que a pesar del apellido, nada tiene que ver con él. Éste, tenía experiencia en el mundo de la danza pero no en el campo de las artes marciales, y tuvo que ser entrenado expresamente para la película. En resumen, una película especialmente recomendada para fanáticos de Bruce Lee, que combina romance, comedia y espectaculares escenas de artes marciales que intentan captar el espíritu de sus filmes.</desc>
-  </programme>
   <programme start="20261017150200 +0200" stop="20261017165000 +0200" channel="BOM.Cine.es">
     <title>La espada del asesino</title>
     <desc>Nguyen Vu es el último superviviente de su familia, mandada ejecutar por la cruel emperatriz. Tras descubrir que todo se debía a un montaje con motivo de las luchas por el poder, decide cobrarse venganza y encontrar la 'Carta Sangrienta', que puede poner en evidencia a la monarca.</desc>
@@ -4243,10 +4111,6 @@
   <programme start="20261020180000 +0200" stop="20261020220000 +0200" channel="BOM.Cine.es">
     <title>Bom Cine</title>
     <desc>Bom Cine.</desc>
-  </programme>
-  <programme start="20261017143900 +0200" stop="20261017145700 +0200" channel="BabyTV.es">
-    <title>Choopies</title>
-    <desc>Os Choopies são Escoteiros felizes e aventureiros. Em cada episódio recebem uma tarefa do chefe deles e vão numa missão para trazerem um objeto diferente. Quando regressam, o chefe dos Escoteiros junta os objetos separados; em conjunto eles completam alguma coisa com a qual todos se podem divertir.</desc>
   </programme>
   <programme start="20261017145700 +0200" stop="20261017151600 +0200" channel="BabyTV.es">
     <title>¡Ahoy, Piratas!</title>
@@ -7961,14 +7825,6 @@
     <title>Atrápame si puedes</title>
     <desc>Programa concurso cultural sobre Andalucía que presenta Manolo Sarria en el que los concursante pueden ganar un suculento bote.</desc>
   </programme>
-  <programme start="20261017144500 +0200" stop="20261017145500 +0200" channel="Castilla-La.Mancha.Media.es">
-    <title>La Cancha</title>
-    <desc>Toda la actualidad deportiva de la mano de David Vidales y Álvaro Seguí. Tras el informativo, este espacio muestra las imágenes de todos los encuentros, los goles y las polémicas de todos los equipos regionales y nacionales.</desc>
-  </programme>
-  <programme start="20261017145500 +0200" stop="20261017150000 +0200" channel="Castilla-La.Mancha.Media.es">
-    <title>El Tiempo</title>
-    <desc>Espacio informativo sobre la previsión meteorológica de Castilla-La Mancha.</desc>
-  </programme>
   <programme start="20261017150000 +0200" stop="20261017153000 +0200" channel="Castilla-La.Mancha.Media.es">
     <title>En profundidad</title>
   </programme>
@@ -8274,10 +8130,6 @@
   <programme start="20261020224500 +0200" stop="20261020234500 +0200" channel="Castilla-La.Mancha.Media.es">
     <title>Haya Paz</title>
     <desc>La periodista Sonia González Tarruella presenta este espacio. El programa funciona como un espacio de mediación y diálogo. Su objetivo principal es tender puentes entre personas enfadadas o distanciadas para solucionar esos problemas cotidianos.</desc>
-  </programme>
-  <programme start="20261017142500 +0200" stop="20261017145500 +0200" channel="Caza.y.Pesca.es">
-    <title>Spinning en estuarios gallegos</title>
-    <desc>La pesca en los estuarios donde se mezcla el agua dulce con la salada se convierte en esta serie, en todo un reto para la pesca. Desde kayak o desde orilla, con lluvia o al final del verano, nuestros protagonistas nos mostrarán las mejores técnicas.</desc>
   </programme>
   <programme start="20261017145500 +0200" stop="20261017153000 +0200" channel="Caza.y.Pesca.es">
     <title>Lances monteros en Macedo</title>
@@ -8922,10 +8774,6 @@
   <programme start="20261020231000 +0200" stop="20261020234000 +0200" channel="Caza.y.Pesca.es">
     <title>Marqués de Valdueza: más allá del título</title>
     <desc>A través de escenas cotidianas, conversaciones cercanas y recuerdos, el espectador accede a su entorno más íntimo de Alonso Álvarez de Toledo y Urquijo, actual marqués de Valdueza.</desc>
-  </programme>
-  <programme start="20261017142400 +0200" stop="20261017145500 +0200" channel="Cazavisión.es">
-    <title>Nos vamos de montería</title>
-    <desc>Imágenes en esclusiva de las monterías más recientes y espectaculares, y los lances más vibrantes.</desc>
   </programme>
   <programme start="20261017145500 +0200" stop="20261017152100 +0200" channel="Cazavisión.es">
     <title>Tierras de caza</title>
@@ -9590,10 +9438,6 @@
   <programme start="20261020230200 +0200" stop="20261020233300 +0200" channel="Cazavisión.es">
     <title>Nos vamos de montería</title>
     <desc>Imágenes en esclusiva de las monterías más recientes y espectaculares, y los lances más vibrantes.</desc>
-  </programme>
-  <programme start="20261017144600 +0200" stop="20261017150600 +0200" channel="Clan.TVE.es">
-    <title>Los Green en la gran ciudad</title>
-    <desc>Los Green acuden a una piscina cubierta y Cricket se propone saltar del trampolín más alto. /Tilly afirma que su cabra tiene el alma de un perro y la inscribe en un concurso canino.</desc>
   </programme>
   <programme start="20261017150600 +0200" stop="20261017162900 +0200" channel="Clan.TVE.es">
     <title>Operación bebé oso</title>
@@ -10727,10 +10571,6 @@
     <title>Una casa de locos</title>
     <desc>Es el primer baile con chicas del colegio y las hermanas de Lincoln le han metido en cuatro citas a la vez. Cuando Lincoln y Bobby se hacen amigos, Lori decide despertar los celos de Bobby saliendo con Clyde.</desc>
   </programme>
-  <programme start="20261017142700 +0200" stop="20261017150200 +0200" channel="Comedy.Central.HD.es">
-    <title>Modern Family</title>
-    <desc>Claire intenta detener a un vecino, mientras que Phil trata con un cliente difícil. Por su parte, Mitchell y Cameron conocerán a un nuevo vecino. Y Jay enseña a Manny a ir en bicicleta.</desc>
-  </programme>
   <programme start="20261017150200 +0200" stop="20261017170200 +0200" channel="Comedy.Central.HD.es">
     <title>Cásate Conmigo</title>
     <desc>Las superestrellas de la música Kat Valdez y Bastian se van a casar ante una audiencia mundial de fans. Pero cuando Kat se entera de que Bastian le ha sido infiel, decide casarse con Charlie, un desconocido entre la multitud.</desc>
@@ -11198,10 +11038,6 @@
   <programme start="20261020232500 +0200" stop="20261020235300 +0200" channel="Comedy.Central.HD.es">
     <title>Fantasmas</title>
     <desc>Cuando Sam y Jay hacen que los fantasmas compartan habitación para liberar habitaciones en el B&amp;B, descubren que Thorfinn ha estado sufriendo terrores nocturnos, lo que inspira a Sam a buscar ayuda de un terapeuta.</desc>
-  </programme>
-  <programme start="20261017140000 +0200" stop="20261017145500 +0200" channel="Cuatro.es">
-    <title>Noticias Cuatro Fin de Semana</title>
-    <desc>Diego Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.</desc>
   </programme>
   <programme start="20261017145500 +0200" stop="20261017152500 +0200" channel="Cuatro.es">
     <title>ElDesmarque de Cuatro mediodía fin de semana</title>
@@ -12022,10 +11858,6 @@
     <title>DAZN 4</title>
     <desc>DAZN 4.</desc>
   </programme>
-  <programme start="20261017140000 +0200" stop="20261017150000 +0200" channel="DAZN.F1.es">
-    <title>Previo Clasificación</title>
-    <desc>Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Ver más.</desc>
-  </programme>
   <programme start="20261017150000 +0200" stop="20261017160000 +0200" channel="DAZN.F1.es">
     <title>F1 - GP de Singapur</title>
     <desc>El Gran Premio de Singapur es una carrera de automovilismo del Campeonato Mundial de Fórmula 1 disputada en el circuito callejero de Marina Bay, ubicado en la ciudad-estado de Singapur.</desc>
@@ -12761,10 +12593,6 @@
     <title>Trending</title>
     <desc>Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.</desc>
   </programme>
-  <programme start="20261017144600 +0200" stop="20261017150700 +0200" channel="DKISS.es">
-    <title>¡Sí, quiero ese vestido!</title>
-    <desc>La novia Valerie quiere un vestido para su lujosa boda en Ibiza. Randy rescata a la novia Magaly, que necesita un vestido para su boda bajo el agua.</desc>
-  </programme>
   <programme start="20261017150700 +0200" stop="20261017153500 +0200" channel="DKISS.es">
     <title>¡Sí, quiero ese vestido!</title>
     <desc>¡La culturista Melissa quiere un vestido que la haga parecer grande!</desc>
@@ -13170,10 +12998,6 @@
   </programme>
   <programme start="20261020220800 +0200" stop="20261020230500 +0200" channel="DKISS.es">
     <title>Cuando los muertos hablan</title>
-  </programme>
-  <programme start="20261017140800 +0200" stop="20261017150300 +0200" channel="DMAX.es">
-    <title>Ingeniería abandonada</title>
-    <desc>Los expertos investigan y descubren búnkeres de última generación construidos para ocultar y proteger un secreto nuclear mortal.</desc>
   </programme>
   <programme start="20261017150300 +0200" stop="20261017155800 +0200" channel="DMAX.es">
     <title>Ingeniería abandonada</title>
@@ -14118,10 +13942,6 @@
   <programme start="20261020223000 +0200" stop="20261020230000 +0200" channel="Decasa.es">
     <title>La casa más top</title>
     <desc>Tres casas de dos niveles han sido renovadas con esmero, con un toque personal y un diseño cuidado. Gracias a objetos de segunda mano, detalles creativos y mucha pasión, cada familia cree haber encontrado el equilibrio perfecto entre estilo y esencia. ¿Se dejarán seducir a los jueces por su encanto nostálgico o habrán optado por estos propietarios por una estrategia demasiado conservadora?</desc>
-  </programme>
-  <programme start="20261017143800 +0200" stop="20261017150100 +0200" channel="Discovery.Channel.es">
-    <title>Así se hace</title>
-    <desc>Serie documental que descubre como se elaboran o se fabrican los productos que usamos en nuestra vida cotidiana: los discos compactos, los cereales, los aviones, las patatas fritas, entre otros productos habituales.</desc>
   </programme>
   <programme start="20261017150100 +0200" stop="20261017152600 +0200" channel="Discovery.Channel.es">
     <title>Así se hace</title>
@@ -15814,9 +15634,6 @@
     <title>Elsbeth</title>
     <desc>Elsbeth Tascioni es una abogada excéntrica que utiliza su ingenio y su singular punto de vista para ayudar a la policía de Nueva York en la lucha contra el crimen.</desc>
   </programme>
-  <programme start="20261017144500 +0200" stop="20261017151000 +0200" channel="DreamWorks.es">
-    <title>Dragones: Hacia nuevos confines</title>
-  </programme>
   <programme start="20261017151000 +0200" stop="20261017153500 +0200" channel="DreamWorks.es">
     <title>Dragones: Hacia nuevos confines</title>
   </programme>
@@ -16555,13 +16372,6 @@
   <programme start="20261020233000 +0200" stop="20261020235500 +0200" channel="DreamWorks.es">
     <title>Dragones: Hacia nuevos confines</title>
   </programme>
-  <programme start="20261017145000 +0200" stop="20261017150500 +0200" channel="ETB1.es">
-    <title>Eguraldia</title>
-    <desc>Gure lurraldeko eguraldiaren iragarpenarekin batera, meteorologiarekin eta aldaketa klimatikoarekin lotutako eduki interesgarriak biltzen ditu saioak.</desc>
-  </programme>
-  <programme start="20261017150500 +0200" stop="20261017151000 +0200" channel="ETB1.es">
-    <title>EITB Kultura Sortzaileak</title>
-  </programme>
   <programme start="20261017151000 +0200" stop="20261017152000 +0200" channel="ETB1.es">
     <title>EITB Kultura Apartekoak</title>
   </programme>
@@ -16961,10 +16771,6 @@
   </programme>
   <programme start="20261020220500 +0200" stop="20261021000500 +0200" channel="ETB1.es">
     <title>Munduko Pilota Txapelketa;</title>
-  </programme>
-  <programme start="20261017135500 +0200" stop="20261017145800 +0200" channel="ETB2.es">
-    <title>Atrápame si puedes finde</title>
-    <desc>Divertido concurso de preguntas y respuestas, de la mano de Patxi Alonso.</desc>
   </programme>
   <programme start="20261017145800 +0200" stop="20261017153500 +0200" channel="ETB2.es">
     <title>Teleberri</title>
@@ -19287,10 +19093,6 @@
     <title>Choclo project</title>
     <desc>Este documental intenta ayudar a niños con pocos recursos en Perú. Ellos mismos decoran nuestra tabla de surf y con ella, recorremos algunas de las mejores y poco conocidas playas de ese país. La surfista profesional Georgia Fish se une a este viaje y también comparte su conocimiento en nutrición con las madres de los niños.</desc>
   </programme>
-  <programme start="20261017143200 +0200" stop="20261017150400 +0200" channel="Iberalia.Caza.es">
-    <title>Pulsar Master Aguardos</title>
-    <desc>En este documental asistimos a una jornada de aguardo de jabalíes, donde pondremos a prueba los visores nocturnos de Pard, en una cacería donde la precisión y la tecnología marcarán la diferencia.</desc>
-  </programme>
   <programme start="20261017150400 +0200" stop="20261017153800 +0200" channel="Iberalia.Caza.es">
     <title>Ojeo en fresnedas</title>
     <desc>Nos desplazamos a la Finca Fresnedas Altas, donde junto a Felipe Urquijo, participamos en una intensa jornada de caza de perdiz en ojeo. Descubriremos la estrategia, la destreza y la pasión que envuelven esta modalidad.</desc>
@@ -19846,10 +19648,6 @@
   <programme start="20261020223500 +0200" stop="20261020230700 +0200" channel="Iberalia.Caza.es">
     <title>Tras La Cabra Montés En La Sierra De Alcaraz</title>
     <desc>La Sierra de Alcaraz es uno de esos lugares que dejan huella. Nos adentramos en sus impresionantes paisajes para recechar tres cabras montesas, haciendo de esta jornada una experiencia realmente única y especial.</desc>
-  </programme>
-  <programme start="20261017143600 +0200" stop="20261017150900 +0200" channel="Iberalia.Pesca.es">
-    <title>Siluros en el Ebro</title>
-    <desc>Nos hemos trasladado hasta los meandros del río Ebro en Sástago y Escatrón para disfrutar de una emocionante jornada de pesca del siluro con cebo de pellet, una experiencia única en las aguas de este gran río.</desc>
   </programme>
   <programme start="20261017150900 +0200" stop="20261017154100 +0200" channel="Iberalia.Pesca.es">
     <title>Asturias, pesca en Luanco</title>
@@ -21120,10 +20918,6 @@
   <programme start="20261021233000 +0200" stop="20261022033000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA TV HYPERMOTION</title>
   </programme>
-  <programme start="20261017130500 +0200" stop="20261017145500 +0200" channel="La.1.es">
-    <title>D Corazón</title>
-    <desc>Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-  </programme>
   <programme start="20261017145500 +0200" stop="20261017154500 +0200" channel="La.1.es">
     <title>Telediario 1 Fin de Semana</title>
     <desc>Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día.</desc>
@@ -22324,11 +22118,6 @@
     <desc>Una muchacha atractiva pero lastrada por una formación moral de absoluto puritanismo, a cargo de una tía que la educó desde pequeña, entabla relaciones con un empresario bastante mayor que ella. Acaba casándose con él, y es entonces cuando experimenta amor por un hombre de su edad, un francés.</desc>
     <category>Cine</category>
   </programme>
-  <programme start="20261017133600 +0200" stop="20261017151000 +0200" channel="M+.Clásicos.es">
-    <title>Están vivos</title>
-    <desc>Un hombre encuentra un par de gafas con las que puede ver los sentimientos y las ilusiones que tiene cada persona. De esa manera, descubre una trágica verdad: que los hombres están siendo suplantados por alienígenas bajo la apariencia de jóvenes republicanos, aunque su verdadera forma es la de un reptil. Los invasores envían mensajes subliminales a través de los medios de comunicación para convencer a los ciudadanos de la bondad de sus intenciones.</desc>
-    <category>Cine</category>
-  </programme>
   <programme start="20261017151000 +0200" stop="20261017165600 +0200" channel="M+.Clásicos.es">
     <title>Matt Helm, agente muy especial</title>
     <desc>El agente Matt Helm debe encontrar y salvar al profesor Norman Solaris, inventor de un rayo incendiario del que se quiere apropiar un megalómano llamado Julian Wall que lo quiere utilizar para destruir Nueva York. Para ello cuenta con la ayuda de Suzie Solaris, la hija del inventor.</desc>
@@ -22593,11 +22382,6 @@
     <title>Más allá de la duda</title>
     <desc>Un escritor intenta demostrar las deficiencias de la ley y la policía colocando falsas pruebas contra sí mismo en un caso de asesinato. Éste es el último largometraje americano de Fritz Lang, que pone fin a una larga serie de brillantes películas.</desc>
     <category>Cine</category>
-  </programme>
-  <programme start="20261017143800 +0200" stop="20261017150500 +0200" channel="M+.Comedia.es">
-    <title>Leo Talks</title>
-    <desc>Leo Talks es una parodia de las charlas TED protagonizada por Leo Harlem, con un objetivo completamente opuesto al tono positivo y motivacional que caracteriza a las originales. Un formato que reinventa el monólogo clásico con una puesta en escena dinámica y un ritmo ágil.</desc>
-    <category>Entretenimiento</category>
   </programme>
   <programme start="20261017150500 +0200" stop="20261017171500 +0200" channel="M+.Comedia.es">
     <title>¡Shazam!</title>
@@ -22898,11 +22682,6 @@
     <title>Hot Shots 2</title>
     <desc>Recluido en un monasterio budista desde su ruptura sentimental con la exuberante psiquiatra de la base militar, el mayor Topper Harley intenta recuperar su equilibro emocional dedicado a las más diversas labores de mantenimiento del templo y siguiendo el principio del celibato que los monjes budistas practican.</desc>
     <category>Cine</category>
-  </programme>
-  <programme start="20261017130400 +0200" stop="20261017151000 +0200" channel="M+.Deportes.2.es">
-    <title>Torneo de Shanghai: Jódar - Medvedev</title>
-    <desc>El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261017151000 +0200" stop="20261017171900 +0200" channel="M+.Deportes.2.es">
     <title>Torneo de Shanghai: Zverev - Davidovich</title>
@@ -23838,11 +23617,6 @@
     <title>Sumario 3/94</title>
     <desc>Junio de 1994. Un joven de 18 años recorre los programas de sucesos televisivos sensacionalistas, denunciando que su padre ha sido injustamente encarcelado por un crimen que no cometió. Este documental reconstruye los hechos y revela las devastadoras consecuencias de un proceso judicial fallido.</desc>
     <category>Documentales</category>
-  </programme>
-  <programme start="20261017130800 +0200" stop="20261017150800 +0200" channel="M+.Drama.es">
-    <title>Valkiria</title>
-    <desc>Gravemente herido, el coronel Von Stauffenberg vuelve de África para unirse a la resistencia alemana y ayudar a organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261017150800 +0200" stop="20261017173300 +0200" channel="M+.Drama.es">
     <title>El reino de los cielos</title>
@@ -26243,11 +26017,6 @@
     <desc>La Copa Sudamericana es el segundo torneo de clubes en importancia de CONMEBOL.</desc>
     <category>Deportes</category>
   </programme>
-  <programme start="20261017141400 +0200" stop="20261017150400 +0200" channel="M+.Originales.es">
-    <title>Moderneces</title>
-    <desc>Moderna de Pueblo recibe a los actores Omar Ayuso y Valentina Vidal, protagonistas de la serie El Castillo. Los tres comparten una conversación que se desgrana la nueva serie de Movistar Plus+ y acaba recorriendo algunos de los dilemas éticos más incómodos de nuestro día a día. La prostitución y su representación en la ficción, los límites que ponemos en el trabajo, la intimidad de los famosos, los cotilleos, la religión, la vivienda o la explotación animal son algunos de los temas que atraviesan una entrevista llena de humor, experiencias personales y opiniones sin demasiados filtros. A partir de situaciones cotidianas y mensajes enviados por los seguidores del programa, los invitados reflexionan sobre esas decisiones en las que entran en juego los principios, la moral y la presión social, y sobre lo difícil que puede resultar plantarse cuando algo que todos consideran normal a uno le parece que no está bien.</desc>
-    <category>Entretenimiento</category>
-  </programme>
   <programme start="20261017150400 +0200" stop="20261017154200 +0200" channel="M+.Originales.es">
     <title>Las Berrocal</title>
     <desc>Las Berrocal regresan con grandes novedades y en plena temporada navideña, que anima a Victoria a hacerse un cambio de imagen que sorprende a todas. Alba, por su parte, se encuentra en plena reforma de la que será su futura casa, que además compartirá con su novio, Marcos. Vicky arranca con vértigo, nervios, pero también ilusión, una nueva temporada de su podcast con un invitado muy especial, su gran amigo Alejandro Sanz y Rocío atraviesa una etapa de crisis personal marcada por la inseguridad, que le hace replantearse su rumbo profesional. Finalmente, la celebración de la Nochebuena las une y se intercambian regalos, pero no todas aciertan con el suyo….</desc>
@@ -27722,10 +27491,6 @@
   <programme start="20261020232800 +0200" stop="20261020235100 +0200" channel="MTV.España.es">
     <title>Vergüenza ajena</title>
     <desc>Vergüenza Ajena vuelve en su trigésimo segunda temporada, con Rob Dyrdek y el copresentador Sterling Brim, e invitados especiales.</desc>
-  </programme>
-  <programme start="20261017143200 +0200" stop="20261017145800 +0200" channel="Mega.es">
-    <title>¿Quién da más?</title>
-    <desc>La serie de subastas de trasteros más exitosa de la tele. ¡No hay nada que se les resista a nuestros cazadores de fortunas!</desc>
   </programme>
   <programme start="20261017145800 +0200" stop="20261017152400 +0200" channel="Mega.es">
     <title>¿Quién da más?</title>
@@ -29443,10 +29208,6 @@
   <programme start="20261020225000 +0200" stop="20261020234500 +0200" channel="National.Geographic.es">
     <title>Del día D a Berlín: la última batalla de Hitler</title>
     <desc>Después de que un batallón estadounidense aislado capture una fortaleza remota conocida como 'Battle Mountain', las fuerzas alemanas lanzan implacables contraataques para recuperarla. Las tropas estadounidenses se ven llevadas al límite al enfrentarse a descargas de artillería, lanzallamas y asaltos cuerpo a cuerpo por parte de un enemigo que no está dispuesto a ceder la cima y su acceso al Valle del Po, de gran importancia estratégica. La retirada no es una opción, y el comandante del batallón debe acudir él mismo al campo de batalla, mientras el enemigo amenaza con arrollarlos. Con el número de bajas en aumento, los soldados estadounidenses libran su última batalla en un castillo en ruinas situado en la cima. La batalla se convierte en una agotadora prueba de resistencia, en la que los actos individuales de valentía y sacrificio determinarán si los estadounidenses pueden mantener el control de la montaña o si esta vuelve a caer en manos alemanas.</desc>
-  </programme>
-  <programme start="20261017142500 +0200" stop="20261017145200 +0200" channel="Neox.es">
-    <title>Los Simpson</title>
-    <desc>Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad estadounidense de Springfield.Groseros, vagos y desvergonzados, 'Los Simpson' nacieron en 1987 como una sección de 'El show de Tracey Ullman', donde aparecían cinco minutos en cada emisión. La sensacional acogida por parte del público exigió un espacio propio de media hora, que llegó dos años más tarde. Desde entonces, ya suman más de 20 temporadas en antena.Su creador, Matt Groening, bautizó a sus personajes con los nombres de sus padres y hermanas. No se atrevió a ponerle Matt al protagonista, así que se inspiró en un anagrama de Brat (mocoso, en inglés). Faltaba el apellido, la marca. Eligió Simpson, que significa hijo de un simplón, que, además, encajaba con Springfield, el nombre de ciudad más común en Estados Unidos. Ya tenía las piezas básicas para caricaturizar a cualquier familia estadounidense corriente.Mezcla de comedia y sátira, el éxito arrollador de la serie rompió todos los esquemas y se convirtió en uno de los mayores fenómenos televisivos de la historia.</desc>
   </programme>
   <programme start="20261017145200 +0200" stop="20261017152000 +0200" channel="Neox.es">
     <title>Los Simpson</title>
@@ -31874,10 +31635,6 @@
   <programme start="20261020214500 +0200" stop="20261020230000 +0200" channel="Nova.es">
     <title>Leyla</title>
     <desc>Leyla es abandonada tras perder a su padre por culpa de su madrastra, Nur. Años después, regresa disfrazada de chef a casa de Nur y descubre que su amor de la infancia es el hijo adoptivo de su enemigo.</desc>
-  </programme>
-  <programme start="20261017140800 +0200" stop="20261017150800 +0200" channel="Odisea.es">
-    <title>Grandes inventos</title>
-    <desc>Los muñecos para pruebas de impacto tienen un solo propósito: salvar innumerables vidas cada año. Gracias a ellos, tenemos cinturones de seguridad, airbags y zonas de deformación controlada. Inicialmente, las pruebas de impacto se realizaban con personas reales, animales o cadáveres de animales. Hoy en día, los muñecos están llenos de tecnología y pueden costar hasta un millón de euros. Recordamos las primeras pruebas realizadas con humanos y cerdos, y vemos la tecnología que se necesita para hacer nuestras vidas más seguras.</desc>
   </programme>
   <programme start="20261017150800 +0200" stop="20261017160800 +0200" channel="Odisea.es">
     <title>Asia</title>
@@ -35179,10 +34936,6 @@
     <title>Ana y los lobos</title>
     <desc>Anna, una joven institutriz inglesa, llega a la finca de una familia burguesa española para encargarse de la educación de las tres hijas. Allí, se encuentra con tres hermanos cuarentones, dominados por su autoritaria madre, con los que establece una extraña relación que acabará en tragedia.''Ana y los lobos'' es uno de los títulos de la trilogía que, a principios de los 70, Carlos Saura utiliza para analizar los mecanismos de poder de la burguesía española durante el franquismo. Saura empieza este examen con ''El jardín de las delicias'', continúa con ''Ana y los lobos'' y termina con ''La prima Angélica'', todas con guiones de Rafael Azcona, fotografía de Luis Cuadrado y producidas por Elías Querejeta. En este filme, Saura ofrecía su visión del ejército, de la religión y de la represión sexual, a través de una familia burguesa cerrada y claustrofóbica. Esta familia le sirvió siete años después para realizar otra película, una comedia con guión propio, titulada ''Mamá cumple cien años''. La película cuenta con grandes intérpretes, entre los que destacan Rafaela Aparicio, y Fernando Fernán Gómez, aunque Saura, una vez más, cede el protagonismo a Geraldine Chaplin.</desc>
   </programme>
-  <programme start="20261017140000 +0200" stop="20261017150300 +0200" channel="Stingray.Classica.es">
-    <title>Mahler - Sinfonía No 4</title>
-    <desc>El programa se presenta con un breve documental sobre 'Pélleas et Mélisande' de Schönberg, basado en un texto de Claudio Abbado. Cada tema musical se relaciona con un color especial que aparece en pantalla. Lo realmente notable de las interpretaciones de Mahler llevadas a cabo por Abbado es que su impacto no se ha debido a ninguna sutileza extraordinaria o a la extrema sofisticación. Junto con la orquesta juvenil más importante del mundo, Joven Orquesta Gustav Mahler (GMJO), Abbado interpreta la Sinfonía nº 4 de Mahler y Pélleas et Mélisande de Schönberg, Op. 5. La Joven Orquesta Gustav Mahler fue fundada en Viena en 1986, por iniciativa de Abbado. El alto nivel de calidad artística de la orquesta y su éxito internacional han llevado a importantes directores y solistas a trabajar con este conjunto.</desc>
-  </programme>
   <programme start="20261017150300 +0200" stop="20261017161200 +0200" channel="Stingray.Classica.es">
     <title>Orff - Carmina Burana</title>
     <desc>Rodolfo Barráez dirige a la Orquesta y el Coro de la Academia de Música del Palacio de Minería en una interpretación de Carmina Burana de Carl Orff. Los solistas son Anabel de la Mora (soprano), Andrés Carrillo (tenor) y Cerón (barítono).</desc>
@@ -35778,10 +35531,6 @@
   <programme start="20261020223000 +0200" stop="20261020233600 +0200" channel="Sundance.TV.es">
     <title>Generations</title>
     <desc>Una cautivadora serie dramática que entrelaza crimen y misterio, desvelando la compleja historia de una familia a lo largo de varias generaciones. Se narra a través de una trama criminal impregnada de sutiles elementos misteriosos, explorando temas como la culpa, la vergüenza, la redención y la transformación. La historia comienza con el descubrimiento de un bebé momificado durante la renovación de un edificio residencial en Copenhague. Martha, una residente de 87 años, confiesa inesperadamente el crimen, desencadenando una incursión en secretos familiares largamente ocultos. Rikke, nieta de Martha y abogada defensora, se muestra inicialmente escéptica, creyendo que su abuela podría estar sufriendo demencia o soledad. Sin embargo, la aguda memoria y la lucidez de Martha pronto disipan esa suposición. A medida que avanza la investigación, la familia descubre que el bebé era de Martha. Esta revelación los sume en una crisis de identidad, obligándolos a confrontar el legado que han heredado. El silencio de Martha sobre las verdaderas razones de sus acciones deja a la familia desesperada por encontrar respuestas.</desc>
-  </programme>
-  <programme start="20261017140700 +0200" stop="20261017150400 +0200" channel="TEN.es">
-    <title>Caso cerrado</title>
-    <desc>Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.</desc>
   </programme>
   <programme start="20261017150400 +0200" stop="20261017160200 +0200" channel="TEN.es">
     <title>Caso cerrado</title>
@@ -36899,10 +36648,6 @@
     <title>Nits Sense ficció: La cadira buida</title>
     <desc>La soledat no desitjada s'ha convertit en un dels grans reptes socials del nostre temps, però continua sent una realitat sovint invisible i silenciada.</desc>
   </programme>
-  <programme start="20261017142500 +0200" stop="20261017150900 +0200" channel="TVG.es">
-    <title>Telexornal Mediodía Fin de semana</title>
-    <desc>Eedición de los fines de semana de los informativos del canal autonómico gallego. En ''Telexornal'', Antía Araújo y David Valverde ofrecen las noticias más recientes del ámbito tanto nacional como internacional.</desc>
-  </programme>
   <programme start="20261017150900 +0200" stop="20261017152400 +0200" channel="TVG.es">
     <title>En xogo</title>
     <desc>Información deportiva, a cargo de Carlos Macía ao mediodía, Lorena Pose pola noite, e Irene Lourido durante a fin de semana. Óscar Benito ponse á fronte dos sábados e domingos, mentres que Gustavo Varela presenta o resumo da xornada do domingo.</desc>
@@ -37271,10 +37016,6 @@
     <title>A Grande Escolla</title>
     <desc>Nuevo formato en el que una celebridad de fuera llega a Galicia en busca de un producto con sello gallego, y será la presentadora y ''personal shopper'' Noelia Rey quien le propondrá tres opciones, entre las que solo podrá escoger una.</desc>
   </programme>
-  <programme start="20261017134000 +0200" stop="20261017150000 +0200" channel="Telecinco.es">
-    <title>El precio justo diario</title>
-    <desc>Concurso basado en la habilidad de los participantes para poder acertar el precio de los objetos que se le presentan sin pasarse de su precio justo. Estrenado en Estados Unidos en 1956, 'El precio justo' es el concurso más longevo de la historia de la televisión.</desc>
-  </programme>
   <programme start="20261017150000 +0200" stop="20261017153000 +0200" channel="Telecinco.es">
     <title>Informativos Telecinco Fin de Semana</title>
   </programme>
@@ -37561,10 +37302,6 @@
   </programme>
   <programme start="20261020215000 +0200" stop="20261020230000 +0200" channel="Telecinco.es">
     <title>First dates</title>
-  </programme>
-  <programme start="20261017113000 +0200" stop="20261017145500 +0200" channel="Teledeporte.es">
-    <title>Mundial de ciclismo en pista</title>
-    <desc>El Mundial de ciclismo en pista llega a su 123.ª edición. Del 14 al 18 de octubre, el Velódromo de Chongming en Shanghái, acoge el evento. Reúne a los mejores especialistas del planeta para disputar un total de 22 títulos mundiales (11 masculinos y 11 femeninos).</desc>
   </programme>
   <programme start="20261017145500 +0200" stop="20261017155500 +0200" channel="Teledeporte.es">
     <title>Copa del mundo de natación - Astaná</title>
@@ -37918,10 +37655,6 @@
     <title>Teledeporte</title>
     <desc>Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte.El objetivo de este canal, que emite 24 horas diarias a través de diversos operadores de cable y televisión digital terrestre, es la promoción del deporte español, mediante programas de producción propia dedicados al análisis de la actualidad, al acercamiento a los deportistas y a la valoración de sus esfuerzos. Teledeporte dedica especial atención a los grandes eventos deportivos tales como los Juegos Olímpicos, o las finales más importantes de diferentes modalidades. Pero también ofrece todo aquello relacionado con los deportes que tradicionalmente han sido considerados minoritarios como, por ejemplo, el hockey hierba, hockey patines, gimnasia rítmica, judo o waterpolo.</desc>
   </programme>
-  <programme start="20261017140000 +0200" stop="20261017150600 +0200" channel="Telemadrid.es">
-    <title>Telenoticias fin de semana 1</title>
-    <desc>Telemadrid ofrece dos ediciones de 'Telenoticias' durante el fin de semana, programadas a las 14:00h y a las 20:30h del sábado y el domingo. En ambas se ofrece un resumen de lo más destacado de la actualidad tanto a nivel nacional como internacional.</desc>
-  </programme>
   <programme start="20261017150600 +0200" stop="20261017152800 +0200" channel="Telemadrid.es">
     <title>Deportes 2</title>
     <desc>Espacio en el que se resume la información deportiva más sobresaliente del día: con entrevistas, reportajes, análisis de las noticias, debates, humor y las intervenciones de personajes famosos.</desc>
@@ -38263,10 +37996,6 @@
   <programme start="20261020224500 +0200" stop="20261020234000 +0200" channel="Telemadrid.es">
     <title>La huella del crimen</title>
     <desc>Tras 23 días desaparecida en Traspinedo (Valladolid) , el cuerpo de Esther López, una mujer de 35 años, es hallado abandonado en una cuneta. El principal sospechoso es Óscar, el último amigo que la vio con vida. Nuestros expertos analizan en 'La Huella del Crimen' la técnica de staging. Además, en el plató contamos con el testimonio de su prima Sara, que después de 5 años solo espera que se haga justicia y se aclare qué es lo que ocurrió aquella noche en la que desapareció Esther.</desc>
-  </programme>
-  <programme start="20261017144300 +0200" stop="20261017150800 +0200" channel="Warner.TV.es">
-    <title>Big Bang</title>
-    <desc>La paternidad de Howard y Bernadette, el reencuentro de Wolowitz con su padre y la relación a distancia de Sheldon y Amy marcarán el inicio de la temporada. Además, Leonard y Penny deberán afrontar disputas domésticas surgidas de un matrimonio cada vez más en crisis.La undécima temporada de la incombustible comedia arranca con la resolución de la sorprendente proposición de Sheldon. Una ficción que sigue contando con el mismo elenco que las anteriores y sin cambios estructurales grandes, para seguir cosechando el mismo éxito rotundo que al principio y mantener unas cifras de audiencia más que notables.Ideada por Chuck Lorre, responsable de 'Dos hombres y medio' y 'Las chicas Gilmore', y encabezada en el reparto por Jim Parsons, ganador de cuatro premios Emmy y un Globo de Oro al mejor actor de comedia, 'Big Bang' mantiene su peculiar universo.</desc>
   </programme>
   <programme start="20261017150800 +0200" stop="20261017165100 +0200" channel="Warner.TV.es">
     <title>Navidades, ¿bien o en familia?</title>
@@ -38936,10 +38665,6 @@
     <title>TikTak Cine</title>
     <desc>Christopher Landon se ha convertido en una de las voces más singulares del terror moderno: un director empeñado en romper moldes mezclando sustos, humor y giros de género inesperados. Tras despuntar con el guion de Disturbia, su alianza con Blumhouse lo llevó a dirigir Paranormal Activity: Los señalados, donde empezó a experimentar con nuevas fórmulas dentro de sagas establecidas. Su estilo explosivo despegó con Zombie Camp, una delirante comedia zombi que ya es título de culto. Pero su consagración llegó con Feliz día de tu muerte y su secuela, donde reinventó el slasher con bucles temporales, misterio y un tono juguetón que conquistó al público. Más tarde, con Este cuerpo me sienta de muerte, llevó el terror al terreno del intercambio de cuerpos con resultados tan sangrientos como divertidos. Siempre dispuesto a subvertir expectativas, Landon sigue demostrando que el horror puede ser sorprendente, fresco y, por qué no, desternillante.</desc>
   </programme>
-  <programme start="20261017140000 +0200" stop="20261017150500 +0200" channel="laSexta.es">
-    <title>La Sexta Noticias fin de semana</title>
-    <desc>Espacio de información de laSexta durante los fines de semana. Un informativo conducido por Ana Cuesta que pretende ser social y cercano a la gente de la calle.</desc>
-  </programme>
   <programme start="20261017150500 +0200" stop="20261017151500 +0200" channel="laSexta.es">
     <title>laSexta Deportes Fin de Semana</title>
     <desc>Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.</desc>
@@ -39211,14 +38936,6 @@
   <programme start="20261020213000 +0200" stop="20261020230000 +0200" channel="laSexta.es">
     <title>El intermedio</title>
     <desc>ATRESPLAYER TV | Ver vídeos de EL INTERMEDIO. 'El Intermedio' es un programa de actualidad y humor presentado por El Gran Wyoming. Con la…. 'El Intermedio' es un programa de actualidad y humor presentado por El Gran Wyoming. Con la frase 'Ya conocen las noticias, ahora les contaremos la verdad' aborda junto a sus colaboradores, las noticias más importantes de la jornada que han aparecido en los medios de comunicación.</desc>
-  </programme>
-  <programme start="20261017142500 +0200" stop="20261017145700 +0200" channel="tvG2.es">
-    <title>Parlamento</title>
-    <desc>Programa informativo que hace un seguimiento de la actividad legislativa del Parlamento de Galicia.</desc>
-  </programme>
-  <programme start="20261017145700 +0200" stop="20261017150000 +0200" channel="tvG2.es">
-    <title>Reportaxes e entrevistas deportes</title>
-    <desc>Programa que repasa las últimas noticias del mundo del deporte y entrevista a los protagonistas de la jornada deportiva.</desc>
   </programme>
   <programme start="20261017150000 +0200" stop="20261017154000 +0200" channel="tvG2.es">
     <title>Telexornal Mediodía Fin de semana</title>

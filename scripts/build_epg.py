@@ -355,9 +355,13 @@ def generar(grupos: dict, fuentes: list[str], salida: str, dias: int):
 
         for epg_id, grupo in grupos.items():
             fh.write(f'  <channel id="{escapar(epg_id)}">\n')
-            fh.write(f'    <display-name>{escapar(nombre_final(grupo))}</display-name>\n')
+            # Primero el nombre canonico, luego el resto de variantes sin repetir
+            nombres = [nombre_final(grupo)]
             for variante in grupo["variantes"]:
-                fh.write(f'    <display-name>{escapar(variante)}</display-name>\n')
+                if variante not in nombres:
+                    nombres.append(variante)
+            for nombre in nombres:
+                fh.write(f'    <display-name>{escapar(nombre)}</display-name>\n')
             if grupo["icono"]:
                 fh.write(f'    <icon src="{escapar(grupo["icono"])}"/>\n')
             fh.write("  </channel>\n")

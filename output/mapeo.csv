@@ -31,7 +31,7 @@ NOVA;GENERAL;nova;Nova.es;Nova;alias
 NEOX;GENERAL;neox;Neox.es;Neox;alias
 ARAGON TV INT;GENERAL;aragontv;Aragón.Televisión.es;Aragón Televisión;alias
 CANAL SUR HD;GENERAL;canalsur;Canal.Sur.Andalucía.es;Canal Sur Andalucía;alias
-CANAL SUR 2 HD;GENERAL;canalsur2;Canal.Sur.2.es;Canal Sur 2;normalizado
+CANAL SUR 2 HD;GENERAL;canalsur2;Canal.Sur.2.es;Canal Sur 2;alias
 7TV MALAGA HD;GENERAL;7tvmalaga;7TV.Andalucía.es;7TV Andalucía;alias
 AndaluciaTV;GENERAL;andaluciatv;Andalucía.Televisión.es;Andalucía Televisión;alias
 BOM;GENERAL;bom;BOM.Cine.es;BOM Cine;alias
@@ -58,7 +58,7 @@ ETB SAT CANAL VASCO;GENERAL;etbsatcanalvasco;ETB1.es;ETB1;alias
 ETB1;GENERAL;etb1;ETB1.es;ETB1;alias
 ETB2;GENERAL;etb2;ETB2.es;ETB2;alias
 TVG HD;GENERAL;tvg;TVG.es;TVG;alias
-TVG 2;GENERAL;tvg2;tvG2.es;tvG2;normalizado
+TVG 2;GENERAL;tvg2;tvG2.es;tvG2;alias
 LANCELOT TV;GENERAL;lancelottv;;;sin-guia
 RTV VIDA;GENERAL;rtvvida;;;sin-guia
 XTRM;GENERAL;xtrm;XTRM.es;XTRM;alias

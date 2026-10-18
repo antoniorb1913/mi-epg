@@ -21,7 +21,7 @@ energy;Energy.es
 fdf;FDF.Telecinco.es
 clan;Clan.TVE.es
 clantve;Clan.TVE.es
-24h;24.horas.es
+24h;Canal.24.horas.es
 teledeporte;Teledeporte.es
 bemad;Be.Mad.es
 bemadtv;Be.Mad.es
@@ -39,7 +39,7 @@ comedycentral;Comedy.Central.HD.es
 cosmo;Cosmo.es
 sundance;Sundance.TV.es
 canalcocina;Decasa.es
-mundotv;Mundo.es
+# mundotv: sin equivalente en la fuente
 
 # --- autonomicas y locales ---
 tv3;TV3.es
@@ -48,13 +48,13 @@ extremadura;Canal.Extremadura.TV.es
 aragontv;Aragón.Televisión.es
 aragontvint;Aragón.TV.INT..es
 canalsur;Canal.Sur.Andalucía.es
-canalsur2;Canal.Sur.Andalucía.2.es
+canalsur2;Canal.Sur.2.es
 telemadrid;Telemadrid.es
 etb1;ETB1.es
 etb2;ETB2.es
 tvgsat;TVG.es
 tvg;TVG.es
-tvg2;TVG.2.es
+tvg2;tvG2.es
 esport3;Esport.3.es
 7tvandalucia;7TV.Andalucía.es
 7tvmalaga;7TV.Andalucía.es
@@ -219,8 +219,6 @@ calle13;Calle.13.es
 warnertv;Warner.TV.es
 warner;Warner.TV.es
 a3series;Atreseries.es
-starchannel;Star.Channel.es
-star;Mundo.es
 bbcdrama;AXN.es
 moriginales;M+.Originales.es
 mseries;M+.Originales.es
@@ -240,8 +238,6 @@ seriesleyendas1;M+.Clásicos.es
 seriesleyendas2;M+.Clásicos.es
 serieswestern;M+.Clásicos.es
 lacasadelasseries;M+.Originales.es
-elrincondelprofesor;Mundo.es
-mundo;Mundo.es
 
 # ============================================================
 # MUSICA

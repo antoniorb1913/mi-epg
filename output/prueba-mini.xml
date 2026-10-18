@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="prueba-mini">
+  <channel id="LA 1 HD">
+    <display-name>LA 1 HD</display-name>
+  </channel>
+  <channel id="ANTENA 3 HD">
+    <display-name>ANTENA 3 HD</display-name>
+  </channel>
+  <programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="LA 1 HD">
+    <title>PRUEBA 1 - LA 1 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="LA 1 HD">
+    <title>PRUEBA 2 - LA 1 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="LA 1 HD">
+    <title>PRUEBA 3 - LA 1 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="LA 1 HD">
+    <title>PRUEBA 4 - LA 1 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="LA 1 HD">
+    <title>PRUEBA 5 - LA 1 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018180000 +0000" stop="20261018190000 +0000" channel="LA 1 HD">
+    <title>PRUEBA 6 - LA 1 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018130000 +0000" stop="20261018140000 +0000" channel="ANTENA 3 HD">
+    <title>PRUEBA 1 - ANTENA 3 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018140000 +0000" stop="20261018150000 +0000" channel="ANTENA 3 HD">
+    <title>PRUEBA 2 - ANTENA 3 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018150000 +0000" stop="20261018160000 +0000" channel="ANTENA 3 HD">
+    <title>PRUEBA 3 - ANTENA 3 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="ANTENA 3 HD">
+    <title>PRUEBA 4 - ANTENA 3 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018170000 +0000" stop="20261018180000 +0000" channel="ANTENA 3 HD">
+    <title>PRUEBA 5 - ANTENA 3 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+  <programme start="20261018180000 +0000" stop="20261018190000 +0000" channel="ANTENA 3 HD">
+    <title>PRUEBA 6 - ANTENA 3 HD</title>
+    <desc>Si ves esto, el XML se lee correctamente.</desc>
+  </programme>
+</tv>
