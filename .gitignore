@@ -1,0 +1,11 @@
+# Descargas de fuentes EPG (se regeneran solas)
+.cache/
+
+# Salidas generadas
+output/mi-epg.xml.gz
+
+# Basura del sistema
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini

@@ -1,0 +1,274 @@
+﻿# Alias manuales: clave_normalizada;id_epg
+# La clave se calcula quitando acentos, sufijos HD/SD/4K y todo lo no alfanumerico.
+# Ej: "ANTENA 3 HD" -> antena3   |   "Cine+ TERROR" -> cineterror
+# Lineas que empiezan por # se ignoran. Deja el id vacio para omitir.
+
+# ============================================================
+# TDT / GENERALISTAS
+# ============================================================
+la1;La.1.es
+la2;La.2.es
+antena3;Antena.3.es
+cuatro;Cuatro.es
+telecinco;Telecinco.es
+lasexta;laSexta.es
+neox;Neox.es
+nova;Nova.es
+mega;Mega.es
+boing;Boing.es
+divinity;Divinity.es
+energy;Energy.es
+fdf;FDF.Telecinco.es
+clan;Clan.TVE.es
+clantve;Clan.TVE.es
+24h;24.horas.es
+teledeporte;Teledeporte.es
+bemad;Be.Mad.es
+bemadtv;Be.Mad.es
+paramountnetwork;Paramount.Network.es
+atreseries;Atreseries.es
+trece;TRECE.es
+dmax;DMAX.es
+dkiss;DKISS.es
+ten;TEN.es
+bom;BOM.Cine.es
+somos;Somos.es
+xtrm;XTRM.es
+realmadridtv;Real.Madrid.TV.es
+comedycentral;Comedy.Central.HD.es
+cosmo;Cosmo.es
+sundance;Sundance.TV.es
+canalcocina;Decasa.es
+mundotv;Mundo.es
+
+# --- autonomicas y locales ---
+tv3;TV3.es
+tv3cat;TV3CAT.es
+extremadura;Canal.Extremadura.TV.es
+aragontv;Aragón.Televisión.es
+aragontvint;Aragón.TV.INT..es
+canalsur;Canal.Sur.Andalucía.es
+canalsur2;Canal.Sur.Andalucía.2.es
+telemadrid;Telemadrid.es
+etb1;ETB1.es
+etb2;ETB2.es
+tvgsat;TVG.es
+tvg;TVG.es
+tvg2;TVG.2.es
+esport3;Esport.3.es
+7tvandalucia;7TV.Andalucía.es
+7tvmalaga;7TV.Andalucía.es
+andaluciatv;Andalucía.Televisión.es
+castillalamancha;Castilla-La.Mancha.Media.es
+
+# ============================================================
+# INFANTIL
+# ============================================================
+disneych;Disney.Channel.es
+disneychannel;Disney.Channel.es
+disneyjr;Nick.Junior.es
+disneyjunior;Nick.Junior.es
+nickjr;Nick.Junior.es
+discoverykids;Discovery.Channel.es
+discoverychannel;Discovery.Channel.es
+nickelodeon;Nickelodeon.es
+enfamilia;Nickelodeon.es
+babytv;BabyTV.es
+dreamworks;DreamWorks.es
+
+# ============================================================
+# DOCUMENTALES
+# ============================================================
+natgeo;National.Geographic.es
+nationalgeographic;National.Geographic.es
+natgeowild;National.Geographic.Wild.HD.es
+discovery;Discovery.Channel.es
+historia;Historia.y.Vida.es
+historiavida;Historia.y.Vida.es
+odisea;Odisea.es
+canalodisea;Odisea.es
+decasa;Decasa.es
+canaldecasa;Decasa.es
+cazavision;Cazavisión.es
+cazaypesca;Caza.y.Pesca.es
+iberalia;Iberalia.es
+iberaliatv;Iberalia.es
+iberaliacaza;Iberalia.Caza.es
+iberaliapesca;Iberalia.Pesca.es
+bbchistory;Historia.y.Vida.es
+bbcearth;National.Geographic.es
+bbctopgear;National.Geographic.es
+bbc food;Decasa.es
+bbcfood;Decasa.es
+
+# ============================================================
+# DEPORTES — LaLiga
+# ============================================================
+mlaligatv;M+.LALIGA.TV.es
+mlaligatv2;M+.LALIGA.TV.2.es
+mlaligatv3;M+.LALIGA.TV.3.es
+mlaligatv4;M+.LALIGA.TV.4.es
+mlaligatvu;M+.LALIGA.TV.UHD.es
+daznlaliga;DAZN.LaLiga.es
+daznlaliga2;DAZN.LaLiga.2.es
+laligatvhyper;LALIGA.TV.HYPERMOTION.es
+laligatvhyper2;LALIGA.TV.HYPERMOTION.2.es
+laligatvhyper3;LALIGA.TV.HYPERMOTION.3.es
+laligainsside;LALIGA.Inside.es
+primeraferacion;LALIGA.TV.HYPERMOTION.es
+
+# --- Liga de Campeones ---
+mlcampeones;M+.Liga.de.Campeones.es
+mlcampeones2;M+.Liga.de.Campeones.2.es
+mlcampeones3;M+.Liga.de.Campeones..3.es
+mlcampeones4;M+.Liga.de.Campeones..4.es
+mlcampeones5;M+.Liga.de.Campeones.5.es
+mlcampeones6;M+.Liga.de.Campeones.6.es
+mlcampeones7;M+.Liga.de.Campeones.7.es
+mlcampeones8;M+.Liga.de.Campeones.8.es
+mlcampeones9;M+.Liga.de.Campeones.9.es
+mlcampeones10;M+.Liga.de.Campeones.10.es
+mlcampeones11;M+.Liga.de.Campeones.11.es
+mlcampeones12;M+.Liga.de.Campeones.12.es
+mlcampeones13;M+.Liga.de.Campeones.13.es
+uefachampionsleague;M+.Liga.de.Campeones.es
+
+# --- M+ Deportes / Vamos ---
+mdeportes;M+.Deportes.es
+mdeportes1;M+.Deportes.es
+mdeportes2;M+.Deportes.2.es
+mdeportes3;M+.Deportes.3.es
+mdeportes4;M+.Deportes.4.es
+mdeportes5;M+.Deportes.5.es
+mdeportes6;M+.Deportes.6.es
+mvamos;#Vamos.es
+mvamos2;M+.Vamos.2.es
+mvamos3;M+.Vamos.3.es
+movistarplus;Movistar.Plus+.es
+movistarplusfull;Movistar.Plus+.es
+mclub;Movistar.Liga.de.Campeones.es
+
+# --- DAZN / otros deportes ---
+dazn1;DAZN.1.es
+dazn2;DAZN.2.es
+dazn3;DAZN.3.es
+dazn4;DAZN.4.es
+daznf1;DAZN.F1.es
+daznmotogp;DAZN.F1.es
+daznrallytv;DAZN.1.es
+eurosport1;Eurosport.1.es
+eurosport2;Eurosport.2.es
+mgolf;M+.Golf.es
+mgolf2;M+.Golf.2.es
+multideporte;M+.Deportes.es
+ufc;DAZN.1.es
+golplay;M+.Deportes.es
+topbarca;DAZN.1.es
+redbulltv;DAZN.1.es
+mbaloncesto;M+.Deportes.es
+mbaloncesto2;M+.Deportes.2.es
+daznbaloncesto;DAZN.1.es
+daznbaloncesto2;DAZN.2.es
+daznbaloncesto3;DAZN.3.es
+
+# ============================================================
+# CINE
+# ============================================================
+a3cine;A3CINE.es
+mcine;M+.Estrenos.es
+mestrenos;M+.Estrenos.es
+mcero;M+.Hits.es
+mindie;M+.Indie.es
+mficcionpremium;M+.Estrenos.es
+mficcion1;M+.Estrenos.es
+mficcion2;M+.Hits.es
+maccion;M+.Acción.es
+maccion2;M+.Acción.es
+mcomedia;M+.Comedia.es
+mdrama;M+.Drama.es
+mdrama2;M+.Drama.es
+mcineespanol;M+.Cine.Español.es
+mclasicos;M+.Clásicos.es
+mterror;M+.Drama.es
+mcinesur1;M+.Estrenos.es
+canalalquiler1;M+.Estrenos.es
+cine1;M+.Estrenos.es
+cine2;M+.Hits.es
+cineaccion;M+.Acción.es
+cinecomedia;M+.Comedia.es
+cinedrama;M+.Drama.es
+cineguerra;M+.Acción.es
+cinesaga;M+.Clásicos.es
+cinesuspense;M+.Drama.es
+cineterror;M+.Drama.es
+dark;M+.Drama.es
+tcm;M+.Clásicos.es
+hollywood;M+.Estrenos.es
+
+# ============================================================
+# SERIES
+# ============================================================
+amc;AMC.es
+amcbreak;AMC.Break.es
+amccrime;AMC.Break.es
+amcwestern;AMC.Break.es
+axn;AXN.es
+axnmovies;AXN.Movies.es
+syfy;AXN.es
+calle13;Calle.13.es
+warnertv;Warner.TV.es
+warner;Warner.TV.es
+a3series;Atreseries.es
+starchannel;Star.Channel.es
+star;Mundo.es
+bbcdrama;AXN.es
+moriginales;M+.Originales.es
+mseries;M+.Originales.es
+seriesaccion;M+.Acción.es
+seriesanimacion;M+.Originales.es
+seriescienciaficcion;M+.Originales.es
+seriescomedia;M+.Comedia.es
+seriescrimen;M+.Drama.es
+seriesdocumental;M+.Documentales.es
+seriesdrama;M+.Drama.es
+seriesexitos1;M+.Hits.es
+seriesexitos2;M+.Hits.es
+seriesfamilia;M+.Comedia.es
+seriesguerra;M+.Acción.es
+seriesinfantil;Nick.Junior.es
+seriesleyendas1;M+.Clásicos.es
+seriesleyendas2;M+.Clásicos.es
+serieswestern;M+.Clásicos.es
+lacasadelasseries;M+.Originales.es
+elrincondelprofesor;Mundo.es
+mundo;Mundo.es
+
+# ============================================================
+# MUSICA
+# ============================================================
+mtvespana;MTV.España.es
+mtv;MTV.España.es
+mezzolive;Mezzo.Live.Español.es
+mezzo;Mezzo.Español.es
+classica;Stingray.Classica.es
+
+# ============================================================
+# CORRECCIONES FINALES (variantes reales de la fuente)
+# ============================================================
+iberalia100100caza;Iberalia.Caza.es
+iberalia100100cazas4k;Iberalia.Caza.es
+etbsatcanalvasco;ETB1.es
+
+# ============================================================
+# SIN CORRESPONDENCIA EN LA FUENTE (no existen como canal)
+# ============================================================
+# Disney + 1, Disney Junior Movies 1/2, 24/7 Masha, 24/7 Bombero Sam,
+# 101 PLAY, C. TORREVISION, PTV MALAGA, CANAL MALAGA, 101TV, MUNDO,
+# NTN24, INTERECONOMIA, LANCELOT TV, RTV VIDA, TV NACIONAL 1/3/4/5/6,
+# DAZN EVENTOS 1-10  -> canales propios del proveedor, sin guia publica.
+# ============================================================
+esport3cat;Esport.3.es
+onetoro;OneToro.TV.es
+eltorotv;El.Toro.TV.es
+torole;Torolé.es
+canalcocina;Decasa.es
