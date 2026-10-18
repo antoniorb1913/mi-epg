@@ -1,0 +1,291 @@
+REVISION DE EMPAREJAMIENTOS
+============================================================================================
+
+Comprueba en TiviMate que el programa que sale coincide con lo que estas viendo.
+Si NO coincide, dime el numero y el nombre real del canal.
+
+#    TU CANAL                 LO QUE YO LE ASIGNE        1er PROGRAMA                    
+--------------------------------------------------------------------------------------------
+1    DISNEY CH HD             Disney Channel             La casa de Mickey Mouse+ T1...  
+2    CLAN TVE                 Clan                       Peppa Pig T10 E2 · Juegos c...  
+3    BOING                    Boing                      El valiente príncipe Ivando...  
+4    NICKELODEON              Nickelodeon HD             Los Pitufos T3 E2 · Mira có...  
+5    NICK JR                  Nick JR                    La Patrulla Canina T5 E12 ·...  
+6    ENFAMILIA                En Familia (Rakuten TV)    Los Cachorros De Buddy          
+7    BABY TV                  Baby TV                    La Pequeña Pandilla             
+8    DreamWorks               Dreamworks HD              Dragones al rescate T1 E26 ...  
+9    MTV ESPANA               MTV España                 Vergüenza Ajena T43 · Sterl...  
+10   MEZZO LIVE HD            Mezzo Live HD              Joey Alexander Trio · Fonda...  
+11   Classica                 Stingray Classica          Misha Fomin en el Concertge...  
+12   LA 1 HD                  La 1 HD                    Noticias 24H                    
+13   LA 2 HD                  La 2                       La 2 express                    
+14   ANTENA 3 HD              Antena 3 HD                Pazy: Que te recuerden como...  
+15   CUATRO HD                Cuatro HD                  Love Shopping TV Cuatro         
+16   TELECINCO HD             Telecinco HD               Enphorma                        
+17   LA SEXTA HD              La Sexta HD                Equipo de investigación         
+18   TV3 HD                   TV3                        Notícies 3CatInfo               
+19   TV3 Cat HD               TV3CAT Catalunya           Marcians - Qui carda la llana   
+20   EXTREMADURA              Canal Extremadura          El chapuzón                     
+21   NOVA                     Nova                       Joyas TV                        
+22   NEOX                     Neox                       Neox Kidz T2023                 
+23   ARAGON TV INT            Aragón TV                  20 años de Vaquillas en el ...  
+24   CANAL SUR HD             Canal Sur HD               ConCiencia                      
+25   CANAL SUR 2 HD           Canal.Sur.2.es             Andalucía a dedo                
+26   7TV MALAGA HD            7TV.Andalucía.es           Cádiz suena bien                
+27   AndaluciaTV              Andalucía TV               Canal Andalucía Turismo         
+28   BOM                      BOM Cine                   Acariciando la muerte           
+29   TRECE                    TRECE                      El lado bueno de las cosas      
+30   mega                     Mega                       Vidas anónimas                  
+31   DMAX                     DMAX                       ¿Cómo lo hacen? Mundo anima...  
+32   atreseries HD            Atreseries                 Allí abajo T3 E3 · Cerrado ...  
+33   DKISS                    DKISS                      Maestros de la restauración...  
+34   TEN                      Ten                        Venganza: millonarios asesi...  
+35   BeMad tv HD              Be Mad                     Be Mad                          
+36   PARAMOUNT NETWORK        Paramount.Network.es       -                               
+37   SOMOS                    Somos                      Epílogo                         
+38   ONDA CADIZ               Onda Cádiz TV              Saludablemente                  
+39   SOLIDARIA TV             Solidaria TV España        Concierto Clásico               
+40   ETB1                     etb1                       Mihiluze                        
+41   ETB2                     etb2                       Momentos de Historias a Boc...  
+42   TVG HD                   TVG                        Era visto!                      
+43   TVG 2                    TVG2                       Como galegos!                   
+44   XTRM                     XTRM                       Vigilantes T1 E2                
+45   M+ LaLigaTVHD            M+.LALIGA.TV.UHD.es        M+ LALIGA HDR                   
+46   M+ LaLigaTV              M+ LaLiga HD               Informe Plus+. Laurie Cunni...  
+47   M+ LaLigaTV 2 HD         M+ LaLiga 2 HD             M+ LALIGA 2                     
+48   M+ LaLigaTV 3 HD         M+ LaLiga 3 HD             M+ LALIGA 3                     
+49   DAZN LALIGA HD           DAZN LaLiga HD             DAZN LaLiga                     
+50   DAZN LALIGA HD 235       DAZN.LALIGA.2.es           DAZN LaLiga 2                   
+51   DAZN LALIGA 2 HD         DAZN LaLiga 2 HD           DAZN LaLiga 2                   
+52   DAZN MOTO GP FULL HD     DAZN MotoGP                DAZN MotoGP                     
+53   DAZN F1 HD               DAZN F1 HD                 Mundial de Fórmula 1 T2023 ...  
+54   DAZN 1 HD                DAZN 1 HD                  Disfruta de DAZN en Movista...  
+55   DAZN 2 HD                DAZN 2 HD                  Disfruta de DAZN en Movista...  
+56   DAZN 3 HD                DAZN 3 HD                  Disfruta de DAZN en Movista...  
+57   DAZN 4 HD                DAZN 4 HD                  Disfruta de DAZN en Movista...  
+58   UEFA Champions League    M+ Liga de Campeones HD    UEFA Conference League T26/...  
+59   M+ LCAMPEONES 2 HD       M+ Liga de Campeones 2 HD  M+ Liga de Campeones 2          
+60   M+ LCAMPEONES 3 HD       M+ Liga de Campeones 3 HD  M+ Liga de Campeones 3          
+61   M+ LCAMPEONES 4          M+ Liga de Campeones 4     M+ Liga de Campeones 4          
+62   M+ LCAMPEONES 5          M+ Liga de Campeones 5     M+ Liga de Campeones 5          
+63   M+LCAMPEON6              M+ Liga de Campeones 6     M+ Liga de Campeones 6          
+64   M+LCAMPEON7              M+ Liga de Campeones 7     M+ Liga de Campeones 7          
+65   M+LCAMPEON8              M+ Liga de Campeones 8     M+ Liga de Campeones 8          
+66   M+LCAMPEON9              M+ Liga de Campeones 9     M+ Liga de Campeones 9          
+67   M+LCAMPEON10             M+ Liga de Campeones 10    M+ Liga de Campeones 10         
+68   M+LCAMPEON11             M+ Liga de Campeones 11    M+ Liga de Campeones 11         
+69   M+LCAMPEON12             M+ Liga de Campeones 12    M+ Liga de Campeones 12         
+70   M+LCAMPEON13             M+ Liga de Campeones 13    M+ Liga de Campeones 13         
+71   Movistar Plus+ HD        Movistar Plus HD           Rave Culture                    
+72   LALIGA TV HYPERMOTION    LALIGA.TV.HYPERMOTION.es   LALIGA HYPERMOTION: Real So...  
+73   LALIGA TV HYPERMOTION 2  LALIGA.TV.HYPERMOTION.2.es Próximo partido: Valladolid...  
+74   LALIGA TV HYPERMOTION 3  LALIGA.TV.HYPERMOTION.3.es LALIGA TV HYPERMOTION 3         
+75   LALIGA INSIDE (PLUS)     LALIGA.Inside.es           -                               
+76   PRIMERA FEDERACION       Primera.Federación.es      Primera Federación Versus E...  
+77   M+Baloncesto             M+ Baloncesto              M+ Baloncesto                   
+78   M+Baloncesto2            M+ Baloncesto 2            M+ Baloncesto                   
+79   DAZNBaloncesto           DAZN Baloncesto            DAZN Baloncesto                 
+80   DAZNBaloncesto2          DAZN Baloncesto 2          DAZN Baloncesto 2               
+81   DAZNBaloncesto3          DAZN Baloncesto 3          DAZN Baloncesto 3               
+82   EUROSPORT 1 HD           Eurosport 1 HD             Abierto de Gran Bretaña de ...  
+83   EUROSPORT2HD             Eurosport.2.es             Abierto de Shenzhen de snooker  
+84   EUROSPORT 2              Eurosport 2                Eneco Tour M T2026 · Etapa ...  
+85   BBC TOP GEAR             BBC Top Gear               Top Gear T2 E4                  
+86   M+ VAMOS HD              M+ Vamos HD                Lamine Yamal. Revolución 304    
+87   M+ VAMOS 2 HD            M+ Vamos 2                 Rugby Test Matches Internat...  
+88   M+ VAMOS 3 HD            M+ Vamos 3                 Serena Williams: La torment...  
+89   M+ DEPORTESHD            M+.Deportes.es             Premier Padel. Milán: Triay...  
+90   M+ DEPORTES2HD           M+.Deportes.2.es           Torneo de Shanghai: Zverev ...  
+91   M+ DEPORTES3             M+ Deportes 3              M+ Deportes 3                   
+92   M+ DEPORTES4             M+ Deportes 4              M+ Deportes 4                   
+93   M+ DEPORTES5             M+ Deportes 5              M+ Deportes 5                   
+94   M+ DEPORTES6             M+ Deportes 6              M+ Deportes 6                   
+95   GOL PLAY                 GOL.PLAY.es                Superliga china                 
+96   TELE MADRID              Telemadrid                 Deportes fin de semana          
+97   Real Madrid TV HD        Real Madrid TV             UEFA Champions League T26/2...  
+98   CASTILLA LA MANCHA       CMM TV                     Un paseo por las nubes          
+99   TELEDEPORTE HD           Teledeporte                Resúmenes LALIGA EA Sports ...  
+100  M+ GOLF HD               M+ Golf HD                 Lara Academy T5 · Hoy estam...  
+101  M+ GOLF 2 HD             M+ Golf 2 HD               M+ Golf 2                       
+102  TOP BARÇA HD             Top Barça                  All the goals T202526 E30       
+103  ESPORT3 CAT HD           Esport3 Catalunya          3CatInfo Esports                
+104  RED BULL TV              Red Bull TV                EN VIVO: Red Bull Batalla F...  
+105  A3CINE HD                A3CINE.es                  El Día De Los Enamorados        
+106  DARK                     DARK                       Inside Sitges 2025: Dark Ci...  
+107  M+ CERO                  M+ Cero                    Poquita fe T2 E1                
+108  M+ Estrenos HD           M+ Estrenos HD             Emboscada a Matt Helm           
+109  M+ Indie HD              M+ Indie HD                Ellas en la ciudad              
+110  M+ ACCION HD             M+ Acción HD               Hunter                          
+111  M+ ACCION 2 HD           M+.Acción.es               Tom Cruise, de oficio estrella  
+112  M+ COMEDIA HD            M+ Comedia HD              Los otros dos                   
+113  M+ DRAMA HD              M+ Drama HD                Joker                           
+114  M+ DRAMA 2 HD            M+.Drama.es                El reino de los cielos          
+115  M+ Cine Español          M+ Cine Español            8 citas                         
+116  M+ CLASICOS HD           M+ Clásicos HD             El espejo roto                  
+117  M+ TERROR                M+ Terror                  Drácula                         
+118  HOLLYWOOD                Canal Hollywood HD         Godzilla: Rey de los monstruos  
+119  TCM                      TCM HD                     Entrevistas TCM T1 · Albert...  
+120  SkyShowtime 1            SkyShowtime.1.es           Douglas Is Cancelled            
+121  SkyShowtime 2            SkyShowtime.es             Donde reside el amor            
+122  M+ Originales HD         M+ Originales HD           Hierro T1 E8                    
+123  STAR Channel             STAR Channel HD            Bones T8 E14 · La muñeca en...  
+124  AMC HD                   AMC HD                     Negocios con resaca             
+125  AMC BREAK                AMC Break                  Mountain Men T14 E12            
+126  AMC CRIME                AMC Crime                  Una historia de crímenes T1 E6  
+127  AMC WESTERN              AMC Western                Chisum                          
+128  AXN HD                   AXN HD                     Atómica                         
+129  AXN MOVIES HD            AXN Movies HD              Close Up: Gwyneth Paltrow       
+130  SYFY                     SciFi HD                   Embrujadas T8 E13 · Inciden...  
+131  CALLE 13 HD              Calle 13 HD                Ley y orden T17 E3 · Dulce ...  
+132  WARNERTV                 Warner TV HD               Robot Chicken T8 E20 · Los ...  
+133  BBC DRAMA                BBC Series                 Los Mosqueteros T1 E9 · Cab...  
+134  COSMO                    Cosmo HD                   Panda T2 E4                     
+135  ENERGY                   Energy                     ¡Toma Salami!: La tv que no...  
+136  FDF                      Factoría de Ficción        Miramimúsica                    
+137  El Toro TV HD            El Toro TV                 Mañanas en libertad             
+138  ONETORO HD               Onetoro                    Don Máximo García Padrós. A...  
+139  COMEDYCENTRAL            Comedy Central HD          Central de Cómicos T8 · Jai...  
+140  CANAL COCINA             Canal Cocina               Las hermanas pasteleras T1 E13  
+141  BBC FOOD                 BBC Food                   La cocina de Rachel Khoo: L...  
+142  SUNDANCE TV              Sundance.TV.es             Querido intruso                 
+143  M+Documentales HD        M+ Documentales HD         Thom Browne: un diseñador n...  
+144  CANAL ODISEA             Odisea                     Inventos peligrosos T1 E2       
+145  NAT GEO                  National Geographic HD     Amsterdam Central 24/7 T2 ·...  
+146  NAT GEO WILD             Nat Geo Wild HD            Boteti: el río de la vida: ...  
+147  DISCOVERY                Discovery                  La fiebre del oro T11 · Rom...  
+148  HISTORIA                 Historia                   Alienígenas T14 E7              
+149  CANAL DECASA             Decasa.es                  Hoteles increíbles. La vida...  
+150  CAZAVISION               Cazavisión                 El jabalí T1 E4                 
+151  CAZAyPESCA HD            Caza y Pesca HD            Spinning en estuarios galle...  
+152  IBERALIA TV              Iberalia TV                Embarcados en dos tierras       
+153  IBERALIA 100/100 CAZA 4K Iberalia caza              Burdur la caza nocturna con...  
+154  IBERALIA PESCA 4K        Iberalia pesca             Pesca A Stalking                
+155  BBC HISTORY              BBC History                Historia de la ciencia: ¿Qu...  
+
+============================================================================================
+CANALES SIN GUIA (no se pueden poner)
+============================================================================================
+
+  - ### SUP MOVIES ###
+  - 101 PLAY
+  - 101TV HD
+  - 24/7 El Bombero Sam
+  - 24/7 Masha y el Oso
+  - Apple TV+ 1
+  - Apple TV+ 2
+  - C. TORREVISION HD
+  - CANAL CANARIAS
+  - CANAL MALAGA HD
+  - CINE+ 1 HD
+  - CINE+ 2 HD
+  - Canal Alquiler HD 1
+  - Cine+ Al Pacino
+  - Cine+ Antonio Banderas
+  - Cine+ Arnold Schwarzenegger
+  - Cine+ Brad Pitt
+  - Cine+ Bruce Willis
+  - Cine+ Christian Bale
+  - Cine+ Denzel Washington
+  - Cine+ Dolph Lundgren
+  - Cine+ GUERRA
+  - Cine+ Jackie Chan
+  - Cine+ Jason Statham
+  - Cine+ John Travolta
+  - Cine+ Johnny Depp
+  - Cine+ Keanu Reeves
+  - Cine+ Kurt Russell
+  - Cine+ Leonardo DiCaprio
+  - Cine+ Matt Damon
+  - Cine+ Mel Gibson
+  - Cine+ Nicolas Cage
+  - Cine+ Richard Gere
+  - Cine+ Robert De Niro
+  - Cine+ Robert Downey Jr.
+  - Cine+ Russell Crowe
+  - Cine+ SAGA
+  - Cine+ Steven Seagal
+  - Cine+ Sylvester Stallone
+  - Cine+ Tom Cruise
+  - Cine+ Tom Hanks
+  - Cine+ Tom Hardy
+  - Cine+ Vin Diesel
+  - Cine+ Wesley Snipes
+  - Cine+ Will Smith
+  - DAZN EVENTOS 1
+  - DAZN EVENTOS 10
+  - DAZN EVENTOS 2
+  - DAZN EVENTOS 3
+  - DAZN EVENTOS 4
+  - DAZN EVENTOS 5
+  - DAZN EVENTOS 6
+  - DAZN EVENTOS 7
+  - DAZN EVENTOS 8
+  - DAZN EVENTOS 9
+  - DAZN RALLY TV
+  - DISCOVERY KIDS
+  - DISNEY JR
+  - Disney + 1
+  - Disney Junior Movies 1
+  - Disney Junior Movies 2
+  - ETB SAT CANAL VASCO
+  - El Rincón del Profesor
+  - HBO Max 1
+  - HBO Max 2
+  - HBO Max 3
+  - HBO Max 4
+  - HBO Max 5
+  - INTERECONOMIA
+  - LANCELOT TV
+  - La Casa de las Series
+  - M+ Cine HD
+  - M+ Cinesur 1
+  - M+ Ficcion 1 HD
+  - M+ Ficcion 2 HD
+  - M+ Ficcion Premium
+  - M+ Iberian Screen
+  - M+ LaLigaTVHD 235
+  - M+ Mission impossible
+  - M+ Navidad
+  - M+ Netflix 1
+  - M+ Netflix 2
+  - MOVISTAR CINE 1 HD
+  - MOVISTAR CINE 2 HD
+  - MOVISTAR CINE 3 HD
+  - MULTIDEPORTE
+  - MUNDO
+  - Marvel Studios 1
+  - Marvel Studios 2
+  - NTN24
+  - PTV MALAGA
+  - Prime Video 1
+  - Prime Video 2
+  - Procaja Tv1
+  - Procaja Tv2
+  - Procaja Tv3
+  - RTV VIDA
+  - Rakuten TV Family HD
+  - Rakuten TV Top 1 HD
+  - Rakuten TV Top 2 HD
+  - SERIES+ ACCION
+  - SERIES+ ANIMACION
+  - SERIES+ CIENCIA-FICCION
+  - SERIES+ COMEDIA
+  - SERIES+ CRIMEN
+  - SERIES+ DOCUMENTAL
+  - SERIES+ DRAMA
+  - SERIES+ FAMILIA
+  - SERIES+ GUERRA
+  - SERIES+ INFANTIL
+  - SERIES+ LEYENDAS 1
+  - SERIES+ LEYENDAS 2
+  - SERIES+ WESTERN ES
+  - SERIES+ ÉXITOS 1
+  - SERIES+ ÉXITOS 2
+  - STAR
+  - TV NACIONAL 1
+  - TV NACIONAL 3
+  - TV NACIONAL 4
+  - TV NACIONAL 5
+  - TV NACIONAL 6
+  - Trailer 2020
+  - UFC HD
