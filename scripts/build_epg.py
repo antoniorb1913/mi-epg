@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
 mi-epg — Generador propio de EPG en formato XMLTV.
 
@@ -440,7 +440,7 @@ def generar(grupos: dict, fuentes: list[str], salida: str, dias: int):
 
     with open(salida, "w", encoding="utf-8") as fh:
         fh.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-        fh.write('<tv generator-info-name="mi-epg" generator-info-url="">\n')
+        fh.write('<tv generator-info-name="mi-epg" generator-info-url="github.com/antoniorb1913/mi-epg">\n')
 
         for epg_id, grupo in grupos.items():
             fh.write(f'  <channel id="{escapar(epg_id)}">\n')
@@ -469,15 +469,16 @@ def generar(grupos: dict, fuentes: list[str], salida: str, dias: int):
                 if fin < desde or inicio > hasta:
                     continue
 
-                titulo = desc = categoria = ""
+                titulo = desc = ""
                 for hijo in prog:
                     if hijo.tag == "title" and not titulo:
                         titulo = (hijo.text or "").strip()
                     elif hijo.tag == "desc" and not desc:
                         desc = (hijo.text or "").strip()
-                    elif hijo.tag == "category" and not categoria:
-                        categoria = (hijo.text or "").strip()
 
+                # Solo <title> y <desc>, igual que el XMLTV de referencia que
+                # funciona en TiviMate. Sin <category>: no aporta nada a la guia
+                # y es un elemento mas que el parser tiene que tragar.
                 fh.write(
                     f'  <programme start="{_fmt(inicio)}" stop="{_fmt(fin)}" '
                     f'channel="{escapar(cid)}">\n'
@@ -485,8 +486,6 @@ def generar(grupos: dict, fuentes: list[str], salida: str, dias: int):
                 fh.write(f"    <title>{escapar(titulo)}</title>\n")
                 if desc:
                     fh.write(f"    <desc>{escapar(desc)}</desc>\n")
-                if categoria:
-                    fh.write(f"    <category>{escapar(categoria)}</category>\n")
                 fh.write("  </programme>\n")
                 escritos += 1
 
@@ -638,3 +637,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+

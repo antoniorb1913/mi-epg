@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="mi-epg" generator-info-url="">
+<tv generator-info-name="mi-epg" generator-info-url="github.com/antoniorb1913/mi-epg">
   <channel id="Disney Channel">
     <display-name>DISNEY CH HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" />
@@ -986,284 +986,221 @@
   <programme start="20261021105500 +0000" stop="20261022100000 +0000" channel="A3CINE.es">
     <title>Infocomerciales</title>
   </programme>
-  <programme start="20261017143000 +0000" stop="20261017153500 +0000" channel="Canal.Sur.2.es">
-    <title>Canal Sur Noticias 1 Fin de semana</title>
-    <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Fernando García Mena y Patricia Lupiáñez. Incluye Deportes y El Tiempo.</desc>
-    <category>Noticias</category>
-  </programme>
   <programme start="20261017153500 +0000" stop="20261017170500 +0000" channel="Canal.Sur.2.es">
     <title>La llamaban La Madrina</title>
     <desc>Trini, dotada por de unas excepcionales cualidades en el difícil arte de reventar cajas fuertes, decidió hace ya tiempo convertirse en amante de la ley, renunciando a su virtuosismo y hasta mudándose de barrio. En esta nueva vida, incluso se colocó de cajera en un supermercado y se echó un novio estudiante de leyes. Pero estas dos ironías no impidieron que un día la policía solicitara los servicios de Trini para algo más sofisticado.Una de tantas comedias escritas y dirigidas por el inefable Mariano Ozores hijo a principios de los años 70. Con Lina Morgan y Antonio Ozores como protagonistas del invento, ''La llamaban la madrina'' es una parodia conjunta de ''Le llamaban Trinidad'' y ''El padrino'', dos de los filmes que triunfaban en las taquillas de aquellos momentos. Pese a parecerse a otras cintas de este tipo, la película contó con un presupuesto más holgado, algo que se notó en la factura final.''La llamaban la madrina'' fue un éxito en las taquillas españolas, puesto que más de un millón de espectadores acudieron a las salas.</desc>
-    <category>Comedia</category>
   </programme>
   <programme start="20261017170500 +0000" stop="20261017173000 +0000" channel="Canal.Sur.2.es">
     <title>Toros</title>
     <desc>Retransmisión de la corrida de toros.</desc>
-    <category>Otros deportes</category>
   </programme>
   <programme start="20261017173000 +0000" stop="20261017193000 +0000" channel="Canal.Sur.2.es">
     <title>Toros</title>
     <desc>La mejores corridas de toros de la temporada, las puedes ver con Castilla-La Mancha Media.</desc>
-    <category>Toros</category>
   </programme>
   <programme start="20261017193000 +0000" stop="20261017203000 +0000" channel="Canal.Sur.2.es">
     <title>Toros para todos</title>
     <desc>Espacio de Canal Sur que pretende acercar la fiesta taurina tanto a aficionados como a no aficionados. Para ello, el espacio muestra la técnica del toreo, entrevista a primeras figuras de este arte y relata todo lo que sucede en los cosos taurinos más importantes.</desc>
-    <category>Otros deportes</category>
   </programme>
   <programme start="20261017203000 +0000" stop="20261017212500 +0000" channel="Canal.Sur.2.es">
     <title>Canal Sur Noticias 1 Fin de semana</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Fernando García Mena y Patricia Lupiáñez. Incluye Deportes y El Tiempo.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261017212500 +0000" stop="20261017215500 +0000" channel="Canal.Sur.2.es">
     <title>Los Reporteros</title>
     <desc>Informativo que incluye reportajes de actualidad. Los temas tratados abarcan el ámbito local, nacional e internacional y destacan los contenidos de denuncia social. En cada programa se emiten tres reportajes, y, anualmente, se realizan alrededor de cuatro monográficos.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261017215500 +0000" stop="20261017234500 +0000" channel="Canal.Sur.2.es">
     <title>La Gran Audición</title>
     <desc>Un talent show dedicado al teatro musical. 24 concursantes entrarán en La Factoría. Su desafío: dominar las tres grandes disciplinas: canto, baile y actuación.</desc>
-    <category>Programas</category>
   </programme>
   <programme start="20261017234500 +0000" stop="20261018020000 +0000" channel="Canal.Sur.2.es">
     <title>Castings La Gran Audición</title>
     <desc>Especial dedicado al proceso de casting, que repasará los mejores momentos de los aspirantes y el 17 de octubre llegará la primera gala con los 24 aspirantes seleccionados, que comenzarán a demostrar su talento sobre el escenario.</desc>
-    <category>Programas</category>
   </programme>
   <programme start="20261018020000 +0000" stop="20261018040000 +0000" channel="Canal.Sur.2.es">
     <title>Maldita venganza</title>
     <desc>La cinta cuenta la historia de José, un sencillo carnicero de pueblo, que sufre las humillaciones de su despótico jefe y el desprecio de su mujer e hija. No obstante, José guarda celosamente un secreto que le permite sobrellevar su triste y rutinaria existencia sin levantar sospechas entre los suyos. Cuando su frágil equilibrio se rompe, se ve obligado a huir y comenzar una desquiciada aventura sin vuelta atrás.</desc>
-    <category>Acción</category>
   </programme>
   <programme start="20261018040000 +0000" stop="20261018051500 +0000" channel="Canal.Sur.2.es">
     <title>Lo Flamenco</title>
     <desc>Espacio que recupera actuaciones de artistas flamencos del archivo audiovisual de Canal Sur.</desc>
-    <category>Magazines</category>
   </programme>
   <programme start="20261018051500 +0000" stop="20261018055500 +0000" channel="Canal.Sur.2.es">
     <title>Salud al día</title>
     <desc>Programa semanal presentado por Roberto Sánchez dedicado a la salud. Ofrece un informe con los asuntos que más preocupan a los ciudadanos, reportajes en la calle, testimonios que explican sus experiencias y consejos semanales para la vida cotidiana.</desc>
-    <category>Salud y belleza</category>
   </programme>
   <programme start="20261018055500 +0000" stop="20261018072000 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía por el mundo</title>
     <desc>El programa recoge el testigo de ''Andaluces X su casa'' y ''Andaluces X América'' para comprobar cómo viven los andaluces alrededor del mundo.</desc>
-    <category>Sociológicos</category>
   </programme>
   <programme start="20261018072000 +0000" stop="20261018075000 +0000" channel="Canal.Sur.2.es">
     <title>ConCiencia</title>
     <desc>Espacio divulgativo que pretenden mostrar, explicar, educar, entretener, y fomentar las vocaciones científicas.</desc>
-    <category>Ciencia y tecnología</category>
   </programme>
   <programme start="20261018075000 +0000" stop="20261018080500 +0000" channel="Canal.Sur.2.es">
     <title>Pan del cielo</title>
     <desc>''Pan del Cielo'' es el programa institucional que las iglesias Evangélicas de Andalucía disponen en Canal Sur Televisión.</desc>
-    <category>Magazines</category>
   </programme>
   <programme start="20261018080500 +0000" stop="20261018083000 +0000" channel="Canal.Sur.2.es">
     <title>Testigos Hoy</title>
     <desc>Programa religioso que muestra la realidad de la Iglesia católica en Andalucía a través de entrevistas y reportajes, atento a la actualidad desde la perspectiva del humanismo cristiano. Presentadora y coeditora: Susana Herrera.</desc>
-    <category>Magazines</category>
   </programme>
   <programme start="20261018083000 +0000" stop="20261018090000 +0000" channel="Canal.Sur.2.es">
     <title>Parlamento</title>
     <desc>Espacio semanal que acerca el Parlamento a los ciudadanos mediante la divulgación de las decisiones y tareas de los parlamentarios.</desc>
-    <category>Política</category>
   </programme>
   <programme start="20261018090000 +0000" stop="20261018110000 +0000" channel="Canal.Sur.2.es">
     <title>Espacio Protegido</title>
     <desc>Informativo sobre medio ambiente que incluye noticias y reportajes sobre ecología y naturaleza en Andalucía. No sólo tienen cabida informaciones sobre espacios naturales y animales, sino también los problemas ambientales de las ciudades y los hábitos de consumo.</desc>
-    <category>Medio ambiente</category>
   </programme>
   <programme start="20261018110000 +0000" stop="20261018131500 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía por el mundo</title>
     <desc>El programa recoge el testigo de ''Andaluces X su casa'' y ''Andaluces X América'' para comprobar cómo viven los andaluces alrededor del mundo.</desc>
-    <category>Sociológicos</category>
   </programme>
   <programme start="20261018131500 +0000" stop="20261018143000 +0000" channel="Canal.Sur.2.es">
     <title>Toros para todos</title>
     <desc>Espacio de Canal Sur que pretende acercar la fiesta taurina tanto a aficionados como a no aficionados. Para ello, el espacio muestra la técnica del toreo, entrevista a primeras figuras de este arte y relata todo lo que sucede en los cosos taurinos más importantes.</desc>
-    <category>Otros deportes</category>
   </programme>
   <programme start="20261018143000 +0000" stop="20261018152000 +0000" channel="Canal.Sur.2.es">
     <title>Canal Sur Noticias 1 Fin de semana</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Fernando García Mena y Patricia Lupiáñez. Incluye Deportes y El Tiempo.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261018152000 +0000" stop="20261018172000 +0000" channel="Canal.Sur.2.es">
     <title>Cotolay</title>
     <desc>Tres frailes han llegado, después de larga peregrinación, a Compostela. Acabado el viaje, están sin dinero ni comida. Un niño, Cotolay, se ocupa de ellos. Les lleva al bosque de su abuelo para que se unan a los demás leñadores. Uno de los frailes, Francisco de Asís, decide fundar allí un convento. También el pequeño Cotolay le ayudará a conseguirlo.Una de tantas vidas de santos que produjo la cinematografía española durante el franquismo. Este ejemplo tardío, estrenado durante la segunda mitad de la década de 1960, se basa en la figura de San Francisco de Asís como referente. Sin embargo, la visión que toma es la de un niño, que conoce al santo y le ayuda a fundar su orden. Dirigida por José Antonio Nieves Conde, ''Cotolay'' no obtuvo, pese a ello, el éxito que hubiera tenido durante los 50.</desc>
-    <category>Drama</category>
   </programme>
   <programme start="20261018172000 +0000" stop="20261018192000 +0000" channel="Canal.Sur.2.es">
     <title>La reina del Chantecler</title>
     <desc>En 1916, la Primera Guerra Mundial devasta el continente y gran cantidad de extranjeros acuden a Madrid. Refugiados, espías y vividores se dan cita en el teatro Chantecler donde ''La Bella Charito'' es la atracción principal. Charito está enamorada de Federico, vividor y beneficiario de la fama de la 'Reina del Chantecler'. Entre tanto, el servicio secreto francés contrata los servicios de Federico para capturar a Mata-Hari, que se encuentra en Madrid huyendo de las autoridades francesas. El destino de Charito se verá envuelto en una complicada trama de amor, engaño, guerra, espionaje y drama.</desc>
-    <category>Drama</category>
   </programme>
   <programme start="20261018192000 +0000" stop="20261018213000 +0000" channel="Canal.Sur.2.es">
     <title>Tierra de Sabores</title>
     <desc>El espacio presentado por el joven cocinero Bosco Benitez descubrirá la esencia de los pueblos de Andalucía, a través de sus recetas de toda la vida.</desc>
-    <category>Cocina</category>
   </programme>
   <programme start="20261018213000 +0000" stop="20261018223000 +0000" channel="Canal.Sur.2.es">
     <title>Canal Sur Noticias 1 Fin de semana</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Fernando García Mena y Patricia Lupiáñez. Incluye Deportes y El Tiempo.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261018223000 +0000" stop="20261019010000 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía por el mundo</title>
     <desc>El programa recoge el testigo de ''Andaluces X su casa'' y ''Andaluces X América'' para comprobar cómo viven los andaluces alrededor del mundo.</desc>
-    <category>Sociológicos</category>
   </programme>
   <programme start="20261019010000 +0000" stop="20261019023000 +0000" channel="Canal.Sur.2.es">
     <title>Gol a gol</title>
     <desc>El programa es uno de los espacios de información deportiva más longevos de Canal Sur Televisión. Lo más destacado del fútbol andaluz encuentra cabida en este espacio presentado por Ángel Acien.</desc>
-    <category>Otros deportes</category>
   </programme>
   <programme start="20261019023000 +0000" stop="20261019034000 +0000" channel="Canal.Sur.2.es">
     <title>Lo Flamenco</title>
     <desc>Espacio que recupera actuaciones de artistas flamencos del archivo audiovisual de Canal Sur.</desc>
-    <category>Magazines</category>
   </programme>
   <programme start="20261019034000 +0000" stop="20261019073000 +0000" channel="Canal.Sur.2.es">
     <title>ConCiencia</title>
     <desc>Espacio divulgativo que pretenden mostrar, explicar, educar, entretener, y fomentar las vocaciones científicas.</desc>
-    <category>Ciencia y tecnología</category>
   </programme>
   <programme start="20261019073000 +0000" stop="20261019080000 +0000" channel="Canal.Sur.2.es">
     <title>Tierra y mar</title>
     <desc>Programa informativo que ofrece reportajes, noticias y crónicas sobre la actualidad del sector primario de Andalucía. Todas las semanas las cámaras dl programa se acercan a la actualidad de la agricultura, la pesca y la ganadería andaluzas.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261019080000 +0000" stop="20261019082500 +0000" channel="Canal.Sur.2.es">
     <title>Buenos días</title>
     <desc>Edición matinal, de lunes a viernes, con un primer repaso, rápido y exhaustivo, de la actualidad del día.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261019082500 +0000" stop="20261019093000 +0000" channel="Canal.Sur.2.es">
     <title>Despierta Andalucía</title>
     <desc>Informativo matinal, que viene a sustituir al ya clásico ''Buenos días'', pensando para que los andaluces cuenten a primera hora con todas las claves informativas del día sobre lo que ocurre en Andalucía, España y el mundo.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261019093000 +0000" stop="20261019122500 +0000" channel="Canal.Sur.2.es">
     <title>Hoy en día con Toñi Moreno</title>
     <desc>Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261019122500 +0000" stop="20261019135500 +0000" channel="Canal.Sur.2.es">
     <title>Hoy en día mesa de análisis</title>
     <desc>Programa capitaneado por Teodoro León Gross que nos acerca a diario la actualidad política y social andaluza.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261019135500 +0000" stop="20261019143000 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía Mediodía</title>
     <desc>Conducido por Silvia Sanz y Fernando Díaz de la Guardia, recoge las noticias más cercanas y abre una ventana a la información de cercanía desde las diferentes provincias.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261019143000 +0000" stop="20261019153000 +0000" channel="Canal.Sur.2.es">
     <title>Canal Sur Noticias</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Victoria Romero y Álvaro Moreno de la Santa. Incluye Deportes y el Tiempo.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261019153000 +0000" stop="20261019195000 +0000" channel="Canal.Sur.2.es">
     <title>La tarde, aquí y ahora</title>
     <desc>El popular presentador Juan y Medio es el encargado de conducir un programa reforzado en la parrilla de Canal Sur en duración y contenidos, que combina entretenimiento, actualidad y música con el protagonismo del testimonio de personas que buscan acabar con su soledad.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261019195000 +0000" stop="20261019203000 +0000" channel="Canal.Sur.2.es">
     <title>Cómetelo</title>
     <desc>''Cómetelo'' es un programa de cocina para toda la familia en el que cada día nuestro chef Enrique Sánchez, al que le avala una dilatada experiencia profesional, nos propone una receta original y de fácil elaboración con productos cien por cien andaluces.</desc>
-    <category>Cocina</category>
   </programme>
   <programme start="20261019203000 +0000" stop="20261019215500 +0000" channel="Canal.Sur.2.es">
     <title>Canal Sur Noticias</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Victoria Romero y Álvaro Moreno de la Santa. Incluye Deportes y el Tiempo.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261019215500 +0000" stop="20261019224500 +0000" channel="Canal.Sur.2.es">
     <title>Atrápame si puedes</title>
     <desc>Programa concurso cultural sobre Andalucía que presenta Manolo Sarria en el que los concursante pueden ganar un suculento bote.</desc>
-    <category>Concursos</category>
   </programme>
   <programme start="20261019224500 +0000" stop="20261020040000 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía 360</title>
     <desc>Los hermanos Ana y Enrique Romero conducen este espacio que pone rostro, voz y emoción a las historias que laten en el corazón de nuestra tierra.</desc>
-    <category>Magazines</category>
   </programme>
   <programme start="20261020040000 +0000" stop="20261020044500 +0000" channel="Canal.Sur.2.es">
     <title>Lo Flamenco</title>
     <desc>Espacio que recupera actuaciones de artistas flamencos del archivo audiovisual de Canal Sur.</desc>
-    <category>Magazines</category>
   </programme>
   <programme start="20261020044500 +0000" stop="20261020050500 +0000" channel="Canal.Sur.2.es">
     <title>Cómetelo</title>
     <desc>''Cómetelo'' es un programa de cocina para toda la familia en el que cada día nuestro chef Enrique Sánchez, al que le avala una dilatada experiencia profesional, nos propone una receta original y de fácil elaboración con productos cien por cien andaluces.</desc>
-    <category>Cocina</category>
   </programme>
   <programme start="20261020050500 +0000" stop="20261020080000 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía por el mundo</title>
     <desc>El programa recoge el testigo de ''Andaluces X su casa'' y ''Andaluces X América'' para comprobar cómo viven los andaluces alrededor del mundo.</desc>
-    <category>Sociológicos</category>
   </programme>
   <programme start="20261020080000 +0000" stop="20261020082500 +0000" channel="Canal.Sur.2.es">
     <title>Buenos días</title>
     <desc>Edición matinal, de lunes a viernes, con un primer repaso, rápido y exhaustivo, de la actualidad del día.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261020082500 +0000" stop="20261020093000 +0000" channel="Canal.Sur.2.es">
     <title>Despierta Andalucía</title>
     <desc>Informativo matinal, que viene a sustituir al ya clásico ''Buenos días'', pensando para que los andaluces cuenten a primera hora con todas las claves informativas del día sobre lo que ocurre en Andalucía, España y el mundo.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261020093000 +0000" stop="20261020122500 +0000" channel="Canal.Sur.2.es">
     <title>Hoy en día con Toñi Moreno</title>
     <desc>Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261020122500 +0000" stop="20261020135500 +0000" channel="Canal.Sur.2.es">
     <title>Hoy en día mesa de análisis</title>
     <desc>Programa capitaneado por Teodoro León Gross que nos acerca a diario la actualidad política y social andaluza.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261020135500 +0000" stop="20261020143000 +0000" channel="Canal.Sur.2.es">
     <title>Andalucía Mediodía</title>
     <desc>Conducido por Silvia Sanz y Fernando Díaz de la Guardia, recoge las noticias más cercanas y abre una ventana a la información de cercanía desde las diferentes provincias.</desc>
-    <category>Actualidad</category>
   </programme>
   <programme start="20261020143000 +0000" stop="20261020153000 +0000" channel="Canal.Sur.2.es">
     <title>Canal Sur Noticias</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Victoria Romero y Álvaro Moreno de la Santa. Incluye Deportes y el Tiempo.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261020153000 +0000" stop="20261020195000 +0000" channel="Canal.Sur.2.es">
     <title>La tarde, aquí y ahora</title>
     <desc>El popular presentador Juan y Medio es el encargado de conducir un programa reforzado en la parrilla de Canal Sur en duración y contenidos, que combina entretenimiento, actualidad y música con el protagonismo del testimonio de personas que buscan acabar con su soledad.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261020195000 +0000" stop="20261020203000 +0000" channel="Canal.Sur.2.es">
     <title>Cómetelo</title>
     <desc>''Cómetelo'' es un programa de cocina para toda la familia en el que cada día nuestro chef Enrique Sánchez, al que le avala una dilatada experiencia profesional, nos propone una receta original y de fácil elaboración con productos cien por cien andaluces.</desc>
-    <category>Cocina</category>
   </programme>
   <programme start="20261020203000 +0000" stop="20261020215500 +0000" channel="Canal.Sur.2.es">
     <title>Canal Sur Noticias</title>
     <desc>Informativo general con especial atención a las noticias de Andalucía presentado por Victoria Romero y Álvaro Moreno de la Santa. Incluye Deportes y el Tiempo.</desc>
-    <category>Noticias</category>
   </programme>
   <programme start="20261020215500 +0000" stop="20261020224500 +0000" channel="Canal.Sur.2.es">
     <title>Atrápame si puedes</title>
     <desc>Programa concurso cultural sobre Andalucía que presenta Manolo Sarria en el que los concursante pueden ganar un suculento bote.</desc>
-    <category>Concursos</category>
   </programme>
   <programme start="20261020224500 +0000" stop="20261021002500 +0000" channel="Canal.Sur.2.es">
     <title>Joy</title>
     <desc>Crónica del nacimiento en 1978 de Louise Joy Brown, la primera ''niña probeta'' del mundo, y los diez años de dificultosos esfuerzos que lo hicieron posible.</desc>
-    <category>Drama</category>
-  </programme>
-  <programme start="20261017170000 +0200" stop="20261017173300 +0200" channel="Decasa.es">
-    <title>Castillos y palacios de Europa</title>
-    <desc>Exploramos el delirio arquitectónico de Luis II de Baviera a través del castillo de cuento de Neuschwanstein y el opulento palacio de Herrenchiemsee. Un viaje por la mente de un rey solitario que transformó su obsesión por Wagner y Versalles en monumentos de oro, espejos y trágicos misterios.</desc>
   </programme>
   <programme start="20261017173300 +0200" stop="20261017183300 +0200" channel="Decasa.es">
     <title>Reforma Integral</title>
@@ -2065,7 +2002,6 @@
   <programme start="20261018183000 +0200" stop="20261018203000 +0200" channel="LALIGA.TV.HYPERMOTION.2.es">
     <title>LALIGA HYPERMOTION: Real Valladolid CF - CD Eldense</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018203000 +0200" stop="20261019003000 +0200" channel="LALIGA.TV.HYPERMOTION.2.es">
     <title>Próximo partido: Girona - Celta Fortuna</title>
@@ -2196,52 +2132,42 @@
   <programme start="20261018080000 +0200" stop="20261018100000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Real Sociedad B - UD Almería</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018100000 +0200" stop="20261018120000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: UD Las Palmas - CD Castellón</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018120000 +0200" stop="20261018140000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Real Sporting - Albacete BP</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018140000 +0200" stop="20261018161500 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Ceuta FC - Real Oviedo</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018161500 +0200" stop="20261018183000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Granada CF - Cádiz CF</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018183000 +0200" stop="20261018203000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Girona FC - FC Andorra</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018203000 +0200" stop="20261018210000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>Previa LaLiga HyperMotion</title>
     <desc>Toda la información previa a los partidos que se van a disputar en la siguiente jornada de competición. Noticias, estadísticas, análisis y los datos necesarios para disfrutar más de los encuentros.</desc>
-    <category>Sin clasificar</category>
   </programme>
   <programme start="20261018210000 +0200" stop="20261018230000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Burgos - CE Sabadell</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261018230000 +0200" stop="20261018233000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>Post LaLiga HyperMotion</title>
     <desc>Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.</desc>
-    <category>Sin clasificar</category>
   </programme>
   <programme start="20261018233000 +0200" stop="20261019013000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Real Valladolid CF - CD Eldense</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019013000 +0200" stop="20261019053000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA TV HYPERMOTION</title>
@@ -2252,52 +2178,42 @@
   <programme start="20261019080000 +0200" stop="20261019100000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Ceuta FC - Real Oviedo</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019100000 +0200" stop="20261019120000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Granada CF - Cádiz CF</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019120000 +0200" stop="20261019140000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Girona FC - FC Andorra</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019140000 +0200" stop="20261019160000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: UD Las Palmas - CD Castellón</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019160000 +0200" stop="20261019180000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Real Valladolid CF - CD Eldense</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019180000 +0200" stop="20261019200000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Burgos - CE Sabadell</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019200000 +0200" stop="20261019203000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>Inside - El gran derbi</title>
     <desc>Un recorrido por la organización de El Gran Derbi de Sevilla y el impacto de la piratería audiovisual.</desc>
-    <category>Documentales</category>
   </programme>
   <programme start="20261019203000 +0200" stop="20261019223000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: RC Celta B - CD Tenerife</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019223000 +0200" stop="20261019230000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA VS</title>
     <desc>LALIGA VS es una plataforma de LALIGA cuya misión es erradicar el odio tanto dentro fuera de los estadios, visibilizando y condenando todas aquellas conductas que no tienen cabida en el fútbol. Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261019230000 +0200" stop="20261020010000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA HYPERMOTION: Granada CF - Cádiz CF</title>
     <desc>La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada. Sin duda, una competición con equipos de primera.</desc>
-    <category>Deportes</category>
   </programme>
   <programme start="20261020010000 +0200" stop="20261020050000 +0200" channel="LALIGA.TV.HYPERMOTION.es">
     <title>LALIGA TV HYPERMOTION</title>
@@ -2341,480 +2257,380 @@
   <programme start="20261017153700 +0200" stop="20261017175600 +0200" channel="M+.Acción.es">
     <title>Kingsman: El círculo de oro</title>
     <desc>Eggsy -convertido en el nuevo Galahad del ultrasecreto servicio de inteligencia británico independiente conocida como Kingsman- es atacado a la salida de la no menos ultrasecreta sede de la organización por Charlie Hesketh, un antiguo aspirante a Kingsman que finalmente fue rechazado. El hecho de no matar a Eggsy, a pesar de que el entrenamiento de Charlie se lo hubiera permitido, hace pensar a Merlín y al resto de los Kingsman que el ataque tenía otras intenciones.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261017175600 +0200" stop="20261017195200 +0200" channel="M+.Acción.es">
     <title>Operación U.N.C.L.E.</title>
     <desc>Berlín, 1963. El agente secreto estadounidense Napoleon Solo cruza a Berlín Oriental buscando a Gaby, la hija de un prestigioso científico alemán.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261017195200 +0200" stop="20261017220000 +0200" channel="M+.Acción.es">
     <title>Rey Arturo: La leyenda de Excalibur</title>
     <desc>Durante siglos, hombres y magos han convivido en paz. Ahora, la oscura ambición del hechicero Mordred amenaza el último bastión de los hombres, Camelot, hogar del rey Uther Pendragón, de su hermano Vortigern y de su pequeño hijo Arturo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261017220000 +0200" stop="20261018004100 +0200" channel="M+.Acción.es">
     <title>Una batalla tras otra</title>
     <desc>Ganadora de seis premios Oscar en 2026, incluyendo mejor película, dirección, actor de reparto y guion adaptado.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018004100 +0200" stop="20261018004800 +0200" channel="M+.Acción.es">
     <title>20 temporadas de Ilustres ignorantes</title>
     <desc>Invitados ilustres felicitan al programa por sus 20 temporadas.</desc>
-    <category>Entretenimiento</category>
   </programme>
   <programme start="20261018004800 +0200" stop="20261018023400 +0200" channel="M+.Acción.es">
     <title>Caza a la espía</title>
     <desc>Valerie Plame, una agente secreta del departamento contra la proliferación de armas nucleares de la CIA, descubre que, a diferencia de lo que muchos miembros del Gobierno estadounidense opinan, Irak no tiene ningún programa activo de armas nucleares. Mientras, a su marido, el diplomático Joe Wilson, lo envían a África para investigar los rumores sobre unas posibles ventas de uranio enriquecido a Irak. Tras descubrir que no se han producido tales ventas, Joe escribe un artículo en The New York Times en el que resume sus conclusiones, desatando así una acalorada polémica. Poco después, la identidad secreta de Valerie se filtra a notorios periodistas de Washington. ¿Se tratará de un desafortunado accidente o de una campaña coordinada contra su marido? Tras 18 años al servicio del Gobierno, con su identidad al descubierto y sus contactos en el exterior revelados, la carrera y la vida privada de Valerie empiezan a hacer agua.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018023400 +0200" stop="20261018042200 +0200" channel="M+.Acción.es">
     <title>Mirada asesina</title>
     <desc>Guy Pearce ("Memento") y Bill Pullman ("Mientras dormías") protagonizan este inesperado 'western' repleto de misterios y suspense.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018042200 +0200" stop="20261018060400 +0200" channel="M+.Acción.es">
     <title>Ghost in the Shell: El alma de la máquina</title>
     <desc>Tras un brutal accidente que hubiera acabado con su vida, Mayor es sometida a una ciberregeneración que la convierte en el soldado perfecto, consagrada a detener a los más peligrosos delincuentes.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018060400 +0200" stop="20261018080000 +0200" channel="M+.Acción.es">
     <title>Hunter</title>
     <desc>Un asesino en serie mata una familia cada vez que hay luna llena. La policía y el FBI no tienen ni una sola pista sobre este criminal así que recurren a Will Graham, un agente del FBI que capturó al mismísimo Doctor Hannibal Lecter, para que les ayude a investigar el caso.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018080000 +0200" stop="20261018094400 +0200" channel="M+.Acción.es">
     <title>Kiss Kiss, Bang Bang</title>
     <desc>Harry es un ladrón de poca monta que, junto a su socio, hace las "compras" navideñas en una tienda de juguetes de Nueva York hasta que la alarma de seguridad los delata. En su frenética huida de la policía, Harry acaba metiéndose sin querer en una audición para una película de detectives de Hollywood.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018094400 +0200" stop="20261018113900 +0200" channel="M+.Acción.es">
     <title>Demolition Man</title>
     <desc>En 1996, un criminal llamado Simon Phoenix se atrinchera con rehenes en un edificio de Los Ángeles. El sargento John Spartan, conocido como 'Demolition Man', consigue atraparlo tras un arriesgado ataque que acaba con la destrucción del inmueble y con todos los rehenes muertos. Por este motivo, ambos son condenados a ser congelados.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018113900 +0200" stop="20261018131700 +0200" channel="M+.Acción.es">
     <title>Johnny Mnemonic</title>
     <desc>Johnny, mejorado biológicamente con implantes de chips de silicona, es contratado por dos científicos para entregar una peligrosa información que ha sido robada a una importante industria.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018131700 +0200" stop="20261018150900 +0200" channel="M+.Acción.es">
     <title>El asesino</title>
     <desc>Jeffrey (Chow Yun-Fat), es un asesino a sueldo que en, la que se supone será, su última misión y durante un tiroteo, deja ciega de un disparo a Jenny (Sally Yeh). El accidente cambia los planes de Jeffrey, que decide aceptar, esta vez sí, un último encargo para pagar una operación de córnea a su víctima, de quien se enamora. Las circunstancias lo enfrentarán con el inspector Lee (Danny Lee), un policía obsesionado en atraparlo y que también está enamorado de Jenny. Los rivales se cruzarán varias veces y desarrollarán una suerte de fascinación y admiración mutua. Unen sus fuerzas para enfrentarse a una banda organizada de gánsteres. Se apodarán irónicamente Mickey Mouse y Dumbo, y lucharán juntos en una iglesia en una última secuencia de tiros contra multitudes de mafiosos.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018150900 +0200" stop="20261018173000 +0200" channel="M+.Acción.es">
     <title>Dos forajidos</title>
     <desc>Alec Baldwin ("La caza del octubre rojo") protagoniza este 'western' dirigido por Joel Souza ("Mientras la ciudad duerme") ambientado en el Oeste de 1880. La película sigue la huida de Harland Rust, un forajido que rescata a su joven nieto tras ser condenado a la horca por un asesinato accidental, y emprende con él una peligrosa fuga hacia la frontera.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018173000 +0200" stop="20261018174400 +0200" channel="M+.Acción.es">
     <title>Así se hizo 'Cronos': los testimonios reales</title>
     <desc>Disfruta de este contenido exclusivo de la película 'Cronos', ya en cines. Basada en testimonios reales de los diferentes implicados, la película narra el desarrollo de la operación Cronos, el dispositivo activado el 17 de agosto de 2017 como reacción al acto terrorista de las Ramblas. En este contenido exclusivo, podemos conocer los testimonios reales de los protagonistas de la operación Cronos junto a los actores que les interpretan.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018174400 +0200" stop="20261018193600 +0200" channel="M+.Acción.es">
     <title>Valor de ley</title>
     <desc>Tras el asesinato de su padre, una niña de 14 años llamada Mattie contrata al veterano comisario Rooster Cogburn para que haga justicia. Ambos persiguen al criminal hasta territorio indio con la colaboración del tejano LaBoeuf, quien también va detrás del fugitivo para llevarlo a juicio por otro homicidio.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018193600 +0200" stop="20261018220000 +0200" channel="M+.Acción.es">
     <title>The Shadow's Edge</title>
     <desc>Protagonizada por Jackie Chan como un detective retirado y Tony Leung Ka-Fai en el papel del astuto villano, esta emocionante historia combina acción, artes marciales y un duelo estratégico entre policías y criminales.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018220000 +0200" stop="20261018234200 +0200" channel="M+.Acción.es">
     <title>Ip Man: pelea final</title>
     <desc>Wing Chun se ve atraído hacia el peligroso y oscuro mundo de las Tríadas. Para defender su vida, deberá entrenar duro para pelear por última vez.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018234200 +0200" stop="20261018235700 +0200" channel="M+.Acción.es">
     <title>Así se hizo 'Cronos': los testimonios reales</title>
     <desc>Disfruta de este contenido exclusivo de la película 'Cronos', ya en cines. Basada en testimonios reales de los diferentes implicados, la película narra el desarrollo de la operación Cronos, el dispositivo activado el 17 de agosto de 2017 como reacción al acto terrorista de las Ramblas. En este contenido exclusivo, podemos conocer los testimonios reales de los protagonistas de la operación Cronos junto a los actores que les interpretan.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018235700 +0200" stop="20261019014500 +0200" channel="M+.Acción.es">
     <title>Master Z: el legado de Ip Man</title>
     <desc>Un experto en artes marciales, que en su día fue derrotado por Ip Man, se ve obligado a dejar su discreta vida para luchar contra una tríada china.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019014500 +0200" stop="20261019031000 +0200" channel="M+.Acción.es">
     <title>Infierno azul</title>
     <desc>Nancy es una joven que trata de superar la pérdida de su madre. Un día, practicando surf en una solitaria playa mexicana se queda atrapada en un islote a sólo cien metros de la costa. El problema está en que un enorme tiburón blanco se interpone entre ella y la otra orilla. La distancia es corta y escapar parece sencillo, pero alcanzar la salvación no resulta fácil con el enorme escualo vigilando a su presa. Por tanto, para salir de allí tendrá que armarse de valor y usar todos sus recursos.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019031000 +0200" stop="20261019043500 +0200" channel="M+.Acción.es">
     <title>Mentes en blanco</title>
     <desc>Un hombre se despierta lleno de golpes en un almacén cerrado. No recuerda ni cómo ha llegado hasta allí y ni siquiera sabe quién es. A su alrededor hay otros 4 hombres inconscientes que, a medida que van despertando, tampoco recuerdan su identidad ya que han sido envenenados con un producto químico que les ha hecho perder la memoria.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019043500 +0200" stop="20261019063000 +0200" channel="M+.Acción.es">
     <title>Memoria letal</title>
     <desc>Samantha Caine es una dulce maestra de escuela que padece amnesia. Cuando es atacada por un preso fugado, Samantha se defiende con unas habilidades que desconocía poseer. Intrigada, decide contratar a un detective privado para que la ayude a descubrir su pasado.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019063000 +0200" stop="20261019075900 +0200" channel="M+.Acción.es">
     <title>Emboscada</title>
     <desc>Con un elenco liderado por Colin Morgan, Aml Ameen, Mark Strong y Felicity Jones, esta película de acción nos sumerge en las tensas calles de Londres en los años 70. Inspirada en hechos reales y basada en el libro "The Road to Balcombe Street" de Steven P. Moysey, narra la historia de Michael O'Hara, un exparamilitar irlandés que, tras perder a su esposa embarazada en un trágico ataque, emprende una peligrosa misión de venganza.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019075900 +0200" stop="20261019093000 +0200" channel="M+.Acción.es">
     <title>Transporter</title>
     <desc>El exoperador de fuerzas especiales Frank Martin vive lo que parece ser una vida tranquila a orillas del Mediterráneo francés, donde presta sus servicios como transportador mercenario de bienes, ya sean humanos o de cualquier otro tipo. Sin preguntas de por medio, Frank se apega en sus peligrosas misiones a un estricto juego de reglas: primero, nunca cambia el trato; segundo, nada de nombres, mejor no saber para quién trabaja; y tercero, jamás mira qué es lo que transporta. El último encargo de Frank no parece ser muy diferente. Esta vez ha sido contratado por un estadounidense apodado 'Wall Street' para hacer una entrega. Pero cuando Frank se detiene en el trayecto, se percata de que su paquete se mueve. Incumpliendo la regla número tres, mira dentro de la bolsa y descubre que se trata de una hermosa mujer amordazada. A partir de ese momento, Frank olvida su código de supervivencia y comienza a creer que las reglas son para romperlas.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019093000 +0200" stop="20261019111200 +0200" channel="M+.Acción.es">
     <title>Fight or Flight</title>
     <desc>Josh Hartnett ("La trampa") interpreta a un sicario atrapado en un vuelo repleto de sicarios, turbulencias y violencia en este desternillante 'thriller' de acción al estilo de "Bullet Train".</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019111200 +0200" stop="20261019133800 +0200" channel="M+.Acción.es">
     <title>Origen</title>
     <desc>Dom Cobb es un ladrón hábil, el mejor de todos, un experto en el arte de apropiarse, durante el estado de sueño, de los secretos del subconsciente ajeno. Esta habilidad excepcional lo ha hecho subir su cotización en el traicionero mundo del espionaje corporativo, pero, al mismo tiempo, lo ha convertido en un fugitivo internacional y le ha obligado a sacrificar todo lo que le importaba. Ahora, a Cobb se le ofrece una oportunidad para redimirse, pero solamente si logra lo imposible: la tarea no consiste en robar una idea, sino en insertarla.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019133800 +0200" stop="20261019151700 +0200" channel="M+.Acción.es">
     <title>El hombre menguante</title>
     <desc>Basada en la novela homónima de Richard Matheson, "El hombre menguante" reimagina un clásico de la ciencia ficción con un enfoque moderno y reflexivo. En ella, Jean Dujardin ("The Artist") interpreta a Paul, un hombre cuya vida cambia radicalmente tras un fenómeno meteorológico inexplicable que reduce su tamaño de forma imparable.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019151700 +0200" stop="20261019172100 +0200" channel="M+.Acción.es">
     <title>El hombre invisible</title>
     <desc>Dos semanas después de haber conseguido escapar de su tóxica relación con el rico y brillante científico Adrian Griffin, Cecilia está convencida de que Adrian va a aparecer en cualquier momento... hasta que recibe una nota comunicándole el suicidio de su expareja.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019172100 +0200" stop="20261019193500 +0200" channel="M+.Acción.es">
     <title>Conspiración</title>
     <desc>Jerry Fletcher es un excéntrico taxista de Nueva York que vive atemorizado por un pasado que no puede recordar. Habla compulsivamente sobre extrañas conspiraciones que él piensa dominan el mundo y que se ocultan detrás de cualquier cosa. Las Naciones Unidas, la NASA, Oliver Stone, el agua, la política monetaria internacional..., nada ni nadie se libra de sus sospechas.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019193500 +0200" stop="20261019214900 +0200" channel="M+.Acción.es">
     <title>Corazones de acero</title>
     <desc>En abril de 1945, pocos meses antes del final de la Segunda Guerra Mundial, un reducido grupo de soldados aliados es enviado a una misión en terreno enemigo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019214900 +0200" stop="20261019220000 +0200" channel="M+.Acción.es">
     <title>El señor de las moscas</title>
     <desc>Nos adentramos en el rodaje de "El señor de las moscas" para conocer cómo abordaron sus creadores la adaptación de este clásico de la literatura.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019220000 +0200" stop="20261020000800 +0200" channel="M+.Acción.es">
     <title>Rey Arturo: La leyenda de Excalibur</title>
     <desc>Durante siglos, hombres y magos han convivido en paz. Ahora, la oscura ambición del hechicero Mordred amenaza el último bastión de los hombres, Camelot, hogar del rey Uther Pendragón, de su hermano Vortigern y de su pequeño hijo Arturo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020000800 +0200" stop="20261020021400 +0200" channel="M+.Acción.es">
     <title>Conan, el bárbaro</title>
     <desc>En una oscura época dominada por el poder de la espada y la brujería, los secuaces de Thulsa Doom, líder de un cruel ejército de guerreros que domina Aquilonia, entran en una aldea de Cimmeria asesinando a todos sus habitantes, excepto a los niños, que son hechos prisioneros. Uno de ellos, Conan, contempla con sus propios ojos como Thulsa Doom mata a sus padres.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020021400 +0200" stop="20261020043500 +0200" channel="M+.Acción.es">
     <title>Robin Hood, príncipe de los ladrones</title>
     <desc>Después de ser capturados por los turcos durante las Cruzadas, Robin, hijo de Lord Locksley, y Azeem, un guerrero musulmán al que Robin salva la vida, huyen a Inglaterra. Una vez allí, Robin se entera de que su padre ha sido asesinado por el malvado 'sheriff' de Nottingham, que además se ha apoderado de sus tierras. Incapaz de conseguir ayuda por parte de Lady Marian Dubois, Robin se dirige a los bosques y se une a una banda de ladrones liderada por Pequeño John.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020043500 +0200" stop="20261020044400 +0200" channel="M+.Acción.es">
     <title>El señor de las moscas</title>
     <desc>Nos adentramos en el rodaje de "El señor de las moscas" para conocer cómo abordaron sus creadores la adaptación de este clásico de la literatura.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020044400 +0200" stop="20261020065300 +0200" channel="M+.Acción.es">
     <title>Guillermo Tell</title>
     <desc>En esta aventura épica, Claes Bang ("The Square") se pone en la piel del popular héroe de la independencia suiza Guillermo Tell.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020065300 +0200" stop="20261020074500 +0200" channel="M+.Acción.es">
     <title>Tom Hanks: un héroe corriente</title>
     <desc>A lo largo de su carrera, Tom Hanks se ha hecho famoso por interpretar a personas normales que, cuando la vida las pone a prueba, terminan haciendo cosas extraordinarias.</desc>
-    <category>Documentales</category>
   </programme>
   <programme start="20261020074500 +0200" stop="20261020093800 +0200" channel="M+.Acción.es">
     <title>Baby Driver</title>
     <desc>Para saldar su deuda con un mafioso, un joven con problemas de audición hace de conductor en atracos. Cuando por fin cree que se ha librado de su compromiso y pretende rehacer su vida, es obligado a retornar para un último golpe.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020093800 +0200" stop="20261020112000 +0200" channel="M+.Acción.es">
     <title>En los límites de la realidad</title>
     <desc>Cuatro historias homenajean la famosa serie televisiva "Los límites de la realidad": en la primera, un hombre de negocios es transportado a otra realidad para experimentar la vida de tres víctimas diferentes de los prejuicios y la intolerancia; en la segunda, un grupo de ancianos ve cómo un recién llegado a la residencia hace que sus deseos se hagan realidad; en la tercera, una mujer recoge en su coche a un tímido muchacho con extraños poderes; y en la cuarta, un hombre con un miedo insoportable a volar pasa un momento terrible cuando entra en pánico y observa a una extraña criatura en el ala del avión junto al asiento de ventanilla que él ocupa.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020112000 +0200" stop="20261020125000 +0200" channel="M+.Acción.es">
     <title>Gretel &amp; Hansel</title>
     <desc>Gretel y Hansel viven en la miseria. Debido a la falta de alimentos y al terror que les produce su padrastro, ambos niños huyen de casa en busca de algo mejor. En el camino, coinciden con personas con malas intenciones hasta conocer a un cazador que les aconseja ir a la cabaña de Holda. Lo que Gretel y Hansel no pueden imaginar es que allí se enfrentarán a sus peores miedos si quieren sobrevivir.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020125000 +0200" stop="20261020145100 +0200" channel="M+.Acción.es">
     <title>Objetivo: Washington D.C.</title>
     <desc>Con David Gentry, director del Servicio Secreto, a punto de jubilarse, el agente Banning parece el candidato ideal para sustituirlo. Sin embargo, Banning, aunque físicamente muy mermado, preferiría seguir trabajando donde esté la acción.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020145100 +0200" stop="20261020173000 +0200" channel="M+.Acción.es">
     <title>Una batalla tras otra</title>
     <desc>Ganadora de seis premios Oscar en 2026, incluyendo mejor película, dirección, actor de reparto y guion adaptado.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020173000 +0200" stop="20261020191800 +0200" channel="M+.Acción.es">
     <title>Caza a la espía</title>
     <desc>Valerie Plame, una agente secreta del departamento contra la proliferación de armas nucleares de la CIA, descubre que, a diferencia de lo que muchos miembros del Gobierno estadounidense opinan, Irak no tiene ningún programa activo de armas nucleares. Mientras, a su marido, el diplomático Joe Wilson, lo envían a África para investigar los rumores sobre unas posibles ventas de uranio enriquecido a Irak. Tras descubrir que no se han producido tales ventas, Joe escribe un artículo en The New York Times en el que resume sus conclusiones, desatando así una acalorada polémica. Poco después, la identidad secreta de Valerie se filtra a notorios periodistas de Washington. ¿Se tratará de un desafortunado accidente o de una campaña coordinada contra su marido? Tras 18 años al servicio del Gobierno, con su identidad al descubierto y sus contactos en el exterior revelados, la carrera y la vida privada de Valerie empiezan a hacer agua.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020191800 +0200" stop="20261020215200 +0200" channel="M+.Acción.es">
     <title>F1 La Película</title>
     <desc>El director de "Top Gun: Maverick", Joseph Kosinski,traslada la exitosa fórmula de aquella cinta a "F1", protagonizada por Brad Pitt y ganadora del Oscar al mejor sonido en 2026.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020215200 +0200" stop="20261020220000 +0200" channel="M+.Acción.es">
     <title>El inmortal</title>
     <desc>El reparto y los directores de "El inmortal" indagan en las claves de la serie sobre el clan de Los Miami, el desarrollo de los personajes y el proceso de rodaje.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020220000 +0200" stop="20261021004000 +0200" channel="M+.Acción.es">
     <title>Resurrection</title>
     <desc>En un futuro en el que la humanidad ha renunciado a los sueños para conquistar la inmortalidad, una criatura conserva la capacidad de imaginar. Cuando una misteriosa mujer descubre que puede percibir sus ilusiones, se adentra en ellas y comienza un viaje a través de distintas épocas, géneros cinematográficos e identidades.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261021004000 +0200" stop="20261021022400 +0200" channel="M+.Acción.es">
     <title>Return to Silent Hill</title>
     <desc>"Return to Silent Hill" lleva al cine la historia de James Sunderland, un hombre que vuelve a Silent Hill después de recibir una carta de Mary, su amor perdido. Lo que encuentra es un pueblo deformado por la niebla, la oscuridad y una amenaza constante que convierte su búsqueda en una experiencia tan física como mental.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261021022400 +0200" stop="20261021035200 +0200" channel="M+.Acción.es">
     <title>N121: Última parada</title>
     <desc>Inspirada en un altercado real presenciado por el coguionista Kamel Guemra, "N121: La última parada" es un inquietante thriller social que combina tensión, acción y una mirada incisiva a los prejuicios y conflictos de la Francia contemporánea.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261021035200 +0200" stop="20261021055300 +0200" channel="M+.Acción.es">
     <title>Frank Miller's Sin City - Ciudad del pecado</title>
     <desc>Bienvenidos a la Ciudad del pecado, llena de policías corruptos, atractivas damas y vigilantes desesperados. Unos están buscando venganza, otros, redención, y los hay que buscan ambas cosas.</desc>
-    <category>Cine</category>
-  </programme>
-  <programme start="20261017150800 +0200" stop="20261017173300 +0200" channel="M+.Drama.es">
-    <title>El reino de los cielos</title>
-    <desc>Corre el año 1186. Godofredo de Ibelin, caballero comprometido con el mantenimiento de la paz en Tierra Santa, emprende la búsqueda de su hijo ilegítimo Balian, joven herrero francés, al que encuentra roto de dolor por la muerte de su mujer y su hijo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261017173300 +0200" stop="20261017195100 +0200" channel="M+.Drama.es">
     <title>Shutter Island</title>
     <desc>Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son enviados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos y que la isla esconde algo más peligroso que los pacientes.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261017195100 +0200" stop="20261017220000 +0200" channel="M+.Drama.es">
     <title>Donnie Brasco</title>
     <desc>Joe Pistone es un agente del FBI a quien se le encarga la misión de infiltrarse en el mundo de la mafia neoyorquina con el fin de desarticular una de sus redes. Pistone, bajo la identidad de Donnie Brasco, establece contacto con Lefty Ruggiero, que se convierte en su máximo valedor ante los jefes mafiosos, consiguiendo su ingreso en la familia. Brasco informa puntualmente al FBI de los movimientos de los mafiosos y consigue grabaciones, además de tener que presenciar y sobrellevar asesinatos, tratos con narcotraficantes y otros hechos delictivos. El trabajo que Pistone realiza lo obliga a vivir en el barrio de Brooklyn, lo que lo aleja de su mujer, Maggie, y de sus hijas. Este hecho le acarrea problemas, y su estabilidad emocional se resiente, aunque al convertirse en Brasco tenga forzosamente que olvidarse de todo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261017220000 +0200" stop="20261018001100 +0200" channel="M+.Drama.es">
     <title>Green Book</title>
     <desc>Estados Unidos, década de 1960. Tony Lip, un brusco y malhablado italoamericano, consigue trabajo como conductor de Don Shirley, un refinado pianista afroamericano.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018001100 +0200" stop="20261018002000 +0200" channel="M+.Drama.es">
     <title>Se tiene que morir mucha gente</title>
     <desc>El equipo de la serie nos cuenta detalles del proyecto.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018002000 +0200" stop="20261018022500 +0200" channel="M+.Drama.es">
     <title>The Town: Ciudad de ladrones</title>
     <desc>Mientras planifica su siguiente golpe, Doug MacRay, un atracador de bancos de Boston, tiene que esforzarse por controlar sus sentimientos hacia Claire, la directora de uno de los bancos que atracó. Al mismo tiempo, debe intentar esquivar al agente del FBI Frawley, que le sigue los pasos, y controlar a su 'compañero de trabajo' Jem, quien, a pesar de su temperamento voluble y peligroso, es como un hermano para Doug.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018022500 +0200" stop="20261018040900 +0200" channel="M+.Drama.es">
     <title>Copland</title>
     <desc>Murray Babitch, un oficial de la policía de Nueva York, mantiene un enfrentamiento con dos adolescentes mientras conduce de vuelta a casa. Convencido de que lo están apuntando con una pistola, coge su arma, dispara y los mata.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018040900 +0200" stop="20261018060200 +0200" channel="M+.Drama.es">
     <title>Gran Torino</title>
     <desc>A pesar de haber asegurado que "Million Dollar Baby" sería su última película como actor, Clint Eastwood volvió a aparecer en la gran pantalla cuatro años después en "Gran Torino"... y siguió haciéndolo varias veces más.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018060200 +0200" stop="20261018080000 +0200" channel="M+.Drama.es">
     <title>Joker</title>
     <desc>Gotham, 1981. Arthur Fleck, un hombre con un problema neurológico que lo hace reír en momentos inapropiados, trabaja como payaso y vive con su madre enferma en una ciudad marcada por el desempleo y el crimen.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018080000 +0200" stop="20261018102100 +0200" channel="M+.Drama.es">
     <title>El médico II</title>
     <desc>Tom Payne (serie "The Walking Dead")  regresa como Rob Cole en la secuela de la exitosa adaptación de la novela "El médico".</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018102100 +0200" stop="20261018114600 +0200" channel="M+.Drama.es">
     <title>Henry Johnson</title>
     <desc>David Mamet (guionista de "Los intocables de Eliot Ness") regresa al cine adaptando su propia obra teatral homónima en este drama carcelario de diálogos afilados protagonizado por Shia LaBeouf ("Transformers").</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018114600 +0200" stop="20261018132500 +0200" channel="M+.Drama.es">
     <title>Esa cosa con alas</title>
     <desc>Benedict Cumberbatch (serie "Sherlock") protagoniza esta impecable adaptación al cine de la novela "El duelo es esa cosa con alas" de Max Porter, una historia sobre la catarsis que supone un duelo y la gestión de esa pérdida.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018132500 +0200" stop="20261018155200 +0200" channel="M+.Drama.es">
     <title>Núremberg</title>
     <desc>Con las actuaciones magistrales de Russell Crowe como Hermann Göring y Rami Malek en el papel del psiquiatra Douglas Kelley, esta película lleva al espectador al corazón de los históricos juicios de Núremberg.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018155200 +0200" stop="20261018173200 +0200" channel="M+.Drama.es">
     <title>El banco de Dave 2</title>
     <desc>Dos años después de poner en marcha su propio banco para ayudar a sus vecinos, Dave Fishwick decide ahora enfrentarse a las empresas de microcréditos, que están ahogando a muchos de sus conciudadanos.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018173200 +0200" stop="20261018195600 +0200" channel="M+.Drama.es">
     <title>Memorias de una geisha</title>
     <desc>En el Japón anterior a la II Guerra Mundial, una niña es entregada por sus padres a una casa de geishas. Aunque al principio trabaja como sirvienta, su belleza pronto destaca y su potencial es advertido por Mameha una geisha de éxito que decide educarla e iniciarla en la profesión.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018195600 +0200" stop="20261018220000 +0200" channel="M+.Drama.es">
     <title>Una historia del Bronx</title>
     <desc>Calogero es un niño de 9 años que vive con su familia en el Bronx de la década de 1960. Su padre, Lorenzo, un conductor de autobús, lucha para mantenerlo lejos de la violencia del barrio. Un día, Calogero presencia un crimen cometido por Sonny, un jefe mafioso al que el niño encubre cuando la policía le pide que lo identifique. A partir de ese momento, Calogero se convierte en el protegido de Sonny.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018220000 +0200" stop="20261019003200 +0200" channel="M+.Drama.es">
     <title>El sonido de la caída</title>
     <desc>Ganadora del Premio del Jurado en el Festival de Cine de Cannes 2025, este drama alemán dirigido por Mascha Schilinski ofrece una narrativa profundamente emotiva. Ambientado en una granja rural en Sajonia-Anhalt, retrata las vidas de cuatro mujeres de distintas generaciones, unidas por traumas transgeneracionales y secretos familiares que atraviesan un siglo. Desde Alma en 1910, marcada por un pasado trágico, hasta Nelly en 2020, enfrentando recuerdos reprimidos que emergen en sueños, las protagonistas desdibujan los límites entre pasado y presente.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019003200 +0200" stop="20261019022600 +0200" channel="M+.Drama.es">
     <title>El regreso de Ulises</title>
     <desc>Ralph Fiennes y Juliette Binoche dan vida a Ulises y Penélope en esta adaptación de "La Odisea" de Homero dirigida por Uberto Pasolini ("Cerca de ti"). "El regreso de Ulises", centrada en la llegada del héroe de Troya a Ítaca, denuncia el horror de la guerra, para los que van y para los que se quedan, a través de unos personajes que se alejan del mito para centrarse en su dimensión más humana.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019022600 +0200" stop="20261019044100 +0200" channel="M+.Drama.es">
     <title>J. Edgar</title>
     <desc>A lo largo de su vida, J. Edgar Hoover llegó a ser el hombre más poderoso de Estados Unidos. En sus casi 50 años como director del FBI, Hoover trabajó con ocho presidentes y durante tres guerras, luchando contra amenazas reales e inminentes y, a menudo, saltándose las reglas. Sus métodos eran tan despiadados como heroicos, siendo la admiración del mundo su premio más codiciado y, a la vez, el más difícil de alcanzar. Preservaba su vida privada igual que la pública, permitiendo sólo a unos cuantos formar parte de su pequeño y custodiado círculo de confianza. Así, su compañero más cercano, Clyde Tolson, también era su amigo más fiel, y su secretaria, Helen Gandy, quizá la persona que mejor conocía sus planes, fue leal hasta el final y más allá. Únicamente lo abandonó su madre, que fue su inspiración y su conciencia, y cuya muerte destrozó a un hijo que siempre buscó su amor y su aprobación.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019044100 +0200" stop="20261019062500 +0200" channel="M+.Drama.es">
     <title>La bamba</title>
     <desc>Biografía del cantante, guitarrista y compositor de 'rock' Ricardo Valenzuela que alcanzó la fama a finales de los años 50 con el pseudónimo de Ritchie Valens. De origen humilde, Ricardo comenzó a actuar muy pronto en fiestas y bailes. En 1958 firmó un contrato discográfico y su canción 'Come On, Let's Go' fue todo un éxito. Hizo una gira a lo largo y ancho de su país y apareció en numerosos programas de televisión. En 1959, cuando iniciaba una segunda gira, se estrelló el avión en el que viajaba junto a otras estrellas del 'rock' como Buddy Holly y Big Bopper. No había cumplido los dieciocho años.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019062500 +0200" stop="20261019080000 +0200" channel="M+.Drama.es">
     <title>Esa cosa con alas</title>
     <desc>Benedict Cumberbatch (serie "Sherlock") protagoniza esta impecable adaptación al cine de la novela "El duelo es esa cosa con alas" de Max Porter, una historia sobre la catarsis que supone un duelo y la gestión de esa pérdida.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019080000 +0200" stop="20261019095900 +0200" channel="M+.Drama.es">
     <title>Love &amp; Mercy</title>
     <desc>Biopic sobre el músico y compositor Brian Wilson, fundador de los Beach Boys, sobre su influencia en la música, y sus problemas nerviosos que propiciaron su relación con el controvertido terapeuta Dr. Eugene Landy.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019095900 +0200" stop="20261019115000 +0200" channel="M+.Drama.es">
     <title>La maldición de la flor dorada</title>
     <desc>China, siglo X. En vísperas de que el palacio se engalane con flores para el Festival Chong Yang y de una posible revuelta, las relaciones se mantienen tensas entre los miembros de la familia imperial. El emperador y su segundo hijo han regresado inesperadamente después de tres años de guerra y la emperatriz, que está siendo tratada por una anemia, ha mantenido durante todo este tiempo una relación con su hijastro: el príncipe heredero Wan.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019115000 +0200" stop="20261019133400 +0200" channel="M+.Drama.es">
     <title>La muerte y la doncella</title>
     <desc>En una noche de tormenta, Paulina Escobar espera impaciente el regreso a casa de su marido Gerardo, un excelente abogado al que acaban de nombrar presidente de la comisión que investiga los crímenes contra los derechos humanos realizados durante el anterior sistema dictatorial de su país. Cuando por fin llega, después de que su coche sufriera un pinchazo, Gerardo no viene solo sino con un tal doctor Miranda que le ha ayudado con el percance.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019133400 +0200" stop="20261019160500 +0200" channel="M+.Drama.es">
     <title>El último duelo</title>
     <desc>Jodie Comer ofrece una magnífica interpretación en este drama que invita a reflexionar y que se sitúa en el marco de la brutalidad de la Francia del siglo XIV. Dirigida por el visionario Ridley Scott, la película, basada en hechos reales, se centra en la acusación hecha por Marguerite de Carrouges (Comer) de sufrir una brutal agresión sexual por parte de Jacques Le Gris (Adam Driver), amigo de su marido, el caballero Jean de Carrouges (Matt Damon). Para proteger su orgullo y demostrar la acusación de su esposa, de Carrouges solicita un duelo a muerte con Le Gris. Así, las tres vidas penden de un hilo en una sociedad que mantiene que Dios determinará el vencedor de tan truculento duelo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019160500 +0200" stop="20261019175400 +0200" channel="M+.Drama.es">
     <title>Amor en cuatro letras</title>
     <desc>Pierce Brosnan ("El escritor"), Helena Bonham Carter ("El club de la lucha") y Gabriel Byrne ("Sospechosos habituales") protagonizan "Amor en cuatro letras", un romance basado en la novela homónima de realismo mágicos escrita por Niall Williams.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019175400 +0200" stop="20261019193500 +0200" channel="M+.Drama.es">
     <title>Un mundo a su medida</title>
     <desc>Kevin es un niño dotado de una prodigiosa inteligencia, pero con graves problemas físicos. Max, en cambio, es un fenómeno de la naturaleza que apenas ha desarrollado su cerebro. Por separado son débiles, pero juntos un auténtico cóctel de fuerza e imaginación capaz de hacer frente a todo. Ambos se ayudarán continuamente y vivirán múltiples aventuras.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019193500 +0200" stop="20261019215100 +0200" channel="M+.Drama.es">
     <title>Ha nacido una estrella</title>
     <desc>Jackson Maine, una estrella consagrada de la música, conoce casualmente a Ally, una joven cantante que no ha tenido mucha suerte en el mundo del espectáculo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019215100 +0200" stop="20261019220000 +0200" channel="M+.Drama.es">
     <title>Yo siempre a veces</title>
-    <category>Series</category>
   </programme>
   <programme start="20261019220000 +0200" stop="20261019234300 +0200" channel="M+.Drama.es">
     <title>Mi hermana Bertille</title>
     <desc>La joven actriz Joséphine Japy ("Respire") debuta como directora con un drama inspirado en la experiencia de su propia familia y en la larga búsqueda de un diagnóstico para su hermana menor. La película observa cómo la discapacidad de Bertille, de 13 años, transforma la vida de todos los Roussier: una madre completamente entregada a sus cuidados, un padre que intenta sostener el hogar y una hermana mayor obligada a madurar demasiado pronto.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019234300 +0200" stop="20261020020200 +0200" channel="M+.Drama.es">
     <title>Anora</title>
     <desc>Sean Baker ("Red Rocket") vuelve a retratar el antisueño americano – el de aquellos que nunca llegarán a alcanzarlo- en este bello, dramático, loco y divertidísimo reverso realista del mito hollywoodiense de "Pretty Woman", ganador de cinco premios Oscar en 2025, mejor película, dirección, actriz, guion original y montaje.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020020200 +0200" stop="20261020041200 +0200" channel="M+.Drama.es">
     <title>Call Me by Your Name</title>
     <desc>En el verano de 1983, en el norte de Italia, Elio Perlman, un estadounidense de 17 años, pasa las vacaciones junto a su familia en una villa del siglo XVII, dedicado a la música y a flirtear con su amiga Marzi. Un día, Oliver, un joven estudiante de doctorado, llega a la casa para ayudar al padre de Elio,  un eminente profesor de cultura grecolatina.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020041200 +0200" stop="20261020060900 +0200" channel="M+.Drama.es">
     <title>Sound of Metal</title>
     <desc>Después de años de gira por el país tocando solos de batería ensordecedores en bares y clubes de mala muerte, el músico itinerante de 'punk-metal' Ruben (Riz Ahmed) sufre una pérdida auditiva severa y repentina. Peor aún, los médicos le dicen que es probable que su estado empeore rápidamente. Asustado e incapaz de ocultar lo que está experimentando a su compañera de banda y novia Lou (Olivia Cooke) por más tiempo, él -adicto a la heroína en recuperación- accede a inscribirse en una casa sobria aislada para sordos, con la esperanza de evitar una recaída mientras aprende a adaptarse a su nueva situación.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020060900 +0200" stop="20261020080000 +0200" channel="M+.Drama.es">
     <title>La isla de Sukkwan</title>
     <desc>Cautivador 'thriller' dramático que explora las complejidades de las relaciones familiares y los efectos del aislamiento.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020080000 +0200" stop="20261020094200 +0200" channel="M+.Drama.es">
     <title>El ladrón de palabras</title>
     <desc>Un famoso escritor lee su nuevo libro ante una multitud de admiradores. Se trata de la historia de un novelista fracasado que encuentra un manuscrito. Decide publicarlo como suyo y consigue un gran éxito. El autor original es un anciano que lo escribió en su juventud, en plena Segunda Guerra Mundial, época en la que encontró al amor de su vida.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020094200 +0200" stop="20261020113100 +0200" channel="M+.Drama.es">
     <title>Un amigo extraordinario</title>
     <desc>Tom Hanks estuvo nominado al Oscar 2020 por esta interpretación de Fred Rogers, adorado presentador de un mítico programa de televisión infantil estadounidense que en 1998 acepta ser entrevistado por el periodista Lloyd Vogel, que se ha ganado una auténtica mala fama profesional por sus hirientes artículos.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020113100 +0200" stop="20261020134200 +0200" channel="M+.Drama.es">
     <title>Capitán Conan</title>
     <desc>Francia firma el armisticio tras la Primera Guerra Mundial. El único ejército francés aún no desmovilizado es el oriental. Acuartelados en Bucarest -un país aliado-, los soldados siembran el desorden, llegando incluso al pillaje y al asesinato.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020134200 +0200" stop="20261020161700 +0200" channel="M+.Drama.es">
     <title>West Side Story</title>
     <desc>Producida y dirigida por el legendario cineasta Steven Spielberg, partiendo de un guion del guionista y autor teatral Tony Kushner, "West Side Story" cuenta la clásica historia de feroces rivalidades y amor juvenil en el marco de Nueva York en 1957. Una nueva generación puede experimentar esta reinvención del aclamado musical original con coreografía de Jerome Robbins, música de Leonard Bernstein, letra de Stephen Sondheim y libreto original de Arthur Laurents. Ansel Elgort interpreta el papel protagonista de Tony, antiguo miembro de los Jets, una banda callejera, y Rachel Zegler es María, una joven cuyo hermano lidera la banda rival de los Jets, los Sharks. Cuando Tony y María se conocen, se enamoran, pero sus allegados no aprueban la unión. Según van creciendo las tensiones raciales y territoriales entre las bandas enfrentadas, tienen lugar sucesos que amenazan la felicidad de la joven pareja.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020161700 +0200" stop="20261020182800 +0200" channel="M+.Drama.es">
     <title>Call Me by Your Name</title>
     <desc>En el verano de 1983, en el norte de Italia, Elio Perlman, un estadounidense de 17 años, pasa las vacaciones junto a su familia en una villa del siglo XVII, dedicado a la música y a flirtear con su amiga Marzi. Un día, Oliver, un joven estudiante de doctorado, llega a la casa para ayudar al padre de Elio,  un eminente profesor de cultura grecolatina.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020182800 +0200" stop="20261020200300 +0200" channel="M+.Drama.es">
     <title>Miss Carbón</title>
     <desc>Drama, basado en hechos reales, que narra la historia real de Carla Antonella Rodríguez, la primera mujer 'trans' a la que se le permitió entrar en una mina de la Patagonia, donde las mujeres tenían prohibido el trabajo. Lux Pascal, hermana de Pedro Pascal y mujer transgénero, es la encargada de dar vida a la protagonista de esta película biográfica.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020200300 +0200" stop="20261020220000 +0200" channel="M+.Drama.es">
     <title>Una quinta portuguesa</title>
     <desc>Nominada a tres premios Goya en 2026, incluyendo mejor actor principal, mejor actriz de reparto y mejor guion original.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020220000 +0200" stop="20261020233800 +0200" channel="M+.Drama.es">
     <title>Rebuilding</title>
     <desc>Josh O’Connor ("The Crown") protagoniza este drama humanista ambientado en los paisajes del sur de Colorado, una historia de pérdida, resiliencia y reconstrucción en el oeste americano contemporáneo. Dusty es un padre divorciado cuya vida se viene abajo cuando un incendio forestal arrasa su rancho. Sin casa y sin certezas, se instala en una comunidad de caravanas habilitada para personas desplazadas, donde convive con otros supervivientes que también han perdido casi todo.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020233800 +0200" stop="20261020234800 +0200" channel="M+.Drama.es">
     <title>Yo siempre a veces</title>
-    <category>Series</category>
   </programme>
   <programme start="20261020234800 +0200" stop="20261021013200 +0200" channel="M+.Drama.es">
     <title>Bleeding Love</title>
     <desc>Un padre lleva a su hija, de quien se ha distanciado, de viaje por carretera para intentar sacarla de apuros. En el camino, conocen a todo tipo de desconocidos, mientras su tensa relación se pone a prueba.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261021013200 +0200" stop="20261021030200 +0200" channel="M+.Drama.es">
     <title>Lo que queda de ti</title>
     <desc>La ópera prima de Gala Gracia es este hipnótico y realista drama rural sobre el duelo, la nostalgia y la importancia de la naturaleza y de los vínculos familiares protagonizada por Ángela Cervantes ("La furia") y Laia Manzanares ("La canción").</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261021030200 +0200" stop="20261021050400 +0200" channel="M+.Drama.es">
     <title>Cine, registro vivo de nuestra memoria</title>
     <desc>En plena era digital, a menudo damos por sentado nuestro patrimonio audiovisual, pero gran parte de la historia del cine se ha perdido. ¿Cómo es posible seguir viendo películas filmadas hace más de un siglo?</desc>
-    <category>Documentales</category>
   </programme>
   <programme start="20261017163000 +0200" stop="20261017184500 +0200" channel="Primera.Federación.es">
     <title>Primera Federación Versus E-Learning</title>
@@ -2963,492 +2779,394 @@
   <programme start="20261018002700 +0000" stop="20261018010800 +0000" channel="SkyShowtime.1.es">
     <title>Douglas Is Cancelled</title>
     <desc>El presentador Douglas se enfrenta a una reacción violenta tras hacerse público el chiste sexista que contó en una boda.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018010800 +0000" stop="20261018015400 +0000" channel="SkyShowtime.1.es">
     <title>Douglas Is Cancelled</title>
     <desc>Mientras continúa el furor público, Douglas busca consejo sobre cómo manejar tantas preguntas.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018015400 +0000" stop="20261018032300 +0000" channel="SkyShowtime.1.es">
     <title>Una milla: Capítulo Uno</title>
     <desc>Un exagente persigue a la secta que secuestró a su hija en lo más profundo de la naturaleza salvaje.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018032300 +0000" stop="20261018040000 +0000" channel="SkyShowtime.1.es">
     <title>SkyMed</title>
     <desc>La tripulación se esfuerza por despedirse de un miembro del equipo caído.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018040000 +0000" stop="20261018043000 +0000" channel="SkyShowtime.1.es">
     <title>Pitch Perfect: Bumper in Berlin</title>
     <desc>Bumper intenta reconciliarse con Heidi. Pieter invita a Bumper a un programa de radio.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018043000 +0000" stop="20261018050000 +0000" channel="SkyShowtime.1.es">
     <title>Pitch Perfect: Bumper in Berlin</title>
     <desc>Tras el lanzamiento del nuevo single de Gisela, Bumper se reúne con un famoso director de vídeos musicales.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018050000 +0000" stop="20261018053000 +0000" channel="SkyShowtime.1.es">
     <title>Pitch Perfect: Bumper in Berlin</title>
     <desc>Los sentimientos de Bumper por Heidi evolucionan. Thea y Heidi consuelan a Bumper cuando recibe malas noticias.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018053000 +0000" stop="20261018060000 +0000" channel="SkyShowtime.1.es">
     <title>Pitch Perfect: Bumper in Berlin</title>
     <desc>Con su futuro musical en juego, Bumper ocupa el puesto de recién llegado en el Día de la Solidaridad.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018060000 +0000" stop="20261018065500 +0000" channel="SkyShowtime.1.es">
     <title>Aces: The ATP No. 1 Club</title>
     <desc>Björn Borg y otros pioneros marcan una era del tenis moderno caracterizada por feroces rivalidades.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261018065500 +0000" stop="20261018083500 +0000" channel="SkyShowtime.1.es">
     <title>Al vaivén</title>
     <desc>Filipa, una adolescente pasa las fiestas con su familia en la pequeña localidad de Bucios, Río de Janeiro, donde se descubre a sí misma, se enfrenta a las pasiones y retos de la adolescencia y a la relación extramarital de su padre con una vecina.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018083500 +0000" stop="20261018101000 +0000" channel="SkyShowtime.1.es">
     <title>Cup of Salvation</title>
     <desc>La historia del vino y su relación con la religión, la política, la guerra y la familia.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018101000 +0000" stop="20261018121500 +0000" channel="SkyShowtime.1.es">
     <title>Downton Abbey: El gran final</title>
     <desc>En la tercera parte de la saga, Mary queda envuelta en un escándalo mientras nuevas dificultades financieras amenazan el futuro de Downton. Entre cambios inevitables, la familia Crawley y el personal deben adaptarse para proteger su legado.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018121500 +0000" stop="20261018140500 +0000" channel="SkyShowtime.1.es">
     <title>Archive</title>
     <desc>Theo James, de la saga "Divergente.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018140500 +0000" stop="20261018155500 +0000" channel="SkyShowtime.1.es">
     <title>La última montaña</title>
     <desc>La historia del alpinista Tom Ballard, que desapareció en el Nanga Parbat en 2019.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018155500 +0000" stop="20261018180500 +0000" channel="SkyShowtime.1.es">
     <title>Cómo entrenar a tu dragón</title>
     <desc>Vikingos y dragones surcan los cielos en esta adaptación de la querida saga animada que sigue a Hipo, un joven y peculiar vikingo que entabla una amistad tan tierna como improbable con un peligroso dragón herido.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018180500 +0000" stop="20261018190000 +0000" channel="SkyShowtime.1.es">
     <title>Aces: The ATP No. 1 Club</title>
     <desc>En los años noventa, la lucha por el primer puesto se vuelve más física e implacable.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261018190000 +0000" stop="20261018203500 +0000" channel="SkyShowtime.1.es">
     <title>Nadie 2</title>
     <desc>Durante sus vacaciones, un asesino se convierte en el objetivo de un sanguinario jefe criminal.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261018203500 +0000" stop="20261018212000 +0000" channel="SkyShowtime.1.es">
     <title>Lioness</title>
     <desc>Joe guía a Cruz en su lucha interna; Aaliyah y Cruz se aproximan; Kate vuelve a casa.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018212000 +0000" stop="20261018221500 +0000" channel="SkyShowtime.1.es">
     <title>Lioness</title>
     <desc>La misión está en peligro; Eshan se enfrenta a Cruz; Joe y el equipo se preparan para lo peor.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018221500 +0000" stop="20261018232000 +0000" channel="SkyShowtime.1.es">
     <title>Rosa Elettrica</title>
     <desc>Sin más pistas, Rosa y Cocìss se encuentran en un punto muerto en su investigación.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261018232000 +0000" stop="20261019001500 +0000" channel="SkyShowtime.1.es">
     <title>Rosa Elettrica</title>
     <desc>Cocìss busca protección; Rosa debe aceptar las decisiones que ha tomado.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019001500 +0000" stop="20261019010000 +0000" channel="SkyShowtime.1.es">
     <title>El Homenaje</title>
     <desc>Azarías, la sombra leal de Adolfo, se convierte en cómplice clave de una tragedia inevitable.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019010000 +0000" stop="20261019013500 +0000" channel="SkyShowtime.1.es">
     <title>El Homenaje</title>
     <desc>Entre muertes, venganza y un giro inesperado, el legado de la familia Novak cambia para siempre.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019013500 +0000" stop="20261019021500 +0000" channel="SkyShowtime.1.es">
     <title>Receta para un asesinato</title>
     <desc>Las vidas de un cirujano y un chef de YouTube se entrelazan de formas inesperadas.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261019021500 +0000" stop="20261019030000 +0000" channel="SkyShowtime.1.es">
     <title>Receta para un asesinato</title>
     <desc>Un análisis detallado de la cronología de acontecimientos que condujeron al horrendo crimen de Daniel.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261019030000 +0000" stop="20261019040000 +0000" channel="SkyShowtime.1.es">
     <title>Aces: The ATP No. 1 Club</title>
     <desc>En los años noventa, la lucha por el primer puesto se vuelve más física e implacable.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261019040000 +0000" stop="20261019042000 +0000" channel="SkyShowtime.1.es">
     <title>Top Wing</title>
     <desc>Los Cadetes intentan darle a Bea un día libre, pero cuando el avión de Swift se vuelve loco, necesitan que Bea acuda al rescate. / Brody intenta hacer su salto de agua en tierra firme, compitiendo con los Cadetes en Los Juegos de Gran Torbellino.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019042000 +0000" stop="20261019044000 +0000" channel="SkyShowtime.1.es">
     <title>Top Wing</title>
     <desc>Los cadetes rescatan a la estrella oso el superviviente; Timmy Turtle debe ayudar cuando Swift se lastima el ala.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019044000 +0000" stop="20261019050500 +0000" channel="SkyShowtime.1.es">
     <title>Rusty Rivets</title>
     <desc>Rusty y Ruby deben hacer explotar megaburbujas; Liam y Emily envían el submarino Rivet mar adentro.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019050500 +0000" stop="20261019053000 +0000" channel="SkyShowtime.1.es">
     <title>Rusty Rivets</title>
     <desc>Rusty y Ruby construyen patines para Botasaurio; Rusty y Ruby ayudan a Liam a ser rey.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019053000 +0000" stop="20261019055500 +0000" channel="SkyShowtime.1.es">
     <title>Bubble Guppies</title>
     <desc>Cuando una bruja convierte a Bubble Puppy en rana, Molly y Gil buscan ayuda para romper el hechizo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019055500 +0000" stop="20261019062500 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>La apuesta que tienen en marcha Jake y Amy sobre quien hace más arrestos llega a su fin.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019062500 +0000" stop="20261019065500 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>En su primera tarea de vuelta en el trabajo de campo, Terry hace una redada de una banda que trafica con esteroides y, mientras lo hace, se inspira en Jake para controlar sus emociones.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019065500 +0000" stop="20261019072500 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>Jake y Amy investigan juntos una serie de robos de hotel, pero Jake se enfada con ella cuando se entera de que puede que deje la comisaría para trabajar en la División de Delitos Graves con “El Buitre”.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019072500 +0000" stop="20261019075500 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado hace que su gabinete sea más competente con el fin de poder demostrar su teoría.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019075500 +0000" stop="20261019082500 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado declara la guerra nuclear a Portugal. El canal Fox News transforma su programa.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019082500 +0000" stop="20261019085500 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado finge un apretón de manos con las tropas. Don Jr. entabla amistad con Elon Musk.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019085500 +0000" stop="20261019092000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Es el Día de los Enamorados, y ya nadie soporta las demostraciones públicas de afecto de Michael y Holly. Andy ayuda a Erin a resolver las adivinanzas de Gabe, mientras que Jim y Pam se emborrachan y buscan un lugar para tener relaciones.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019092000 +0000" stop="20261019094500 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Michael estrena su película y se la muestra a los de la oficina. Amy Ryan, Melora Hardin, Rashida Jones, Linda Purl, David Denman y Andy Buckley son las estrellas invitadas.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019094500 +0000" stop="20261019101000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Todos están indignados luego de que Michael convence a Holly de darle un trabajo en la oficina a Todd Packer. Y Andy está molesto porque Pam consiguió una nueva computadora para la recepción pero no para él.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019101000 +0000" stop="20261019104000 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>La apuesta que tienen en marcha Jake y Amy sobre quien hace más arrestos llega a su fin.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019104000 +0000" stop="20261019111000 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>En su primera tarea de vuelta en el trabajo de campo, Terry hace una redada de una banda que trafica con esteroides y, mientras lo hace, se inspira en Jake para controlar sus emociones.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019111000 +0000" stop="20261019114000 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>Jake y Amy investigan juntos una serie de robos de hotel, pero Jake se enfada con ella cuando se entera de que puede que deje la comisaría para trabajar en la División de Delitos Graves con “El Buitre”.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019114000 +0000" stop="20261019121000 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado hace que su gabinete sea más competente con el fin de poder demostrar su teoría.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019121000 +0000" stop="20261019124000 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado declara la guerra nuclear a Portugal. El canal Fox News transforma su programa.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019124000 +0000" stop="20261019131000 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado finge un apretón de manos con las tropas. Don Jr. entabla amistad con Elon Musk.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019131000 +0000" stop="20261019150000 +0000" channel="SkyShowtime.1.es">
     <title>Archive</title>
     <desc>Theo James, de la saga "Divergente.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261019150000 +0000" stop="20261019152000 +0000" channel="SkyShowtime.1.es">
     <title>Blind Tasting Sessions</title>
     <desc>Dos sumilleres de Nueva York y California se citan en Aspen para una cata a ciegas.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261019152000 +0000" stop="20261019154500 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Michael planea proponerle matrimonio a Holly el día de la venta de garage de Dunder Mifflin, pero ella tendrá que tomarse una licencia prolongada para viajar a Colorado porque su padre está enfermo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019154500 +0000" stop="20261019161000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Todos quieren causar una buena primera impresión al nuevo jefe, Deangelo Vickers: Andy no da una y Jim y Pam se preocupan por haberse pasado. Solo Dwight se muestra apático ante el nuevo líder.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019161000 +0000" stop="20261019163500 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Michael le entrega la batuta a Deangelo para su primera tarea oficial: ser el presentador de los premios “Dundie”. Will Ferrell es la estrella invitada.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019163500 +0000" stop="20261019172000 +0000" channel="SkyShowtime.1.es">
     <title>Suits: la clave del éxito</title>
     <desc>Louis se disculpa con Harvey y le pide que defienda a su hermana en su divorcio. Entre Harvey y Esther, la hermana de Louis, saltan chispas. Mike y Zane consiguen un acuerdo en la demanda colectiva, lo que los llevará a tener un conflicto.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019172000 +0000" stop="20261019181500 +0000" channel="SkyShowtime.1.es">
     <title>Star Trek: Strange New Worlds</title>
     <desc>La'An, Spock y Kirk quedan atrapados en una misteriosa nave de la Federación que desapareció hace mucho tiempo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019181500 +0000" stop="20261019190000 +0000" channel="SkyShowtime.1.es">
     <title>SkyMed</title>
     <desc>Tres miembros de la tripulación viajan en un avión con una bomba que puede explotar si intentan aterrizar.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019190000 +0000" stop="20261019195000 +0000" channel="SkyShowtime.1.es">
     <title>Lazos mortales - Temporada 2</title>
     <desc>Hallan el cadáver de una estudiante en Silesia; Anka descubre que la víctima era una de sus alumnas.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019195000 +0000" stop="20261019204000 +0000" channel="SkyShowtime.1.es">
     <title>Lazos mortales - Temporada 2</title>
     <desc>Anka decide visitar a Pionek en la cárcel; Bastian descubre inexactitudes en un caso antiguo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019204000 +0000" stop="20261019212500 +0000" channel="SkyShowtime.1.es">
     <title>Receta para un asesinato</title>
     <desc>Reconocidos psicólogos y criminólogos analizan las posibles razones detrás del crimen.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261019212500 +0000" stop="20261019220500 +0000" channel="SkyShowtime.1.es">
     <title>Receta para un asesinato</title>
     <desc>El equipo de defensa de Daniel sustituye a su prestigioso grupo de abogados, lo que provoca controversia.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261019220500 +0000" stop="20261019225500 +0000" channel="SkyShowtime.1.es">
     <title>Tierra de mafiosos</title>
     <desc>Maeve y Conrad afrontan dificultades; Jan hace una confesión sorprendente.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019225500 +0000" stop="20261019234500 +0000" channel="SkyShowtime.1.es">
     <title>Tierra de mafiosos</title>
     <desc>Maeve hace sus propios planes; Jan le suelta a Harry una cruda verdad.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261019234500 +0000" stop="20261020003000 +0000" channel="SkyShowtime.1.es">
     <title>Suits: la clave del éxito</title>
     <desc>Louis se disculpa con Harvey y le pide que defienda a su hermana en su divorcio. Entre Harvey y Esther, la hermana de Louis, saltan chispas. Mike y Zane consiguen un acuerdo en la demanda colectiva, lo que los llevará a tener un conflicto.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020003000 +0000" stop="20261020012500 +0000" channel="SkyShowtime.1.es">
     <title>Star Trek: Strange New Worlds</title>
     <desc>La'An, Spock y Kirk quedan atrapados en una misteriosa nave de la Federación que desapareció hace mucho tiempo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020012500 +0000" stop="20261020021000 +0000" channel="SkyShowtime.1.es">
     <title>SkyMed</title>
     <desc>Tres miembros de la tripulación viajan en un avión con una bomba que puede explotar si intentan aterrizar.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020021000 +0000" stop="20261020024000 +0000" channel="SkyShowtime.1.es">
     <title>Enfermera Jackie</title>
     <desc>Una vieja amiga de Jackie ingresa en el hospital con un cáncer de pulmón terminal.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020024000 +0000" stop="20261020031000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Michael planea proponerle matrimonio a Holly el día de la venta de garage de Dunder Mifflin, pero ella tendrá que tomarse una licencia prolongada para viajar a Colorado porque su padre está enfermo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020031000 +0000" stop="20261020033500 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Todos quieren causar una buena primera impresión al nuevo jefe, Deangelo Vickers: Andy no da una y Jim y Pam se preocupan por haberse pasado. Solo Dwight se muestra apático ante el nuevo líder.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020033500 +0000" stop="20261020040000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Michael le entrega la batuta a Deangelo para su primera tarea oficial: ser el presentador de los premios “Dundie”. Will Ferrell es la estrella invitada.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020040000 +0000" stop="20261020042000 +0000" channel="SkyShowtime.1.es">
     <title>Top Wing</title>
     <desc>Top Wing entrena a amigos para que sean cadetes júnior y rescaten a Baddy. Los cadetes encuentran un mapa del tesoro.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020042000 +0000" stop="20261020044000 +0000" channel="SkyShowtime.1.es">
     <title>Top Wing</title>
     <desc>Los bandidos de bananas roban los folletos de Shirley. Los planes de Penny con Anyu se ven interrumpidos por un rescate.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020044000 +0000" stop="20261020050500 +0000" channel="SkyShowtime.1.es">
     <title>Rusty Rivets</title>
     <desc>El nuevo bebé de elefante se escapa del zoo; Frankie coloca una hélice a Frankford.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020050500 +0000" stop="20261020053000 +0000" channel="SkyShowtime.1.es">
     <title>Rusty Rivets</title>
     <desc>Frankie hace que la escuela flote por accidente; Frankie construye un Frankford robot gigante.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020053000 +0000" stop="20261020055500 +0000" channel="SkyShowtime.1.es">
     <title>Bubble Guppies</title>
     <desc>Conoce a Monty, el rinoceronte más solitario (y el único) del zoo. Necesita un amigo y Gil y los Bubble Guppies están decididos a ayudarle,  al tiempo que aprenden sobre los distintos hábitats del zoo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020055500 +0000" stop="20261020062500 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>Los agentes de la comisaría causan una mala primera impresión al marido de Holt.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020062500 +0000" stop="20261020065500 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>El nuevo romance del Inspector Boyle ha incrementado su arrojo, pero Jake Interviene antes de que su colega entre en modo "Boyle a mil" y se ponga demasiado serio, demasiado pronto con su novia. (Estrella invitada Marilu Henner).</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020065500 +0000" stop="20261020072500 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>Jake deberá pagar por su apartamento casi medio millón de dólares. Le pedirá ayuda a Gina para poder conservarlo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020072500 +0000" stop="20261020075500 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado intenta influir en el Tribunal Supremo mezclándose con la gente en Mar-A-Lago.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020075500 +0000" stop="20261020082500 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado decide revertir el cambio climático para resolver su problema de sudoración.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020082500 +0000" stop="20261020085500 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente animado defiende la igualdad de derechos para los conservadores "oprimidos".</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020085500 +0000" stop="20261020092000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Michael planea proponerle matrimonio a Holly el día de la venta de garage de Dunder Mifflin, pero ella tendrá que tomarse una licencia prolongada para viajar a Colorado porque su padre está enfermo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020092000 +0000" stop="20261020094500 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Todos quieren causar una buena primera impresión al nuevo jefe, Deangelo Vickers: Andy no da una y Jim y Pam se preocupan por haberse pasado. Solo Dwight se muestra apático ante el nuevo líder.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020094500 +0000" stop="20261020101000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Michael le entrega la batuta a Deangelo para su primera tarea oficial: ser el presentador de los premios “Dundie”. Will Ferrell es la estrella invitada.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020101000 +0000" stop="20261020104000 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>Los agentes de la comisaría causan una mala primera impresión al marido de Holt.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020104000 +0000" stop="20261020111000 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>El nuevo romance del Inspector Boyle ha incrementado su arrojo, pero Jake Interviene antes de que su colega entre en modo "Boyle a mil" y se ponga demasiado serio, demasiado pronto con su novia. (Estrella invitada Marilu Henner).</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020111000 +0000" stop="20261020114000 +0000" channel="SkyShowtime.1.es">
     <title>Brooklyn Nine-Nine</title>
     <desc>Jake deberá pagar por su apartamento casi medio millón de dólares. Le pedirá ayuda a Gina para poder conservarlo.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020114000 +0000" stop="20261020121000 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado intenta influir en el Tribunal Supremo mezclándose con la gente en Mar-A-Lago.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020121000 +0000" stop="20261020124000 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente en dibujo animado decide revertir el cambio climático para resolver su problema de sudoración.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020124000 +0000" stop="20261020131000 +0000" channel="SkyShowtime.1.es">
     <title>Animado presidente</title>
     <desc>Nuestro presidente animado defiende la igualdad de derechos para los conservadores "oprimidos".</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020131000 +0000" stop="20261020151000 +0000" channel="SkyShowtime.1.es">
     <title>Virgen a los 40</title>
     <desc>Andy es un hombre simpático que llega a los 40 sin haber tenido relaciones sexuales. Cuando sus amigos se enteran de ello, empiezan una divertida aventura para que Andy tenga sexo. Pero encontrará mucho más que eso en el proceso.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020151000 +0000" stop="20261020152000 +0000" channel="SkyShowtime.1.es">
     <title>Cooking with Wine</title>
     <desc>Confit de cordero con alcachofas y limón de la chef Kate Hill glaseado con vino rosado en horno de leña.</desc>
-    <category>Documental</category>
   </programme>
   <programme start="20261020152000 +0000" stop="20261020154500 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Dwight descubre que fue rechazado como directivo. Michael se desvincula de los preparativos de la fiesta.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020154500 +0000" stop="20261020161000 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Deangelo y Andy intentan mantener los clientes de Michael, que reparte regalos antes de partir.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020161000 +0000" stop="20261020163500 +0000" channel="SkyShowtime.1.es">
     <title>The Office</title>
     <desc>Deangelo crea favoritismo al tener su propio “círculo interno”. Will Ferrell y Cody Horn son las estrellas invitadas.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020163500 +0000" stop="20261020172000 +0000" channel="SkyShowtime.1.es">
     <title>Suits: la clave del éxito</title>
     <desc>El acérrimo rival de Harvey, Travis Tanner, aparece como parte contraria en un caso.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020172000 +0000" stop="20261020181500 +0000" channel="SkyShowtime.1.es">
     <title>Star Trek: Strange New Worlds</title>
     <desc>La tripulación visita un planeta de recreo que garantiza diversión en un ambiente embriagador.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020181500 +0000" stop="20261020190000 +0000" channel="SkyShowtime.1.es">
     <title>SkyMed</title>
     <desc>Las Autoridades de Aviación investigan los sucesos ocurridos durante el documental de SkyMed.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020190000 +0000" stop="20261020195000 +0000" channel="SkyShowtime.1.es">
     <title>La agencia</title>
     <desc>Un mensaje enigmático lleva a Poppy a ponerse en contacto con Dozer; Richardson le suelta una bomba a Bosko.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261020195000 +0000" stop="20261020212500 +0000" channel="SkyShowtime.1.es">
     <title>Nadie 2</title>
     <desc>Durante sus vacaciones, un asesino se convierte en el objetivo de un sanguinario jefe criminal.</desc>
-    <category>Cine</category>
   </programme>
   <programme start="20261020212500 +0000" stop="20261020221500 +0000" channel="SkyShowtime.1.es">
     <title>Lazos mortales - Temporada 2</title>
     <desc>Hallan el cadáver de una estudiante en Silesia; Anka descubre que la víctima era una de sus alumnas.</desc>
-    <category>Series</category>
   </programme>
   <programme start="20261017160100 +0200" stop="20261017180000 +0200" channel="SkyShowtime.es">
     <title>Virgen a los 40</title>
@@ -157289,6 +157007,10 @@
   </programme>
   <programme start="20261025161800 +0100" stop="20261025163200 +0100" channel="Onetoro">
     <title>EP5. Guerrita</title>
+    <desc>+16</desc>
+  </programme>
+  <programme start="20261025163200 +0100" stop="20261025173900 +0100" channel="Onetoro">
+    <title>A la cara. Julián Guerra</title>
     <desc>+16</desc>
   </programme>
   <programme start="20261018000000 +0200" stop="20261018003000 +0200" channel="Solidaria TV España">
