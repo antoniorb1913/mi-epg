@@ -1,7 +1,7 @@
 CANALES SIN GUIA — CLASIFICADOS POR MOTIVO
 ======================================================================
 
-Total sin guia: 121
+Total sin guia: 122
 
 ----------------------------------------------------------------------
 A. INVENTADOS POR TU PROVEEDOR — 89 canales
@@ -121,7 +121,7 @@ B. PLATAFORMAS VOD CONVERTIDAS EN CANAL — 17 canales
    Rakuten TV Top 2 HD
 
 ----------------------------------------------------------------------
-C. CANALES REALES SIN EPG PUBLICO — 15 canales
+C. CANALES REALES SIN EPG PUBLICO — 16 canales
    Existen de verdad, pero no publican guia (o ya cerraron).
 ----------------------------------------------------------------------
    101TV HD
@@ -137,8 +137,9 @@ C. CANALES REALES SIN EPG PUBLICO — 15 canales
    MULTIDEPORTE
    MUNDO
    NTN24
+   PTV MALAGA
    RTV VIDA
    UFC HD
 
 ======================================================================
-  Suma: 89 + 17 + 15 = 121
+  Suma: 89 + 17 + 16 = 122
